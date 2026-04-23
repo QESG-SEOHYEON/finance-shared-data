@@ -1,8 +1,136 @@
 {
-  "updatedAt": "2026-04-23T02:41:23.710Z",
+  "updatedAt": "2026-04-23T05:23:35.267Z",
   "historyDays": 7,
-  "count": 38,
+  "count": 56,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부산 아파트값, 6개월만에 하락…전셋값은 상승",
+      "summary": "(부산=연합뉴스) 민영규 기자 = 정부의 주택시장 규제 강화와 중동전쟁에 따른 투자심리 위축 등으로 부산의 아파트 매매가격이 6개월 만에 하락 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260423087500051",
+      "publishedAt": "2026-04-23T05:12:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "K-원전 베트남 진출…대장주 두산에너빌리티 5%대 상승세",
+      "summary": "23일 오전 10시 30분 기준 두산에너빌리티는 전일 대비 6200원(5.34%) 오른 12만2200원에 거래 중이다. 장중 12만39000원까지 올라 52주 신고가를 경신했다. ..",
+      "link": "https://www.mk.co.kr/news/stock/12025218",
+      "publishedAt": "2026-04-23T05:12:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한-베트남 원전 MOU에…두산에너빌리티 ‘사자’ [주식 초고수는 지금]",
+      "summary": "주식 투자 수익률 상위 1% 초고수들은 9일 오전 9시 30분 기준으로 두산에너빌리티, 셀트리온, 에이피알, HPSP, HD현대중공업 등을 많이 순매수한 것으로 나타났다. 그에 반..",
+      "link": "https://www.mk.co.kr/news/stock/12025216",
+      "publishedAt": "2026-04-23T05:11:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "차세대 첨단위성 혁신특구 진주시에 '위성 지상국' 건립한다",
+      "summary": "(진주=연합뉴스) 이정훈 기자 = 정부가 &apos;차세대 첨단위성 글로벌 혁신특구&apos;로 지정한 경남 진주시에 위성 데이터를 수신·관제하는 위성 지상국이 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260423054100052",
+      "publishedAt": "2026-04-23T05:10:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전주상공회의소-중장년내일센터, 고용 활성화·인력지원 '맞손'",
+      "summary": "(전주=연합뉴스) 최영수 기자 = 전주상공회의소와 전북중장년내일센터는 23일 전북지역 고용 활성화 및 기업 인력난 해소를 위한 업무협약을 체결했...",
+      "link": "https://www.yna.co.kr/view/AKR20260423112700055",
+      "publishedAt": "2026-04-23T05:07:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "울산시, 고용모델·복지서비스 연계…지역 문제 해결",
+      "summary": "(울산=연합뉴스) 허광무 기자 = 울산시는 고용노동부 주관 &apos;전략사업별 지역생태계 활성화 사업&apos; 공모에 최종 선정됐다고 23일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260423112100057",
+      "publishedAt": "2026-04-23T05:06:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한국, '호르무즈 해협 대안' 오만과 LNG 공급망 협력 논의",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 정부가 호르무즈 해협 인접 국가인 오만과 액화천연가스(LNG) 등 에너지 공급망 협력을 강화한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260423113300003",
+      "publishedAt": "2026-04-23T05:04:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "충남도, 해외 바이어 초청 수출 상담회…판로 확대 지원",
+      "summary": "(홍성=연합뉴스) 김준범 기자 = 충남도는 23일 예산 스플라스 리솜에서 &apos;2026 해외사무소 바이어 초청 수출 상담회&apos;를 열었다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260423112000063",
+      "publishedAt": "2026-04-23T05:03:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "쿠팡, 경실련 동일인 지정 요구에 반박…\"지배구조 투명해 실익 없다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231658g",
+      "publishedAt": "2026-04-23T04:46:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "제이엘케이 \"日 임상 연구로 뇌졸중 진단 AI 현장 활용 가능성 확인\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042316436",
+      "publishedAt": "2026-04-23T04:32:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "현대글로비스, 1분기 영업이익 5215억원…전년 대비 3.9%↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042315797",
+      "publishedAt": "2026-04-23T04:08:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "日, MBK 마키노 인수 중단 권고…\"무기 제조 가능성\" 안보 우려",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042315447",
+      "publishedAt": "2026-04-23T03:38:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"EU 포장 규제 대응\" 한솔제지, 고객사 초청 기술세미나 개최",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231553i",
+      "publishedAt": "2026-04-23T03:19:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"현장 문제 AI로 푼다\"…삼표그룹, 전사 'AI 포상제' 도입",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231548i",
+      "publishedAt": "2026-04-23T03:13:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"재출시 요청 쏟아지더니\"…보랏빛 승부수 꺼내 든 폴 바셋",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231343i",
+      "publishedAt": "2026-04-23T03:10:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "머스크 \"삼성 파운드리에 'AI4.1' 칩 생산도 맡기겠다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231532i",
+      "publishedAt": "2026-04-23T03:08:13.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -10,6 +138,14 @@
       "summary": "(서울=연합뉴스) 김주환 기자 = 글로벌 게임업계가 AI 기반 비용 절감으로 32조 원에 달하는 추가 수익을 창출할 수 있다는 글로벌 투자은행(...",
       "link": "https://www.yna.co.kr/view/AKR20260423090500017",
       "publishedAt": "2026-04-23T02:38:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "진격의 반도체…삼성·닉스 시총 올해 1000조 불어나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231404i",
+      "publishedAt": "2026-04-23T02:37:13.000Z"
     },
     {
       "source": "연합뉴스",
@@ -66,6 +202,14 @@
       "summary": "(서울=연합뉴스) 이민영 기자 = 코스피가 23일 장중 오름폭을 줄여 6,490대를 나타내고 있다.",
       "link": "https://www.yna.co.kr/view/AKR20260423083800008",
       "publishedAt": "2026-04-23T02:28:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"역대 최대 실적인데\"…초고수들 '삼전닉스' 서둘러 던진 이유 [마켓PRO]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231308i",
+      "publishedAt": "2026-04-23T02:27:57.000Z"
     },
     {
       "source": "한국경제",
