@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch-news": "node scripts/fetch-news.mjs"
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-indices": "node scripts/fetch-indices.mjs"
   },
   "dependencies": {
     "fast-xml-parser": "^4.4.1"

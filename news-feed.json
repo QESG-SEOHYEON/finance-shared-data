@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-04-23T02:32:32.293Z",
-  "count": 20,
+  "updatedAt": "2026-04-23T02:41:23.710Z",
+  "historyDays": 7,
+  "count": 38,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[AI픽] AI가 바꾸는 글로벌 게임산업…\"32조 절감 전망\"",
+      "summary": "(서울=연합뉴스) 김주환 기자 = 글로벌 게임업계가 AI 기반 비용 절감으로 32조 원에 달하는 추가 수익을 창출할 수 있다는 글로벌 투자은행(...",
+      "link": "https://www.yna.co.kr/view/AKR20260423090500017",
+      "publishedAt": "2026-04-23T02:38:32.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대우건설, 상반기 신입사원 공채…70명 이상 선발",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 대우건설은 올 상반기 신입사원 공개채용을 진행한다고 23일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260423090700003",
+      "publishedAt": "2026-04-23T02:36:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "경남도·경남상의협, 철도망 확대 공동 추진…KTX·SRT 증편 등",
+      "summary": "(창원=연합뉴스) 이정훈 기자 = 경남도는 경남상공회의소협의회와 함께 철도교통망 확대를 추진한다고 23일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260423088300052",
+      "publishedAt": "2026-04-23T02:34:17.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "강원도, 고유가 극복 제1회 추경 2천965억원 긴급 편성…3.5%↑",
+      "summary": "(춘천=연합뉴스) 이재현 기자 = 강원특별자치도는 총 8조6천696억원 규모의 2026년도 제1회 추가경정예산안을 편성해 23일 강원도의회에 제...",
+      "link": "https://www.yna.co.kr/view/AKR20260423089100062",
+      "publishedAt": "2026-04-23T02:31:52.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "HD현대, 미국 안두릴·ABS와 무인함정 협력 확대",
+      "summary": "(서울=연합뉴스) 윤민혁 기자 = HD현대는 미국에서 안두릴·미국선급협회(ABS)와 양해각서(MOU)를 체결하며 함정 사업 분야에서 미국과 협력...",
+      "link": "https://www.yna.co.kr/view/AKR20260423076100003",
+      "publishedAt": "2026-04-23T02:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "강원랜드 베이커리OV, 최대 10% 가격 인하…물가 안정 동참",
+      "summary": "(정선=연합뉴스) 박영서 기자 = 강원랜드가 운영하는 하이원리조트 베이커리OV가 최근 정부의 밀가루·설탕 가격 담합 적발에 따른 원자재 가격 하...",
+      "link": "https://www.yna.co.kr/view/AKR20260423088000062",
+      "publishedAt": "2026-04-23T02:29:33.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -17,6 +66,14 @@
       "summary": "(서울=연합뉴스) 이민영 기자 = 코스피가 23일 장중 오름폭을 줄여 6,490대를 나타내고 있다.",
       "link": "https://www.yna.co.kr/view/AKR20260423083800008",
       "publishedAt": "2026-04-23T02:28:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "김해공항 국제선에 혼잡도 분석 솔루션 구축한 이 회사",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231383i",
+      "publishedAt": "2026-04-23T02:25:35.000Z"
     },
     {
       "source": "연합뉴스",
@@ -35,6 +92,22 @@
       "publishedAt": "2026-04-23T02:16:12.000Z"
     },
     {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“전 제품이 금상 이상”…골든블루, 몽드셀렉션 '싹쓸이'했다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231347i",
+      "publishedAt": "2026-04-23T02:13:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"고물가엔 혜자\"…GS25 김혜자 간편식, 재출시 3년 만에 1억개",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231252g",
+      "publishedAt": "2026-04-23T02:08:18.000Z"
+    },
+    {
       "source": "연합뉴스",
       "category": "경제",
       "title": "카카오페이증권, 예탁자산 15조원 돌파…연초 대비 31.2% '쑥'",
@@ -43,12 +116,36 @@
       "publishedAt": "2026-04-23T02:06:33.000Z"
     },
     {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"물가 폭등 주범 여기 있었네\"…檢, 전분당 3사 '10조 담합' 덜미",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604230912i",
+      "publishedAt": "2026-04-23T02:04:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "무림, 가격 담합에 공식 사과…\"준법경영 체계 전면 강화\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231209i",
+      "publishedAt": "2026-04-23T01:53:36.000Z"
+    },
+    {
       "source": "매일경제",
       "category": "경제",
       "title": "손 맞잡은 한국 경제수장들",
       "summary": "손 맞잡은 한국 경제수장들 구윤철 경제부총리 겸 재정경제부 장관과 신현송 한국은행 총재(오른쪽)가 23일 오전 서울 중구 은행회관에서 열린 조찬회동에 앞서 기념 촬영을 하고 있다...",
       "link": "https://www.mk.co.kr/news/economy/12025040",
       "publishedAt": "2026-04-23T01:53:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "OECD 소득세 부담 10년 내 최고…고용 위축 우려 확대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604231234i",
+      "publishedAt": "2026-04-23T01:52:23.000Z"
     },
     {
       "source": "매일경제",
@@ -67,12 +164,28 @@
       "publishedAt": "2026-04-23T01:50:21.000Z"
     },
     {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "손 맞잡은 한국 경제수장들",
+      "summary": "손 맞잡은 한국 경제수장들 구윤철 경제부총리 겸 재정경제부 장관과 신현송 한국은행 총재(오른쪽)가 23일 오전 서울 중구 은행회관에서 열린 조찬회동에 앞서 기념 촬영을 하고 있다...",
+      "link": "https://www.mk.co.kr/news/economy/12025032",
+      "publishedAt": "2026-04-23T01:46:34.000Z"
+    },
+    {
       "source": "한국경제",
       "category": "증권",
       "title": "소형트럭 업주 한숨에…LPG부탄 유류세 리터당 31원 추가 인하",
       "summary": "",
       "link": "https://www.hankyung.com/article/202604231123i",
       "publishedAt": "2026-04-23T01:33:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "맞손 잡은 신현송·구윤철…“통화·재정 조화” “수시로 만나 소통”",
+      "summary": "申 취임 이틀만에 첫 상견례 조찬회동 ‘중동전쟁 대응’ 물가·환율 안정 논의 올해 1분기 GDP 서프라이즈 성장엔 신현송 “한국 경제 복원력 보여준 것”신현송 한국은행 총재가 2일..",
+      "link": "https://www.mk.co.kr/news/economy/12025002",
+      "publishedAt": "2026-04-23T01:27:42.000Z"
     },
     {
       "source": "한국경제",
@@ -147,6 +260,22 @@
       "publishedAt": "2026-04-23T00:52:19.000Z"
     },
     {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한국·베트남 원전 협력에 관련주 ‘들썩’…두산에너빌리티, 52주 신고가 경신",
+      "summary": "원자력발전(원전) 관련주들이 한국과 베트남의 원전 개발 협력 소식에 힘입어 일제히 강세를 보이고 있다. 23일 오전 9시 30분 현재 두산에너빌리티는 전일 대비 5700원(4.92..",
+      "link": "https://www.mk.co.kr/news/stock/12024960",
+      "publishedAt": "2026-04-23T00:45:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[MK시그널] STX엔진, 데이터센터 전력원 시장 진출 및 중동 재건 수혜 기대감에 주가 상승세... K시그널 추천 후 상승률 24.15% 기록",
+      "summary": "4월 23일 STX엔진(077970)이 상승 중이다. 전 거래일 STX엔진 주가는 종가기준 50,500원 상승으로 마감했다. 현재는 51,300원으로 (9시 19분 기준) 전일 종..",
+      "link": "https://www.mk.co.kr/news/stock/12024952",
+      "publishedAt": "2026-04-23T00:43:04.000Z"
+    },
+    {
       "source": "한국경제",
       "category": "경제",
       "title": "신현송 한은 총재·구윤철 부총리 첫 회동…\"통화·재정정책 조화 이뤄야\"",
@@ -161,6 +290,22 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026042306466",
       "publishedAt": "2026-04-23T00:37:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "SK하이닉스, 장중 125만원 돌파…영업이익률 빅테크 압도",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042307036",
+      "publishedAt": "2026-04-23T00:23:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스피, 첫 6500선 돌파…사상 최고치 경신",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604230705i",
+      "publishedAt": "2026-04-23T00:06:13.000Z"
     }
   ]
 }

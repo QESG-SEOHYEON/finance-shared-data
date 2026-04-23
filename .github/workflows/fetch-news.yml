@@ -1,9 +1,9 @@
-name: Fetch news
+name: Fetch data
 
 on:
   schedule:
-    # 매일 KST 07:00 (UTC 22:00 전날)
-    - cron: "0 22 * * *"
+    # KST 06:00 / 12:00 / 19:00 (UTC 21:00 전날 / 03:00 / 10:00)
+    - cron: "0 21,3,10 * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,14 +25,17 @@ jobs:
       - name: Fetch news
         run: npm run fetch-news
 
+      - name: Fetch indices
+        run: npm run fetch-indices
+
       - name: Commit if changed
         run: |
-          if git diff --quiet news-feed.json; then
+          if git diff --quiet news-feed.json indices.json; then
             echo "no changes"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add news-feed.json
-            git commit -m "chore: daily news feed update"
+            git add news-feed.json indices.json
+            git commit -m "chore: scheduled data refresh"
             git push
           fi
