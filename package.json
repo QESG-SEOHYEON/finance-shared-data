@@ -1,0 +1,12 @@
+{
+  "name": "finance-shared-data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.1"
+  }
+}
