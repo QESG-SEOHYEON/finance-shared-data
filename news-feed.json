@@ -1,8 +1,120 @@
 {
-  "updatedAt": "2026-04-24T10:59:48.847Z",
+  "updatedAt": "2026-04-24T21:40:47.940Z",
   "historyDays": 7,
-  "count": 162,
+  "count": 176,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 벚꽃 분양 막바지…전국 3천700가구 공급",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 4월 마지막 주에는 전국적으로 약 3천700가구가 공급된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260424136900003",
+      "publishedAt": "2026-04-24T21:01:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“저희도 칩플레이션 버스 탔습니다”…시간외거래 20% 폭등한 인텔",
+      "summary": "AI데이터센터용 CPU 수요 폭증 테슬라 테라팹 공정활용도 호재 닷컴버블때 주가 돌파할지 기대 서학개미, 일주새 720억 순매수미국 반도체 기업 인텔이 시장 기대를 크게 웃도는 1..",
+      "link": "https://www.mk.co.kr/news/stock/12027142",
+      "publishedAt": "2026-04-24T20:58:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[샷!] \"계좌이체 따위 모르는 남자\"",
+      "summary": "(서울=연합뉴스) 강민지 인턴기자 = 중년남자: &quot;현금 좀 인출할게요. 쓰는 데가 많아서.&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260424074200011",
+      "publishedAt": "2026-04-24T20:50:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미·이란 협상재개 기대에 국제유가 5일만에 하락…WTI 1.5%↓",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 24일(현지시간) 미국과 이란 협상 재개를 둘러싼 기대가 다시 높아지며 최근 상승세를 이어오던 국제유가가 5...",
+      "link": "https://www.yna.co.kr/view/AKR20260425007300072",
+      "publishedAt": "2026-04-24T19:50:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[뉴욕유가] 美·이란 2주만에 다시 협상 테이블로…WTI 5일만에 하락",
+      "summary": "(뉴욕=연합뉴스) 최진우 연합인포맥스 특파원 = 국제유가가 5거래일 만에 하락했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260425005500009",
+      "publishedAt": "2026-04-24T18:46:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "달러-원, 美·이란 협상 기대 속 하락…1,476.80원 마감",
+      "summary": "(서울=연합뉴스) 김성진 연합인포맥스 기자 = 달러-원 환율은 야간 거래에서 1,480원 밑으로 하락했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260425004300002",
+      "publishedAt": "2026-04-24T17:50:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] LG전자, 美서 동물보호 캠페인",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042454811",
+      "publishedAt": "2026-04-24T15:42:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 전력원 부상\"…엔진株, 수주 사이클 바람 타고 '뱃고동' [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042451626",
+      "publishedAt": "2026-04-24T13:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'제2의 마뗑킴' 르셉템버, 해외 매출 500억원 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042454431",
+      "publishedAt": "2026-04-24T13:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "NH투자증권, 단독대표서 각자대표 체제로 전환",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604245771i",
+      "publishedAt": "2026-04-24T12:54:51.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"파라과이 통해 중남미 진출 도모\"… 아순시온서 韓 상품전시회",
+      "summary": "(서울=연합뉴스) 강성철 기자 = 세계한인경제무역협회(월드옥타) 아순시온지회(지회장 이진희)는 파라과이 수도 아순시온에서 &apos;2026 코리아 비즈...",
+      "link": "https://www.yna.co.kr/view/AKR20260424170900371",
+      "publishedAt": "2026-04-24T12:45:20.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "NH투자증권도 각자대표 체제로 전환...“각 사업부 전문성 강화 포석”",
+      "summary": "대표이사 운영체제 변경안 승인 체제전환 보완장치 단계적 마련 임추위 열어 후보 선정 추진국내 증권사들이 각자대표 체제를 앞다퉈 도입하고 있는 가운데 NH투자증권이 합류했다. NH투..",
+      "link": "https://www.mk.co.kr/news/stock/12027024",
+      "publishedAt": "2026-04-24T12:38:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“SK하이닉스 234만원 간다”...일본 증권사가 최고로 높은 목표주가 내놔",
+      "summary": "일본의 노무라증권이 24일 SK하이닉스의 목표주가를 기존 193만원에서 234만원으로 높였다. 노무라가 제시한 목표주가는 국내외 증권사가 내놓은 목표주가 중 가장 높은 수치다. 노..",
+      "link": "https://www.mk.co.kr/news/stock/12026973",
+      "publishedAt": "2026-04-24T11:17:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "금융위 첫 여성 고위 공무원에 이석란",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042456451",
+      "publishedAt": "2026-04-24T10:58:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
