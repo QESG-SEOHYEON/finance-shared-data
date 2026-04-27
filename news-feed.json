@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-04-27T05:46:26.700Z",
+  "updatedAt": "2026-04-27T11:40:42.235Z",
   "historyDays": 7,
-  "count": 307,
+  "count": 337,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한공회 ‘최중경 IFRS 재단이사 간담회’개최  -",
+      "summary": "IFRS 동향 및 이사회 논의 내용 공유한국공인회계사회는 지난 24일 여의도 FKI타워 컨퍼런스센터에서 최중경 IFRS 재단이사 Outreach(이해관계자 간담회)를 개최했다고 2..",
+      "link": "https://www.mk.co.kr/news/stock/12028836",
+      "publishedAt": "2026-04-27T11:31:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼일PwC “K-메드테크, 기술 경쟁 넘어 ‘의료 현장 적용’이 관건”",
+      "summary": "고령화와 의료비 급증, 의료 인력 부족 등 구조적 압박이 심화되는 가운데 글로벌 헬스케어 산업은 병원·사후치료 중심의 기존 모델에서 벗어나 데이터 기반의 선제적·분산형 케어로 빠르..",
+      "link": "https://www.mk.co.kr/news/stock/12028834",
+      "publishedAt": "2026-04-27T11:31:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "EY한영 “국내 에너지·원자력 업계, 2030년대 초 SMR 상업화 본격화”",
+      "summary": "국내 에너지 및 원자력 기업과 관련 투자자들은 2030년대 초 소형모듈원전(SMR) 시장의 상업화가 본격화될 것으로 전망하며 이미 관련 투자에 나섰지만, 정책·제도 정비 속도가 시..",
+      "link": "https://www.mk.co.kr/news/stock/12028835",
+      "publishedAt": "2026-04-27T11:31:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "KPMG “1분기 글로벌 VC 투자 사상 최대∙∙∙AI 메가딜 시장 견인”",
+      "summary": "2026년 1분기 글로벌 벤처캐피털(VC) 투자 규모가 인공지능(AI) 분야의 대형 투자에 힘입어 사상 최대치를 기록했다. 글로벌 회계·컨설팅 기업 KPMG가 27일 발간한 ‘20..",
+      "link": "https://www.mk.co.kr/news/stock/12028833",
+      "publishedAt": "2026-04-27T11:30:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“고유가지원금인데 주유소서 못써요?”…10곳중 6곳 불가라는데",
+      "summary": "4월 27일~5월 8일 1차 지급 수급자·한부모 등 취약계층 대상 30억 이하 매장에만 사용 가능해 전국 주유소 36%만 해당해 ‘혼선’고유가 피해지원금 1차 신청이 시작된 27일..",
+      "link": "https://www.mk.co.kr/news/economy/12028832",
+      "publishedAt": "2026-04-27T11:28:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "투자은행 \"원유재고 급감\"…올해 유가전망 또 상향",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604270437i",
+      "publishedAt": "2026-04-27T11:01:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"요즘 같으면 한 해 180만원 아끼죠\"…국민차 등극한 '하브' [모빌리티톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604278758g",
+      "publishedAt": "2026-04-27T11:00:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "日닛케이 \"삼성전자, 중국 가전·TV 판매사업 연내 철수\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042704657",
+      "publishedAt": "2026-04-27T10:38:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "중국, 메타의 중국계 AI스타트업 마누스 인수 금지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604270445i",
+      "publishedAt": "2026-04-27T10:20:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "韓·日·대만 증시 AI·반도체랠리로 일제히 사상최고치",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604270414i",
+      "publishedAt": "2026-04-27T10:06:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“한국산 무기는 제때 옵니다”…‘빨리빨리 납기’ K방산주 나홀로 질주",
+      "summary": "중동 전쟁 리스크 지속되며 K방산 수출·실적 가시성 부각 생산능력 ‘병목’ 해외방산주는 실적 선반영 해석에 주가 주춤미국과 유럽 방산주가 주춤한 사이 국내 방산주만 독주하고 있다...",
+      "link": "https://www.mk.co.kr/news/stock/12028753",
+      "publishedAt": "2026-04-27T09:38:27.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "제주 성산읍 제2공항 예정지 외 토지거래허가구역 해제",
+      "summary": "(제주=연합뉴스) 고성식 기자 = 제주 서귀포시 성산읍에서 약 11년간 유지돼온 토지거래허가구역이 제2공항 부지 예정지를 제외한 지역에서 해제된...",
+      "link": "https://www.yna.co.kr/view/AKR20260427143400056",
+      "publishedAt": "2026-04-27T09:24:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "18조 투자비 회수 난항…민간 4사 \"디폴트 우려\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042702521",
+      "publishedAt": "2026-04-27T09:14:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'봉제의복 제조업' 기도산업 등 2개사 코스닥 상장예비심사 신청",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소 코스닥시장본부는 기도산업과 네오사피엔스 등 2개 기업에 대한 상장예비심사 신청서를 접수했다고 27일...",
+      "link": "https://www.yna.co.kr/view/AKR20260427144000008",
+      "publishedAt": "2026-04-27T09:13:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'전기차 충전업체' 채비, 코스닥 신규상장…29일부터 거래 개시",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소는 채비의 코스닥시장 신규 상장을 승인했다고 27일 밝혔다. 채비에 대한 거래는 오는 29일부터 가능...",
+      "link": "https://www.yna.co.kr/view/AKR20260427142500008",
+      "publishedAt": "2026-04-27T09:03:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "'6600피' 대주주 된 ETF … 삼전닉스 지분 3% 점유",
+      "summary": "국내 상장지수펀드(ETF) 시장이 빠르게 팽창하면서 주요 종목의 시가총액에서 ETF 비중이 급격히 확대되고 있다. 코스닥 중소형주는 물론 삼성전자, SK하이닉스 등 대형주에서도 E..",
+      "link": "https://www.mk.co.kr/news/stock/12028739",
+      "publishedAt": "2026-04-27T09:02:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "GDP 2800조인데 시총은 6100조…\"韓증시, 프리미엄 구간 진입했다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042702331",
+      "publishedAt": "2026-04-27T09:02:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스닥 1200 넘자…개미들 \"일단 팔자\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042702321",
+      "publishedAt": "2026-04-27T09:01:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "100만원 넘는 황제주, 5개 늘어 9개로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042702341",
+      "publishedAt": "2026-04-27T09:01:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "김정관, 삼성전자 파업에 우려 \"中 추격 거세…현명한 판단을\"",
+      "summary": "산업 정책을 총괄하는 김정관 산업통상부 장관(사진)이 삼성전자 노동조합의 파업 예고에 대해 \"삼성전자 이익을 경영진과 노동자들만의 결실로 볼 수 없다\"고 밝혔다. 또 존폐 여부를 ..",
+      "link": "https://www.mk.co.kr/news/economy/12028724",
+      "publishedAt": "2026-04-27T09:00:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "송미령 \"내달 18일부터 농지 전수조사\"",
+      "summary": "농림축산식품부가 다음달 18일부터 농지 전수조사에 돌입한다. 송미령 농식품부 장관(사진)은 27일 정부세종청사에서 열린 기자단 간담회에서 이같이 밝혔다. 그는 \"농지 투기 근절과 ..",
+      "link": "https://www.mk.co.kr/news/economy/12028725",
+      "publishedAt": "2026-04-27T09:00:56.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 연일 최고치에 &apos;시총 6천조&apos; 돌파…韓증시, 1년만 덩치 2.8배로",
+      "link": "https://www.yna.co.kr/view/AKR20260427135200011",
+      "publishedAt": "2026-04-27T09:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부광약품 \"한국유니온제약 주식 300억원어치 취득…지분율 75%\"",
+      "summary": "(서울=연합뉴스) 코스피 상장사 부광약품[003000]은 의약품 제조업 업체 한국유니온제약의 주식 6천만주를 300억원에 취득한다고 27일 공시...",
+      "link": "https://www.yna.co.kr/view/AKR20260427141000008",
+      "publishedAt": "2026-04-27T08:52:38.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "편의점 국제택배 요금 내달부터 평균 7% 인상(종합)",
+      "summary": "(서울=연합뉴스) 김채린 기자 = 국제 유가 급등에 다음 달부터 편의점 국제택배 요금이 인상된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260427114851030",
+      "publishedAt": "2026-04-27T08:51:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"韓, 가상자산 트라우마서 벗어나야\"…블랙록 출신 CEO의 조언",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042791306",
+      "publishedAt": "2026-04-27T08:51:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"개혁안 다음달 처리\"…'농협 개혁' 속도전 천명한 송미령",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604270278i",
+      "publishedAt": "2026-04-27T08:50:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "사상 첫 '버핏지수' 200% 뚫었다…한국 증시 폭주에 '환호'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042702601",
+      "publishedAt": "2026-04-27T08:45:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "당좌거래정지",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12028602",
+      "publishedAt": "2026-04-27T08:27:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[포토] 설계사 격려 나선 신창재 교보생명 의장",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12028599",
+      "publishedAt": "2026-04-27T08:27:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "보험사 특약부담 연 2400억 \"손보사 적자규모 더 커질듯\"",
+      "summary": "차량 2·5부제에 동참한 차주의 자동차보험료(자보료)를 연간 2% 할인해주는 특약상품 출시와 관련해 보험업계는 상생금융 취지엔 동감하면서도 경영 악화 우려를 내놓고 있다. 27일 ..",
+      "link": "https://www.mk.co.kr/news/economy/12028600",
+      "publishedAt": "2026-04-27T08:27:08.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
