@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-04-28T05:51:54.284Z",
+  "updatedAt": "2026-04-28T11:41:34.365Z",
   "historyDays": 7,
-  "count": 410,
+  "count": 440,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "제이알글로벌리츠, 400억원 못갚아 법원에 회생 절차 신청",
+      "summary": "(서울=연합뉴스) 김태종 기자 = 국내 유가증권시장에 상장된 부동산 투자회사 제이알글로벌리츠[348950]가 400억원의 사채를 갚지 못해 법원...",
+      "link": "https://www.yna.co.kr/view/AKR20260428182600008",
+      "publishedAt": "2026-04-28T11:27:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"글로벌 AI시장,2030년에 약 6,200조원 도달\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283598i",
+      "publishedAt": "2026-04-28T11:25:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "올 청년 정책에 30조 … 구직수당 月 10만원 인상",
+      "summary": "정부가 올해 청년정책에 총 30조원 규모 예산을 투입하고 주거와 일자리 전반에 청년층 지원을 강화하기로 했다. 청년층을 대상으로 주택 6만7000가구를 공급하는 동시에 취업지원수당..",
+      "link": "https://www.mk.co.kr/news/economy/12029964",
+      "publishedAt": "2026-04-28T11:15:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한공회, 일본공인회계사협회와 연례회의 개최",
+      "summary": "양국 회계업계 AI 대응 현황 등 논의한국공인회계사회는 지난 22일 일본 시즈오카현 이토시 카와나호텔에서 일본공인회계사협회(JICPA)와 제28회 한일 연례회의를 공동 개최하고, ..",
+      "link": "https://www.mk.co.kr/news/stock/12029963",
+      "publishedAt": "2026-04-28T11:14:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼일PwC AI 기술, ‘ACL 2026’ 메인 컨퍼런스 채택",
+      "summary": "국내 회계법인 최초 회계·세무 특화 AI 기술력 입증삼일PwC가 자체 개발한 회계·세무·금융·법률 등 초전문 영역 특화 인공지능(AI) 표현 학습기술이 자연어처리(NLP) 분야 세..",
+      "link": "https://www.mk.co.kr/news/stock/12029962",
+      "publishedAt": "2026-04-28T11:14:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "금감원, 금투업계 장애인 고용 활성화 간담회…우수사례 공유",
+      "summary": "금융감독원이 28일 금융투자업계와 장애인 고용 활성화 간담회를 열고 업계 우수사례를 공유하며 장애인 채용을 독려했다. 금감원은 이날 오전 서울 여의도 금융투자협회에서 금투협, 고용..",
+      "link": "https://www.mk.co.kr/news/stock/12029961",
+      "publishedAt": "2026-04-28T11:14:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "제이알글로벌리츠, 회생 돌입",
+      "summary": "해외 부동산 리츠인 제이알글로벌리츠가 기업회생절차(법정관리)를 신청했다. 공모 상장 리츠가 회생절차에 들어간 것은 국내 증시 사상 처음이다. 2만8000여 명에 달하는 개인 투자자..",
+      "link": "https://www.mk.co.kr/news/stock/12029960",
+      "publishedAt": "2026-04-28T11:13:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "익스프레스 매각 '청신호'에도 갈 길 먼 홈플러스…\"밀린 외상값만 1600억\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604282550g",
+      "publishedAt": "2026-04-28T11:11:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "의성 마늘치킨·금산 삼계탕…'K치킨벨트' 지도 나온다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042832711",
+      "publishedAt": "2026-04-28T11:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "쿠팡이츠 '라이더가 메뉴 확인' 기능 하루 만에 중단",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 쿠팡이츠가 배달기사(라이더)를 대상으로 주문 메뉴를 확인하도록 하는 기능을 도입했다가 반발이 일자 하루 만에 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260428181800030",
+      "publishedAt": "2026-04-28T10:52:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"오픈AI, 구글·앤트로픽 약진에 사용자·매출 목표 달성 실패\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283538i",
+      "publishedAt": "2026-04-28T10:38:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼전 총파업 앞두고 노조위원장은 동남아로 휴가 떠났다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042835637",
+      "publishedAt": "2026-04-28T10:29:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“새 국제회계기준, 경영 방식·투자 소통까지 바꿀 것”",
+      "summary": "김성배 삼정KPMG IFRS18 TF 리더 내년부터 IFRS18기준 적용 영업이익 포함 범위 넓어지며 실적 변동성 커질 가능성 높아 기업 재무 시스템 재설계 필요내년부터 한국에 ..",
+      "link": "https://www.mk.co.kr/news/stock/12029894",
+      "publishedAt": "2026-04-28T10:18:10.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "두산테스나, 1천909억원 반도체장비 양수…평택 2공장 투자 재개",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 반도체 테스트 기업 두산테스나가 시장 수요에 대응해 신규 장비 도입, 공장 착공 등 대규모 투자에 나섰다.",
+      "link": "https://www.yna.co.kr/view/AKR20260428179300003",
+      "publishedAt": "2026-04-28T10:12:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "일본은행, 기준금리 0.75%로 동결…6월 인상 가능성",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283462i",
+      "publishedAt": "2026-04-28T10:03:38.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "에이비엘바이오 \"담도암치료제 임상, 일부 변수 미충족\"",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 컴퍼스 테라퓨틱스가 담도암 치료제 후보물질 &apos;토베시미그&apos;(ABL001)의 임상 2·3상을 진행한 결과 일부 평...",
+      "link": "https://www.yna.co.kr/view/AKR20260428176800017",
+      "publishedAt": "2026-04-28T09:50:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[핫픽! 해외주식] 'D램 점유율 2%' 난야테크, 엔비디아와 손 잡으며 몸값 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042834931",
+      "publishedAt": "2026-04-28T09:41:23.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "與 \"정유사, 고통분담 위해 아스팔트 가격 인하 동참키로\"",
+      "summary": "(서울=연합뉴스) 안정훈 기자 = 더불어민주당은 28일 중동전쟁 장기화로 공급 불안을 겪고 있는 아스콘 업계의 고통 분담 차원에서 정유사가 아스...",
+      "link": "https://www.yna.co.kr/view/AKR20260428175100001",
+      "publishedAt": "2026-04-28T09:40:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "제이알글로벌리츠, 법원에 회생 절차 개시 신청",
+      "summary": "[본 기사는 04월 28일(18:36) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 해외 부동산 리츠인 제이알글로벌리츠가 기업회생절차(법정관리)를 신청했다..",
+      "link": "https://www.mk.co.kr/news/stock/12029858",
+      "publishedAt": "2026-04-28T09:36:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "크라우드웍스, 10억원 유상증자…피봇스트래티지에 제3자배정",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 크라우드웍스[355390]는 운영자금 등 약 10억원을 조달하고자 제3자배정 유상증자를 결정했다고 28일 공시했...",
+      "link": "https://www.yna.co.kr/view/AKR20260428176400008",
+      "publishedAt": "2026-04-28T09:35:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "한국서비스경영학회 내달 8일 K-서비스 성장전략 학술대회",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042833161",
+      "publishedAt": "2026-04-28T09:23:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "4대 금융 '회수 어려운 부실대출' 역대최대",
+      "summary": "KB·신한·하나·우리 등 4대 금융지주의 부실 대출이 지난 1분기에 역대 최대치를 기록했다. 주요 금융지주들이 사상 최대 이익을 기록하며 순항하고 있지만 내부에서는 건전성 악화라..",
+      "link": "https://www.mk.co.kr/news/economy/12029826",
+      "publishedAt": "2026-04-28T09:03:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "트럼프/“이란과의 휴전 무기한 연장”",
+      "summary": "도널드 트럼프 미국 대통령이 21일(현지시간) 이란과의 논의가 마무리될 때까지 휴전의 ‘무기한 연장’을 선언하면서 다시 종전 논의가 ‘오리무중’에 빠졌다. 이 과정에서 트럼프 대통..",
+      "link": "https://www.mk.co.kr/news/economy/12029806",
+      "publishedAt": "2026-04-28T09:00:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "김현석의 월스트리트나우",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283430i",
+      "publishedAt": "2026-04-28T08:58:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "김현석의 월스트리트나우",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283427i",
+      "publishedAt": "2026-04-28T08:57:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "김현석의 월스트리트나우",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283425i",
+      "publishedAt": "2026-04-28T08:55:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "김현석의 월스트리트나우",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604283423i",
+      "publishedAt": "2026-04-28T08:54:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 4대 금융 ‘회수 어려운 부실대출’ 역대최대…건전성 경고음",
+      "summary": "1분기 NPL잔액 13.6조원 최대실적 속 건전성 경고음KB·신한·하나·우리 등 4대 금융지주의 부실 대출이 지난 1분기에 역대 최대치를 기록했다. 주요 금융지주들이 사상 최대 이..",
+      "link": "https://www.mk.co.kr/news/economy/12029771",
+      "publishedAt": "2026-04-28T08:51:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "한전, 美 PSEG와 765kV 송전망 기술협력 계약 체결",
+      "summary": "한전, 美 전력망시장 진출 설계·시공 역량 인정받아한국전력공사(한전)가 미국 에너지 기업 PSEG와 765kV 초고압 송전망 사업 협력을 위한 계약을 체결했다고 28일 밝혔다. 한..",
+      "link": "https://www.mk.co.kr/news/economy/12029765",
+      "publishedAt": "2026-04-28T08:48:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"투명하게 공개할수록 기부 몰려\" … ★받은 공익법인 2조6천억 모금",
+      "summary": "국내 공익법인들이 내부 투명성을 공개할수록 기부금이 늘어나는 것으로 확인됐다. 특히 공익법인 평가에서 상위 등급을 받은 우수 법인들이 1년간 모금한 기부 금액이 2조5000억원을 ..",
+      "link": "https://www.mk.co.kr/news/economy/12029758",
+      "publishedAt": "2026-04-28T08:47:26.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
