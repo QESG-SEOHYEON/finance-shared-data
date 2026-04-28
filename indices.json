@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-04-28T11:41:34.751Z",
+  "updatedAt": "2026-04-28T21:51:12.103Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 6641.02,
-      "previous": 6615.03,
-      "dayChange": 25.99,
-      "dayChangePct": 0.39,
-      "monthChangePct": 25.84,
+      "current": 6615.03,
+      "previous": 6475.63,
+      "dayChange": 139.4,
+      "dayChangePct": 2.15,
+      "monthChangePct": 25.35,
       "lastUpdated": "2026-04-28T09:05:40.000Z",
       "candles": [
         {
@@ -96,10 +96,6 @@
         {
           "date": "2026-04-27",
           "close": 6615.03
-        },
-        {
-          "date": "2026-04-28",
-          "close": 6641.02
         }
       ]
     },
@@ -108,12 +104,12 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 24887.1,
-      "previous": 24836.6,
-      "dayChange": 50.5,
-      "dayChangePct": 0.2,
-      "monthChangePct": 19.68,
-      "lastUpdated": "2026-04-27T21:15:59.000Z",
+      "current": 24663.8,
+      "previous": 24887.1,
+      "dayChange": -223.3,
+      "dayChangePct": -0.9,
+      "monthChangePct": 18.61,
+      "lastUpdated": "2026-04-28T21:15:59.000Z",
       "candles": [
         {
           "date": "2026-03-30",
@@ -194,6 +190,10 @@
         {
           "date": "2026-04-27",
           "close": 24887.1
+        },
+        {
+          "date": "2026-04-28",
+          "close": 24663.8
         }
       ]
     },
@@ -202,12 +202,12 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7173.91,
-      "previous": 7165.08,
-      "dayChange": 8.83,
-      "dayChangePct": 0.12,
-      "monthChangePct": 13.09,
-      "lastUpdated": "2026-04-27T20:34:36.000Z",
+      "current": 7138.8,
+      "previous": 7173.91,
+      "dayChange": -35.11,
+      "dayChangePct": -0.49,
+      "monthChangePct": 12.53,
+      "lastUpdated": "2026-04-28T20:38:08.000Z",
       "candles": [
         {
           "date": "2026-03-30",
@@ -288,6 +288,10 @@
         {
           "date": "2026-04-27",
           "close": 7173.91
+        },
+        {
+          "date": "2026-04-28",
+          "close": 7138.8
         }
       ]
     }
