@@ -1,8 +1,184 @@
 {
-  "updatedAt": "2026-04-27T21:48:49.530Z",
+  "updatedAt": "2026-04-28T00:36:31.778Z",
   "historyDays": 7,
-  "count": 358,
+  "count": 380,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "수은 \"11개국 주한 외교사절 초청…핵심광물 공급망 논의\"",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국수출입은행은 27일 서울 여의도 본점에서 11개국 주한 외국 대사관 관계자를 초청해 &apos;글로벌 핵심광물 공급...",
+      "link": "https://www.yna.co.kr/view/AKR20260428043800002",
+      "publishedAt": "2026-04-28T00:30:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농축협 조합장 또 국회 집결…\"농협법 개정, 개혁 아닌 개입\"",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 전국 농·축협 조합장과 농민 500여명은 28일 국회에서 &apos;농협 자율성 수호 농민공동선언식&apos;을 열고 정부의 농...",
+      "link": "https://www.yna.co.kr/view/AKR20260428028300030",
+      "publishedAt": "2026-04-28T00:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중기중앙회, 디지털전환위원회 개최…AX 사례 공유",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 중소기업중앙회는 28일 강서구 마곡 LG CNS 이노베이션스튜디오에서 &apos;2026년 제1차 디지털전환위원회&apos;를 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260428038300030",
+      "publishedAt": "2026-04-28T00:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이찬진 \"사외이사, 경영진 적극 감시해야\"…지배구조 특강",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 이찬진 금융감독원장은 BNK금융지주 등 지방지주와 사외이사 역량 강화를 위한 업무협약을 맺고, 지배구조 특강 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260428026600002",
+      "publishedAt": "2026-04-28T00:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] '1분기 호실적' LG이노텍, 목표가 줄상향속 52주 신고가",
+      "summary": "(서울=연합뉴스) 이민영 기자 = LG이노텍[011070] 주가가 28일 증권가의 목표가 줄상향 속에 장 초반 52주 신고가를 경신했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260428042600008",
+      "publishedAt": "2026-04-28T00:29:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대우건설 1분기 영업이익 2천556억원…전년대비 69%↑(종합)",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 대우건설은 올 1분기 영업이익이 전년 동기 대비 68.9% 증가한 2천556억원으로 잠정 집계됐다고 28일 공...",
+      "link": "https://www.yna.co.kr/view/AKR20260428032051527",
+      "publishedAt": "2026-04-28T00:29:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "무신사 메가스토어 성수, 오픈 첫 주말에 4만2000명 '북적'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042812017",
+      "publishedAt": "2026-04-28T00:09:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "소상공인정책학회 창립총회…이정희 중앙대 교수 초대회장 선출",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604281206i",
+      "publishedAt": "2026-04-28T00:07:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "콘텐츠 입히니 줄줄이 대박…GS25, IP 상품 4종 '밀리언셀러' 등극",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604281163g",
+      "publishedAt": "2026-04-28T00:02:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "디케이티, 비에이치와 북미 고객사 대응 합작사 설립 추진",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604279995i",
+      "publishedAt": "2026-04-28T00:00:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“비용은 이미 반영됐다”…한샘 목표가 5.6만원으로 하향",
+      "summary": "NH투자증권은 28일 한샘에 대해 기업간 거래(B2B) 매출 감소와 전쟁 여파에 따른 원재료비·운반비 상승을 반영해 목표주가를 기존 6만원에서 5만6000원으로 하향 조정했다. 다..",
+      "link": "https://www.mk.co.kr/news/stock/12029077",
+      "publishedAt": "2026-04-27T23:52:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "영업이익 71% 뛰었는데 “더 좋아진다”…한화오션 목표가 줄상향 [오늘 나온 보고서]",
+      "summary": "매출·영업익 모두 전망치 상회 KDDX 등 신규 수주 기대 높아전날인 27일 한화오션 실적 발표가 진행된 가운데, 증권가에서는 목표 주가를 16만원에서 18만원까지 상향하고 나섰다..",
+      "link": "https://www.mk.co.kr/news/stock/12029073",
+      "publishedAt": "2026-04-27T23:46:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“코로나 때가 나았다는 소리 나올 판”…빚 못갚는 중기·소상공인 급증",
+      "summary": "기보·신보가 빚 대신 갚아주고 회수하지 못한 금액 올해 8500억 코로나19 한창이던 2021년의 3배중소벤처기업부 산하 공공기관이 중소기업과 소상공인 대신 빚을 갚아주고 회수하지..",
+      "link": "https://www.mk.co.kr/news/economy/12029072",
+      "publishedAt": "2026-04-27T23:46:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"POSCO홀딩스, 리튬 사업 가치 재평가 필요\"-하나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042810916",
+      "publishedAt": "2026-04-27T23:40:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"HD건설기계, 1분기 실적 예상치 웃돌아…목표가↑\"-삼성",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042810696",
+      "publishedAt": "2026-04-27T23:36:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"BTS 컴백했는데 왜 이래\"…불장서 소외된 개미들 '한숨' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042809026",
+      "publishedAt": "2026-04-27T23:31:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "CJ제일제당, 생분해성 PHA 종량제 봉투 선보여…\"석유계 플라스틱 대체\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604280922g",
+      "publishedAt": "2026-04-27T23:30:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"LG이노텍, 1분기 영업익 예상치 웃돌아…목표가↑\"-KB",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042808536",
+      "publishedAt": "2026-04-27T23:30:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"효성중공업, 수주 확대·마진율 상승 지속될 듯…목표가↑\"-IBK",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042810496",
+      "publishedAt": "2026-04-27T23:26:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "Today's Pick : \"실적 대폭발\" 삼성전기, 사상 첫 '백만전기' 전망나왔다 [마켓 PRO]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604280867i",
+      "publishedAt": "2026-04-27T23:17:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "4월 27일 외신 에스프레소",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604280978i",
+      "publishedAt": "2026-04-27T23:05:42.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“한국전력, 높아진 에너지가격 영향 불가피” 목표가 ↓",
+      "summary": "KB증권은 한국전력에 대해 글로벌 에너지 가격 상승에 따른 2026~2027년 영업이익 하향조정이 불가피하다며 목표주가를 기존 7만4000원에서 6만3000원으로 하향 조정했다. ..",
+      "link": "https://www.mk.co.kr/news/stock/12029034",
+      "publishedAt": "2026-04-27T22:15:45.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
