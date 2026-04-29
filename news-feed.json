@@ -1,8 +1,184 @@
 {
-  "updatedAt": "2026-04-28T21:51:11.487Z",
+  "updatedAt": "2026-04-29T00:57:12.905Z",
   "historyDays": 7,
-  "count": 455,
+  "count": 477,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "예산군, 5월 예산사랑상품권 발행 규모 20억→50억으로 확대",
+      "summary": "(예산=연합뉴스) 김준범 기자 = 충남 예산군은 5월 가정의 달을 맞아 &apos;예산사랑상품권&apos; 발행 규모를 기존 20억원에서 50억원으로 30억원 늘...",
+      "link": "https://www.yna.co.kr/view/AKR20260429050800063",
+      "publishedAt": "2026-04-29T00:52:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "식약처, 제조소 이전 자료 간소화…제약사 부담 줄인다",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 제약사가 의약품 제조소를 이전하면서 의약품 제조 방법이 바뀌는 경우 내야 하는 자료 요건이 개선된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260429041900017",
+      "publishedAt": "2026-04-29T00:52:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "보령,공공비축미 매입장 안전사고 최대 1억보장 보험…전국 최초",
+      "summary": "(보령=연합뉴스) 정윤덕 기자 = 충남 보령시는 전국 지방자치단체 최초로 공공비축미 매입장에서 발생하는 안전사고에 대비한 영업배상책임보험에 가입...",
+      "link": "https://www.yna.co.kr/view/AKR20260429046200063",
+      "publishedAt": "2026-04-29T00:50:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이억원 \"핀테크 산업, AX 핵심 동력으로…지원체계 개편\"",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 금융위원회가 핀테크 산업의 발전을 위해 인공지능(AI)·데이터·지역·청년 등 핵심 전략 분야 중심으로 지원 체...",
+      "link": "https://www.yna.co.kr/view/AKR20260429037300002",
+      "publishedAt": "2026-04-29T00:50:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] 삼성SDI '1분기 실적개선'에 3% 급등…신고가 경신도",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 최근 시장 기대치보다 긍정적인 실적을 발표한 삼성SDI[006400]가 29일 장 초반 3% 넘게 오르고 있다...",
+      "link": "https://www.yna.co.kr/view/AKR20260429048700008",
+      "publishedAt": "2026-04-29T00:48:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "KAI, 미 벨텍스트론과 차세대 고속 중형기동헬기 개발 협력",
+      "summary": "(서울=연합뉴스) 김윤구 기자 = 한국항공우주산업(KAI)은 미국 벨텍스트론과 한국군 차세대 고속 중형기동헬기(HSMUH) 개발 협력을 위한 양...",
+      "link": "https://www.yna.co.kr/view/AKR20260429047200003",
+      "publishedAt": "2026-04-29T00:46:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "UAE, 60년 만에 OPEC 탈퇴…산유국 공조 균열 확대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294392i",
+      "publishedAt": "2026-04-29T00:32:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "동원수산 \"저PBR 벗어나기 위한 밸류업 전략 수행해나갈 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042944076",
+      "publishedAt": "2026-04-29T00:27:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "사조푸디스트, 구내식당에 '미식' 입히자 식수 31.8% 급증",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294246g",
+      "publishedAt": "2026-04-29T00:24:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피, 오픈AI 여파에 장 초반 '숨 고르기'…코스닥은 보합권",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042941516",
+      "publishedAt": "2026-04-29T00:22:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "휴넷, 'AX 경영' 본격화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294325i",
+      "publishedAt": "2026-04-29T00:12:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "롯데마트, 30일부터 '통큰데이'…반값 한우·어린이날 간식 행사",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294317g",
+      "publishedAt": "2026-04-29T00:12:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 홈플러스, 가정의 달 'AI 물가안정 프로젝트'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294319i",
+      "publishedAt": "2026-04-29T00:10:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "이마트24, 'K-매운맛' 간편식 9종 출시…불닭·자체 소스 활용",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294133g",
+      "publishedAt": "2026-04-28T23:59:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼전닉스 공장 돌릴수록 여기 돈번다…롯데정밀화학 목표가 36%↑ [오늘 나온 보고서]",
+      "summary": "IBK투자증권 “6.3만→8.6만원으로” 반도체 현상액 핵심원료 플랜트 증설 올해부터 실적반영…1분기부터 급증IBK투자증권은 29일 롯데정밀화학 투자 의견을 매수(Buy)로 유지하..",
+      "link": "https://www.mk.co.kr/news/stock/12030402",
+      "publishedAt": "2026-04-28T23:59:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[삼성SDS 분석] 10조원 투자 로드맵 가시성과 M&A 성과가 관건",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604294137i",
+      "publishedAt": "2026-04-28T23:45:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"롯데정밀화학, 반도체 소재 증설 효과 본격화…목표가↑\"-IBK",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042941196",
+      "publishedAt": "2026-04-28T23:39:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘업추비 과다 논란에’ 이찬진 금감원장, 月평균 200만원 공개내역 보니",
+      "summary": "8개월 간 1668만원 이복현 전 원장과 차별화금융감독원장 업무추진비(업추비)가 논란인 가운데 이찬진 원장이 관련 집행 내역을 상세히 공개했다. 지난해 8월부터 지출한 업추비는 1..",
+      "link": "https://www.mk.co.kr/news/economy/12030380",
+      "publishedAt": "2026-04-28T23:37:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“19% 주가 급락은 과도”…에이비엘바이오 목표가↓",
+      "summary": "키움증권은 29일 에이비엘바이오에 대해 담도암 치료제 후보물질 ‘토베시미그’(Tovecimig)의 승인 불확실성을 반영해 목표주가를 기존 24만원에서 20만원으로 하향 조정했다. ..",
+      "link": "https://www.mk.co.kr/news/stock/12030379",
+      "publishedAt": "2026-04-28T23:35:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"926억 벌었는데 사지 마라?\"…잭팟 터진 '이 회사' 무슨 일이 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042939226",
+      "publishedAt": "2026-04-28T23:13:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전자, AI 추론 시대 최종 승자…목표가 36만원\"-KB",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042939596",
+      "publishedAt": "2026-04-28T23:08:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성SDI, 미 ESS 성장 지속, xEV 연중 적자 축소 기대” 목표가↑",
+      "summary": "상상인증권은 29일 삼성SDI에 대해 미국 에너지저장장치(ESS)의 성장이 지속하고, 전기차(xEV)사업 연중 적자폭 축소를 기대한다며 목표주가를 기존 68만원에서 85만원으로 상..",
+      "link": "https://www.mk.co.kr/news/stock/12030361",
+      "publishedAt": "2026-04-28T22:25:35.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
