@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-04-29T11:24:38.531Z",
+  "updatedAt": "2026-04-29T21:53:51.579Z",
   "historyDays": 7,
-  "count": 537,
+  "count": 556,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
+      "summary": "(서울=연합뉴스) 김은경 기자 = 5월 1일 우리나라는 63년 만에 법정공휴일로 지정된 첫 노동절을 맞이한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260428162300518",
+      "publishedAt": "2026-04-29T21:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"워런 버핏처럼 되겠다\"…빌 애크먼 헤지펀드 뉴욕증시 상장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026043068787",
+      "publishedAt": "2026-04-29T21:21:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보] 화물연대-BGF로지스, 잠정연기 조인식 오전 11시 예정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026043068867",
+      "publishedAt": "2026-04-29T21:16:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "구글 첫 해외 AI 캠퍼스, 서울 강남에 연내 문 연다",
+      "summary": "(서울=연합뉴스) 한상용 권하영 기자 = 구글 딥마인드가 서울 강남구에 인공지능(AI) 협력 거점인 &apos;구글 AI 캠퍼스&apos;를 연내 개소하기로 하면...",
+      "link": "https://www.yna.co.kr/view/AKR20260429163600017",
+      "publishedAt": "2026-04-29T21:13:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "트럼프가 임명하고 그에 맞섰던 파월 연준의장 '미완의 퇴장'(종합)",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 마음에 들지 않는 인물을 부를 때 자기 멋대로 중간 이름(middle name...",
+      "link": "https://www.yna.co.kr/view/AKR20260430003451071",
+      "publishedAt": "2026-04-29T21:09:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "신용대출 막히니 결국...급전·빚투에 청약통장 담보대출 4조 넘어",
+      "summary": "잔액, 3년만에 최대폭 증가 통장 줄해지 속 대출은 늘어 올 들어선 1인당 대출액도↑정부의 고강도 가계대출 규제로 인한 풍선효과 등으로 주택청약통장을 담보로 잡는 청약담보대출이 급..",
+      "link": "https://www.mk.co.kr/news/economy/12031802",
+      "publishedAt": "2026-04-29T21:03:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'대규모 투자 단행' GM, 흘러나오는 한국시장 철수설 '일축'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604295489g",
+      "publishedAt": "2026-04-29T21:01:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "사람 손 거치지 않고 로봇이 '척척'…GM 창원공장 가보니 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604296202g",
+      "publishedAt": "2026-04-29T21:00:48.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농식품부, 외국인 계절근로자용 '농장 소통가이드' 8천부 배포",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 외국인 노동자와 농장주 간 원활한 의사소통을 지원하기 위해 &apos;우리 농장 소통가이드&apos;를 제작해 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260429121600030",
+      "publishedAt": "2026-04-29T21:00:34.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울시, 대학 기숙사 건립 시 용도지역 상향 등 인센티브",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 대학 기숙사 건립 시 용도지역 상향 등 인센티브를 부여하는 &apos;캠퍼스주거혁신구역&apos;을 도입한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260429149300004",
+      "publishedAt": "2026-04-29T21:00:33.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "3월 전국 공동주택 분양 68.4%↑…공급지표 전반 상승",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 지난달 전국 주택 공급 지표가 전월 대비 전체적으로 개선됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260429155600003",
+      "publishedAt": "2026-04-29T21:00:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "연준 매파적 금리동결·파월 잔류...금리인하 물건너가나",
+      "summary": "기준금리 3.5~3.75% 유지 물가상승 압력에 3연속 동결 성명서 인하 문구에 반대 위원 3명 ‘인하’ 마이런까지 30여년만 4명 이견이란전쟁에 따른 인플레이션 우려가 확산하는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12031748",
+      "publishedAt": "2026-04-29T20:45:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "12명 중 4명이 성명서에 '반대'…이례적으로 분열된 Fed [Fed워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604306811i",
+      "publishedAt": "2026-04-29T19:35:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "파월 “이사로 더 남을것”...전현직 의장 이례적 동거, 혼돈의 연준",
+      "summary": "이사 임기 2028년 1월까지 親트럼프 연준 장악 저지 90여년만에 전현 의장 동거제롬 파월 연방준비제도(Fed) 의장이 29일(현지시간) “의장 임기가 끝나고 일정 기간 이사..",
+      "link": "https://www.mk.co.kr/news/economy/12031605",
+      "publishedAt": "2026-04-29T19:14:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보] 파월 \"중동발 인플레 예상하지만 규모 파악 어려워\" [Fed워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604306804i",
+      "publishedAt": "2026-04-29T19:11:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "파월 \"오늘이 나의 마지막 FOMC 의장 역할…워시 축하한다\" [Fed워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202604306800i",
+      "publishedAt": "2026-04-29T18:38:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 연준 이례적 성명서…3명 “금리인하 동의 안해”",
+      "summary": "물가상승 압력에 연준 3연속 동결 금리인하 표현에 반대 위원 3명 인하 주장 마이런까지 30여년만 4명 이견이란전쟁에 따른 인플레이션 우려가 확산하는 가운데 미국 중앙은행 연방준..",
+      "link": "https://www.mk.co.kr/news/world/12031595",
+      "publishedAt": "2026-04-29T18:21:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 연준, 3연속 금리동결…이란전쟁발 인플레 우려",
+      "summary": "연준, 기준금리 3.5~3.75% 유지 이란전쟁 종전협상 교착에 유가발 물가상승 우려 지속 親트럼프 마이런만 인하 주장이란전쟁에 따른 인플레이션 우려가 확산하는 가운데 미국 중앙..",
+      "link": "https://www.mk.co.kr/news/stock/12031592",
+      "publishedAt": "2026-04-29T18:01:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'신용등급' 수직 추락…\"원리금도 못 갚아\" 개미 '날벼락' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026042950926",
+      "publishedAt": "2026-04-29T13:00:01.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
