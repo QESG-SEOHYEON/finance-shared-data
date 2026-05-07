@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-05-07T11:43:27.494Z",
+  "updatedAt": "2026-05-07T21:48:10.480Z",
   "historyDays": 7,
-  "count": 475,
+  "count": 477,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 섬박람회 준비로 세계일주?…여수 공무원 출장 107건 [혈세 누수 탐지기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026050714377",
+      "publishedAt": "2026-05-07T21:29:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "삼성바이오 노사 다시 만난다…노사정 3자 면담 진행",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 임금 인상, 인사 제도 개선 등을 두고 갈등을 빚어 온 삼성바이오로직스[207940] 노사가 8일 다시 대화를...",
+      "link": "https://www.yna.co.kr/view/AKR20260507110600017",
+      "publishedAt": "2026-05-07T21:05:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "삼성 미래로봇추진단, 인력 '수혈'…제조 로봇 상용화 속도",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 삼성전자가 로봇 사업의 핵심 조직인 &apos;미래로봇추진단&apos; 인력을 확충하며 휴머노이드(인간형 로봇)를 포함한 로봇 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260507158300003",
+      "publishedAt": "2026-05-07T21:05:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피 전에 대만 주식 알았어야…10년 수익률 봤더니 ‘415%’",
+      "summary": "AI 하드웨어 공급망 강한 대만 TSMC 필두로 랠리 먼저 시작 日도 수익률 290%로 韓 앞서 선제적 밸류업으로 주가 상승코스피가 7일 장중 7500선을 돌파하는 등 최근 가파른..",
+      "link": "https://www.mk.co.kr/news/stock/12040507",
+      "publishedAt": "2026-05-07T21:04:17.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "양도세 중과 D-2…내일까지 토지거래허가 신청시 중과 면제",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 2022년부터 4년간 유예돼 온 다주택자 양도소득세 중과 제도가 이틀 뒤부터 시행된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260507171900003",
+      "publishedAt": "2026-05-07T21:01:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 장애인고용공단, 장애 대학생 진로탐색 캠프 참가자 모집",
+      "summary": "▲ 한국장애인고용공단은 장애 대학생을 위한 진로 탐색 프로그램인 &apos;장애 대학생 스텝 업 탐방캠프&apos;의 3기 참가자 50명을 모집한다고 8일 밝혔다...",
+      "link": "https://www.yna.co.kr/view/AKR20260507094400530",
+      "publishedAt": "2026-05-07T21:00:10.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울 서남권 창업 거점 '서울창업허브 관악' 건축 설계 공모",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 낙성대·신림·서울대 일대를 잇는 &apos;관악S밸리&apos; 창업 기능을 집약해 서남권 창업 생태계의 핵심 거점이 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260507149500004",
+      "publishedAt": "2026-05-07T21:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“인니 뚫더니 터졌다”…해외서 웃은 KT&G, 전자담배·건기식도 질주",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605072644i",
+      "publishedAt": "2026-05-07T21:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부동산 서비스산업 부진 속 2분기 기업경기 소폭 개선",
+      "summary": "(서울=연합뉴스) 오진송 기자 = 부동산 서비스산업 경기가 전반적으로 부진한 가운데 2분기에는 기업경기가 소폭 개선될 것이라는 전망이 나왔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260507149200003",
+      "publishedAt": "2026-05-07T21:00:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "더 오를 걸 아는데도…삼성전자를 전부 팔아버린 그 남자",
+      "summary": "김승호 짐킴홀딩스 회장 인터뷰 베스트셀러 ‘부의 속성’ 저자국내 대학교를 중퇴하고 혈혈단신 미국으로 넘어간 것은 결과적으론 옳은 선택이었다. 그러나 1987년 당시엔 아무도 김승호..",
+      "link": "https://www.mk.co.kr/news/economy/12037458",
+      "publishedAt": "2026-05-07T19:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "샤킬 오닐에 1조 안겨준 그 주식…AI 반도체 ‘놈놈놈’ 정체",
+      "summary": "인공지능(AI) 반도체판을 영화로 표현하면 ‘좋은 놈, 나쁜 놈, 이상한 놈’(놈놈놈)이다. 제목 순서대로 엔비디아·인텔·구글로 비유할 수 있다. AI 투자자들에게 엔비디아는 그래..",
+      "link": "https://www.mk.co.kr/news/business/12039475",
+      "publishedAt": "2026-05-07T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 현대차, '상용차 3총사' 동시 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026050723111",
+      "publishedAt": "2026-05-07T15:58:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[포토] 빗썸, 베트남 증권사와 MOU",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026050724221",
+      "publishedAt": "2026-05-07T15:41:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 과열에 동참하라\"...머스크-앤스로픽 동맹의 뜻 [빈난새의 개장전요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605072726i",
+      "publishedAt": "2026-05-07T15:08:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "저평가 매력에…현대백화점 주가 6% ‘쑥’",
+      "summary": "백화점·면세점 ‘쌍끌이’ 증권가 목표가 잇단 상향실적 발표를 마친 현대백화점의 주가가 상승세를 띄고 있다. 7일 현대백화점 주가는 전일 대비 5.66% 오른11만38000원에 거래..",
+      "link": "https://www.mk.co.kr/news/stock/12039972",
+      "publishedAt": "2026-05-07T13:00:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성전자 '최고의 순간' 아직 오지 않았다…\"여전히 저평가\" [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026050717986",
+      "publishedAt": "2026-05-07T13:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "PwC컨설팅 “K배터리, 전고체로 피지컬 AI 분야 주도권 확보를”",
+      "summary": "전고체 배터리, 작동 시간이 성패 좌우 기술 초기 단계서 국제 표준 경쟁 중요성 부각로봇·드론 등 ‘피지컬 AI’가 본격적인 상용화 단계로 나아가는 과정에서 배터리가 가장 큰 제약..",
+      "link": "https://www.mk.co.kr/news/stock/12039953",
+      "publishedAt": "2026-05-07T12:43:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼정KPMG∙영림원소프트랩, 회계감사 환경 개선 MOU",
+      "summary": "기업의 회계감사 대응 효율·정확성 동시 제고삼정KPMG와 영림원소프트랩이 기업의 회계감사 대응 환경 개선과 시장 확대를 위한 업무협약(MOU)을 체결했다고 7일 밝혔다. 협약식에는..",
+      "link": "https://www.mk.co.kr/news/stock/12039937",
+      "publishedAt": "2026-05-07T12:35:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "희망퇴직 늘리고 신입 안 뽑았는데…4대은행 1분기 인건비 ‘2조’",
+      "summary": "순이익 증가율 3%보다 더 높아 AI 활용한 생산성 제고 속도올 1분기 4대 시중은행에서 인건비로 쓴 돈이 2조원이 넘었다. 희망퇴직과 신규 채용 축소 등 인력 감축 기조에도 인건..",
+      "link": "https://www.mk.co.kr/news/economy/12039899",
+      "publishedAt": "2026-05-07T12:15:13.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -26,6 +178,14 @@
       "summary": "‘n억집’은 매일경제신문 부동산부 이석희 기자가 다양한 가격대의 기축 아파트를 임장해 소개하는 콘텐츠입니다. 수많은 아파트들 사이에서 고민하는 실수요자들의 내집마련을 돕기 위해 기..",
       "link": "https://www.mk.co.kr/news/economy/12039684",
       "publishedAt": "2026-05-07T11:00:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'닭다리' 아니라 아이스크림이라고?…'SNS 인증샷' 예고 [ 트렌드+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605070705g",
+      "publishedAt": "2026-05-07T11:00:02.000Z"
     },
     {
       "source": "한국경제",
@@ -3658,150 +3818,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202605010182i",
       "publishedAt": "2026-04-30T23:00:36.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
-      "summary": "(서울=연합뉴스) 심재훈 기자 = 1일 노동절을 맞았지만 우리나라 근로자들은 인공지능(AI)의 등장으로 직업 정체성이 불투명해지면서 불안감이 커...",
-      "link": "https://www.yna.co.kr/view/AKR20260430123800017",
-      "publishedAt": "2026-04-30T21:33:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[줌in제주] '악성' 준공 후 미분양 2천세대 넘어…제주 건설 경기 한파",
-      "summary": "(제주=연합뉴스) 백나용 기자 = 꽁꽁 얼어붙은 제주 건설 경기가 좀처럼 풀릴 기미를 보이지 않고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260430092200056",
-      "publishedAt": "2026-04-30T21:30:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'창사 첫 파업' 삼성바이오…생산 차질·6천400억 손실 우려",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 삼성바이오로직스[207940]가 지난 2011년 창사 이래 첫 전면 파업이라는 초유의 사태를 겪게 됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260430143200017",
-      "publishedAt": "2026-04-30T21:25:56.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "삼성바이오로직스 첫 전면 파업…창사 이래 처음",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 삼성바이오로직스[207940] 노동조합이 노동절인 1일 전면 파업에 들어갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260430128100017",
-      "publishedAt": "2026-04-30T21:18:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "혈세 3조 쏟아붓고는 2달러에 팔았다…18년만에 백기든 공기업",
-      "summary": "광해광업공단, 경영 공시 낮은 채산성에 무상 매각 결정 해외자원개발 역량 도마 오를듯 전문가 “안보차원서 살필 필요”한국광해광업공단이 2008년 약 3조원의 자금을 투입한 멕시코 ..",
-      "link": "https://www.mk.co.kr/news/economy/12033310",
-      "publishedAt": "2026-04-30T21:15:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "증권가, 커지는 '연내 기준금리 인상' 전망…\"2회 상향도\"",
-      "summary": "(서울=연합뉴스) 김태종 기자 = 당분간 장기화할 것으로 관측됐던 기준금리 동결 전망이 이란 전쟁 등으로 최근 급변하고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260430168900008",
-      "publishedAt": "2026-04-30T21:01:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[여기는 논설실] 삼성전자 300조 이익은 어떻게 흐르나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202604309859i",
-      "publishedAt": "2026-04-30T21:00:19.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "고양시, 일자리 학교 '바이오산업 인력 양성 과정' 참여자 모집",
-      "summary": "(고양=연합뉴스) 노승혁 기자 = 경기 고양시는 2026년 고양 맞춤형 일자리 학교 공모사업 중 &apos;바이오산업 인력 양성 과정&apos; 참여자 20명을 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260430132600060",
-      "publishedAt": "2026-04-30T21:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 우지커피, '2026 브랜드 고객충성도 대상' 카페프랜차이즈 부문 수상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050101627",
-      "publishedAt": "2026-04-30T16:33:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 에뜨와, '2026 브랜드 고객충성도 대상' 유아동복 부문 수상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050101607",
-      "publishedAt": "2026-04-30T16:31:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 바이오트루, '2026 브랜드 고객충성도 대상' 프리미엄렌즈세척액 부문 수상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050101577",
-      "publishedAt": "2026-04-30T16:30:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 베이비하우스, '2026 브랜드 고객충성도 대상' 육아용품아울렛 부문 수상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050101547",
-      "publishedAt": "2026-04-30T16:29:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 레이지, '2026 브랜드 고객충성도 대상' 레몬즙(농축) 부문 수상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050101527",
-      "publishedAt": "2026-04-30T16:28:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"AI 투자 더 쓴다, 올해 $7100억\" 구글은 되고 메타는 안되는 이유 [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202604300035i",
-      "publishedAt": "2026-04-30T15:19:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한화솔루션 유상증자 또 제동…금감원 \"증권신고서 다시 내라\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026043099941",
-      "publishedAt": "2026-04-30T15:00:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한화솔루션 유증 또 제동 … 금감원, 2차 정정 요구",
-      "summary": "금융감독원이 한화솔루션의 대규모 유상증자 계획에 다시 제동을 걸었다. 앞서 한화솔루션은 금감원의 1차 정정 요구 이후 증자 규모를 2조4000억원대에서 1조8000억원대로 줄였지만..",
-      "link": "https://www.mk.co.kr/news/stock/12032964",
-      "publishedAt": "2026-04-30T13:36:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "현대차·한화에어로 제치더니…순식간에 '80% 폭등' 일냈다 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026043091336",
-      "publishedAt": "2026-04-30T13:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금감원, 한화솔루션 유증 또 제동...2차 정정 요구",
-      "summary": "증자규모 2.4조→1.8조 축소했지만 문턱 못넘어 한화솔루션 “당국 요구 무겁게 받아들여…신고서 성실 준비”금융감독원이 한화솔루션의 대규모 유상증자 계획에 다시 제동을 걸었다. ..",
-      "link": "https://www.mk.co.kr/news/stock/12032920",
-      "publishedAt": "2026-04-30T12:38:37.000Z"
     }
   ]
 }
