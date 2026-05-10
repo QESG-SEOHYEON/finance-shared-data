@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-05-10T05:56:41.315Z",
+  "updatedAt": "2026-05-10T10:56:05.166Z",
   "historyDays": 7,
   "count": 496,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“내 노후, 더는 은행 금리에 못 맡기겠다”...퇴직연금 주식비중 급증",
+      "summary": "삼성증권 31만명 분석 원리금보장 투자 크게 줄고 실적배당형 상품으로 몰려 글로벌 AI·반도체 섹터 집중 삼전닉스 채권혼합도 인기최근 코스피가 7000선을 돌파하는 등 주식시장이..",
+      "link": "https://www.mk.co.kr/news/stock/12042791",
+      "publishedAt": "2026-05-10T09:58:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"맘대로 탈퇴 안돼\" 7시간반 대치…대학 동아리서 무슨 일이(종합)",
+      "summary": "(서울=연합뉴스) 한지은 박수현 전재훈 기자 = &quot;해외여행을 가야 해서 프로젝트를 탈퇴하겠습니다.&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260508154551004",
+      "publishedAt": "2026-05-10T09:42:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美, 불법 드론 무력화…韓은 비행 규제만",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066541",
+      "publishedAt": "2026-05-10T09:38:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "커지는 군용로봇 시장…5년 뒤 59조원으로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066101",
+      "publishedAt": "2026-05-10T09:38:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "장애인 재활 돕고 대형 산불도 진압",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066121",
+      "publishedAt": "2026-05-10T09:37:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "김정관 \"대미투자 기본원칙은 상업적 합리성…미국도 인지\"",
+      "summary": "(영종도=연합뉴스) 신창용 기자 = 캐나다·미국 방문 일정을 마친 김정관 산업통상부 장관은 대미 투자 프로젝트와 관련해 협상이 진행 중인 만큼 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260510042900003",
+      "publishedAt": "2026-05-10T09:37:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "금융위, 포용금융추진단 이달 출범",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066641",
+      "publishedAt": "2026-05-10T09:32:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "고유가에 제주항공도 승무원 무급휴직",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066401",
+      "publishedAt": "2026-05-10T09:30:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "류재철 \"문제 과감히 드러내고 이기기 위한 실행에 집중하자\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066411",
+      "publishedAt": "2026-05-10T09:29:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "동국제약 '센텔리안24'…유통 확장에 검색 폭주",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066681",
+      "publishedAt": "2026-05-10T09:24:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[녹십자 분석] 알리글로 4배 성장…“2·3분기는 매출 집중되는 성수기”",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605106464i",
+      "publishedAt": "2026-05-10T09:22:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "뉴욕·상하이 증시…트럼프 방중 앞두고, 美 4월 물가 발표",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066021",
+      "publishedAt": "2026-05-10T09:18:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 전력 인프라 ETF…수익률·자금 유입 '최고'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051065951",
+      "publishedAt": "2026-05-10T09:18:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[단독] 코스닥 1부리그 100社 이내로 추린다",
+      "summary": "정부와 한국거래소가 코스닥 시장 활성화를 위해 도입하는 '승강제'가 이르면 올해 10월부터 가동될 전망이다. 코스닥 시장을 프리미엄, 스탠더드, 관리군 등 3개 리그로 나누고 기업..",
+      "link": "https://www.mk.co.kr/news/stock/12042753",
+      "publishedAt": "2026-05-10T08:55:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "사우디 아람코, 1분기 순익 26%↑…\"전쟁에 유가상승 등 영향\"",
+      "summary": "(서울=연합뉴스) 임수정 기자 = 사우디아라비아 국영 석유기업 아람코의 올해 1분기 순이익이 중동 전쟁에 따른 유가 상승 영향 등으로 급증했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260510039200009",
+      "publishedAt": "2026-05-10T08:54:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'고공비행' 반도체 ETF, 지금 올라타도 될까요",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051065451",
+      "publishedAt": "2026-05-10T08:49:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "정유·증권·조선…덜 오른 실적주는",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051066001",
+      "publishedAt": "2026-05-10T08:48:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "'도박판' 오명, 코스닥 바뀔까 … 시총보다 실적 중심 평가 예고",
+      "summary": "코스닥 시가총액 상위권 종목 중 상당수가 실적 기반이 취약한 고평가 종목이란 점은 고질적 문제로 지적돼왔다. 실적이 충분히 검증되지 않은 기업들이 시총 상위권에 오르고 벤치마크 지..",
+      "link": "https://www.mk.co.kr/news/stock/12042738",
+      "publishedAt": "2026-05-10T08:48:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스닥 1부리그엔 연기금 유입 기대 … 3부리그는 관리·퇴출",
+      "summary": "정부의 코스닥 승강제 도입은 단순히 우량 기업군을 선별해 보여주는 것에서 나아가 지수를 추종하는 패시브 자금과 정책 자금이 활발히 유입될 수 있는 투자 생태계를 구축한다는 데 초점..",
+      "link": "https://www.mk.co.kr/news/stock/12042737",
+      "publishedAt": "2026-05-10T08:48:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "달라진 韓 에너지 지도 …석유·LNG 중동 의존 줄어",
+      "summary": "중동 전쟁 장기화로 에너지 수급 불확실성이 커지면서 한국의 중동산 에너지 의존도가 최근 급감한 것으로 나타났다. 다만 이를 장기적인 체질 개선으로 잇기 위해서는 정제설비 최적화와 ..",
+      "link": "https://www.mk.co.kr/news/economy/12042725",
+      "publishedAt": "2026-05-10T08:46:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[동여의도 위클리] 트럼프 14~15일 방중 … 삼성전자 파업 여부도 변수",
+      "summary": "코스피는 이번주에도 달릴까, 숨 고르기로 접어들까. 거시경제 부담과 지정학 변수가 한꺼번에 몰리는 한 주가 시작된다. 지난주 코스피는 한 주 동안 13% 넘게 뛰며 7498에 마감..",
+      "link": "https://www.mk.co.kr/news/stock/12042715",
+      "publishedAt": "2026-05-10T08:42:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "AI가 불붙인 우주 인프라 전쟁 … 스페이스X보다 소재·부품기업 주목",
+      "summary": "인공지능(AI)이 태동하고, 이를 기반으로 작동하는 로봇 세상이 열리고 있다. 특히 로봇들만 일하는 공장이 늘고 있다. 생산성이 탁월하기 때문이다. 예를 들어 미생물을 키우는 공장..",
+      "link": "https://www.mk.co.kr/news/stock/12042713",
+      "publishedAt": "2026-05-10T08:42:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "진옥동 신한 회장 북중미로…직접 기관투자설명회 나서",
+      "summary": "진옥동 신한금융그룹 회장(사진)이 10일부터 약 2주간 미국·멕시코·캐나다 등을 찾아 해외 기관투자자들을 만난다. 강화된 주주환원책으로 기업가치(주가)를 상승시키는 '밸류업' 전략..",
+      "link": "https://www.mk.co.kr/news/economy/12042711",
+      "publishedAt": "2026-05-10T08:42:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국세청, 하나금융 특별세무조사",
+      "summary": "국세청이 하나금융지주와 하나은행에 대한 비정기 특별 세무조사에 착수한 것으로 알려졌다. 하나금융은 2022년 정기 세무조사를 받았는데, 4년 만에 정기 세무조사가 아닌 비정기 특별..",
+      "link": "https://www.mk.co.kr/news/economy/12042710",
+      "publishedAt": "2026-05-10T08:42:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 외국환율고시표",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12042709",
+      "publishedAt": "2026-05-10T08:42:11.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "나랏돈으로 18% 이자장사 막는다…명륜당 재발 땐 정책자금 중단(종합)",
+      "summary": "(서울=연합뉴스) 배영경 기자 = &apos;명륜당 사태&apos; 재발을 막기 위해 가맹본부가 정책자금을 싸게 빌려서는 가맹점에 고금리 대출을 하면 정책자금 공...",
+      "link": "https://www.yna.co.kr/view/AKR20260509050251002",
+      "publishedAt": "2026-05-10T08:00:51.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "與 \"국힘, 집값 천정부지 치솟길 바라나…집값은 안정돼야\"",
+      "summary": "(서울=연합뉴스) 오규진 기자 = 더불어민주당은 10일 국민의힘이 다주택자 양도세 중과를 두고 &apos;집값이 더 오를 것&apos;이라고 주장한 데 대해 &quot;황...",
+      "link": "https://www.yna.co.kr/view/AKR20260510035500001",
+      "publishedAt": "2026-05-10T07:56:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "빅텍크 ‘年1000조 AI 투자’에 웃는 동아시아, 고유가 늪에 빠진 유럽",
+      "summary": "미국 빅테크발 AI 투자 확대에 반도체 밸류체인 韓日臺 ‘수혜’ 전기차 강자인 中도 수출 대박 전통 제조업 머룰러 있는 유럽은 고유가 직격탄에 수출도 삐거덕 獨상공회의소 “올해 ..",
+      "link": "https://www.mk.co.kr/news/economy/12042634",
+      "publishedAt": "2026-05-10T07:49:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "880만원 내고 매칭된 소개남, 카톡 프로필엔 '웨딩 D+108'",
+      "summary": "(서울=연합뉴스) 전재훈 기자 = 유명 연애 리얼리티 프로그램 출연자가 대표로 있는 결혼정보업체가 유부남으로 의심되는 인물을 여성에게 소개한 뒤...",
+      "link": "https://www.yna.co.kr/view/AKR20260510028700004",
+      "publishedAt": "2026-05-10T07:04:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "카뱅·토뱅에 밀리더니 연체율까지 치솟았다…설 곳 잃은 지방은행",
+      "summary": "지방银은 예금 기반 약화 연체율도 16년만 최고 기록 인뱅은 생활금융 흡수 가속인터넷전문은행이 플랫폼 경쟁력을 앞세워 예금 시장을 빠르게 잠식하는 반면 지방은행은 사실상 정체 수준..",
+      "link": "https://www.mk.co.kr/news/economy/12042540",
+      "publishedAt": "2026-05-10T06:17:58.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3730,246 +3970,6 @@
       "summary": "청와대가 금융 양극화 해소에 나섰다. 최근 이재명 대통령이 \"왜 가장 여유 있는 사람이 낮은 금리를 누리고, 가장 절박한 사람이 가장 비싼 이자를 내느냐\"고 문제를 제기한 데 따른..",
       "link": "https://www.mk.co.kr/news/economy/12034653",
       "publishedAt": "2026-05-03T10:57:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“엔비디아 미리 팔아야 하나요?”…초대형 IPO, 초대형 악재 우려",
-      "summary": "스페이스X·앤스로픽·오픈AI 총기업가치 3조달러 상장예고 나스닥100 ‘M7지분’ 뺏어올듯 자금유입 준 M7 주가하락 우려최근 뉴욕 증시에서 올해 하반기 나스닥 입성을 앞둔 스페이..",
-      "link": "https://www.mk.co.kr/news/stock/12034651",
-      "publishedAt": "2026-05-03T10:31:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'월 30만원'에 이런 것까지…소문난 '일 잘하는 직원' 정체",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050328881",
-      "publishedAt": "2026-05-03T10:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[풍산 분석] “구리는 웃고 방산은 주춤”…매각 이슈 지속 체크해야",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605033027i",
-      "publishedAt": "2026-05-03T09:40:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[한미약품 분석] “이익 줄었지만 체력은 강해졌다”…1분기 실적의 숨은 의미",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605032950i",
-      "publishedAt": "2026-05-03T09:26:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "씨티, 삼전 목표가 30만원으로 하향…\"노조 리스크가 실적 발목\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050330197",
-      "publishedAt": "2026-05-03T09:22:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "금융은 왜 약자를 배제하는가…신용등급·금리 '불문율' 건드렸다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050329741",
-      "publishedAt": "2026-05-03T09:19:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "나노바나나·덕트테이프 등장에 스러져가는 광고인들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050328871",
-      "publishedAt": "2026-05-03T09:16:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "빠릿한 GPT·똑똑한 클로드…완전히 다른 차원의 '오피스 모먼트'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050328751",
-      "publishedAt": "2026-05-03T09:15:49.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "씨티, 삼전 목표가 '32만원→30만원' 하향…'노조 리스크' 지목",
-      "summary": "(서울=연합뉴스) 이민영 기자 = 글로벌 투자은행(IB) 씨티그룹이 노조가 총파업을 예고한 삼성전자[005930]의 노사 갈등 리스크를 지목하며...",
-      "link": "https://www.yna.co.kr/view/AKR20260503044800008",
-      "publishedAt": "2026-05-03T09:12:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "경기선행·동행지표, 16년만에 최대 격차",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050329471",
-      "publishedAt": "2026-05-03T09:11:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "6000억 규모 불법 외환거래 적발",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050329481",
-      "publishedAt": "2026-05-03T09:11:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금감원, 제이알리츠 공시 검사…사채발행 시점 등 주시",
-      "summary": "국토부 합동검사반에 금투검사·공시심사 인력 투입금융당국이 국내 상장 리츠 최초로 기업회생절차에 들어간 제이알글로벌리츠의 과거 공시 내역을 들여다보고 있다. 특히 제이알리츠의 재무상..",
-      "link": "https://www.mk.co.kr/news/stock/12034638",
-      "publishedAt": "2026-05-03T09:07:29.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "AI가 쇼핑해주는 시대…금결원장 \"AI 결제플랫폼 연내 기술검증\"(종합)",
-      "summary": "(사마르칸트[우즈베키스탄]=연합뉴스) 임지우 기자 = 채병득 금융결제원장은 3일 실행형 인공지능(AI), 이른바 &apos;AI 에이전트&apos;가 소비자 대신...",
-      "link": "https://www.yna.co.kr/view/AKR20260503004251002",
-      "publishedAt": "2026-05-03T08:58:31.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "2030 영끌 줄고 '시니어 빚투' 늘었다",
-      "summary": "'빚투'(빚내서 투자) 규모가 역대 최대를 기록 중인 가운데 시니어 세대까지 부채를 활용한 투자에 뛰어들고 있는 것으로 나타났다. 청년층에 비해 보수적 투자 성향을 지녔던 5060..",
-      "link": "https://www.mk.co.kr/news/stock/12034623",
-      "publishedAt": "2026-05-03T08:53:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 중국산 크레인 없으면 韓항만 멈춘다…보수·부품까지 20년 종속",
-      "summary": "2000년 이후 中 의존도 심화 저가 선호에 국산 경쟁력 약화 작년 수입량 99% 중국산 장비 시장 잠식에 中철강 수입 늘어 유지보수에 부품도 의존 우려 발주 앞둔 진해신항 기준..",
-      "link": "https://www.mk.co.kr/news/economy/12034608",
-      "publishedAt": "2026-05-03T08:47:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "불법 대부업에 칼빼든 李 \"법정 허용치 초과땐 무효\"",
-      "summary": "이재명 대통령이 3일 \"법정 허용치를 초과하는 불법 대부는 무효\"라는 점을 재차 확인했다. 연 60%가 넘는 초고금리 불법 대부 계약에 대해서는 원금과 이자를 '한 푼도' 주지 않..",
-      "link": "https://www.mk.co.kr/news/economy/12034603",
-      "publishedAt": "2026-05-03T08:45:22.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "액티브 시니어, 불장 탑승도 공격적 … 신규 계좌 증가율 60대 이상이 최고",
-      "summary": "최근 시니어 빚투가 급증한 것은 60대 이상의 주식 투자자들이 빠르게 늘고 있기 때문으로 보인다. 3일 한국투자증권에 따르면 올해 4월까지 60대 이상 고객의 신규 계좌 수는 10..",
-      "link": "https://www.mk.co.kr/news/stock/12034592",
-      "publishedAt": "2026-05-03T08:43:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "시니어들 아슬아슬 … 신용융자·마통·카드론 '3중 빚투'",
-      "summary": "\"낮에는 코스피 계속 쳐다보고 새벽엔 미국 증시 확인하느라 요즘 수면 시간이 크게 줄었습니다.\" 시중은행에 다니다가 퇴직 후 경기도에서 작은 카페를 운영하는 김 모씨(64)는 요즘..",
-      "link": "https://www.mk.co.kr/news/stock/12034591",
-      "publishedAt": "2026-05-03T08:43:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[엘앤에프 분석] '하이니켈 회복과 LFP 진입' 두 개 축 가시화의 전환점",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605032884i",
-      "publishedAt": "2026-05-03T08:34:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "씨티, 삼성전자 목표가 하향…\"노조 리스크에 발목 잡힐 것\"",
-      "summary": "글로벌 투자은행(IB) 씨티그룹이 삼성전자의 목표주가를 하향 조정했다. 역대급 메모리 업사이클이 지속되고 있지만 격화하는 노조 파업에 따른 대규모 성과급 충당금 설정이 단기 실적의..",
-      "link": "https://www.mk.co.kr/news/stock/12034572",
-      "publishedAt": "2026-05-03T08:29:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "버핏 \"요즘 미국증시 도박판 분위기 빠져\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050328951",
-      "publishedAt": "2026-05-03T08:28:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "항만크레인 57% 중국산 … 진해신항 입찰이 국산화 시험대",
-      "summary": "국내 항만에 설치돼 있는 크레인의 절반 이상은 중국산 장비인 것으로 집계됐다. 항만 장비의 중국 의존도가 높아지면서 전후방 산업 기반까지 약화되고 있다. 관련 업계에선 향후 진해신..",
-      "link": "https://www.mk.co.kr/news/economy/12034568",
-      "publishedAt": "2026-05-03T08:18:46.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "국내 금융권 'AX동맹' 띄운다",
-      "summary": "인공지능(AI)이 전 산업으로 빠르게 확산하는 가운데 금융결제원이 'AI 대전환(AX)' 기조에 발맞춰 '금융권 AX 얼라이언스'를 추진한다. 금융권 AX 얼라이언스는 정부가 추진..",
-      "link": "https://www.mk.co.kr/news/economy/12034567",
-      "publishedAt": "2026-05-03T08:18:46.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "우리銀, 에너지 금융 확대 美 발전소 1.1조 자금 주선",
-      "summary": "우리은행이 미국 대형 가스복합화력발전소 프로젝트에 약 1조원 규모의 금융을 주선하며 북미 에너지 시장 공략에 속도를 내고 있다. 3일 우리은행은 미국 오하이오주 트럼불 카운티에 위..",
-      "link": "https://www.mk.co.kr/news/economy/12034565",
-      "publishedAt": "2026-05-03T08:18:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "결제 늦추려… 카드로 자재 구입하는 기업 급증",
-      "summary": "기업 간 물품 거래에 활용되는 구매전용카드가 빠르게 영토를 확장하고 있다. 고환율과 중동 전쟁으로 경기 불확실성이 커지면서 구매전용카드를 활용해 유동성을 확보하려는 기업들이 늘어나..",
-      "link": "https://www.mk.co.kr/news/economy/12034566",
-      "publishedAt": "2026-05-03T08:18:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"중복상장은 주주가 결정할 문제…모호한 규제는 되레 역효과\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026050328441",
-      "publishedAt": "2026-05-03T08:16:57.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "구윤철, 한중일 재무회의…\"중동 불확실 속 공동 해결방안 모색\"",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 구윤철 부총리 겸 재정경제부 장관이 중동 전쟁으로 커진 대외 불확실성에 대응하기 위해 한중일 3국 간 협력 강...",
-      "link": "https://www.yna.co.kr/view/AKR20260503041300002",
-      "publishedAt": "2026-05-03T08:04:42.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "AI가 쇼핑해주는 시대 온다…금결원, AI 결제 기술검증 나서",
-      "summary": "(사마르칸트[우즈베키스탄]=연합뉴스) 임지우 기자 = 금융결제원은 실행형 인공지능(AI), 이른바 &apos;AI 에이전트&apos;가 소비자 대신 직접 물건을 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260503004200002",
-      "publishedAt": "2026-05-03T07:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "與 \"오세훈, 주택공급 씨말려\"…국힘 \"정원오, 부동산지옥 원인\"(종합)",
-      "summary": "(서울=연합뉴스) 박수윤 최평천 기자 = 더불어민주당 정원오·국민의힘 오세훈 서울시장 후보는 3일 부동산 문제를 놓고 상대 진영의 책임론을 부각...",
-      "link": "https://www.yna.co.kr/view/AKR20260503031351001",
-      "publishedAt": "2026-05-03T06:24:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "■ 주독미군 감축, 美해외기지 조정 신호탄?…주한미군 여파 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260503032100011",
-      "publishedAt": "2026-05-03T06:00:00.000Z"
     }
   ]
 }
