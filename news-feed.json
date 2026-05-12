@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-05-12T11:47:47.048Z",
+  "updatedAt": "2026-05-12T22:06:01.615Z",
   "historyDays": 7,
-  "count": 505,
+  "count": 507,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "벤슨 아이스크림, 내년 100호점 목표…자동화·고품질로 공략",
+      "summary": "(포천=연합뉴스) 김세린 기자 = 한화갤러리아[452260] 자회사 베러스쿱크리머리가 운영하는 아이스크림 브랜드 벤슨이 품질 경쟁력과 설비 자동...",
+      "link": "https://www.yna.co.kr/view/AKR20260512165700030",
+      "publishedAt": "2026-05-12T22:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[르포] 탱크서 익는 원유·착착 담는 로봇…'스마트 팩토리' 갖춘 벤슨",
+      "summary": "(포천=연합뉴스) 김세린 기자 = &quot;이곳은 국내에서 보기 드문 원유 숙성 설비를 갖추고 있습니다. 아이스크림을 만들 때 물에 탈지분유를 섞는 일...",
+      "link": "https://www.yna.co.kr/view/AKR20260512170100030",
+      "publishedAt": "2026-05-12T22:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"반도체 다음 타자\" 하루 새 18% 폭등…외인도 쓸어담았다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051217781",
+      "publishedAt": "2026-05-12T21:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“고단백·저당 통했다”…남양유업, 6년 만의 흑자 반전",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605122120i",
+      "publishedAt": "2026-05-12T21:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "다이소도 '100원 생리대'…생활필수품 초저가 경쟁 확산 [권 기자의 장바구니]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605132127i",
+      "publishedAt": "2026-05-12T21:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓(종합)",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 인플레이션 우려가 고조된 가운데 최근 가파르게 오른 반도체 종목의 차익실현 매도세가 나오면서 뉴욕증시...",
+      "link": "https://www.yna.co.kr/view/AKR20260513005651072",
+      "publishedAt": "2026-05-12T20:43:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자 총파업 현실화하나…17시간 사후조정 '불발'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605132181g",
+      "publishedAt": "2026-05-12T20:40:29.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국제유가, 이란 협상 기대감 약화에 상승…WTI 100달러 위로",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전협상 타결 전망이 약화되면서 12일(현지시간) 국제 유가가 3% 넘게 상승했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260513004700072",
+      "publishedAt": "2026-05-12T19:24:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "달러-원, 기술주 급락·끈적한 CPI에도 숨고르기…1,490.90원 마감",
+      "summary": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 횡보 흐름을 보였다.",
+      "link": "https://www.yna.co.kr/view/AKR20260513005000002",
+      "publishedAt": "2026-05-12T19:23:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“6억 양도세 피하려다 10억 증여세”…절세 함정 빠진 다주택자들",
+      "summary": "다주택자 양도세 중과 이후 절세 전략https://www.mk.co.kr/news/realestate/120345135월 9일 이후 다주택자의 양도소득세 중과가 다시 시작되었습니다..",
+      "link": "https://www.mk.co.kr/news/economy/12044820",
+      "publishedAt": "2026-05-12T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보] 삼성전자 노사, 사후조정까지 결렬…사상 초유의 총파업 직면",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605132130i",
+      "publishedAt": "2026-05-12T18:19:33.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "워시, 美연준 이사 인준안 통과…13일 의장 인준안 표결 전망",
+      "summary": "(워싱턴=연합뉴스) 이유미 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 지명자에 대한 연준 이사직 인준안이 12일(현지시간) 미국...",
+      "link": "https://www.yna.co.kr/view/AKR20260513001500071",
+      "publishedAt": "2026-05-12T17:06:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "유가상승과 CPI보고서에 뉴욕증시 하락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605122119i",
+      "publishedAt": "2026-05-12T14:59:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "다올투자증권, 코스콤과 토큰증권 사업 추진 MOU",
+      "summary": "토큰증권 발행 인프라 구축 위한 양사 협력 본격화 시장 안정적인 정착 및 거래환경 조성 기여다올투자증권이 코스콤과 토큰증권 플랫폼사업 추진을 위한 업무협약(MOU)을 체결했다. 토..",
+      "link": "https://www.mk.co.kr/news/stock/12045453",
+      "publishedAt": "2026-05-12T14:24:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "예상대로 높았던 4월 CPI…\"연준 올해 금리인하 난망\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605122103i",
+      "publishedAt": "2026-05-12T14:03:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국내 1위 다이아몬드 공구사…IMM PE, 4000억원에 품는다",
+      "summary": "IMM 프라이빗에쿼티(IMM PE)가 국내 1위 다이아몬드 공구 제조기업 이화다이아몬드공업을 인수한다. 12일 투자은행(IB) 업계에 따르면 IMM PE는 이날 이화다이아몬드공업 ..",
+      "link": "https://www.mk.co.kr/news/stock/12045428",
+      "publishedAt": "2026-05-12T13:52:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "美 상원 은행위, ‘클래리티 법안’ 전문 공개…자금세탁방지(AML) 규제 강화",
+      "summary": "미 상원 초당적 합의안 “트럼프 서명만 남아” SEC·CFTC 경계 확정, 가상자산 제도권 편입 스테이블코인·디파이·NFT까지 한 번에 규율미국 상원 은행위원회가 가상자산 시장의 ..",
+      "link": "https://www.mk.co.kr/news/stock/12045414",
+      "publishedAt": "2026-05-12T13:40:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"흑자 냈는데 이럴 수가\"…'16% 급락' 개미들 제대로 물렸다 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051212876",
+      "publishedAt": "2026-05-12T13:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘8천피’ 코앞서 잡주처럼 널뛴 증시…뭐가 끌어내렸나 살펴보니",
+      "summary": "6거래일만에 하락전환 ‘미친 변동성’ AI 국민배당금 소식에 장중 5% 급락 마이크론 등 시간외거래 약세 영향도가파르게 오르던 코스피가 8000선을 눈앞에 두고 6거래일 만에 하락..",
+      "link": "https://www.mk.co.kr/news/stock/12045327",
+      "publishedAt": "2026-05-12T12:05:27.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3906,142 +4058,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026050683136",
       "publishedAt": "2026-05-06T01:43:46.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[팩트체크] 1년반으로 늘어난 육아휴직, 누구나 다 쓸 수 있을까",
-      "summary": "(서울=연합뉴스) 김은경 기자 = 육아휴직 등 일·가정 양립 지원제도의 수급자 수가 지난해 역대 최다인 34만명 대를 기록하는 등 나날이 증가하...",
-      "link": "https://www.yna.co.kr/view/AKR20260430169800518",
-      "publishedAt": "2026-05-05T21:30:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“욕심낼 만큼 냈다”…7천피 근접하자 개미들 우르르 차익실현",
-      "summary": "개인, 한달새 18조 순매도 예탁금 120조원대 머물고 회전율도 44%→36%대 ‘뚝’ 돌아온 외국인, 5조 사들여 ‘삼전닉스’ 빼면 1조 순매도국내 증시가 연일 고공 행진을 이..",
-      "link": "https://www.mk.co.kr/news/stock/12036895",
-      "publishedAt": "2026-05-05T21:12:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "삼성바이오 조업 재개…노사 '준법투쟁' 시각차",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 삼성바이오로직스[207940] 노동조합이 6일 조업을 재개했지만 당분간 준법 투쟁을 이어가기로 했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260505034100017",
-      "publishedAt": "2026-05-05T21:05:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "50대 그룹 보유 '비업무용 부동산' 100조원 넘어…삼성·롯데 순",
-      "summary": "(서울=연합뉴스) 임성호 기자 = 국내 50대 그룹이 보유한 비업무용 부동산 규모가 100조원대를 넘어선 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20260505034300003",
-      "publishedAt": "2026-05-05T21:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"전기차·배터리 따로 살 수 있도록\"…한경협, 규제개선 건의",
-      "summary": "(서울=연합뉴스) 홍규빈 기자 = 한국경제인협회(한경협)는 회원사 의견을 수렴해 마련한 &apos;2026 규제개선 종합과제&apos; 100건을 국무조정실에 전...",
-      "link": "https://www.yna.co.kr/view/AKR20260505033300003",
-      "publishedAt": "2026-05-05T21:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "롯데백화점, 잠실 롯데월드몰에 PS 전문 매장…'미코노미' 겨냥",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 롯데백화점은 지난 4일 송파구 잠실 롯데월드몰 지하 1층에 소니의 콘솔 게임기 플레이스테이션 전문 매장을 열었...",
-      "link": "https://www.yna.co.kr/view/AKR20260505045400030",
-      "publishedAt": "2026-05-05T21:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"강아지도 냉면·빙수 즐긴다\"…이마트, 반려견 여름 간식 출시",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 이마트의 반려동물 전문 브랜드 몰리스는 여름철을 앞두고 반려견 전용 냉면과 빙수를 출시한다고 6일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260505047500030",
-      "publishedAt": "2026-05-05T21:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "쿠팡Inc 1분기 '어닝쇼크'…4년 3개월 만에 최대 적자 [상보]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605067259g",
-      "publishedAt": "2026-05-05T20:40:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] 쿠팡Inc, 1분기 매출 12조 넘겼지만…영업손실 3545억원",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605067252g",
-      "publishedAt": "2026-05-05T20:19:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "돈을 지키고 불리는 방법, 그들은 알고 있다 [한국의 위대한 투자자]",
-      "summary": "한국의 위대한 투자자- 프롤로그“어떤 분야에서든 성공의 비결은 성공한 사람들이 무엇을 하며, 어떤 것에 대해 생각하고, 무엇에 따라 행동하는지 관찰한 후에 그대로 따라 해보는 것이..",
-      "link": "https://www.mk.co.kr/news/stock/12035961",
-      "publishedAt": "2026-05-05T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "혼하이, AI서버 수요로 4월에도 매출 30% 증가",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605057141i",
-      "publishedAt": "2026-05-05T15:04:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "송진웅 에스비비테크 대표 \"로봇관절 핵심부품으로 2030년 1000억\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026042169331",
-      "publishedAt": "2026-05-05T15:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 3월 구인공고 687만건…전반적으로 \"안정적\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605057198i",
-      "publishedAt": "2026-05-05T14:48:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "휴전의지 확인에 기업실적호조…美증시 나스닥 사상최고돌파",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605057170i",
-      "publishedAt": "2026-05-05T14:22:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“시도때도 없이 긴축노래, 이상한 분들”…이 대통령, 재정긴축론 반박",
-      "summary": "이재명 대통령은 5일 우리나라의 부채 비율 전망치가 주요국에 비해 훨씬 낮다는 통계분석 보도를 근거로 긴축재정론을 반박하고 정부의 적극 재정 기조를 재확인했다. 이 대통령은 이날 ..",
-      "link": "https://www.mk.co.kr/news/economy/12036476",
-      "publishedAt": "2026-05-05T13:11:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“기름값, 이제 전쟁 이전으론 못 돌아가”...전 IMF 부국장의 경고",
-      "summary": "경제전문가 이재우 전 IMF 부국장 인터뷰 이란의 호르무즈해협 통제 공급망 충격과 중동불안에 세계 경제 불확실성 가중 비축수요로 유가 더 오를듯 1973년 오일쇼크 당시엔 산유국..",
-      "link": "https://www.mk.co.kr/news/world/12036464",
-      "publishedAt": "2026-05-05T12:58:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "a16z 크립토, 22억달러 규모 5호 펀드 출범…스테이블코인·온체인 금융 집중 공략",
-      "summary": "총 누적 운용자산 98억 달러 달성 에디 라자린 CTO, GP로 전격 승진 투명성 앞세워 AI 및 RWA 인프라 공략세계 최대 가상자산 벤처캐피털(VC) 안드레센 호로위츠(a16z..",
-      "link": "https://www.mk.co.kr/news/stock/12036050",
-      "publishedAt": "2026-05-05T12:01:00.000Z"
     }
   ]
 }
