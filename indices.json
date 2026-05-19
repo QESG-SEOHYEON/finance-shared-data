@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-19T12:34:54.258Z",
+  "updatedAt": "2026-05-19T22:09:11.139Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 7271.66,
-      "previous": 7516.04,
-      "dayChange": -244.38,
-      "dayChangePct": -3.25,
-      "monthChangePct": 16.92,
+      "current": 7516.04,
+      "previous": 7493.18,
+      "dayChange": 22.86,
+      "dayChangePct": 0.31,
+      "monthChangePct": 20.85,
       "lastUpdated": "2026-05-19T09:05:30.000Z",
       "candles": [
         {
@@ -88,10 +88,6 @@
         {
           "date": "2026-05-18",
           "close": 7516.04
-        },
-        {
-          "date": "2026-05-19",
-          "close": 7271.66
         }
       ]
     },
@@ -100,12 +96,12 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26090.73,
-      "previous": 26225.14,
-      "dayChange": -134.41,
-      "dayChangePct": -0.51,
-      "monthChangePct": 6.91,
-      "lastUpdated": "2026-05-18T21:15:59.000Z",
+      "current": 25870.71,
+      "previous": 26090.73,
+      "dayChange": -220.02,
+      "dayChangePct": -0.84,
+      "monthChangePct": 6.01,
+      "lastUpdated": "2026-05-19T21:15:59.000Z",
       "candles": [
         {
           "date": "2026-04-20",
@@ -190,6 +186,10 @@
         {
           "date": "2026-05-18",
           "close": 26090.73
+        },
+        {
+          "date": "2026-05-19",
+          "close": 25870.71
         }
       ]
     },
@@ -198,12 +198,12 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7403.05,
-      "previous": 7408.5,
-      "dayChange": -5.45,
-      "dayChangePct": -0.07,
-      "monthChangePct": 4.13,
-      "lastUpdated": "2026-05-18T20:39:29.000Z",
+      "current": 7353.61,
+      "previous": 7403.05,
+      "dayChange": -49.44,
+      "dayChangePct": -0.67,
+      "monthChangePct": 3.44,
+      "lastUpdated": "2026-05-19T20:45:57.000Z",
       "candles": [
         {
           "date": "2026-04-20",
@@ -288,6 +288,10 @@
         {
           "date": "2026-05-18",
           "close": 7403.05
+        },
+        {
+          "date": "2026-05-19",
+          "close": 7353.61
         }
       ]
     }

@@ -1,8 +1,152 @@
 {
-  "updatedAt": "2026-05-19T12:34:53.692Z",
+  "updatedAt": "2026-05-19T22:09:10.558Z",
   "historyDays": 7,
   "count": 497,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'건폐율 완화' 이견…천안 성성고 신설 차질 우려",
+      "summary": "(홍성=연합뉴스) 김준범 기자 = 2028년 개교를 목표로 추진 중인 천안 성성고(가칭 호수고) 신설 사업과 관련, 학교 규모 확대에 따른 건폐...",
+      "link": "https://www.yna.co.kr/view/AKR20260519128600063",
+      "publishedAt": "2026-05-19T22:05:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"대형 고객사 10곳까지\"…'4년 연속 적자'에도 주가 50% 오른 곳 어디",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605196725i",
+      "publishedAt": "2026-05-19T22:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금융지주들이 본 올해 韓 경제…\"반도체가 견인, 체감과는 괴리\"",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 5대 금융지주들은 올해 유례없는 반도체 슈퍼사이클이 한국 경제 성장을 견인할 것이라고 전망했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260519151600002",
+      "publishedAt": "2026-05-19T21:34:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "평양선 1달러에 7만100원, 올들어 80% 뛰어…\"통화량 증가 때문\"",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 최근 북한의 통화량 증가 등으로 현지 원/달러 환율이 연초보다 80% 가까이 치솟았다는 연구 결과가 나왔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260519151500002",
+      "publishedAt": "2026-05-19T21:33:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금융사가 민원 원인 직접 분석…감축계획 이번주 금감원 제출",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 금융당국이 금융사들의 자율적 민원 관리를 강조하며 소비자 보호 체계 정비에 나섰다.",
+      "link": "https://www.yna.co.kr/view/AKR20260519134900002",
+      "publishedAt": "2026-05-19T21:33:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[만나보니] 한국보다 미국서 더 뜬 멘탈앱…구글도 주목",
+      "summary": "(마운틴뷰&amp;lt;캘리포니아&amp;gt;=연합뉴스) 한상용 기자 = 한국보다 해외에서 더 많이 쓰이는 국내 멘탈테크 스타트업이 빅테크 구글의 주목을 받...",
+      "link": "https://www.yna.co.kr/view/AKR20260519136200017",
+      "publishedAt": "2026-05-19T21:33:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "후시딘·마데카솔의 변신…제약사들 K뷰티 공략",
+      "summary": "(서울=연합뉴스) 박상현 기자 = K뷰티 열풍이 지속되는 가운데 제약업체들이 연구 성과를 활용한 기능성 화장품을 연이어 선보이며 사업 영역을 확...",
+      "link": "https://www.yna.co.kr/view/AKR20260519126900017",
+      "publishedAt": "2026-05-19T21:13:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자 총파업, 오늘 오전 10시 최종 담판",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052075047",
+      "publishedAt": "2026-05-19T21:10:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“코스피 따라 무너진 멘탈, 실적 보고 찾아야”…2분기도 ‘역대급’ 예고",
+      "summary": "상장사 313곳 영업익 전망 1분기 대비 92% 급증할듯 삼전 84조·닉스 62조 벌고 조선은 수주인식 효과 결실 정유화학, 업황회복 기대 증권사 호실적도 이어갈듯올 2분기 코스..",
+      "link": "https://www.mk.co.kr/news/stock/12052782",
+      "publishedAt": "2026-05-19T21:09:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "회사실손 있으면 개인 보험료 내지마세요…‘이중납부 중지’ 가능",
+      "summary": "# A씨는 입사 후 회사가 제공하는 단체 실손보험에 가입했다. 하지만 동시에 개인 실손보험료도 성실히 납부했다. 납입 중지 제도에 대한 설명을 듣지 못했기 때문이다. 이로 인해 A..",
+      "link": "https://www.mk.co.kr/news/economy/12052772",
+      "publishedAt": "2026-05-19T20:56:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“AI 랠리 고점 아니냐고요? … 지금은 밀리면 더 살 때”",
+      "summary": "조홍래 쿼터백자산운용 대표미국·이란을 둘러싼 중동 불안에도, 높아진 유가와 연이은 물가 서프라이즈에도 주식시장 랠리가 계속되고 있다. 전례 없는 에너지 공급 충격으로 평가 받고 있..",
+      "link": "https://www.mk.co.kr/news/stock/12051711",
+      "publishedAt": "2026-05-19T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "아침 10시부터 마라톤 협상…'성과급 제도화·상한 폐지' 놓고 격론",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051974141",
+      "publishedAt": "2026-05-19T16:48:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자 노사, 오전 10시에 회의 재개…\"사후조정 정회\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605207434i",
+      "publishedAt": "2026-05-19T15:57:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"NATO, 호르무즈 7월 초까지 개방 안 되면 선박통행 지원 검토\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605207428i",
+      "publishedAt": "2026-05-19T15:46:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "엔비디아, 이번에도 '어닝 서프라이즈' 예상…주가는?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605197408i",
+      "publishedAt": "2026-05-19T15:07:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "인플레 우려로 채권 수익률 급등하자 나스닥 1.3%↓",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605197400i",
+      "publishedAt": "2026-05-19T14:32:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "한 달새 109% 뛰었다…코스피 급락에도 '최고가' 터진 회사 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026051967296",
+      "publishedAt": "2026-05-19T13:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "오늘 같은 날에 혼자만 빨갛다…올해 주가 3배로 뛴 ‘반도체 기판주’",
+      "summary": "올해 주가 192% 오른 LG이노텍 기판 공급 부족에 가격 상승 수혜 장기계약·설비투자 지원 제안도 반도체株 동조화 현상에 상승세기판 공급 부족 현상에 장기 공급계약을 체결하는 사..",
+      "link": "https://www.mk.co.kr/news/stock/12052595",
+      "publishedAt": "2026-05-19T12:36:48.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3834,150 +3978,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026051330676",
       "publishedAt": "2026-05-13T02:03:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "벤슨 아이스크림, 내년 100호점 목표…자동화·고품질로 공략",
-      "summary": "(포천=연합뉴스) 김세린 기자 = 한화갤러리아[452260] 자회사 베러스쿱크리머리가 운영하는 아이스크림 브랜드 벤슨이 품질 경쟁력과 설비 자동...",
-      "link": "https://www.yna.co.kr/view/AKR20260512165700030",
-      "publishedAt": "2026-05-12T22:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[르포] 탱크서 익는 원유·착착 담는 로봇…'스마트 팩토리' 갖춘 벤슨",
-      "summary": "(포천=연합뉴스) 김세린 기자 = &quot;이곳은 국내에서 보기 드문 원유 숙성 설비를 갖추고 있습니다. 아이스크림을 만들 때 물에 탈지분유를 섞는 일...",
-      "link": "https://www.yna.co.kr/view/AKR20260512170100030",
-      "publishedAt": "2026-05-12T22:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"반도체 다음 타자\" 하루 새 18% 폭등…외인도 쓸어담았다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051217781",
-      "publishedAt": "2026-05-12T21:00:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“고단백·저당 통했다”…남양유업, 6년 만의 흑자 반전",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605122120i",
-      "publishedAt": "2026-05-12T21:00:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "다이소도 '100원 생리대'…생활필수품 초저가 경쟁 확산 [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605132127i",
-      "publishedAt": "2026-05-12T21:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓(종합)",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 인플레이션 우려가 고조된 가운데 최근 가파르게 오른 반도체 종목의 차익실현 매도세가 나오면서 뉴욕증시...",
-      "link": "https://www.yna.co.kr/view/AKR20260513005651072",
-      "publishedAt": "2026-05-12T20:43:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼성전자 총파업 현실화하나…17시간 사후조정 '불발'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605132181g",
-      "publishedAt": "2026-05-12T20:40:29.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국제유가, 이란 협상 기대감 약화에 상승…WTI 100달러 위로",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전협상 타결 전망이 약화되면서 12일(현지시간) 국제 유가가 3% 넘게 상승했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260513004700072",
-      "publishedAt": "2026-05-12T19:24:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "달러-원, 기술주 급락·끈적한 CPI에도 숨고르기…1,490.90원 마감",
-      "summary": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 횡보 흐름을 보였다.",
-      "link": "https://www.yna.co.kr/view/AKR20260513005000002",
-      "publishedAt": "2026-05-12T19:23:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“6억 양도세 피하려다 10억 증여세”…절세 함정 빠진 다주택자들",
-      "summary": "다주택자 양도세 중과 이후 절세 전략https://www.mk.co.kr/news/realestate/120345135월 9일 이후 다주택자의 양도소득세 중과가 다시 시작되었습니다..",
-      "link": "https://www.mk.co.kr/news/economy/12044820",
-      "publishedAt": "2026-05-12T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] 삼성전자 노사, 사후조정까지 결렬…사상 초유의 총파업 직면",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605132130i",
-      "publishedAt": "2026-05-12T18:19:33.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "워시, 美연준 이사 인준안 통과…13일 의장 인준안 표결 전망",
-      "summary": "(워싱턴=연합뉴스) 이유미 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 지명자에 대한 연준 이사직 인준안이 12일(현지시간) 미국...",
-      "link": "https://www.yna.co.kr/view/AKR20260513001500071",
-      "publishedAt": "2026-05-12T17:06:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "유가상승과 CPI보고서에 뉴욕증시 하락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605122119i",
-      "publishedAt": "2026-05-12T14:59:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "다올투자증권, 코스콤과 토큰증권 사업 추진 MOU",
-      "summary": "토큰증권 발행 인프라 구축 위한 양사 협력 본격화 시장 안정적인 정착 및 거래환경 조성 기여다올투자증권이 코스콤과 토큰증권 플랫폼사업 추진을 위한 업무협약(MOU)을 체결했다. 토..",
-      "link": "https://www.mk.co.kr/news/stock/12045453",
-      "publishedAt": "2026-05-12T14:24:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "예상대로 높았던 4월 CPI…\"연준 올해 금리인하 난망\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605122103i",
-      "publishedAt": "2026-05-12T14:03:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "국내 1위 다이아몬드 공구사…IMM PE, 4000억원에 품는다",
-      "summary": "IMM 프라이빗에쿼티(IMM PE)가 국내 1위 다이아몬드 공구 제조기업 이화다이아몬드공업을 인수한다. 12일 투자은행(IB) 업계에 따르면 IMM PE는 이날 이화다이아몬드공업 ..",
-      "link": "https://www.mk.co.kr/news/stock/12045428",
-      "publishedAt": "2026-05-12T13:52:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "美 상원 은행위, ‘클래리티 법안’ 전문 공개…자금세탁방지(AML) 규제 강화",
-      "summary": "미 상원 초당적 합의안 “트럼프 서명만 남아” SEC·CFTC 경계 확정, 가상자산 제도권 편입 스테이블코인·디파이·NFT까지 한 번에 규율미국 상원 은행위원회가 가상자산 시장의 ..",
-      "link": "https://www.mk.co.kr/news/stock/12045414",
-      "publishedAt": "2026-05-12T13:40:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"흑자 냈는데 이럴 수가\"…'16% 급락' 개미들 제대로 물렸다 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051212876",
-      "publishedAt": "2026-05-12T13:00:01.000Z"
     }
   ]
 }
