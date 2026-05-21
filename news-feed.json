@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-05-21T06:44:57.290Z",
+  "updatedAt": "2026-05-21T12:39:46.497Z",
   "historyDays": 7,
-  "count": 496,
+  "count": 494,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“세금 싼 나라 찾는 시대 끝나…韓기업 투자전략 달라져야”",
+      "summary": "데이비드 링케 KPMG 글로벌 세무자문총괄 글로벌 최저한세 전면 도입 세율 경쟁서 제도 신뢰 경쟁으로 전환 한국 주요기업 유럽行, 세제 아닌 공급망·규제가 결정 해외 M&A 타깃 ..",
+      "link": "https://www.mk.co.kr/news/stock/12054973",
+      "publishedAt": "2026-05-21T12:13:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"이번엔 안놓친다\"…삼성전자 '빚투' 4조 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052122826",
+      "publishedAt": "2026-05-21T12:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "산업부 \"한일 원유 스와프로 '윈윈'…합의 구체화할 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052128487",
+      "publishedAt": "2026-05-21T11:23:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“우리 한국 좋아합니다”…코스피 판 외국인, 그 돈 코스닥에 넣었다",
+      "summary": "5월 외국인 매매동향 분석 코스피서 39조 매물 쏟아내고 코스닥선 ‘저가매수’ 움직임 21일 5% 반등하며 기지개 반도체·로봇·전력 집중 베팅 팹리스기업 파두, 순매수 1위외국..",
+      "link": "https://www.mk.co.kr/news/stock/12054910",
+      "publishedAt": "2026-05-21T11:15:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"1만은 넘는다\"…반등 시작한 코스피, 어디까지 갈까",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052119956",
+      "publishedAt": "2026-05-21T11:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "책 안읽어도 지갑 연다…'북 감성' 담은 소주 잘팔리는 역설 [트렌드+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605208685g",
+      "publishedAt": "2026-05-21T11:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"29만원에 들어가자마자 뚝뚝\"…500만 삼전 개미들 '분통'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052126021",
+      "publishedAt": "2026-05-21T11:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "누가 먼저 팔았나 했더니…40만원 넘던 주식이 28만원 됐다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052115136",
+      "publishedAt": "2026-05-21T11:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "휘발유 최고가 1934원 '4연속 동결'…변동성 줄어 조정주기 2주→4주로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052128111",
+      "publishedAt": "2026-05-21T10:48:52.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "토스플레이스, 오프라인 결제단말기 특허 무효심판 승소",
+      "summary": "(서울=연합뉴스) 오지은 기자 = 토스의 결제 단말기 자회사 토스플레이스가 한국정보통신[025770](KICC)을 상대로 제기한 특허 무효심판에...",
+      "link": "https://www.yna.co.kr/view/AKR20260521171100017",
+      "publishedAt": "2026-05-21T10:37:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“빚투, 이렇게 무서운 거구나”…‘공포 휩싸인’ 개미, 급락장에 3000억 강제 청산",
+      "summary": "‘하루 1000억 이상’은 31개월來 처음신용거래융자 잔고가 36조2000억원 수준으로 사상 최고치를 기록하고 있는 가운데 단기 급락장 여파로 대규모 반대매매가 발생했다. 21일 ..",
+      "link": "https://www.mk.co.kr/news/stock/12054857",
+      "publishedAt": "2026-05-21T10:26:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "정부, 석유 최고가격 또 동결…조정 주기 4주로 연장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052127867",
+      "publishedAt": "2026-05-21T10:17:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "행안부, 스타벅스 불매 선언…관가 전반 확산하나",
+      "summary": "(서울=연합뉴스) 양정우 고유선 한혜원 기자 = 윤호중 행정안전부 장관이 5·18민주화운동 기념일을 &apos;탱크데이(Tank Day)&apos;로 표현해 물의...",
+      "link": "https://www.yna.co.kr/view/AKR20260521170200530",
+      "publishedAt": "2026-05-21T10:15:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "6차 석유 최고가격 또 동결…조정주기는 '2주'에서 '4주' 단위로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605212770i",
+      "publishedAt": "2026-05-21T10:03:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"영업익 10% 이상 성과급\" TSMC 거론한 삼성 노조…'속사정'은 달랐다 [인더스토리]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605158264g",
+      "publishedAt": "2026-05-21T10:01:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "석유 최고가격제 4연속 동결…유류세 인하 7월말까지 연장",
+      "summary": "정부가 휘발유·경유 유류세 인하 조치를 오는 7월 말까지 추가 연장한다. 중동전쟁으로 석유 제품 가격이 상승하면서 민생물가를 끌어올리는 것을 막기 위한 조치다. 아울러 22일부터 ..",
+      "link": "https://www.mk.co.kr/news/economy/12054727",
+      "publishedAt": "2026-05-21T10:01:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "석유 최고가격, 4회 연속 동결…조정 주기 '2주→4주'로 늘린다",
+      "summary": "(세종=연합뉴스) 신창용 기자 = 정부가 22일 0시부터 적용되는 6차 석유 최고가격을 동결했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260521169400003",
+      "publishedAt": "2026-05-21T10:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "현대차, AI로 신차 기획 혁신",
+      "summary": "경쟁차 비교 수십분 단축 시장·고객 데이터 통합 실무 협업으로 AX 가속현대자동차그룹 상품본부 마켓 인텔리전스(MI) 센터가 인공지능(AI) 기반 시장 분석 시스템 ‘에이미(AIM..",
+      "link": "https://www.mk.co.kr/news/economy/12054800",
+      "publishedAt": "2026-05-21T09:45:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "중기부-4대 과기원, 세계 100위권 창업도시 키운다",
+      "summary": "창업도시 조성 프로젝트 전략발표회 개최 2030년까지 100위권 창업도시 5곳 목표정부가 2030년까지 세계 100위권 창업도시 5곳을 육성하는 ‘창업도시 조성 프로젝트 계획’을 ..",
+      "link": "https://www.mk.co.kr/news/economy/12054792",
+      "publishedAt": "2026-05-21T09:41:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한-키르기스스탄 경제공동위 개최…韓기업 투자 확대 논의",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 박종한 외교부 경제외교조정관이 21일 외교부 청사에서 바키트 시디코프 키르기스스탄 경제상업부 장관과 제7차 한...",
+      "link": "https://www.yna.co.kr/view/AKR20260521166800504",
+      "publishedAt": "2026-05-21T09:28:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "쿠팡이츠, 일반회원도 8월까지 '무료 배달'…민주당 \"기만 상술\"(종합)",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 쿠팡이츠는 오는 8월까지 일반 회원에게도 무료 배달 혜택을 제공하는 프로모션을 진행한다고 21일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260521056451030",
+      "publishedAt": "2026-05-21T09:28:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[인기검색TOP5] 현대모비스, 삼성전기, 제룡산업, 대우건설, 삼성전자",
+      "summary": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 현대모비스 +17.01%, 삼성전기 +12.54%, 제룡..",
+      "link": "https://www.mk.co.kr/news/stock/12054785",
+      "publishedAt": "2026-05-21T09:19:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "막오른 美 초거대 IPO…스페이스X '첫 테이프'",
+      "summary": "미국 증시에서 역사상 최대 규모 기업공개(IPO)가 잇달아 진행되면서 글로벌 증시 자금 흐름에 어떤 영향을 미칠지 관심이 쏠린다. 우주기업 스페이스X, 생성형 인공지능(AI) 기..",
+      "link": "https://www.mk.co.kr/news/stock/12054771",
+      "publishedAt": "2026-05-21T09:07:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국민연금, 국내주식 보유한도 5%P 높인다",
+      "summary": "삼성전자가 노사 간에 잠정 합의를 이뤄 일단 파업은 막아내면서 국내 증시가 상승한 가운데 국민연금이 국내주식 보유 한도를 지금보다 5%포인트 높일 계획인 것으로 전해졌다. 코스피 ..",
+      "link": "https://www.mk.co.kr/news/economy/12054770",
+      "publishedAt": "2026-05-21T09:07:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼성파업 면하자…코스피 '불기둥'",
+      "summary": "8000선을 장중 한때 터치한 이후 조정을 받았던 코스피가 21일 급반등해 단숨에 7800선에 올라섰다. 삼성전자 노사가 극적으로 임금협상에 잠정 합의했다는 소식과 함께 미국 반도..",
+      "link": "https://www.mk.co.kr/news/stock/12054769",
+      "publishedAt": "2026-05-21T09:07:27.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "다이나믹디자인 \"인도네시아 자회사 주식 30억원에 추가취득\"",
+      "summary": "(서울=연합뉴스) 코스피 상장사 다이나믹디자인[145210]은 인도네시아의 타이어 금형 제작 자회사(PT. DYNAMIC DESIGN INDON...",
+      "link": "https://www.yna.co.kr/view/AKR20260521165400008",
+      "publishedAt": "2026-05-21T09:03:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국민연금 기계적 매도 부담 덜듯 … 정부 \"체급 커진 만큼 더 담아야\"",
+      "summary": "정부가 국민연금의 국내 주식 비중 확대를 추진하는 것은 최근 반도체 관련주를 필두로 국내 증시가 가파르게 상승하면서 국민연금이 보유한 주식 가치가 현행 운용한도를 크게 넘어섰기 때..",
+      "link": "https://www.mk.co.kr/news/economy/12054755",
+      "publishedAt": "2026-05-21T09:03:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "EU \"천연가스 소비 감축 추진\" [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052125511",
+      "publishedAt": "2026-05-21T09:00:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'더 오른다' 1조 걸었다…삼전닉스 찍은 개미들 '우르르' 베팅",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605212370i",
+      "publishedAt": "2026-05-21T08:48:20.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3722,254 +3954,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026051467266",
       "publishedAt": "2026-05-14T13:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "김정관 장관 \"삼성전자 파업시 긴급조정권 발동 불가피\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605147593i",
-      "publishedAt": "2026-05-14T12:35:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한화솔루션, 1.8조 유증 규모 고수...금감원 제동에 “충실히 작성”",
-      "summary": "한화솔루션이 금융감독원의 두 차례 제동으로 잠정 연기됐던 1조8000억원대 유상증자를 다시 추진한다. 일각에서 유증 규모를 축소할 것이라고 전망했지만 미래 성장 기술 투자와 재무 ..",
-      "link": "https://www.mk.co.kr/news/business/12048098",
-      "publishedAt": "2026-05-14T11:12:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "쨍하고 해 뜰 날 기다렸다는 듯...난감한 AI 국민배당제 [논설실 Pick]",
-      "summary": "2017~18년 반도체 투톱 법인세 40조원 업황 꺾이고 2019~2020년 세수 반토막 귀한 세금, 미래세대 쓸 재원으로 아껴야유행가 가사 같은 쨍하고 해 뜰 날이 개인의 운수..",
-      "link": "https://www.mk.co.kr/news/economy/12048074",
-      "publishedAt": "2026-05-14T11:00:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“예약 2000명 몰렸다”…여의도 직장인들 줄 세운 이탈리안 식당 [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605145853i",
-      "publishedAt": "2026-05-14T11:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"카스 빼고 다 제쳤다\"…협업 상품으로 또 대박 낸 편의점",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605147022g",
-      "publishedAt": "2026-05-14T11:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "현대차·기아 부품운송노조 파업 돌입…\"車 생산 차질 가능성\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605147523i",
-      "publishedAt": "2026-05-14T10:58:57.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "증권사들 역대급 실적…'투자의 시대'에 은행 중심 금융권 흔들",
-      "summary": "(서울=연합뉴스) 황철환 김유아 기자 = 코스피가 꿈의 &apos;8천피&apos; 시대를 눈앞에 두고 있는 가운데 국내 대형 증권사의 실적이 크게 개선되면서 5...",
-      "link": "https://www.yna.co.kr/view/AKR20260514153600008",
-      "publishedAt": "2026-05-14T10:42:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "中 부흥과 'MAGA' 양립 가능하다는 시진핑…만찬 메뉴는",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605147505i",
-      "publishedAt": "2026-05-14T10:41:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이마트, 신세계건설에 5000억 출자",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051474941",
-      "publishedAt": "2026-05-14T10:41:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "브레이크 안 밟아도 멈췄다…인천공항 노리는 '현실판 카트라이더' [영상]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051467947",
-      "publishedAt": "2026-05-14T10:31:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "3개월만에 작년 반년치 벌어들였다…코스피 불장에 증권사 ‘함박웃음’",
-      "summary": "증권사 지난해 9조원대 수익 올 순익 10조 돌파 무난할듯 미래에셋證 분기 1조원 돌파코스피가 8000선을 목전에 두는 등 국내 증시가 연일 사상 최고치를 기록하면서 증권사들이 1..",
-      "link": "https://www.mk.co.kr/news/stock/12048020",
-      "publishedAt": "2026-05-14T10:14:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "美주식분석 AI모델 개발 고3 “투자 정보 비대칭 허물 것”",
-      "summary": "중3 때 투자 입문한 뒤 투자대회 최상위권 투자 경험 바탕으로 시장 분석 AI 개발 시장 상태에 따라 판단 기준 스스로 바꾸고 금융정보 종합 해석해 실제 투자 판단으로 연결“처음..",
-      "link": "https://www.mk.co.kr/news/stock/12047947",
-      "publishedAt": "2026-05-14T09:43:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "반도체·유통·로봇 신고가 랠리…삼성전자 역사적 신고가 돌파 [매경 자이앤트]",
-      "summary": "국내 증시는 다수 종목이 신고가를 경신하며 활발한 모습을 보였다. 특히 반도체와 유통 업종으로 시장의 관심이 집중됐으며, 로봇 및 금융 관련 종목들 또한 강세를 나타냈다. 14일 ..",
-      "link": "https://www.mk.co.kr/news/stock/12047945",
-      "publishedAt": "2026-05-14T09:40:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'육각형 수익구조' 짠 한투, 1분기 영업익 1兆 육박",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051472481",
-      "publishedAt": "2026-05-14T09:24:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "신한투자證, 1분기 퇴직연금 수익률 '업계 톱' 달성",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051472471",
-      "publishedAt": "2026-05-14T09:23:15.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "우리은행 법인, '가상자산 환치기 직원 방조' 혐의 1심서 무죄",
-      "summary": "(서울=연합뉴스) 이승연 기자 = 가상자산 환치기 일당과 공모해 거액의 외환 송금을 실행한 직원을 방조한 혐의로 기소된 우리은행 법인이 1심에서...",
-      "link": "https://www.yna.co.kr/view/AKR20260514168900004",
-      "publishedAt": "2026-05-14T09:11:32.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "금호타이어 \"폴란드 자회사 주식 596억원에 추가취득\"",
-      "summary": "(서울=연합뉴스) 코스피 상장사 금호타이어[073240]는 폴란드의 타이어 제조 및 판매 자회사(Kumho Tire Poland Sp. z o....",
-      "link": "https://www.yna.co.kr/view/AKR20260514165400008",
-      "publishedAt": "2026-05-14T09:11:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동정] 국토장관, 현대차그룹 새만금 투자 지원방안 논의",
-      "summary": "▲ 김윤덕 국토교통부 장관은 14일 오후 국토발전전시관에서 새만금 투자 지원방안을 점검하고 투자자인 현대차그룹의 건의 사항을 들었다고 밝혔다. ...",
-      "link": "https://www.yna.co.kr/view/AKR20260514169700003",
-      "publishedAt": "2026-05-14T09:10:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "지난달 금리 동결 찬성 일본은행 위원 \"조기 인상이 바람직\"",
-      "summary": "(도쿄=연합뉴스) 경수현 특파원 = 지난달 28일 일본은행의 기준금리 동결 결정에 찬성한 마스 가즈유키 심의위원이 14일 &quot;경기 하락 조짐이 명...",
-      "link": "https://www.yna.co.kr/view/AKR20260514169500073",
-      "publishedAt": "2026-05-14T09:09:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "李, 부처 실국장 불러 실무 보고 받는다",
-      "summary": "이재명 대통령이 정부 부처의 실·국장급 간부들을 청와대로 불러 업무보고를 겸한 간담회를 갖기로 했다. 정부 정책을 현장에서 다루는 고위 공무원들을 별도로 만나 부처별 내부 상황과 ..",
-      "link": "https://www.mk.co.kr/news/economy/12047934",
-      "publishedAt": "2026-05-14T09:05:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "청년미래적금 내달 출시… 年수익 최대 19% '쏠쏠'",
-      "summary": "이재명 정부가 청년들의 자산 형성을 돕기 위해 출시하는 '청년미래적금'의 금리가 최대 연 7~8% 수준으로 확정됐다. 금융위원회는 14일 소상공인시장진흥공단 서울 교육장에서 '청년..",
-      "link": "https://www.mk.co.kr/news/economy/12047932",
-      "publishedAt": "2026-05-14T09:05:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"모두 좋은 팔방미인\", 신세계를 다시 봐야 하는 이유 [한경 PREMIUM9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051471951",
-      "publishedAt": "2026-05-14T09:04:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "李, 국민목숨 살리는 정책을 1순위로 … 사회안전망·포용금융 가속",
-      "summary": "이재명 대통령이 '국민 목숨을 살리는 정부'를 새 국정목표로 제시한 것은 정책에 대한 공직사회의 인식 전환을 주문한 것으로 풀이된다. 산업재해·자살 예방 등 국민 안전과 직접적으로..",
-      "link": "https://www.mk.co.kr/news/economy/12047922",
-      "publishedAt": "2026-05-14T09:03:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "부처 업무보고 6개월만에 정책 일선간부 소집한 李",
-      "summary": "이재명 대통령이 각 부처 실장·국장을 소집해 업무보고를 받기로 하면서 관가에 긴장감이 감돌고 있다. 취임 후 지난 1년여간 속도와 성과를 강조해온 이 대통령이 부처별 현장 목소리를..",
-      "link": "https://www.mk.co.kr/news/economy/12047923",
-      "publishedAt": "2026-05-14T09:03:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "원텍, 750억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 원텍이 제3회 750억 원 규모의 전환사채를 발행한다고 2026년 5월 14일 공시했다. 전환가액은 8270원이며, 전환 청구 기간은 2027년 5월 22일부터 20..",
-      "link": "https://www.mk.co.kr/news/stock/12047904",
-      "publishedAt": "2026-05-14T09:02:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "인콘, 150억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 인콘이 제13회 150억 원 규모의 전환사채를 발행한다고 2026년 5월 14일 공시했다. 전환가액은 1597원이며, 전환 청구 기간은 2027년 6월 12일부터 2..",
-      "link": "https://www.mk.co.kr/news/stock/12047905",
-      "publishedAt": "2026-05-14T09:02:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12047901",
-      "publishedAt": "2026-05-14T09:00:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "summary": "■ 시진핑, 트럼프에 &apos;공존의 길&apos; 강조…대만문제엔 &quot;잘못하면 충돌&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260514162000011",
-      "publishedAt": "2026-05-14T09:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美국채·월가 빌딩도 소액투자 블랙록·골드만이 꽂힌 'RWA'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051472671",
-      "publishedAt": "2026-05-14T08:53:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "하워드 막스 \"AI 경쟁 과열…최후의 승자 예측 어렵다\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051473431",
-      "publishedAt": "2026-05-14T08:47:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "STX그린로지스, 썬에이스 매각 추진",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051472611",
-      "publishedAt": "2026-05-14T08:47:38.000Z"
     }
   ]
 }
