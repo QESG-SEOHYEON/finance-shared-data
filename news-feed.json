@@ -1,8 +1,200 @@
 {
-  "updatedAt": "2026-05-25T07:05:48.831Z",
+  "updatedAt": "2026-05-25T12:56:39.690Z",
   "historyDays": 7,
-  "count": 453,
+  "count": 450,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "폭등과 폭락 사이…불확실한 장세에 투자 중심 잡으려면",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573251",
+      "publishedAt": "2026-05-25T09:53:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"커버드콜·원자재 ETF로 변동성 리스크 분산 필요\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573261",
+      "publishedAt": "2026-05-25T09:50:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "한은, 올 경제성장률 전망치 얼마나 올릴까",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573421",
+      "publishedAt": "2026-05-25T09:48:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "원·달러 환율, 1500원선 '뉴노멀' 되나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573401",
+      "publishedAt": "2026-05-25T09:46:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "뉴욕·상하이 증시, 美 4월 물가지수 발표 주목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573411",
+      "publishedAt": "2026-05-25T09:40:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] HMM, 부산으로 본사 주소 이전…\"직원 이동 시기는 미정\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573681",
+      "publishedAt": "2026-05-25T09:39:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "中, 보조금 뿌리는데…韓, 稅혜택서 제외",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573701",
+      "publishedAt": "2026-05-25T09:36:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "대주주 블록딜에 다시 퍼지는 '리노공업 M&A설'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573651",
+      "publishedAt": "2026-05-25T09:36:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "캐나다 해군 \"안창호함, 새 테슬라 같다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052573631",
+      "publishedAt": "2026-05-25T09:34:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"MTS로 벌고 PB가 독식\"…증권사도 노노갈등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052574621",
+      "publishedAt": "2026-05-25T09:18:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“월50만원 3년 넣으면 455만원 더”...‘연 19%’ 이자 준다는 청년적금",
+      "summary": "정권이 바뀔 때마다 이름이 달라져 나오는 정책 금융상품이 있습니다. 청년의 자산 형성을 돕는단 취지의 적금 상품입니다. 문재인 정부, 윤석열 정부에 이어 이재명 정부도 마찬가지입니..",
+      "link": "https://www.mk.co.kr/news/economy/12057110",
+      "publishedAt": "2026-05-25T09:18:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“시장안정 원한다면 시장을 맹신하지 마라”…신현송 경제학의 본질",
+      "summary": "BOK WATCHER - 신현송 한국은행총재 인물 해부②신현송 총재가 경제학자로서 주로 전공한 분야는 한 나라의 외환 금융 시장의 안정과 관련한 이슈다. 경제학적 방법론과 시장 안..",
+      "link": "https://www.mk.co.kr/news/economy/12057109",
+      "publishedAt": "2026-05-25T09:17:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“땡큐! 젠슨 황” 엔비디아 덕에 반등…이번주 금통위·연준에 달린 8천피",
+      "summary": "“땡큐! 젠슨 황!” 지난주 동여의도 국장은 이 한 줄로 정리됩니다. 5월 20일 장중 코스피는 7053까지 밀려 7000선이 무너지기 직전까지 내려갔습니다. 그러다 5월 21일 ..",
+      "link": "https://www.mk.co.kr/news/stock/12057108",
+      "publishedAt": "2026-05-25T09:11:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "빈집 철거비 지원, 온라인으로 신청한다",
+      "summary": "빈집철거 지원사업 개편안 발표 오프라인 신청만 가능했던 제도 ‘빈집애’ 누리집 통해 신청 가능 지자체 행정부담 줄여 정비 가속정부가 개인 소유 빈집 철거 비용을 지원하는 ‘빈집철거..",
+      "link": "https://www.mk.co.kr/news/economy/12057106",
+      "publishedAt": "2026-05-25T08:58:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "기본대출·기본보험 '시동'",
+      "summary": "금융당국이 금융약자를 위한 기본채무조정·기본대출·기본보험 등 이른바 '기본금융' 논의에 착수한다. 금융취약계층이 금융시스템에서 배제되지 않고 재기할 수 있는 기회를 보장해야 한다는..",
+      "link": "https://www.mk.co.kr/news/economy/12057102",
+      "publishedAt": "2026-05-25T08:54:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "배당도 '호황'… 올 70조 쏜다",
+      "summary": "국내 증시 상장사의 배당 규모가 올해 70조원에 육박할 것으로 전망된다. 배당 확대는 장기 투자를 유도해 증시가 '8000피' 이후에도 견조한 흐름을 이어갈 수 있도록 만드는 필요..",
+      "link": "https://www.mk.co.kr/news/stock/12057101",
+      "publishedAt": "2026-05-25T08:54:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "엔비디아 팔고 스페이스X로?…美 증시 'IPO 빅뱅'에 초긴장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052574531",
+      "publishedAt": "2026-05-25T08:53:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美 2천억弗 IPO '유동성 블랙홀' 되나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052574461",
+      "publishedAt": "2026-05-25T08:51:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "꼬박꼬박 돈 꽂히는 '배당ETF' 인기",
+      "summary": "국내 증시의 배당 확대 흐름과 함께 정기적으로 현금흐름을 확보하려는 '인컴 투자' 수요도 빠르게 늘고 있다. 기업들의 배당금 증가로 배당 상장지수펀드(ETF)의 분배율이 높아진 데..",
+      "link": "https://www.mk.co.kr/news/stock/12057084",
+      "publishedAt": "2026-05-25T08:50:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "시세차익에 주주환원은 덤 …'배당 효자' 된 반도체·조선株",
+      "summary": "국내 증시의 배당 지형이 빠르게 바뀌고 있다. 오랜 기간 배당 확대를 이끌었던 은행·보험 중심 금융주에 더해 반도체와 조선 등 수출 대형주가 새로운 '배당 주도주'로 부상하면서다...",
+      "link": "https://www.mk.co.kr/news/stock/12057083",
+      "publishedAt": "2026-05-25T08:50:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"금융 불평등 완화하자\" 李대통령 강력 의지",
+      "summary": "금융당국이 본격적인 논의에 착수한 '기본금융'은 이재명 대통령의 20대 대선 후보 시절 대표적인 금융공약이었다. 기본금융으로 금융불평등을 완화하겠다는 구상이었는데 크게 △기본대출 ..",
+      "link": "https://www.mk.co.kr/news/economy/12057057",
+      "publishedAt": "2026-05-25T08:33:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"기본금융 법적 근거 담아 8월 발의 추진\"",
+      "summary": "\"금융취약계층을 대상으로 채무를 조정하고 공공실손보험을 제공하며, 저금리 장기 대출과 고금리 저축까지 연결하는 체계적인 '금융사다리'를 만들겠습니다.\" 김은경 서민금융진흥원장 겸 ..",
+      "link": "https://www.mk.co.kr/news/economy/12057058",
+      "publishedAt": "2026-05-25T08:33:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[단독] “썩은 살 도려내는 데 2년, 너무 길다”…중대 회계부정 상장사 즉각퇴출",
+      "summary": "금융당국, 포괄적 재량권 도입추진 분식회계 등 파장 큰 사안 신속상폐 향후 코리아디스카운트 해소 효과도 회계감리도 계좌추적권 부여 추진금융당국이 회계부정을 저지른 상장사를 보다..",
+      "link": "https://www.mk.co.kr/news/stock/12057039",
+      "publishedAt": "2026-05-25T08:16:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "불장의 역설…치솟은 몸값에 M&A '찬바람'",
+      "summary": "올해 들어 대내외 불확실성이 고조되면서 시장의 기대를 한 몸에 받던 인수·합병(M&A) '빅딜'이 잇달아 무산 또는 지연되고 있다. 전쟁으로 인한 실적·금리 불확실성에 더해 '우상..",
+      "link": "https://www.mk.co.kr/news/stock/12056994",
+      "publishedAt": "2026-05-25T08:01:58.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -3410,222 +3602,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026051839026",
       "publishedAt": "2026-05-18T13:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'중국판 삼성?' 매출 700% 폭증하더니…D램 세계 4위 뚫었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051847047",
-      "publishedAt": "2026-05-18T12:35:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "CJ그룹 여직원 개인정보 텔레그램 유출…\"수사 의뢰 예정\"",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = CJ그룹 임직원 개인정보가 텔레그램 채널을 통해 유출돼 파장이 예상된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260518162000030",
-      "publishedAt": "2026-05-18T12:23:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "사우디 돈줄 끊기더니…\"한국오픈 후원 못해\" 날벼락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051843701",
-      "publishedAt": "2026-05-18T12:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"이란, 미국 봉쇄로 원유 수출 지연과 병목현상 심화\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605184682i",
-      "publishedAt": "2026-05-18T11:49:27.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "산업은행, 'SK실트론 인수' 두산그룹에 2.5조 금융 주선",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 한국산업은행이 SK실트론 인수를 앞둔 두산그룹에 2조5천억원 규모의 금융 주선을 추진하는 것으로 18일 알려졌...",
-      "link": "https://www.yna.co.kr/view/AKR20260518160200002",
-      "publishedAt": "2026-05-18T11:28:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[단독] 두나무, 핵심인재 보상에 자사주 17만주 푼다…상법 개정 맞춰 정관도 정비",
-      "summary": "2027년까지 자사주 최대 17만주 지급 개정 상법 반영해 자기주식 정관 신설 28일 주총서 정관 변경·자사주 안건 의결 도규상 전 부위원장 등 사외이사 영입도국내 1위 가상자산 ..",
-      "link": "https://www.mk.co.kr/news/stock/12051400",
-      "publishedAt": "2026-05-18T11:08:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "비트코인, 다시 7만 6000달러대로 하락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605184657i",
-      "publishedAt": "2026-05-18T11:05:55.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국유니온제약, 유상증자…부광약품 주식회사에 제3자배정",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 한국유니온제약[080720]은 제3자배정 유상증자를 결정했다고 18일 공시했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260518151400008",
-      "publishedAt": "2026-05-18T11:04:55.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국유니온제약, 유상증자…박광석 등에 3자 배정",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 한국유니온제약[080720]은 제3자배정 유상증자를 결정했다고 18일 공시했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260518151300008",
-      "publishedAt": "2026-05-18T11:04:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"아아 대신 콜드브루\"…스타벅스, 출근길 직장인 메뉴 바꿨다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605182981i",
-      "publishedAt": "2026-05-18T11:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한 달 뒤 갚겠다\"지만…홈플러스, 매각대금 1200억 확보에도 '빨간불'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605183801g",
-      "publishedAt": "2026-05-18T11:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"59만전자·400만닉스 간다\"…올해 '1만피' 전망 잇따라 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051839856",
-      "publishedAt": "2026-05-18T11:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 삼성전자 노사 2차 사후조정 1일차 종료…\"접점 찾는 중\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051846067",
-      "publishedAt": "2026-05-18T10:15:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "은행권 예금 금리 줄인상…'머니무브'에 고객 붙잡기 경쟁(종합)",
-      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 은행권이 잇달아 예금 금리를 높이며 고객 자금 붙잡기 경쟁을 벌이고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260518012951002",
-      "publishedAt": "2026-05-18T09:56:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[단독]첫 복수의결권 상장사 탄생 임박에…거래소 ‘최다의결권자’ 규정 손본다",
-      "summary": "하이리움산업 기술특례 재도전으로 첫 심사 기준 마련 창업자 지분 희석 부담 낮춰 벤처 IPO 유인 확대국내 첫 복수의결권 상장사 탄생 가능성이 커지면서 한국거래소가 관련 상장규정 ..",
-      "link": "https://www.mk.co.kr/news/stock/12051315",
-      "publishedAt": "2026-05-18T09:04:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "하이리움 창업자 첫 '복수의결권'…거래소 '최다의결권 규정' 손본다",
-      "summary": "국내에서 처음으로 복수의결권 상장사가 탄생할 가능성이 커지면서 한국거래소가 관련 상장규정 정비에 나섰다. 복수의결권 주식을 발행한 하이리움산업이 코스닥 기술특례상장 절차를 다시 밟..",
-      "link": "https://www.mk.co.kr/news/stock/12051311",
-      "publishedAt": "2026-05-18T09:00:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "메모리 vs 광통신…엇갈린 '구글 ETF' 종목",
-      "summary": "밸류체인 투자란 특정 '메가캡(초대형주)' 종목에 집중하는 대신 전방위 공급망에 분산투자하는 것이다. 글로벌 생태계를 포섭할 수 있다는 점에서 상장지수펀드(ETF)는 밸류체인 투자..",
-      "link": "https://www.mk.co.kr/news/stock/12051310",
-      "publishedAt": "2026-05-18T09:00:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "졸스, 100억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 졸스가 99억 9999만 9240원 규모의 제3자배정증자를 실시한다고 2026년 5월 18일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 626만 959..",
-      "link": "https://www.mk.co.kr/news/stock/12051307",
-      "publishedAt": "2026-05-18T08:59:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "싸이토젠, 52억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 싸이토젠이 제7회 52억 원 규모의 전환사채를 발행한다고 2026년 5월 18일 공시했다. 전환가액은 5445원이며, 전환 청구 기간은 2027년 5월 26일부터 2..",
-      "link": "https://www.mk.co.kr/news/stock/12051308",
-      "publishedAt": "2026-05-18T08:59:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "최광욱 \"반도체 아직도 싸다…반면 버블구간 진입한 종목은\" [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051843991",
-      "publishedAt": "2026-05-18T08:57:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] SK실트론 인수 앞둔 두산에 産銀, 2조5000억 금융 주선",
-      "summary": "한국산업은행이 SK실트론 인수를 앞두고 있는 두산그룹에 2조5000억원 규모의 '인수금융'을 주선한다. 글로벌 반도체 전쟁이 격화하는 가운데 국내 기업의 반도체 밸류체인 구축을 국..",
-      "link": "https://www.mk.co.kr/news/economy/12051263",
-      "publishedAt": "2026-05-18T08:52:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'오락가락' 코스피…4.7% 빠졌다 0.3% 상승 마감",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051844491",
-      "publishedAt": "2026-05-18T08:48:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] “삼성전자 총파업, 최악땐 성장률 0.5%p 하락”…靑, 한은 긴급보고서 분석",
-      "summary": "‘18일간 총파업’ 거시경제 충격 분석 생산라인 전면 중단·복구 장기화 시 올 경제성장률 큰폭 하락할 가능성 李 긴급조정권 발동 가능성 시사삼성전자 노조가 예고한 총 18일 간의 ..",
-      "link": "https://www.mk.co.kr/news/politics/12051206",
-      "publishedAt": "2026-05-18T08:39:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "공무원 통근버스·국가 금연지원 … 정부, 7.7조 지출 구조조정",
-      "summary": "정부가 공무원 수도권 통근버스 운행 사업과 집행률이 부진한 사회간접자본(SOC) 등 901개 사업에 대해 총 7조7000억원 규모의 예산 감액 평가를 내렸다. 기획예산처는 18일 ..",
-      "link": "https://www.mk.co.kr/news/economy/12051199",
-      "publishedAt": "2026-05-18T08:39:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 일자리 지원 나선 하나금융",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12051149",
-      "publishedAt": "2026-05-18T08:32:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12051150",
-      "publishedAt": "2026-05-18T08:32:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "은행·카드·증권·보험 통합 '신한 슈퍼SOL' 앱 내달 출시",
-      "summary": "신한은행이 신한금융그룹의 주요 계열사 금융 서비스를 하나로 모은 '신한 슈퍼 SOL(쏠)' 앱을 오는 6월 17일 출시한다고 18일 밝혔다. 신한 슈퍼쏠은 기존 모바일뱅킹 앱인 '..",
-      "link": "https://www.mk.co.kr/news/economy/12051147",
-      "publishedAt": "2026-05-18T08:32:44.000Z"
     }
   ]
 }
