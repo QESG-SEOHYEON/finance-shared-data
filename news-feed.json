@@ -1,8 +1,176 @@
 {
-  "updatedAt": "2026-05-28T13:41:46.549Z",
+  "updatedAt": "2026-05-28T22:27:59.548Z",
   "historyDays": 7,
-  "count": 403,
+  "count": 411,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "은행도 주식으로 돈 번다…4대銀 ETF 판매액 40조, 수수료 급증",
+      "summary": "1~5월 판매액 벌써 작년 2배 수수료율 인상·차등화 전략도국내 상장지수펀드(ETF) 판매액이 40조원을 돌파하면서 ETF 신탁수수료가 은행권의 새 수익원으로 떠오르고 있다. 이런..",
+      "link": "https://www.mk.co.kr/news/economy/12060742",
+      "publishedAt": "2026-05-28T22:26:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미·이란 종전 합의 임박…3대 지수 최고치 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052955776",
+      "publishedAt": "2026-05-28T22:15:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "넥슨, 투자법인 출범…텐센트 출신 핵심 인사 영입",
+      "summary": "(서울=연합뉴스) 김주환 기자 = 넥슨이 투자 전문 법인을 설립해 유망한 게임 스타트업 발굴에 본격적으로 뛰어든다.",
+      "link": "https://www.yna.co.kr/view/AKR20260528167700017",
+      "publishedAt": "2026-05-28T22:10:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "지하철 2호선 전 구간 정상운행…서소문 철거 안전점검 완료",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울교통공사는 붕괴 사고가 발생한 서소문 고가차도 철거 공사에 따른 지하 터널 구조물 안전 점검이 완료돼 이날...",
+      "link": "https://www.yna.co.kr/view/AKR20260529010700004",
+      "publishedAt": "2026-05-28T21:43:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 인프라·반도체주 올라타라\"…특허기술이 선정한 포트폴리오 [인터뷰+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052846906",
+      "publishedAt": "2026-05-28T21:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "외인 순매도, 넉달째 이어졌지만…규모 4조원대로 줄어",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052955337",
+      "publishedAt": "2026-05-28T21:19:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "4월 서울 입주물량 전월의 2배…작년 대비로는 절반 수준",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 지난달 서울 주택 입주 물량이 전월보다는 개선됐으나 작년과 비교하면 절반 수준에 그친 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260528162300003",
+      "publishedAt": "2026-05-28T21:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'갈 길 명확하다'는 신현송의 경고…자산 포트폴리오 뼈대 바꿔라 [여기는 논설실]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605285365i",
+      "publishedAt": "2026-05-28T21:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한은 \"비IT 수출, 중국 부상에도 일본·독일보다 선방\"",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국이 정보기술(IT)을 제외한 품목의 수출 시장에서 중국의 부상에도 비교적 선방하고 있다고 한국은행이 29일...",
+      "link": "https://www.yna.co.kr/view/AKR20260528135500002",
+      "publishedAt": "2026-05-28T21:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "1분기 국내은행 부실채권비율 0.6%…5년만에 최고",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 올해 1분기 말 기준 국내은행의 부실채권비율이 상승하며 5년 만에 최고 수준을 기록했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260528162800002",
+      "publishedAt": "2026-05-28T21:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "외국인 4개월째 국내 주식 '팔자'…규모는 4조원으로 축소",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 외국인 투자자들의 국내 주식 매도 기조가 4개월 연속 이어졌지만 규모는 지난달 약 4조원으로 크게 축소됐다. ...",
+      "link": "https://www.yna.co.kr/view/AKR20260528168600002",
+      "publishedAt": "2026-05-28T21:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"케이크에 샷 추가 해봤어?\" 요즘 젠지가 디저트 먹는법 [장서우의 하입:hype]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284494i",
+      "publishedAt": "2026-05-28T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“다시 맞벌이해 볼까?” … ‘일하면 손해’ 국민연금은 이제  옛말",
+      "summary": "6월부터 月 500만원 벌어도 국민연금 안 깎여“은퇴 후 생활비가 부족해서 일 좀 했다고, 국민연금을 깎아 버리는 게 이해가 안 돼요.”(60대 A씨) 그동안 국민연금 감액 통지를..",
+      "link": "https://www.mk.co.kr/news/economy/12060025",
+      "publishedAt": "2026-05-28T20:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 삼성 '오디세이 게이밍 모니터 체험존'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052850421",
+      "publishedAt": "2026-05-28T15:56:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "악시오스,\"美-이란 휴전연장 60일 양해각서 기본 합의\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605295460i",
+      "publishedAt": "2026-05-28T15:49:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 인스파이어 리조트, K푸드 나이트 마켓",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052850971",
+      "publishedAt": "2026-05-28T15:43:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "트럼프 정부, 이번엔 트럼프 장남이 지분가진 드론 회사 투자하나?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605295456i",
+      "publishedAt": "2026-05-28T15:32:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "스노우플레이크 돈 쓴다니 30% 뛴 이유…드론주는 50% 폭등 [빈난새의 개장전요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605285438i",
+      "publishedAt": "2026-05-28T15:04:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "8연속 금리동결 바통받은 신현송…‘연내인상’ 매의 발톱 드러냈다",
+      "summary": "한은, 금리 동결속 깜짝 ‘인상’ 예고 점도표 상단 3.0%로 이동 신현송 총재 첫 금통위 주재 “금통위 위원 인식 일치했다” 매파적 메시지에 채권 ‘긴축 발작’“이번 금융통화위원..",
+      "link": "https://www.mk.co.kr/news/economy/12060585",
+      "publishedAt": "2026-05-28T14:47:22.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "물장 뚫고 나온 불기둥 LG엔솔…‘2.4조 계약’에 15% 급등",
+      "summary": "美에너지사 ‘DTE에너지’와 계약 오라클 데이터센터 전력인프라에 2026~2027년 ESS 배터리 납품 급성장 美 AI데이터센터 수요공략 연내 북미 생산능력 50GWh 목표LG에너..",
+      "link": "https://www.mk.co.kr/news/economy/12060566",
+      "publishedAt": "2026-05-28T14:00:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "없어서 못 판다더니 일냈다…주가 624%·318% 폭등한 韓 회사 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052848226",
+      "publishedAt": "2026-05-28T13:00:01.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3122,110 +3290,6 @@
       "summary": "소비자심리지수 석달만에 반등 향후 1년 기대 인플레 0.1%P↓ 집값전망지수 두달 연속 상승반도체 수출 호조와 증시 강세에 힘입어 소비자 경제심리가 3개월 만에 개선됐다. 한국은행..",
       "link": "https://www.mk.co.kr/news/economy/12055238",
       "publishedAt": "2026-05-21T23:49:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"마트 가는 김에 겸사겸사\"…쿠팡 가던 발길 돌리더니 '대박'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052126081",
-      "publishedAt": "2026-05-21T22:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[만나보니] K컬처 탄 AI 한국어앱…미국서도 1위 찍었다",
-      "summary": "(마운틴뷰=연합뉴스) 한상용 기자 = K팝과 드라마, 영화 등 K컬처 확산을 타고 AI 기반 한국어 학습 스타트업이 글로벌 시장에서 빠르게 성장...",
-      "link": "https://www.yna.co.kr/view/AKR20260521136500017",
-      "publishedAt": "2026-05-21T21:33:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼성전자 노조 임협 잠정합의안 투표 개시…27일 마감",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052230177",
-      "publishedAt": "2026-05-21T21:08:13.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "반도체 호조에 5월 소비심리 석달 만에 반등…11개월내 최대폭↑",
-      "summary": "(서울=연합뉴스) 임지우 기자 = 반도체 수출 호조, 코스피 &apos;불장&apos;에 소비자들의 경제 심리가 석달 만에 개선됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260521145800002",
-      "publishedAt": "2026-05-21T21:00:21.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "K-뷰티, 중국 더우인 손잡고 수출 확대…코트라 상담회",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 국내 K-뷰티 기업들이 중국 숏폼·라이브커머스 플랫폼인 더우인과 손잡고 현지 수출 확대를 도모한다.",
-      "link": "https://www.yna.co.kr/view/AKR20260521161600003",
-      "publishedAt": "2026-05-21T21:00:18.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "노사발전재단, '재취업지원서비스' 공동컨설팅 첫발…4곳 선정",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 노사발전재단은 재취업지원서비스를 자체 운영하기 어려운 중소기업을 위해 공동컨설팅을 시범 운영한다고 22일 밝혔...",
-      "link": "https://www.yna.co.kr/view/AKR20260521161200530",
-      "publishedAt": "2026-05-21T21:00:17.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "서울신보, 타지역 보증 이용자도 지원해 '서울시 창의실행상'",
-      "summary": "(서울=연합뉴스) 황재하 기자 = 서울신용보증재단은 타지역 신용보증재단 보증 이용 여부와 관계없이 서울에서 추가 보증을 지원받도록 제도를 개선해...",
-      "link": "https://www.yna.co.kr/view/AKR20260521164700004",
-      "publishedAt": "2026-05-21T21:00:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "3월 서울 아파트 전셋값 역대 최고치 경신…8개월 연속 상승",
-      "summary": "(서울=연합뉴스) 김동규 기자 = 지난 3월 서울의 아파트 전셋값이 8개월 연속 상승을 이어가며 역대 최고치를 경신한 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20260521169100004",
-      "publishedAt": "2026-05-21T21:00:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "1년치 예약 열리자마자 마감…대놓고 휴식 권하는 '신의 직장'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052126331",
-      "publishedAt": "2026-05-21T21:00:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“지금 증시 닷컴버블과 다르다…미국 기본 깔고 코스피 더 늘릴 때”",
-      "summary": "목대균 KCGI자산운용 대표 인터뷰최근 국내 증시가 급등과 급락을 반복하며 투자자들의 불안감이 커지고 있다. 하지만 목대균 KCGI자산운용 대표는 현재 시장을 단순한 버블 국면으로..",
-      "link": "https://www.mk.co.kr/news/stock/12054423",
-      "publishedAt": "2026-05-21T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "스페이스X 6월 상장, 우주 투자 어떻게? [김현석의 퀵브리프]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605222959i",
-      "publishedAt": "2026-05-21T15:39:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] “아기 훔볼트 펭귄 보러 오세요”",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052125291",
-      "publishedAt": "2026-05-21T15:27:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美 정부, 양자컴퓨팅 파격 베팅…엔비디아의 진짜 문제 [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605212941i",
-      "publishedAt": "2026-05-21T14:57:36.000Z"
     }
   ]
 }
