@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-05-28T00:12:44.447Z",
+  "updatedAt": "2026-05-28T06:45:23.492Z",
   "historyDays": 7,
   "count": 402,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "광주전남 1분기 금융권 대출금 증가",
+      "summary": "(광주=연합뉴스) 전승현 기자 = 광주전남 금융권의 1분기 대출(여신)금이 전분기에 비해 증가한 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260528135100054",
+      "publishedAt": "2026-05-28T06:35:28.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"손흥민 유니폼부터 펍 응원\"…식품·주류, 월드컵 마케팅 경쟁",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 식품·주류업계가 다음 달 11일 개막하는 2026 북중미 월드컵을 앞두고 한정판 제품 출시와 프로모션 등 지구...",
+      "link": "https://www.yna.co.kr/view/AKR20260528132400030",
+      "publishedAt": "2026-05-28T06:34:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "7월 금리 ‘인상론’ 급부상에…한은 총재 “금리 인상할 필요 있다”",
+      "summary": "한은 금통위 개최, 기준금리 8연속 동결 시장선 오는 7월 인상 가능성 전망한국은행 금융통화위원회는 28일 기준금리를 8회 연속 연 2.50%로 동결했지만, 신현송 한은 총재가 통..",
+      "link": "https://www.mk.co.kr/news/economy/12059993",
+      "publishedAt": "2026-05-28T06:33:38.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "증권가 \"신현송 첫 금통위 '매파적 데뷔전'…금리 인상 공식화\"",
+      "summary": "(서울=연합뉴스) 고은지 기자 = &quot;매파적 데뷔전이었다.&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260528134200008",
+      "publishedAt": "2026-05-28T06:30:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[외환] 원/달러 환율 1.6원 오른 1,502.8원(15:30 종가)",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20260528136600002",
+      "publishedAt": "2026-05-28T06:30:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농협은행, AI스타트업 애자일소다와 투자·사업 협력 협약",
+      "summary": "(서울=연합뉴스) 임지우 기자 = NH농협은행은 28일 인공지능(AI) 기업 애자일소다와 직접 투자 및 사업 협력을 위한 업무협약(MOU)을 맺...",
+      "link": "https://www.yna.co.kr/view/AKR20260528033200002",
+      "publishedAt": "2026-05-28T06:30:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "유망 중기업 100개, 중견기업행 사다리 놓는다",
+      "summary": "중기부, 점프업 100개사 선정 5.3대1 경쟁률 뚫은 유망 중기 매출별 3단계 구분해 집중지원 2029년까지 500社 육성 목표 업계 “실무형 인재 매칭 시급”방사선 진단장치 ..",
+      "link": "https://www.mk.co.kr/news/economy/12059980",
+      "publishedAt": "2026-05-28T06:26:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“피지컬 AI로 추가 상승 여력 충분”…오후에도 현대차 집중매수 [주식 초고수는 지금]",
+      "summary": "주식 투자 수익률 상위 1% 초고수들은 28일 오후 2시 30분 기준 현대차, 한텍, 현대모비스, 미래에셋증권, LG씨엔에스 등을 많이 순매수했다. 반면, 초고수들의 순매도가 몰린..",
+      "link": "https://www.mk.co.kr/news/stock/12059977",
+      "publishedAt": "2026-05-28T06:23:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한은 \"2분기 0.2% 성장 전망…3분기엔 기저 효과로 둔화\"",
+      "summary": "(서울=연합뉴스) 임지우 이도흔 기자 = 한국은행은 28일 중동 전쟁으로 치솟은 유가가 2분에 정점을 찍고 하반기에 점차 안정될 것이라고 전망했...",
+      "link": "https://www.yna.co.kr/view/AKR20260528131400002",
+      "publishedAt": "2026-05-28T06:22:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "빚 독촉 추심업체 정리한다…매입채권추심업 구조조정 나선 금융당국",
+      "summary": "금융위 제5차 포용적 금융 대전환 회의 이재명 대통령 ‘원시적 약탈금융’ 지적에 당국, 매입채권추심업 허가제 전환 추진 등록제로 난립해있는 추심업체들 900여곳서 30여곳으로 줄어..",
+      "link": "https://www.mk.co.kr/news/economy/12059973",
+      "publishedAt": "2026-05-28T06:12:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "민간 비축의무일수 '40일→20일' 하향…IEA 공동결의 이행 차원",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284233i",
+      "publishedAt": "2026-05-28T06:08:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“직원 연봉 동결하고 사주는 슈퍼카”… 국세청, 탈세 법인 19곳 ‘정밀 타격’",
+      "summary": "국세청, 슈퍼카 사적 사용 19개 법인 세무조사 슈퍼카 90대 소유…탈루혐의 액수 총 3000억원 법인 자금, 통행세 거래·룸살롱 사용 등도 적발 국세청 “사주 일가·관련 기업까지..",
+      "link": "https://www.mk.co.kr/news/economy/12059963",
+      "publishedAt": "2026-05-28T06:05:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "한성숙 장관 \"중기 수출 최대…창업국가 대한민국 만들 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284437i",
+      "publishedAt": "2026-05-28T06:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"2040년까지 11.2GW\"…남부발전, 재생에너지 동맹 구축",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284284i",
+      "publishedAt": "2026-05-28T05:57:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼전보다 닉스 레버리지에 베팅\"…'TIGER SK하이닉스' 순매수 1위",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052844406",
+      "publishedAt": "2026-05-28T05:50:37.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“지점 없는게 강점”…키움증권, 500조 퇴직연금 시장 출사표",
+      "summary": "키움증권, 내달 퇴직연금 시장 참전 ‘온라인 투자형 연금 플랫폼’ 내세워 첫해 수수료 0원·외화상품 첫 도입“그동안 축적해온 온라인 투자 플랫폼 경험과 정보기술(IT) 경쟁력을 퇴..",
+      "link": "https://www.mk.co.kr/news/stock/12059947",
+      "publishedAt": "2026-05-28T05:48:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "롯데 핵심사업 영업익 7876억원…전년 대비 181% 증가",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284464g",
+      "publishedAt": "2026-05-28T05:47:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "W컨셉 여성복 매출 1위 ‘틸아이다이’, 투자유치 나선다",
+      "summary": "기업가치 약 250억원 평가 구주·신주 발행에 IPO 준비도 해외 오프라인 시장 확대 발판[본 기사는 05월 28일(14:14) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보..",
+      "link": "https://www.mk.co.kr/news/stock/12059941",
+      "publishedAt": "2026-05-28T05:45:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“베테랑 퇴직경찰 떴다”…토스뱅크, ‘우리동네 금융사기예방관’ 1기 출범",
+      "summary": "토스뱅크는 경찰청 전기통신금융사기 통합대응단과 함께 지역사회 금융사기 예방 활동단 ‘우리동네 금융사기예방관’ 1기 발대식을 개최했다고 28일 밝혔다. 우리동네 금융사기예방관은 보이..",
+      "link": "https://www.mk.co.kr/news/economy/12059916",
+      "publishedAt": "2026-05-28T05:36:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "EQT 아시아PE 공동 대표에 하리 고팔라크리슈난·니콜라스 맥시",
+      "summary": "철저한 장기 승계 계획 반영[본 기사는 05월 28일(14:27) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 외국계 사모펀드(PEF) 운용사 EQT가 니..",
+      "link": "https://www.mk.co.kr/news/stock/12059909",
+      "publishedAt": "2026-05-28T05:33:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'광풍' 삼전닉스 레버리지 ETF…'현물·선물형' 어떤 상품 살까",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284300i",
+      "publishedAt": "2026-05-28T05:20:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반려동물 물로 장례하는 ‘수분해장’...4년前 법은 마련, 기준은 ‘깜깜이’",
+      "summary": "사체를 화학용액으로 녹이는 방식 대기 오염 없어 미국 등 16개서 시행 4년전 동물보호법 규칙 개정했는데 ‘시설·설치 기준 고시’는 여전히 없어 네오메이션 “기술 있지만, 상용..",
+      "link": "https://www.mk.co.kr/news/economy/12059708",
+      "publishedAt": "2026-05-28T05:08:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "현대차그룹 'HTWO 광저우', 中서 수소 산업 체인 선도기업 선정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284063g",
+      "publishedAt": "2026-05-28T05:04:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "콜라 1.6배 달하는 '설탕 폭탄'…무심코 마신 말차라떼의 배신",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052842177",
+      "publishedAt": "2026-05-28T05:04:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "위허브, 코인거래소 플라이빗 인수…부산디지털자산 거래소와 시너지",
+      "summary": "결제 솔루션 전문기업 위허브가 코인거래소 플라이빗을 인수했다. 위허브가 대주주인 포커스에이아이가 부산디지털자산거래소(비단·Bdan)의 최대주주로 참여하고 있는 만큼 금·은 등 실물..",
+      "link": "https://www.mk.co.kr/news/stock/12059823",
+      "publishedAt": "2026-05-28T04:57:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "요즘 다시 달리는 이차전지…'실적 바닥론' 나오는 이유는",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605284224i",
+      "publishedAt": "2026-05-28T04:55:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "시트레아, 자체 토큰 CTR 공개",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052837276",
+      "publishedAt": "2026-05-28T04:39:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스피, 장중 8000선 붕괴…3%대 급락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052842086",
+      "publishedAt": "2026-05-28T04:10:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "LG엔솔, 2.4조 규모 ESS 수주 소식에 11% 급등 [매경 자이앤트]",
+      "summary": "LG에너지솔루션이 북미 에너지저장장치(ESS) 대형 수주 소식에 52주 만에 최대 거래량을 기록하며 2차전지 섹터 상승을 이끌었다. 코스피 2차전지 관련주가 일제히 강세를 보인 가..",
+      "link": "https://www.mk.co.kr/news/stock/12059773",
+      "publishedAt": "2026-05-28T04:03:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "MGM리조트, JP모간의 투자의견 상향에 9% 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605283885i",
+      "publishedAt": "2026-05-28T03:01:35.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -2978,246 +3218,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202605212370i",
       "publishedAt": "2026-05-21T08:48:20.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "PLUS 글로벌HBM반도체 ETF, 3년 수익률 7배 육박",
-      "summary": "반도체 ETF 3년 누적 수익률 1위 5월 리밸런싱서 샌디스크 신규 편입한화자산운용은 PLUS 글로벌HBM반도체 ETF가 최근 3년간 누적 수익률 670%를 넘기며 수익률 1위를 ..",
-      "link": "https://www.mk.co.kr/news/stock/12054496",
-      "publishedAt": "2026-05-21T06:40:20.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] 페르노리카, 28일 '발렌타인 17년 말본 에디션' 출시 행사",
-      "summary": "▲ 페르노리카코리아는 오는 28일 서울 성동구 성수동2가 쎈느에서 &apos;발렌타인 17년 말본 에디션&apos; 출시 기념행사를 한다고 21일 밝혔다. 행사에...",
-      "link": "https://www.yna.co.kr/view/AKR20260521135000030",
-      "publishedAt": "2026-05-21T06:39:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "최창훈·이준용 미래에셋자산운용 부회장 \"연금 자산 60조…노후 책임질 상품 확대\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052110561",
-      "publishedAt": "2026-05-21T06:38:33.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "코스피, 8% 넘게 급등하며 7,815선 마감…코스닥도 4.7%↑",
-      "summary": "(서울=연합뉴스) 김유아 기자 = 21일 코스피가 8% 넘는 급등세로 마감했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260521134500008",
-      "publishedAt": "2026-05-21T06:38:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미래에셋자산운용, AI가 회사채 선별해 투자…킬러 ETF 美 출시",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052110551",
-      "publishedAt": "2026-05-21T06:37:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 코스피, 8%대 급등 마감…7800선 재탈환",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052121516",
-      "publishedAt": "2026-05-21T06:37:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“스페이스X 간다”…아주IB투자·미래에셋증권 동시 매수 [주식 초고수는 지금]",
-      "summary": "미래에셋증권에서 거래하는 고수익 투자자들이 21일 오후 가장 많이 순매수한 종목은 LG전자로 집계됐다. 일론 머스크가 이끄는 민간 우주 기업 스페이스X 상장에 대한 기대감이 커지면..",
-      "link": "https://www.mk.co.kr/news/stock/12054492",
-      "publishedAt": "2026-05-21T06:37:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[속보] 코스피 8.42% 급등 마감…단숨에 7800선 회복",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/stock/12054491",
-      "publishedAt": "2026-05-21T06:36:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "KB자산운용, 연금·ETF 날개 달고 운용자산 200조 돌파…성장세 가팔라",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052110391",
-      "publishedAt": "2026-05-21T06:36:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "김영성 KB자산운용 대표 \"상품·운용 경쟁력 강화해 도약의 해로\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052110381",
-      "publishedAt": "2026-05-21T06:35:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "KB자산운용, 현대차·로봇 기업에 집중 투자한 ETF 내놔",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052110301",
-      "publishedAt": "2026-05-21T06:34:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[속보] 코스피 8.42% 급등 마감…단숨에 7,800선 회복",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20260521133800008",
-      "publishedAt": "2026-05-21T06:33:53.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "소방청, 우즈벡 비상사태부와 '소방·재난관리 협력' 업무협약",
-      "summary": "(서울=연합뉴스) 홍준석 기자 = 소방청은 21일 오전 대구 엑스코에서 우즈베키스탄 비상사태부와 소방·재난관리 분야 협력에 관한 업무협약을 체결...",
-      "link": "https://www.yna.co.kr/view/AKR20260521132100530",
-      "publishedAt": "2026-05-21T06:33:15.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "21만원 빌려주고 30만원 상품권 요구 사채업자, 불법추심 무혐의",
-      "summary": "(인천=연합뉴스) 최은지 기자 = 고금리를 내세운 상품권 사채 업자가 검찰에서 불법 추심 관련 무혐의 처분을 받았다.",
-      "link": "https://www.yna.co.kr/view/AKR20260521132600065",
-      "publishedAt": "2026-05-21T06:32:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[외환] 원/달러 환율 0.7원 내린 1,506.1원(15:30 종가)",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20260521133200002",
-      "publishedAt": "2026-05-21T06:30:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "해외개미 ‘역직구’ 투자 늘린다…이억원 “외국인 통합계좌, ETF 거래까지 확대”",
-      "summary": "이억원 금융위 위원장 간담회 9월 ‘코리아 프리미엄 위크’ 열고 코스닥 해외 IR도 병행 정부 출범후 코스피 200% 쑥 글로벌 시총도 13위서 7위로 쑥 “코리아 디스카운트서 프..",
-      "link": "https://www.mk.co.kr/news/stock/12054477",
-      "publishedAt": "2026-05-21T06:24:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 韓선원수 더 적은데…HMM 선박만 호르무즈 통과 허가받았다",
-      "summary": "원유200만배럴 실은 韓 국적선 2척 HMM 유니버설 위너호만 통항 선정 정부 “화물 필요성, 선원수 등 고려” 위너호엔 9명·다른 배엔 11명 승선 일각선 ‘나무호 피격 영향설’..",
-      "link": "https://www.mk.co.kr/news/economy/12054470",
-      "publishedAt": "2026-05-21T06:20:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“반도체 슈퍼사이클 좋긴 한데, 너무 쏠리네”…톱10 기업 수출 비중 50% 돌파",
-      "summary": "1분기 전체 수출 38% 증가 반도체 업은 대기업 53% 중견 7.4%·중기 10.7% 그쳐인공지능(AI) 붐에 따른 반도체 슈퍼사이클 영향으로 올해 1분기 대기업 수출이 통계 작..",
-      "link": "https://www.mk.co.kr/news/economy/12054468",
-      "publishedAt": "2026-05-21T06:16:32.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“특정금전신탁 ETF 투자땐 추가수수료 있어요”",
-      "summary": "금감원, ETF 투자 유의사항 안내 은행 등에 운용방법 맡기는 신탁상품 거래수수료 외 신탁수수료 붙어 은행 통하면 ETF 실시간 매매도 어려워상장지수펀드(ETF) 시장이 빠르게 성..",
-      "link": "https://www.mk.co.kr/news/stock/12054460",
-      "publishedAt": "2026-05-21T06:12:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "농협 강호동 “조합원 직선제는 수용…외부 감사위는 중복 규제 우려”",
-      "summary": "농협이 ‘농협중앙회장 직선제 도입’은 수용하지만, 정부가 추진 중인 외부 감사위원회 설치에 대해서는 우려를 표하며 내부 통제 강화 방안을 마련하겠다는 입장을 밝혔다. 강호동 농협중..",
-      "link": "https://www.mk.co.kr/news/economy/12054437",
-      "publishedAt": "2026-05-21T06:00:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼전닉스 'D램 호황 수혜' 보더니…'6조 실탄' 장전한 中반도체 굴기",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605211330g",
-      "publishedAt": "2026-05-21T05:47:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "광주은행 “기울어진 운동장”…금고 선정 앞두고 신경전",
-      "summary": "통합특별시 금고 발표 앞두고 농협 평가방식 문제 제기 “지역농협 실적 합산 불공정”…법원 판결까지 언급 금융권 안팎 “심사 직전 공개 압박” 해석도 나와 공정성 논의 필요성 공감 ..",
-      "link": "https://www.mk.co.kr/news/economy/12054425",
-      "publishedAt": "2026-05-21T05:47:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이억원 금융위원장의 포용금융 '3층론' [금융당국 백브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605211807i",
-      "publishedAt": "2026-05-21T05:47:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "플룸, 버뮤다 라이선스 취득…기관급 RWA 자산운용 자격 첫 획득",
-      "summary": "자회사 KDAB, BMA 라이선스 취득 ETF처럼 투자 ‘볼트’, 규제권 첫 편입 인터넷으로 글로벌 기관 자산 24시간 투자 美 지니어스액법 수준 자금세탁방지 기준 적용기관 자산 ..",
-      "link": "https://www.mk.co.kr/news/stock/12054415",
-      "publishedAt": "2026-05-21T05:40:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이억원 \"'포용금융전략추진단' 6월 가동\"…역서학개미도 불러들인다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052117966",
-      "publishedAt": "2026-05-21T05:28:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"탈탄소 전략 핵심은 에너지 안보\"…英 녹색전환 설계자의 조언",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605211452i",
-      "publishedAt": "2026-05-21T05:19:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "중동 물류난 뚫은 K푸드…1~4월 GCC 수출 37.6% 급증",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052117247",
-      "publishedAt": "2026-05-21T05:19:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘금융범죄 방패’ 되겠다더니…도박 광고 방치한 서민금융연구원",
-      "summary": "3주간 외부 불법 광고물 버젓이 게시저신용층의 불법사금융 피해 실태를 매년 조사·발표해온 사단법인 서민금융연구원의 홈페이지가 정작 불법 도박 사이트 광고의 통로로 활용되고 있던 것..",
-      "link": "https://www.mk.co.kr/news/economy/12054374",
-      "publishedAt": "2026-05-21T05:15:47.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "한화솔루션, 미국 태양광 보조금 2000억 추가 유동화",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052117987",
-      "publishedAt": "2026-05-21T05:15:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "글로벌 기후금융 ‘서울 선언’… GGGI-GCF, 개도국 녹색성장 맞춤 지원",
-      "summary": "GGGI·GCF 공동 컨퍼런스 韓거점으로 공동 이니셔티브 구체화 정책 설계부터 자금 조달까지 ‘원스톱’ 개도국 맞춤형 기후사업 발굴해 지원 김상협 총장 “GCF와 협력 실행 추진’..",
-      "link": "https://www.mk.co.kr/news/economy/12054371",
-      "publishedAt": "2026-05-21T05:14:19.000Z"
     }
   ]
 }
