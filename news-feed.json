@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-05-29T06:47:08.327Z",
+  "updatedAt": "2026-05-29T12:42:50.144Z",
   "historyDays": 7,
-  "count": 412,
+  "count": 409,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'90%' 파격 세일 앞세운 '다이소 대항마'…2030 '인기 폭발'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974001",
+      "publishedAt": "2026-05-29T12:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "S&P \"한투증권, 코인원 지분 인수 후에도 재무역량 유지할 듯\"",
+      "summary": "(서울=연합뉴스) 임은진 기자 = 국제 신용평가사 S&amp;amp;P글로벌레이팅스는 29일 한국투자증권이 가상 자산 거래소인 코인원에 지분 20% 투...",
+      "link": "https://www.yna.co.kr/view/AKR20260529167700008",
+      "publishedAt": "2026-05-29T11:39:18.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "3기신도시 남양주왕숙2 첫 공급 2개 단지 세자릿수 경쟁률",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 3기 신도시 경기 남양주 왕숙2지구에서 최초 공급되는 A-1·A-3블록 공공분양주택 일반공급 본청약 경쟁률이 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260529166900003",
+      "publishedAt": "2026-05-29T11:13:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“지금 뺄 때 아니다, 코스피 9000은 봐야 … 우주·로봇도 주목”",
+      "summary": "머니닥터 10인의 6월 증시 전망코스피가 최근 사상 처음으로 8000선을 돌파하며 한국 증시는 완전히 새로운 역사를 써내려가고 있다. 반도체와 인공지능(AI) 인프라를 중심으로 한..",
+      "link": "https://www.mk.co.kr/news/stock/12061625",
+      "publishedAt": "2026-05-29T11:06:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "판매 시작 1분 만에 '예약 마감'…추억 소환에 어른이 '열광'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605296464i",
+      "publishedAt": "2026-05-29T11:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "개미도 외국인도 팔았는데 하루만에 2.3조원 사들였다…‘폭풍 매수’한 기관",
+      "summary": "29일, 코스피 사상 최고치 마감 기관 투자자, 순매수액 역대 7위5월 코스피 시장은 사이드카(프로그램 매수·매도호가 일시효력정지)가 6번 발동되는 등 큰 변동성을 보였다. 이날 ..",
+      "link": "https://www.mk.co.kr/news/stock/12061619",
+      "publishedAt": "2026-05-29T10:58:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SEC, 팍소스 청산기관 승인...블록체인 기반 ‘T+0’ 기대",
+      "summary": "팍소스(Paxos)가 미국 증권거래위원회(SEC)로부터 청산소로 등록 승인을 받았다. 블록체인 기반 기업으로는 최초이자 유일한 사례다. 팍소스는 자산 토큰화, 수탁, 거래를 지원하..",
+      "link": "https://www.mk.co.kr/news/stock/12061614",
+      "publishedAt": "2026-05-29T10:40:53.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] 삼성전기, 현대차 제치고 '시총 4위'…200만원 첫돌파(종합3보)",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 삼성전기[009150] 주가가 29일 인공지능용 MLCC(적층세라믹콘덴서) 가격 상승에 따른 실적 기대감에 급...",
+      "link": "https://www.yna.co.kr/view/AKR20260529046153008",
+      "publishedAt": "2026-05-29T10:01:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 정부, 발전용 LNG 가격상한제 추진",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974661",
+      "publishedAt": "2026-05-29T10:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "100만원 때 “지금 들어가기엔 비싸죠?”…보름만에 200만원도 넘은 주식",
+      "summary": "삼성전기 한달새 주가 2.6배 장중한때 시총 3위까지 올라 무라타 세계시장 40% 점유 데이터센터 매출 84% 늘어 삼성전기 성장성서 앞서고 무라타는 수익성 지표 두각인공지능(..",
+      "link": "https://www.mk.co.kr/news/stock/12061542",
+      "publishedAt": "2026-05-29T09:52:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'출시 5일새 완판' 국민참여성장펀드…서민 비중 39%",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052975357",
+      "publishedAt": "2026-05-29T09:27:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "현대차그룹·한화·오리온…산업계 '하투' 본격화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974321",
+      "publishedAt": "2026-05-29T09:25:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "LG, 유럽 맞춤형 빌트인 가전 출시…B2B 시장 공략 '가속'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974341",
+      "publishedAt": "2026-05-29T09:23:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"삼성 반도체 이·퇴직률 1%대\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974311",
+      "publishedAt": "2026-05-29T09:22:40.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "경찰, '수뢰 혐의' 성남 상대원2구역 조합장 구속영장 신청",
+      "summary": "(성남=연합뉴스) 권준우 기자 = 금품수수 의혹을 받는 성남시 상대원2구역 재개발 사업 조합장에 대해 경찰이 구속영장을 신청한 것으로 확인됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260529152800061",
+      "publishedAt": "2026-05-29T09:13:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국민성장펀드 3만명, 평균 2천만원 가입…서민비중 39%",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 국민참여형 국민성장펀드가 출시 5일만에 전량 판매된 가운데 가입자 10명 중 4명이 서민으로 집계됐다. 1인당...",
+      "link": "https://www.yna.co.kr/view/AKR20260529153900002",
+      "publishedAt": "2026-05-29T09:12:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "넉 달 만에 '2000조 전자' 되더니…\"39만원 간다\" 놀라운 전망",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974211",
+      "publishedAt": "2026-05-29T09:05:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“한국 공적연금 지출액, 2085년 GDP 15% 초과할 것...구조개혁 시급”",
+      "summary": "연금특위 자문위 10차회의 박명호 교수·윤석명 위원 “운용 수익률 착시 조심해야” 자동조정장치 등 재정안정 강조저출생·고령화 등 인구구조 변화로 약 60년 후에는 공적연금 지출액이..",
+      "link": "https://www.mk.co.kr/news/economy/12061528",
+      "publishedAt": "2026-05-29T09:03:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하이닉스 시총, 삼전 추월 가능성은 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974441",
+      "publishedAt": "2026-05-29T09:01:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ [사전투표] 훈련병부터 새내기 대학생까지…전국서 이어진 &apos;소중한 한 표&apos;",
+      "link": "https://www.yna.co.kr/view/AKR20260529147400011",
+      "publishedAt": "2026-05-29T09:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[포토] 창립 50주년 맞은 신보",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12061487",
+      "publishedAt": "2026-05-29T08:55:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 외국환율고시표",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12061488",
+      "publishedAt": "2026-05-29T08:55:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"결제액 크고 연체 적어\"…카드사 '법카' 시장 공략",
+      "summary": "가맹점 수수료 인하와 카드론 규제로 수익성 압박이 커진 카드사들이 법인카드 시장 공략에 속도를 내고 있다. 개인 신용판매 수익이 줄고 카드론 영업도 한도 규제에 직면하자 결제 규모..",
+      "link": "https://www.mk.co.kr/news/economy/12061484",
+      "publishedAt": "2026-05-29T08:55:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 당좌거래정지",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12061486",
+      "publishedAt": "2026-05-29T08:55:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "저축은행 1분기 순익 3338억 … 비이자이익 힘입어 7배 급증",
+      "summary": "저축은행업권의 올해 1분기 실적이 비이자이익 급증에 힘입어 대폭 개선됐다. 29일 저축은행중앙회에 따르면 올 1분기 저축은행 79개사의 합산 당기순이익은 3338억원으로, 전년 동..",
+      "link": "https://www.mk.co.kr/news/economy/12061482",
+      "publishedAt": "2026-05-29T08:55:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국민연금 올 국장서 22% 수익 … 高위험 高수익 행보는 '딜레마'",
+      "summary": "국민연금이 올해 1분기 4%대 기금 운용 수익률을 기록했다. 주요 국가 연기금과 비교하면 양호한 편이다. 다만 올해 들어 지난 2월까지 10%를 넘겼던 수익률이 미국·이란 전쟁 여..",
+      "link": "https://www.mk.co.kr/news/stock/12061459",
+      "publishedAt": "2026-05-29T08:48:42.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "계열사 로봇사업 성장 기대 … HL홀딩스 목표주가 22%↑",
+      "summary": "HL그룹 지주사인 HL홀딩스에 대한 증권가 호평이 잇따르고 있다. 강화된 주주환원 정책에 더해 HL만도·로보틱스 등 로봇 사업을 영위하는 자회사 지분가치 확대 기대감이 더해져서다...",
+      "link": "https://www.mk.co.kr/news/stock/12061444",
+      "publishedAt": "2026-05-29T08:43:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "외국인, 국내 증시서 4개월 연속 매도세",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974551",
+      "publishedAt": "2026-05-29T08:41:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반도체 소부장 투매…우울한 코스닥",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052974571",
+      "publishedAt": "2026-05-29T08:41:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "국민연금 1분기 수익률 4.42%…적립금 1500조원 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052973697",
+      "publishedAt": "2026-05-29T08:37:57.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3034,270 +3274,6 @@
       "summary": "(서울=연합뉴스) 홍준석 기자 = 이른바 &apos;탱크 데이&apos;(Tank Day) 이벤트로 5·18 민주화운동 폄훼 논란에 휩싸인 스타벅스 상품을 불매하...",
       "link": "https://www.yna.co.kr/view/AKR20260522058453530",
       "publishedAt": "2026-05-22T12:43:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "비트코인보다 잘 나간다더니…석 달 만에 두 배로 뛰었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052236976",
-      "publishedAt": "2026-05-22T12:38:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“5년 묶여도, 베팅할만” 국민성장펀드 오픈런",
-      "summary": "대한민국 ‘머니 신드롬’ 출시 10분 만에 온라인 ‘완판’ 흥행 기대로 코스닥 5% 급등인공지능(AI) 등 첨단 전략산업에 투자하는 ‘국민참여형 국민성장펀드’가 22일 출시 첫날..",
-      "link": "https://www.mk.co.kr/news/stock/12055944",
-      "publishedAt": "2026-05-22T12:34:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "검색창 대신 챗GPT에 \"뭐 사야해?\"…쇼핑 '판'이 바뀐다 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605212285g",
-      "publishedAt": "2026-05-22T12:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국민성장펀드 출시 첫날 한도 87% 소진…은행 10곳 중 7곳 완판",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 국민참여형 국민성장펀드가 출시 첫날 판매물량의 90% 가까이 소진된 것으로 집계됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260522158300002",
-      "publishedAt": "2026-05-22T11:42:49.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "스타벅스 \"현장 직원 비난 멈춰달라\"…전국 매장에 2차 사과문(종합)",
-      "summary": "(서울=연합뉴스) 한주홍 김세린 기자 = 스타벅스코리아가 5·18 민주화운동 기념일에 진행한 프로모션 문구 논란과 관련해 매장에 2차 사과문을 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260522154751030",
-      "publishedAt": "2026-05-22T11:38:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "주식으로 번 돈, 쓰지 않는 한국인…'부의 효과' 왜 약할까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605225020i",
-      "publishedAt": "2026-05-22T11:29:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"이거 하나면 대접 달라져\"…자산가들 목매는 신분증 정체",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052247751",
-      "publishedAt": "2026-05-22T11:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "스타벅스 \"현장 직원 비난 멈춰달라\"…전국 매장에 2차 사과문",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 스타벅스코리아가 5·18 민주화운동 기념일에 진행한 프로모션 문구 논란과 관련해 매장에 2차 사과문을 게시하고...",
-      "link": "https://www.yna.co.kr/view/AKR20260522154700030",
-      "publishedAt": "2026-05-22T10:52:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "DB손보, 미국 보험사 포테그라 인수 마무리 단계…국내 최초",
-      "summary": "(서울=연합뉴스) 강수련 기자 = DB손해보험[005830]은 22일 미국 특화보험사 포테그라의 지분 100% 인수 계약을 오는 30일 종결한다...",
-      "link": "https://www.yna.co.kr/view/AKR20260522151700002",
-      "publishedAt": "2026-05-22T10:46:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "S2W \"다크웹 분석기술로 방산시장 공략\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026051719791",
-      "publishedAt": "2026-05-22T10:06:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"'인증샷' 그만 찍고 싶어요\"…2030 '의외의 동네' 몰려들었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052248451",
-      "publishedAt": "2026-05-22T10:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "비아파트 공급 대폭 확대…\"규제지역 매입임대 무제한으로 산다\"(종합2보)",
-      "summary": "(서울·세종=연합뉴스) 임기창 오진송 기자 = 정부가 민간 비아파트 공급 위축에 따른 전월세 시장 불안을 해소하기 위해 매입임대주택 공급을 대폭...",
-      "link": "https://www.yna.co.kr/view/AKR20260522035452003",
-      "publishedAt": "2026-05-22T09:39:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "베낀 파우치 디자인권 주장한 블루엘리펀트…특허심판원 \"무효\" 결론",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605224918i",
-      "publishedAt": "2026-05-22T09:34:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "스타벅스 '탱크데이' 후폭풍…'세월호 사고일' 이벤트 음모론까지",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052246297",
-      "publishedAt": "2026-05-22T09:34:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "전남광주 통합특별시 1금고 첫 운영기관 '농협은행'(종합)",
-      "summary": "(광주=연합뉴스) 장덕종 기자 = 약 21조원 규모의 전남광주통합특별시 1금고 첫 운영 금융기관으로 NH농협은행이 뽑혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260522141501054",
-      "publishedAt": "2026-05-22T09:29:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "전남·광주 통합특별시 첫 금고에 ‘NH농협은행’",
-      "summary": "광주은행은 특별회계 등 운영 맡아 20조8000억원 재정 운영 본격화광주광역시와 전라남도가 내년 출범하는 전남광주통합특별시의 초기 재정 운영을 맡을 금고 은행으로 NH농협은행과 광..",
-      "link": "https://www.mk.co.kr/news/economy/12055862",
-      "publishedAt": "2026-05-22T09:06:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "HD건설기계·DB하이텍, 코스피200 편입",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052247671",
-      "publishedAt": "2026-05-22T09:04:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "스페이스X 투자 노렸는데…NASA ETF, 되레 비중 축소",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052247641",
-      "publishedAt": "2026-05-22T09:02:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼성전자 '6억 성과급'시대…진짜 수혜주는 따로 있다 [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052248401",
-      "publishedAt": "2026-05-22T09:00:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "율촌, 100억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 율촌이 제7회 100억 원 규모의 전환사채를 발행한다고 2026년 5월 22일 공시했다. 전환가액은 1499원이며, 전환 청구 기간은 2027년 6월 1일부터 203..",
-      "link": "https://www.mk.co.kr/news/stock/12055856",
-      "publishedAt": "2026-05-22T08:58:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "손오공, 60억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 손오공이 59억 9999만 7725원 규모의 제3자배정증자를 실시한다고 2026년 5월 22일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 197만 69..",
-      "link": "https://www.mk.co.kr/news/stock/12055855",
-      "publishedAt": "2026-05-22T08:58:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "젬백스, 70억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 젬백스가 제16회 70억 원 규모의 전환사채를 발행한다고 2026년 5월 22일 공시했다. 전환가액은 1만 8659원이며, 전환 청구 기간은 2027년 6월 1일부터..",
-      "link": "https://www.mk.co.kr/news/stock/12055857",
-      "publishedAt": "2026-05-22T08:58:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "깎아준 세금 80조 '역대 최대'… 외부감사로 세수낭비 차단해야",
-      "summary": "올해 80조원을 돌파할 것으로 보이는 조세 지출이 재정의 새로운 부담으로 떠오르면서 정부가 고강도 수술을 예고했다. 특히 올해 일몰 예정인 사업 중 70% 이상이 폐지나 정비가 필..",
-      "link": "https://www.mk.co.kr/news/economy/12055825",
-      "publishedAt": "2026-05-22T08:51:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "교육교부금 내년엔 100조 …\"지급기준 바꾸고 사용처 늘려야\"",
-      "summary": "학령인구가 급감하고 있는 가운데 내국세의 일정 비율을 교육 현장에 무조건 배정하는 '지방교육재정교부금' 제도가 국가 재정 운용의 효율성을 저해하는 아킬레스건으로 부상했다. 인구 구..",
-      "link": "https://www.mk.co.kr/news/economy/12055824",
-      "publishedAt": "2026-05-22T08:51:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 초과세수 급증 속 교부금 개편 시동",
-      "summary": "정부가 장관급 협의체로 격상되는 재정운용전략위원회에서 지방교육재정교부금과 기초연금 등 이른바 '의무지출'에 대한 구조조정 방안을 본격 논의한다. 학령인구 감소와 인구 고령화 등으..",
-      "link": "https://www.mk.co.kr/news/economy/12055814",
-      "publishedAt": "2026-05-22T08:49:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "\"5년 묶여도, 베팅할만\" 국민성장펀드 오픈런",
-      "summary": "인공지능(AI) 등 첨단 전략산업에 투자하는 '국민참여형 국민성장펀드'가 22일 출시 첫날부터 완판 행렬을 기록했다. 증권사 온라인 판매 물량이 수십 분 만에 동나는가 하면, 은행..",
-      "link": "https://www.mk.co.kr/news/stock/12055811",
-      "publishedAt": "2026-05-22T08:49:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12055800",
-      "publishedAt": "2026-05-22T08:46:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 잠실 고액자산가 공략 나선 우리銀",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12055799",
-      "publishedAt": "2026-05-22T08:46:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "내달 12일 스페이스X 상장 결정 … 美우주ETF 초강세",
-      "summary": "일론 머스크의 우주기업 스페이스X 상장 일정이 다음달 12일(현지시간)로 결정되면서 우주 테마 상장지수펀드(ETF)가 일제히 강세를 나타내고 있다. 22일 한국거래소에 따르면 이달..",
-      "link": "https://www.mk.co.kr/news/stock/12055789",
-      "publishedAt": "2026-05-22T08:46:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "스페이스X 상장전 '선물 거래 상품' 나와",
-      "summary": "바이낸스가 다음달 기업공개(IPO)를 앞두고 있는 스페이스X의 주식을 사는 것과 동일한 효과를 낼 수 있는 '무기한 선물' 상품을 출시했다. 21일(UTC 시간 기준) 바이낸스는 ..",
-      "link": "https://www.mk.co.kr/news/stock/12055790",
-      "publishedAt": "2026-05-22T08:46:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스닥 2.5조 사들인 外人...반도체·로봇·바이오 집중매수",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605224382i",
-      "publishedAt": "2026-05-22T07:49:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼성전자 '6억 성과급' 시대…\"진짜 수혜주 따로 있다\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605224576i",
-      "publishedAt": "2026-05-22T07:44:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "이제는 코스닥의 시간?…5% 급등에 사이드카 발동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605224536i",
-      "publishedAt": "2026-05-22T07:40:34.000Z"
     }
   ]
 }
