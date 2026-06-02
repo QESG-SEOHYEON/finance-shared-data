@@ -1,8 +1,152 @@
 {
-  "updatedAt": "2026-06-02T13:53:27.774Z",
+  "updatedAt": "2026-06-02T22:55:33.724Z",
   "historyDays": 7,
-  "count": 506,
+  "count": 511,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "5천만원이 1년만에 1.5억원 됐다…코스피 새역사에 이재명 대통령도 ‘활짝’",
+      "summary": "코스피 지수가 역대급 랠리를 이어가는 가운데, 지난해 상장지수펀드(ETF)에 베팅한 이재명 대통령의 수익률에 관심이 모인다. 2일 금융투자업계에 따르면 이 대통령은 대선 후보 시절..",
+      "link": "https://www.mk.co.kr/news/stock/12064658",
+      "publishedAt": "2026-06-02T22:36:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "올해 대형 로봇주 150% 상승…'젠슨 황 효과' 주목",
+      "summary": "(서울=연합뉴스) 김유아 기자 = AI·반도체와 함께 최근 부상하고 있는 로봇주가 국내 주식시장에서 올해 150% 넘게 오른 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260602153300008",
+      "publishedAt": "2026-06-02T22:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스피 변동성 극심…'사이드카 발동' 금융위기 이후 최다",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 올해 들어 유가증권시장에서 발동된 사이드카(20차례)가 현재의 발동 기준에 따라 한국거래소가 관련 통계를 집계...",
+      "link": "https://www.yna.co.kr/view/AKR20260602160400008",
+      "publishedAt": "2026-06-02T22:25:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "단기급등에 '증권가 목표가 초과' 종목 속출…LG전자 상회율 가장 커",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 최근 코스피가 사상 처음 8,900선을 돌파하는 등 단기 급등하면서 증권가 목표주가를 초과한 종목들이 속출하고...",
+      "link": "https://www.yna.co.kr/view/AKR20260602161000008",
+      "publishedAt": "2026-06-02T22:15:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 낙관론에 또 사상 최고치\"…3대 지수 동반 상승 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060340907",
+      "publishedAt": "2026-06-02T22:11:34.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "ETF에도 '빚투'…반도체 상품 신용잔고 한달새 급증",
+      "summary": "(서울=연합뉴스) 고은지 기자 = 최근 주식시장 활황에 상장지수펀드(ETF)에도 빚내서 투자하는 이른바 &apos;빚투&apos;가 몰리고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20260602146700008",
+      "publishedAt": "2026-06-02T22:10:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주도주 쏠림·금리 변동성?…코스피 랠리에도 증권주는 시들",
+      "summary": "(서울=연합뉴스) 임은진 기자 = 코스피가 반도체주의 질주에 힘입어 9,000을 향해 질주하고 있지만 증권주 움직임은 지지부진하다.",
+      "link": "https://www.yna.co.kr/view/AKR20260602138600008",
+      "publishedAt": "2026-06-02T22:05:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "삼전·닉스 레버리지로 쏠렸나…'자금유출' 침울한 코스닥",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 코스피가 거센 질주를 이어가며 9,000선 턱밑까지 온데 비해 코스닥은 역전의 기회를 잡지 못한 채 소외되고 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260602076000008",
+      "publishedAt": "2026-06-02T22:01:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI는 AI가 막는다…그런데 국내 금융권의 현실은? [태평양의 미래금융]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606022641i",
+      "publishedAt": "2026-06-02T22:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "AI랠리에 美증시 최고가 행진...젠슨황 효과에 마벨 33%[월가월부]",
+      "summary": "S&P500·나스닥 최고가 이어가 종전협상 불확실성에도 상승세 젠슨황 ‘1조달러 기업’ 마벨 폭등이란전쟁 종전협상을 둘러싼 불확실성이 지속되고 있지만 인공지능(AI) 낙관론이 확산..",
+      "link": "https://www.mk.co.kr/news/economy/12064632",
+      "publishedAt": "2026-06-02T21:08:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"맥주 1위 바뀐다고?\"…무알코올 시장 놓고 하이트·오비 격돌 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606022687i",
+      "publishedAt": "2026-06-02T21:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "구글도 앤스로픽도 \"돈줄 선점\"...끝없는 'AI 쩐의 전쟁' [빈난새의 빈틈없이월가]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606034011i",
+      "publishedAt": "2026-06-02T21:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "K뷰티도 승자독식…시총 75% 독차지하는 대장주 4인방 누구",
+      "summary": "화장품 시가총액 1위 기업인 에이피알(APR)은 ‘인디 브랜드’ 질주의 대표주자로 꼽힌다. 에이피알은 올해 1분기 매출 5933억원, 영업이익 1522억원을 거두는 기염을 토했다...",
+      "link": "https://www.mk.co.kr/news/business/12064625",
+      "publishedAt": "2026-06-02T20:56:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성전기 200만에 입성했는데 어쩌죠”…숨고르기 돌입한 AI수혜주",
+      "summary": "2일 코스피가 널뛰기 장세를 펼쳤다. 장 초반 전인미답의 8900선을 넘어선 뒤 8500선까지 밀렸다. 하지만 장 막판 가까스로 반등에 성공하며 종가 기준 사상 최고치를 다시 썼다..",
+      "link": "https://www.mk.co.kr/news/stock/12064623",
+      "publishedAt": "2026-06-02T20:55:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“선거 테마주? 삼전닉스나 더 사라”…깐부株 앞에 존재감 실종",
+      "summary": "선거철 급등락하던 테마주 ‘우하향’ 정원오 테마 에스제이그룹 한달 49%↓ 오세훈 동문 인연 진양산업도 주저앉아 단타개미들은 젠슨황 관련주에 몰려가선거철마다 극성을 부리던 ‘정치 ..",
+      "link": "https://www.mk.co.kr/news/stock/12064622",
+      "publishedAt": "2026-06-02T20:55:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "모닝스타,\"스페이스X 과대평가…7,800억달러 가치\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606023992i",
+      "publishedAt": "2026-06-02T15:05:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "버크셔도 나선 구글의 역대급 증자...하드웨어 웃고 소프트웨어 울고 [빈난새의 개장전요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606023986i",
+      "publishedAt": "2026-06-02T15:01:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 증시, 사상 최고치 다음 날 숨고르기",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606023977i",
+      "publishedAt": "2026-06-02T14:22:40.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3946,110 +4090,6 @@
       "summary": "반도체 수퍼사이클이 계속되면서 삼성전자를 포함한 국내 반도체 관련주들이 강세를 보이고 있다. 27일 오전 9시52분 삼성전자는 전 거래일 보다 2만원(6.69%) 오른 31만900..",
       "link": "https://www.mk.co.kr/news/stock/12058584",
       "publishedAt": "2026-05-27T01:59:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼전 잠정합의 찬반투표 오늘 마감…가결 유력 속 내부 갈등 과제",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052704667",
-      "publishedAt": "2026-05-26T21:30:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "운용사, 삼전닉스 레버리지ETF '정면승부'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052699471",
-      "publishedAt": "2026-05-26T21:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"남편 옷은 결국 여기서\"…홈쇼핑 남성복 뜻밖의 흥행 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605260268i",
-      "publishedAt": "2026-05-26T21:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전 이어 마이크론도 '1조달러 클럽'…SK하이닉스도 눈앞",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052704257",
-      "publishedAt": "2026-05-26T20:57:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "연초 주가 26만원→106만원…LG이노텍 ‘초고속 황제주’ 배경은",
-      "summary": "26일 23% 오르며 100만원 돌파 AI 반도체기판 장기계약 호재에 카메라모듈도 애플 덕 승승장구LG이노텍 주가가 사상 최초로 100만원을 넘어서며 ‘황제주’에 올라섰다. LG이..",
-      "link": "https://www.mk.co.kr/news/stock/12058355",
-      "publishedAt": "2026-05-26T20:42:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“반도체 섹터 6% 날았다” 나스닥·S&P500 사상 최고치…마이크론 시총 1조달러 돌파 [월가월부]",
-      "summary": "뉴욕증시에서 나스닥과 S&P500 지수 모두 신고가를 경신했다. 특히 마이크론은 하루에만 19% 오르면서 시가총액 1조 달러를 돌파하는 기염을 토했다. 반도체 섹터도 6% 넘는 상..",
-      "link": "https://www.mk.co.kr/news/stock/12058354",
-      "publishedAt": "2026-05-26T20:39:20.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "사실상 폐기된 정책, 한국은 달랐다 … 세계 모범이 된 최고가격제",
-      "summary": "석유 최고가격제 시행 배경석유 최고가격제, 원래는 참고사항중동전쟁 발발 직후인 지난 3월 초. 국제유가가 하루가 다르게 치솟자 정부 내부에는 긴장감이 감돌았다. 호르무즈 해협 봉쇄..",
-      "link": "https://www.mk.co.kr/news/economy/12057679",
-      "publishedAt": "2026-05-26T20:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주가에 0 하나 더 붙는 종목, 다음은 여기” … ‘로봇·전력주’ 주목한 이유",
-      "summary": "김태홍 그로쓰힐자산운용 대표 2편매경플러스 ‘한국의 위대한 투자자’ 시리즈 두 번째 주인공은 김태홍 그로쓰힐자산운용 대표다. 주식시장에서 장기간 살아남는 것만으로도 쉽지 않다. 시..",
-      "link": "https://www.mk.co.kr/news/stock/12057606",
-      "publishedAt": "2026-05-26T20:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 5월 소비자신뢰지수, 이란 전쟁발 유가 상승에 악화",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605270383i",
-      "publishedAt": "2026-05-26T15:21:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[미국 주식 101] ⑦ 나의 투자 스타일은? 가치 투자와 모멘텀 투자",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605260375i",
-      "publishedAt": "2026-05-26T15:12:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 국방부·스페이스X, 스타링크 비용 문제로 갈등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605260373i",
-      "publishedAt": "2026-05-26T15:10:36.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미국-이란 종전 기대감에…뉴욕증시 '상승' 출발",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052603427",
-      "publishedAt": "2026-05-26T14:07:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 증시, 이란 협상 기대로 상승 출발…반도체주 상승 주도",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605260344i",
-      "publishedAt": "2026-05-26T14:04:42.000Z"
     }
   ]
 }
