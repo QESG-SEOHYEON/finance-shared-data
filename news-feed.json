@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-06-03T08:10:00.574Z",
+  "updatedAt": "2026-06-03T14:22:34.359Z",
   "historyDays": 7,
-  "count": 516,
+  "count": 534,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "트럼프 \"이란 정권, 핵무기 보유하지 않기로 이미 합의\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606035297i",
+      "publishedAt": "2026-06-03T13:20:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“환율 13거래일째 1500원대”…2009년 금융위기 기록 넘었다",
+      "summary": "달러 대비 원화 환율이 13거래일 연속 1500원대에 머무르면서 2009년 글로벌 금융 위기 당시 기록을 넘어섰다. 3일 인베스팅닷컴에 따르면 이날 오후 9시 59분 기준 원·달러..",
+      "link": "https://www.mk.co.kr/news/economy/12065223",
+      "publishedAt": "2026-06-03T13:19:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美, 5월 ADP 민간 고용 12만2000명↑…고용시장 안정적",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606035281i",
+      "publishedAt": "2026-06-03T12:57:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미, '강제노동' 60개국에 10∼12.5% 관세예고…한국 12.5%(종합2보)",
+      "summary": "(서울=연합뉴스) 신창용 김아람 기자 = 미국 무역대표부(USTR)는 강제 노동으로 생산된 제품의 거래를 막지 못한 60개 경제권에서 들어온 수...",
+      "link": "https://www.yna.co.kr/view/AKR20260603044452009",
+      "publishedAt": "2026-06-03T12:46:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "트럼프, 레바논 공습 관련 \"네타냐후에 욕설\" 인정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606035246i",
+      "publishedAt": "2026-06-03T12:29:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "美USTR \"한국도 '강제노동 관세' 12.5% 부과 대상\"",
+      "summary": "도널드 트럼프 미국 행정부가 연방대법원의 위법 판결로 무력화된 상호관세를 대체하기 위한 새로운 관세 도입에 속도를 붙이고 있다. 미국무역대표부(USTR)는 2일(현지시간) 이른바 ..",
+      "link": "https://www.mk.co.kr/news/economy/12065168",
+      "publishedAt": "2026-06-03T12:27:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "정부, 미국 12.5% 관세 예고에 \"조만간 USTR 측과 논의\"",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 미국 무역대표부(USTR)가 한국을 상대로 12.5%의 추가 관세 부과를 예고한 것과 관련해 조만간 U...",
+      "link": "https://www.yna.co.kr/view/AKR20260603082800003",
+      "publishedAt": "2026-06-03T12:26:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"피지컬 AI시장, 10년 내 100배 성장…305조원 시장으로\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606035067i",
+      "publishedAt": "2026-06-03T11:54:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 외국환율고시표",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12065108",
+      "publishedAt": "2026-06-03T11:45:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[포토] 수은, 삼성전자 베트남 협력사 지원",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12065107",
+      "publishedAt": "2026-06-03T11:45:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "도수치료·미용주사에 줄줄 … 작년 실손보험 1.9조 적자",
+      "summary": "보험사가 지난해 실손보험에서 2조원에 가까운 적자를 기록했다. 미용 주사·도수 치료 등에 지급한 보험금 증가폭이 고객이 낸 보험료 인상률을 웃돌았기 때문이다. 3일 금융감독원이 발..",
+      "link": "https://www.mk.co.kr/news/economy/12065104",
+      "publishedAt": "2026-06-03T11:45:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "사업자대출로 집 사는 꼼수에 … 칼 빼든 당국",
+      "summary": "금융당국이 개인사업자대출에 대한 사후 점검 대상을 대폭 확대한다. 기존에는 1억원 이상 사업자대출에 대해서만 자금 사용처를 점검했지만, 앞으로 5000만원 이상 대출까지 관리 대상..",
+      "link": "https://www.mk.co.kr/news/economy/12065105",
+      "publishedAt": "2026-06-03T11:45:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "K스테이블코인 빛보나 … 2단계 코인법 다시 속도",
+      "summary": "디지털자산기본법 등 가상자산 2단계 입법 논의가 다시 속도를 낼 전망이다. 지방선거가 마무리되면서 상임위원회 구성 등 국회 운영이 다시 활성화될 것으로 보이기 때문이다. 3일 금융..",
+      "link": "https://www.mk.co.kr/news/stock/12065087",
+      "publishedAt": "2026-06-03T11:31:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "전력으로, 로봇으로 … AI 투자 전방위 확산",
+      "summary": "인공지능(AI) 투자 지형도가 바뀌고 있다. 엔비디아를 필두로 한 하드웨어 반도체 칩에 쏠리던 투자가 전력·네트워크·로보틱스 등 산업 생태계 전반으로 분산되는 추세다. AI 반도체..",
+      "link": "https://www.mk.co.kr/news/stock/12065084",
+      "publishedAt": "2026-06-03T11:31:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "일학개미 원픽은 '키옥시아'",
+      "summary": "일본 증시에 투자하는 국내 투자자(일학개미)들이 두 달 연속 일본 주식을 순매수했다. 두 달 이상 연속 순매수는 2024년 5월 이후 약 2년 만이다. 3일 한국예탁결제원에 따르..",
+      "link": "https://www.mk.co.kr/news/stock/12065086",
+      "publishedAt": "2026-06-03T11:31:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[PEF 포트폴리오 돋보기] 케이스톤에 안긴 핌즈, 이커머스 필수 인프라로 확장",
+      "summary": "국내 쇼핑몰 관리 프로그램 1위 기업 핌즈(PIMZ)가 사모펀드(PEF) 운용사 케이스톤파트너스 품에 안긴 이후 해를 거듭하며 외형 확장과 수익성 확대를 동시에 이어 가고 있다. ..",
+      "link": "https://www.mk.co.kr/news/stock/12065083",
+      "publishedAt": "2026-06-03T11:31:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "'美반도체 3배' 팔아치운 서학개미",
+      "summary": "서학개미들이 최근 한 주간 미국 상장 레버리지 상장지수펀드(ETF)를 대거 매도했다. 국내에 '삼전닉스' 레버리지가 상장함에 따라 레버리지 투자자들도 거래 편의성이 높은 '국장'으..",
+      "link": "https://www.mk.co.kr/news/stock/12065079",
+      "publishedAt": "2026-06-03T11:30:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "대형 반도체주 쏠림에 … 코스닥 빚투도 주춤",
+      "summary": "코스닥 빚투 자금이 올해 최저 수준까지 빠졌다. 국내 증시 신용거래융자 잔액이 사상 처음 38조원을 넘어섰지만 코스닥에서는 오히려 신용잔액이 빠르게 줄고 있다. 개미들의 레버리지 ..",
+      "link": "https://www.mk.co.kr/news/stock/12065080",
+      "publishedAt": "2026-06-03T11:30:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "골드만, 코스피 목표치 9000 → 1만2000",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060350891",
+      "publishedAt": "2026-06-03T11:28:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "스페이스X, 관심 고조에 로드쇼 전에 \"주당 135달러\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606035130i",
+      "publishedAt": "2026-06-03T11:18:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "OECD, 올해 세계 경제 성장률 2.8%로 하향…한국은 2.6%로 상향",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606035070i",
+      "publishedAt": "2026-06-03T10:53:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "韓 올해 명목성장률…OECD, 10.4% 전망",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060349171",
+      "publishedAt": "2026-06-03T10:18:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반도체가 끌고 확장재정이 밀고…韓 성장률, 4년 만에 美 웃돌 듯",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060349481",
+      "publishedAt": "2026-06-03T10:15:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "골드만 CEO \"금융시장, AI기업 IPO 감당할 자금 충분\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060349561",
+      "publishedAt": "2026-06-03T10:12:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "일본은행 총재, 금리 인상 가능성 시사…日기준금리 1% 될까",
+      "summary": "(도쿄=연합뉴스) 조성미 특파원 = 우에다 가즈오 일본은행 총재가 이달 중순으로 예정된 차기 금융정책결정회의에서 기준금리인 단기 정책금리를 인상...",
+      "link": "https://www.yna.co.kr/view/AKR20260603070100073",
+      "publishedAt": "2026-06-03T09:58:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"코스피, 삼전닉스 없어도 1만2000 간다\"…역대급 베팅",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060347757",
+      "publishedAt": "2026-06-03T08:21:49.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -26,6 +234,14 @@
       "summary": "실손보험 적자폭 확대 손해율 101% 넘어서보험사가 지난해 실손보험에서 2조원 가까운 적자를 낸 것으로 나타났다. 미용주사·도수치료 등에 지급한 보험금 증가 폭이 고객이 낸 보험..",
       "link": "https://www.mk.co.kr/news/economy/12064824",
       "publishedAt": "2026-06-03T07:45:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "中 딥시크, 텐센트·CATL로부터 500억위안 조달 추진",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606034732i",
+      "publishedAt": "2026-06-03T07:44:17.000Z"
     },
     {
       "source": "매일경제",
@@ -4058,78 +4274,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202605272860i",
       "publishedAt": "2026-05-27T15:10:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전닉스 언제까지 올라요?\"…개미들 놀랄 증권가 전망 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052721286",
-      "publishedAt": "2026-05-27T13:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "아무도 모르게 4000명씩 잠드는데…韓 고독사 보험, 여전히 황무지",
-      "summary": "일본과 달리 한국선 ‘고독사보험’ 유명무실 고독사 연간 4000명 달하는데 지자체 예산으로 땜질처방만 일본은 지자체·보험사 연계해 장례·집 수리비 등 비용 분담대한민국이 초고령..",
-      "link": "https://www.mk.co.kr/news/economy/12059328",
-      "publishedAt": "2026-05-27T12:43:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "주식도 24시간 거래 가능해진다...토큰화 주식의 모든 것[엠블록레터]",
-      "summary": "“24시간 주식 거래가 가능해진다면 어떨까요?” 최근 미국 블록체인 업계에서 가장 뜨거운 키워드 중 하나가 바로 ‘토큰화 주식(Tokenized Stocks)’입니다. 이름만 들으..",
-      "link": "https://www.mk.co.kr/news/stock/12059240",
-      "publishedAt": "2026-05-27T10:53:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전닉스 2배로 벌자\" 우르르 몰리더니…불만 폭발한 까닭",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052727157",
-      "publishedAt": "2026-05-27T10:44:15.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "국민성장펀드 대형 위탁운용사…스카이레이크·에이티넘 선정",
-      "summary": "국민성장펀드 1차 위탁운용사(GP) 명단이 확정됐다. 선정된 GP들은 곧바로 민간 자금 매칭과 투자처 발굴 경쟁에 돌입할 전망이다. 27일 산업은행과 신한자산운용은 '2026년 국..",
-      "link": "https://www.mk.co.kr/news/stock/12059233",
-      "publishedAt": "2026-05-27T10:37:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "코스맥스 2세, 코스맥스그룹 지주사 최대주주로",
-      "summary": "모친 서성석 회장, 관계사에 지분 매도화장품 제조자개발생산(ODM)기업 코스맥스그룹의 지주사인 코스맥스비티아이의 최대주주가 오너 2세로 변경됐다. 27일 코스맥스비티아이는 최대주주..",
-      "link": "https://www.mk.co.kr/news/economy/12059213",
-      "publishedAt": "2026-05-27T10:11:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "새로 뜨는 ‘삼전닉스’ 아시나요?…삼성전자보다 더 오른 삼성전기의 반란",
-      "summary": "플러스 관심종목여의도 증권가에선 삼성전자와 SK하이닉스의 조합 ‘삼전닉스’에서 삼성전자 대신 삼성전기를 끼워 넣는 사람들이 늘고 있다. 그도 그럴 것이 삼성전자가 최근 6개월(20..",
-      "link": "https://www.mk.co.kr/news/stock/12059165",
-      "publishedAt": "2026-05-27T09:32:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "크루캐피탈 투자 스타트업, a16z 등 美 유명 VC에서 후속 투자 유치",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605272603i",
-      "publishedAt": "2026-05-27T09:02:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "국민성장펀드 대형 위탁운용사에 스카이레이크·에이티넘",
-      "summary": "총 11곳 운용사 선정[본 기사는 05월 27일(17:59) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 국민성장펀드 1차 위탁운용사(GP) 명단이 확정됐..",
-      "link": "https://www.mk.co.kr/news/stock/12059148",
-      "publishedAt": "2026-05-27T08:59:54.000Z"
     }
   ]
 }
