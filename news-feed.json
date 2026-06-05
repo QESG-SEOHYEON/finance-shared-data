@@ -1,8 +1,144 @@
 {
-  "updatedAt": "2026-06-05T12:31:43.261Z",
+  "updatedAt": "2026-06-05T22:10:34.369Z",
   "historyDays": 7,
-  "count": 509,
+  "count": 512,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[금주핫템] 노스페이스 '냉감 의류'·K2 '시원서커 반팔 셔츠 셋업'",
+      "summary": "▲ 아웃도어 브랜드 노스페이스는 야외 활동과 출퇴근, 여행 등 폭넓게 활용할 수 있는 &apos;냉감 의류&apos;를 선보였다. 여름철에도 쾌적하게 착용하도록 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260604176000030",
+      "publishedAt": "2026-06-05T22:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[신상잇슈] 해태제과 '구운나초'·동서식품 '오레오오즈바' 2종",
+      "summary": "▲ 해태제과는 옥수수 스낵 나초를 스틱과자로 구현한 &apos;구운나초&apos;를 출시했다. 구운나초는 해태제과가 지난 2002년 첫 선을 보인 구운감자 이후 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260605128000030",
+      "publishedAt": "2026-06-05T22:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "美정부, AI기업 지분 보유 검토…트럼프 \"곧 그들과 만날 것\"",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 5일(현지시간) 정부 차원에서 인공지능(AI) 연구·개발 기업들의 지분을 확보...",
+      "link": "https://www.yna.co.kr/view/AKR20260606008400071",
+      "publishedAt": "2026-06-05T21:38:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“코스피 로봇 대장주, 다들 아시죠?”...‘현대차 이름표’ 단 ETF 봇물",
+      "summary": "집중형·혼합형…상품군 다양 車 넘어 피지컬AI 강자로 인기 ETF 상품명으로 들어가는 건 반도체 대형주 제외하면 유일 삼성전자·SK하이닉스에 이어 단일종목 레버리지 출시 유력국내..",
+      "link": "https://www.mk.co.kr/news/stock/12067361",
+      "publishedAt": "2026-06-05T21:14:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“레드보다 화이트?”…편의점 판도 바꾼 1만원대 와인 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606023790i",
+      "publishedAt": "2026-06-05T21:00:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 내주 경기 화성 동탄2 공공분양 등 2천가구 공급",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 2천가구가 공급된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260605130200003",
+      "publishedAt": "2026-06-05T21:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "美금리인상 기대강화에 주식·채권·금 동반급락…달러는 강세(종합)",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 예상이 확산하면서 5일...",
+      "link": "https://www.yna.co.kr/view/AKR20260606005751072",
+      "publishedAt": "2026-06-05T20:59:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 전망에 힘이 실리면서 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260606005700072",
+      "publishedAt": "2026-06-05T20:06:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“수익률 40%라더니 겨우 원금 회복?” … 변액보험 통장 열어보고 ‘깜짝’",
+      "summary": "변액보험의 숨은 비용 구조 8000피 달성에 자금 대거 유입 세 자릿수 수익률 상품도 등장“국내 증시 불장에 기존에 가입한 변액보험 수익률이 꽤 나왔는데, 계속 유지할까요, 아니면..",
+      "link": "https://www.mk.co.kr/news/economy/12066825",
+      "publishedAt": "2026-06-05T20:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 축구 동작 학습하는 아틀라스",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060502581",
+      "publishedAt": "2026-06-05T16:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 별마당 도서관 9주년 전시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060501601",
+      "publishedAt": "2026-06-05T15:50:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606060532i",
+      "publishedAt": "2026-06-05T15:40:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“외국인 연일 조 단위로 던지더니”…환율 ‘초비상’ 1550원선도 돌파",
+      "summary": "야간거래 장중 1555.5원…美 고용 호조 등 영향미국 고용 호조 등의 영향으로 원달러 환율이 5일 야간거래에서 1550원선도 돌파하며 초비상 상태다. 이날 서울 외환시장 야간 거..",
+      "link": "https://www.mk.co.kr/news/economy/12067295",
+      "publishedAt": "2026-06-05T14:11:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "원·달러 환율 야간 거래서 1550원 돌파…\"글로벌 금융위기 이후 최고\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060504867",
+      "publishedAt": "2026-06-05T13:11:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "쌈 먹고 폭탄주 제조한 젠슨 황…\"2차는 치킨집으로\" [영상]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060504717",
+      "publishedAt": "2026-06-05T13:06:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'브로드컴 쇼크'에 반도체 패닉셀…증권가 \"저가매수 기회\" [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060500626",
+      "publishedAt": "2026-06-05T13:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보] 美 '깜짝 고용수치'에 미국채금리 급등…30년물 5.0% 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060504647",
+      "publishedAt": "2026-06-05T12:39:09.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3962,118 +4098,6 @@
       "summary": "(인천=연합뉴스) 김상연 기자 = 인천 한 대단지 아파트와 인접한 어린이공원에 공중화장실 설치 공사가 진행되자 주민 민원이 빗발치며 논란이 일고...",
       "link": "https://www.yna.co.kr/view/AKR20260529119300065",
       "publishedAt": "2026-05-29T22:17:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "주유소 기름값 2주 연속 하락…전국 평균 휘발윳값 2천11원대",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 이번 주 국내 주유소 휘발유와 경유의 주간 평균 가격이 2주 연속 소폭 하락했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260529159200003",
-      "publishedAt": "2026-05-29T22:01:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[신상잇슈] 삼립 '포켓몬빵' 신제품 4종·뚜레쥬르 '쿨브레드' 2종",
-      "summary": "▲ 삼립은 포켓몬 30주년을 기념해 &apos;뮤츠의 우유치즈케익&apos;, &apos;팬텀의 미니초코케익&apos;, &apos;이브이의 땅콩미니호떡&apos;, &apos;잠만보의 초코크림빵&apos; 등 &apos;포...",
-      "link": "https://www.yna.co.kr/view/AKR20260529069000030",
-      "publishedAt": "2026-05-29T22:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[OK제보] \"이동 늘었지만 지갑은 10년전 그대로\"…시각장애 안마사 '눈물'",
-      "summary": "(서울=연합뉴스) 서효주 인턴기자 = &quot;이 출근길을 활동지원사 없이 저 혼자 올라가면 큰일 나요.&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260528183600505",
-      "publishedAt": "2026-05-29T21:50:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "국내 유턴기업 규제 문턱 낮춘다…“업종 바꿔도 세금 감면”",
-      "summary": "산업부, 국내복귀 촉진방안 “요건 깐깐하다” 지적 늘자 유사업종까지 인정해주고 AI 도입 땐 고용 축소 허용 복귀 지역 비수도권만 인정정부가 해외 진출 기업의 국내 복귀를 가로막..",
-      "link": "https://www.mk.co.kr/news/economy/12061790",
-      "publishedAt": "2026-05-29T21:20:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“외식보다 낫다”…집에서 먹는 랍스터 지금 사야 하는 이유 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605297728i",
-      "publishedAt": "2026-05-29T21:00:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'버핏 공식'도 무너졌다…'파죽지세' 코스피 상승률 세계 1위",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052974481",
-      "publishedAt": "2026-05-29T21:00:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "파주 임진각 민방위 대피소, 다목적 문화예술공간으로 활용",
-      "summary": "(파주=연합뉴스) 노승혁 기자 = 경기 파주시와 파주문화재단은 임진각 민방위 정부 지원 대피시설을 미술전시관, 문화공연장 등 다목적 문화예술공간...",
-      "link": "https://www.yna.co.kr/view/AKR20260529114300060",
-      "publishedAt": "2026-05-29T21:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부동산캘린더] 내주 경기 김포 호반써밋풍무Ⅱ 등 2천437가구 분양",
-      "summary": "(서울=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 2천437가구가 공급된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260529156900003",
-      "publishedAt": "2026-05-29T21:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 인도네시아 진출한 K패션 '스탠드오일'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052974021",
-      "publishedAt": "2026-05-29T15:35:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼성·하나 줄이은 투자 결정, 금융권 디지털자산 경쟁 본격화[엠블록레터]",
-      "summary": "안녕하세요 엠블록레터의 AI 인턴입니다. 국내 대형 금융사들이 가상자산 거래소에 잇따라 지분 투자를 단행하면서 전통 금융권과 가상자산 업계의 경계가 빠르게 허물어지고 있어요. 삼성..",
-      "link": "https://www.mk.co.kr/news/stock/12061706",
-      "publishedAt": "2026-05-29T14:10:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "독일 5월 물가상승률 2.6%로 둔화…ECB 금리 인상 무게",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052976887",
-      "publishedAt": "2026-05-29T13:44:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "가상자산 ‘전통금융’이 삼킨다…은행·증권사, 거래소 쟁탈전 왜?",
-      "summary": "STO·스테이블코인·수탁 3대 분야 겨냥 기관간 MOU 넘어 지분 확보 경쟁 가열 해외 가상자산 기업 국내 진출도 본격화한국 가상자산 시장에서 국내 주요 대기업과 금융기관들의 파트..",
-      "link": "https://www.mk.co.kr/news/stock/12061671",
-      "publishedAt": "2026-05-29T13:00:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"하이닉스보다 더 올랐다\"…올 들어 700% 넘게 급등한 회사 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052969706",
-      "publishedAt": "2026-05-29T13:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주식하면서 이런 날은 처음 보네요”…‘LG’ 들어간 주식, 전부 타올랐다",
-      "summary": "젠슨 황 작년 경주 APEC 이후 7개월만에 방한, 韓 기업 회동 LG전자·씨엔에스는 상한가젠슨 황 엔비디아 최고경영자(CEO)가 다음주 방한해 LG그룹, 네이버와 만날 것이라는 ..",
-      "link": "https://www.mk.co.kr/news/stock/12061670",
-      "publishedAt": "2026-05-29T12:56:13.000Z"
     }
   ]
 }
