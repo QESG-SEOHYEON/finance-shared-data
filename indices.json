@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T07:24:51.045Z",
+  "updatedAt": "2026-06-08T14:00:25.434Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -11,7 +11,7 @@
       "dayChange": -676.18,
       "dayChangePct": -8.29,
       "monthChangePct": -0.18,
-      "lastUpdated": "2026-06-08T06:32:50.000Z",
+      "lastUpdated": "2026-06-08T09:05:30.000Z",
       "candles": [
         {
           "date": "2026-05-08",
@@ -100,21 +100,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 25709.43,
-      "previous": 26830.96,
-      "dayChange": -1121.53,
-      "dayChangePct": -4.18,
-      "monthChangePct": -0.5,
-      "lastUpdated": "2026-06-05T21:15:59.000Z",
+      "current": 25905.64,
+      "previous": 25709.43,
+      "dayChange": 196.21,
+      "dayChangePct": 0.76,
+      "monthChangePct": -1.3,
+      "lastUpdated": "2026-06-08T14:00:17.000Z",
       "candles": [
-        {
-          "date": "2026-05-06",
-          "close": 25838.94
-        },
-        {
-          "date": "2026-05-07",
-          "close": 25806.2
-        },
         {
           "date": "2026-05-08",
           "close": 26247.08
@@ -194,6 +186,10 @@
         {
           "date": "2026-06-05",
           "close": 25709.43
+        },
+        {
+          "date": "2026-06-08",
+          "close": 25905.64
         }
       ]
     },
@@ -202,21 +198,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7383.74,
-      "previous": 7584.31,
-      "dayChange": -200.57,
-      "dayChangePct": -2.64,
-      "monthChangePct": 0.25,
-      "lastUpdated": "2026-06-05T21:00:36.000Z",
+      "current": 7421.92,
+      "previous": 7383.74,
+      "dayChange": 38.18,
+      "dayChangePct": 0.52,
+      "monthChangePct": 0.31,
+      "lastUpdated": "2026-06-08T14:00:24.000Z",
       "candles": [
-        {
-          "date": "2026-05-06",
-          "close": 7365.12
-        },
-        {
-          "date": "2026-05-07",
-          "close": 7337.11
-        },
         {
           "date": "2026-05-08",
           "close": 7398.93
@@ -296,6 +284,10 @@
         {
           "date": "2026-06-05",
           "close": 7383.74
+        },
+        {
+          "date": "2026-06-08",
+          "close": 7421.92
         }
       ]
     }
