@@ -1,8 +1,144 @@
 {
-  "updatedAt": "2026-06-08T14:00:25.109Z",
+  "updatedAt": "2026-06-08T22:19:41.770Z",
   "historyDays": 7,
-  "count": 517,
+  "count": 512,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[머니톡스] \"형, 동생, 깐부\"…AI 권력자의 비즈니스",
+      "summary": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 전 세계 인공지능(AI) 황제로 불리는 젠슨 황 엔비디아 창립자 겸 최고경영자(CEO)가 한국 산업계를...",
+      "link": "https://www.yna.co.kr/view/AKR20260608154400546",
+      "publishedAt": "2026-06-08T22:07:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[우분투칼럼] 아프리카 스타트업, 이미 시장이 움직이고 있다",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260529049400898",
+      "publishedAt": "2026-06-08T22:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[인&아웃] 한국 증시의 '민낯'",
+      "summary": "(서울=연합뉴스) 김종우 선임기자 = 예상대로 8일은 블랙 먼데이였다. &quot;주가는 오를 때 계단이지만, 떨어질 땐 엘리베이터&quot;라는 증시 격언이 현...",
+      "link": "https://www.yna.co.kr/view/AKR20260608097900546",
+      "publishedAt": "2026-06-08T21:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "SK하이닉스 임단협 이달 개시…\"내외부 상황 고려해 잘 대처하자\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060945507",
+      "publishedAt": "2026-06-08T21:25:40.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "4월 방한객 소비액 1조3천억원 '역대 최대'…전년비 54.6% 증가",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 올해 4월 한국을 찾은 외국인 관광객이 지출한 금액이 역대 최대인 1조3천억원을 넘어선 것으로 집계됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260608156800030",
+      "publishedAt": "2026-06-08T21:11:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "마이바흐 타던 젠슨황이 선택한 '국산차 끝판왕'…의전차 바뀐 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606083190g",
+      "publishedAt": "2026-06-08T21:06:21.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전세사기 피해자 3만9천명 넘어…피해 인정률 60.4%",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 5월 전세사기 피해지원위원회 전체회의를 3차례 열어 618건을 전세사기 피해자 등으로 최종 가결했...",
+      "link": "https://www.yna.co.kr/view/AKR20260608125100003",
+      "publishedAt": "2026-06-08T21:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼전닉스 끝난거 아니냐\" 공포…전문가 \"비중 늘릴 기회\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060841141",
+      "publishedAt": "2026-06-08T21:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금감원, 기업공시 설명회 개최…22~23일 광주·대전",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026060834726",
+      "publishedAt": "2026-06-08T21:00:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "세금·과태료 상습 체납차량 잡는다…서울시, 오늘 합동단속",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 9일 자동차세·과태료·고속도로 통행료 등 상습 체납 차량에 대한 집중 단속을 하고, 적발 차량에 번호...",
+      "link": "https://www.yna.co.kr/view/AKR20260608158300004",
+      "publishedAt": "2026-06-08T21:00:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“죄송한데 이제 3억으론 멤버십이 안되세요”…은행, PB 문턱 더 높였다 [금융 라운지]",
+      "summary": "VIP 고객기준 3억 → 5억 상향 “자산관리가 미래의 먹거리”주식 부자 등 고액 자산가와 수억 원대 성과급을 받는 직장인이 늘어나면서 은행권이 프라이빗뱅킹(PB) 문턱을 높이고 ..",
+      "link": "https://www.mk.co.kr/news/economy/12069045",
+      "publishedAt": "2026-06-08T20:57:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "마이크론 10%, 반도체주 반등...美 증시 하락 만회 [월가월부]",
+      "summary": "패닉 벗어난 S&P500·나스닥 반등 이란·이스라엘 충돌 중단도 호재반도체주가 일제히 반등하며 미 뉴욕증시가 기술주를 중심으로 지난주 대폭락장의 후유증에서 일단 벗어나는 모습이다..",
+      "link": "https://www.mk.co.kr/news/economy/12069039",
+      "publishedAt": "2026-06-08T20:52:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“AI 투자도 인플레 자극, 내년 금리인상 가능” … 월가 채권 거물의 경고",
+      "summary": "케빈 플레내건 위즈덤트리 투자전략 총괄위즈덤트리는 운용자산(AUM) 1630억달러(약 243조원) 규모의 글로벌 자산운용사로 상장지수펀드(ETF) 개발과 운용에 강점을 갖고 있다...",
+      "link": "https://www.mk.co.kr/news/economy/12068376",
+      "publishedAt": "2026-06-08T19:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“7000선 밑으론 안 가겠지만” … 코스피 반등  2가지 필수조건은",
+      "summary": "머니닥터 5인 조정장 긴급 진단9000선을 넘보던 코스피가 불과 사흘 만에 7500선 아래로 추락했다. 코스피는 지난 8일 하루에만 8% 넘게 폭락하며 7484.41로 마감했다. ..",
+      "link": "https://www.mk.co.kr/news/stock/12068771",
+      "publishedAt": "2026-06-08T19:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“로봇, 이미 깊숙히 들어왔다” … 휴머노이드시장 지배자는?",
+      "summary": "지난 4월 중국 베이징에서는 휴머노이드 로봇 하프 마라톤이 열렸다. 두 번째 열린 이번 대회에서는 화웨이에서 분사한 아너 로봇(산뎬)이 인간 하프마라톤 세계기록을 7분이나 추월을 ..",
+      "link": "https://www.mk.co.kr/news/stock/12068680",
+      "publishedAt": "2026-06-08T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "더인포메이션 \"구글, 텐서칩 인텔서 3백만개 이상 생산 계획\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606094465i",
+      "publishedAt": "2026-06-08T15:30:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 증시, 저가 매수 들어 오며 반도체주 중심으로 반등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606084445i",
+      "publishedAt": "2026-06-08T14:18:27.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3962,182 +4098,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026060218907",
       "publishedAt": "2026-06-01T22:22:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'채용 특혜 의혹' 인천대…전임교수 신규 채용 잠정 중단",
-      "summary": "(인천=연합뉴스) 김상연 기자 = 각종 채용 특혜 의혹으로 홍역을 치른 국립 인천대학교가 결국 전임교수 신규 채용을 잠정 중단했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260601108800065",
-      "publishedAt": "2026-06-01T22:17:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "AI랠리에 3대 지수 또 최고치…엔비디아 6%↑ [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060218996",
-      "publishedAt": "2026-06-01T22:12:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'불닭면' 대신 쓸어담는 K푸드 뭐길래…해외서 대박 터졌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605260286i",
-      "publishedAt": "2026-06-01T22:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한-아프리카 비즈니스 포럼 오늘 개최…\"공급망 협력방안 논의\"",
-      "summary": "(서울=연합뉴스) 박성진 기자 = 한국과 아프리카 기업인들이 상호 협력 방안을 논의하는 &apos;한-아프리카 비즈니스 포럼&apos;이 2일 열린다.",
-      "link": "https://www.yna.co.kr/view/AKR20260601145300898",
-      "publishedAt": "2026-06-01T22:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[우분투칼럼] 달을 향한 도전…우리 안 '히든 피겨스'를 깨우는 디지털 우분투",
-      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260521120900898",
-      "publishedAt": "2026-06-01T22:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "부부는 헤어져도 부모로 남는다…이혼 시 생각해봐야 할 것들 [김앤장 가사상속·기업승계 리포트]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606010221i",
-      "publishedAt": "2026-06-01T22:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘대마불사 소마필사’ 국장1원칙 됐다…이 불장에 14% 떨군 소형주",
-      "summary": "지난달 수익률 ‘양극화 심화’ 코스피 8700선 고공행진 불구 반도체 등 주도株에만 돈몰려 대형주 33% 오를때 소형주 뚝코스피가 전대미문의 8700선 고지를 밟으며 고공행진을 이..",
-      "link": "https://www.mk.co.kr/news/stock/12063695",
-      "publishedAt": "2026-06-01T21:44:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "국제유가, 이란 협상 중단 소식에 상승…WTI 5%대↑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060218657",
-      "publishedAt": "2026-06-01T21:20:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "5월 서학개미가 가장 많이 산 ETF…이름 생소한데 담은 종목은 ‘익숙’",
-      "summary": "‘라운드힐 메모리’ ETF 삼전닉스 비중이 절반 달해 한달간 3억달러 넘게 순매수지난 한 달 동안 서학개미들은 삼성전자, SK하이닉스를 필두로 메모리반도체 기업에 집중하는 미국 상..",
-      "link": "https://www.mk.co.kr/news/stock/12063673",
-      "publishedAt": "2026-06-01T21:04:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "메모리 한상자 수출하면 도심 아파트 한채 값 번다…수출 신기록 달성",
-      "summary": "5월에 한국이 역대 최고 수준의 수출을 기록한 것은 미국과 중국 빅테크들의 인공지능(AI) 인프라스트럭처 확충 경쟁에서 비롯됐다. 이들이 앞다퉈 반도체 확보에 나서면서 메모리 반도..",
-      "link": "https://www.mk.co.kr/news/economy/12063672",
-      "publishedAt": "2026-06-01T21:04:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'다이소 안 가도 되겠네'…3000원 '가성비 화장품' 쫙 깔렸다 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606019880g",
-      "publishedAt": "2026-06-01T21:00:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "4월 기업 직접금융 조달 22.6조…전월비 13%↑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060108416",
-      "publishedAt": "2026-06-01T21:00:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "주식 덕에 '노후 걱정' 덜었는데…국민연금 딜레마 빠진 까닭",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060114991",
-      "publishedAt": "2026-06-01T21:00:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "일반회사채 넉달째 순상환…CP·단기사채 발행 증가",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 지난 4월 일반회사채 발행이 넉 달째 감소하며 순상환 기조가 올해 내내 지속됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260601132700002",
-      "publishedAt": "2026-06-01T21:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "배달기사 보험 가입 의무화…대인 무한·대물 2천만원 이상 보장",
-      "summary": "(서울=연합뉴스) 김윤구 기자 = 배달 종사자는 앞으로 유상운송보험에 가입해야 한다.",
-      "link": "https://www.yna.co.kr/view/AKR20260601149300003",
-      "publishedAt": "2026-06-01T21:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "알면 조용히 돌려받는다 … 퇴로 막힌 다주택자의 절세 노하우",
-      "summary": "현행 주택 보유세 과세기준일은 매년 6월 1일. 따라서 현 시점 보유중인 주택에 대해서는 명의자가 1년치 보유세를 부담해야 한다. 공시가격 상승폭이 상당히 큰 지금, 이를 줄일 ..",
-      "link": "https://www.mk.co.kr/news/economy/12062961",
-      "publishedAt": "2026-06-01T19:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "수천억짜리 쇄빙선, 10년간 90척 쏟아진다 … ‘북극 항로’ 수혜주 여기 있네",
-      "summary": "소현철 상지대 국가안보융합학과 외래교수투자의 세계에는 “정부 정책에 올라타면 투자의 기회가 있다”는 오래된 격언이 있다. 지난해 대선 당시 이재명 대통령의 ‘코스피 5000’ 공약..",
-      "link": "https://www.mk.co.kr/news/business/12062949",
-      "publishedAt": "2026-06-01T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "이란 \"협상 중단\" 유가 급등...AI 독주 랠리 떠받친 젠슨황 [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606011785i",
-      "publishedAt": "2026-06-01T15:28:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 5월 제조업활동,4년만에 최대 증가",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606011784i",
-      "publishedAt": "2026-06-01T14:55:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美·이란 협상 중단설…유가 상승에 美 국채 하락·증시 혼조",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606011776i",
-      "publishedAt": "2026-06-01T14:23:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황 \"엔비디아, 한국 로보틱스에 투자하겠다\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060117721",
-      "publishedAt": "2026-06-01T14:11:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"기술력 있는 韓기업 많아…늘 투자 고려\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060117711",
-      "publishedAt": "2026-06-01T14:09:47.000Z"
     }
   ]
 }
