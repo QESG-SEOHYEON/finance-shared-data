@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T07:00:47.675Z",
+  "updatedAt": "2026-06-10T12:49:35.217Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -11,7 +11,7 @@
       "dayChange": 246.41,
       "dayChangePct": 3.29,
       "monthChangePct": -1.17,
-      "lastUpdated": "2026-06-10T06:30:40.000Z",
+      "lastUpdated": "2026-06-10T09:05:40.000Z",
       "candles": [
         {
           "date": "2026-05-11",
