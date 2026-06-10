@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-09T22:18:14.239Z",
+  "updatedAt": "2026-06-10T07:00:47.675Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 7484.41,
-      "previous": 8160.59,
-      "dayChange": -676.18,
-      "dayChangePct": -8.29,
-      "monthChangePct": -4.32,
-      "lastUpdated": "2026-06-09T09:05:30.000Z",
+      "current": 7730.82,
+      "previous": 7484.41,
+      "dayChange": 246.41,
+      "dayChangePct": 3.29,
+      "monthChangePct": -1.17,
+      "lastUpdated": "2026-06-10T06:30:40.000Z",
       "candles": [
         {
           "date": "2026-05-11",
@@ -88,6 +88,10 @@
         {
           "date": "2026-06-08",
           "close": 7484.41
+        },
+        {
+          "date": "2026-06-10",
+          "close": 7730.82
         }
       ]
     },
@@ -96,11 +100,11 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 25678.82,
-      "previous": 25929.66,
-      "dayChange": -250.84,
-      "dayChangePct": -0.97,
-      "monthChangePct": -2.27,
+      "current": 25929.66,
+      "previous": 25709.43,
+      "dayChange": 220.23,
+      "dayChangePct": 0.86,
+      "monthChangePct": -1.31,
       "lastUpdated": "2026-06-09T21:15:59.000Z",
       "candles": [
         {
@@ -182,10 +186,6 @@
         {
           "date": "2026-06-08",
           "close": 25929.66
-        },
-        {
-          "date": "2026-06-09",
-          "close": 25678.82
         }
       ]
     },
@@ -194,11 +194,11 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7386.65,
-      "previous": 7405.73,
-      "dayChange": -19.08,
-      "dayChangePct": -0.26,
-      "monthChangePct": -0.35,
+      "current": 7405.73,
+      "previous": 7383.74,
+      "dayChange": 21.99,
+      "dayChangePct": 0.3,
+      "monthChangePct": -0.1,
       "lastUpdated": "2026-06-09T21:34:39.000Z",
       "candles": [
         {
@@ -280,10 +280,6 @@
         {
           "date": "2026-06-08",
           "close": 7405.73
-        },
-        {
-          "date": "2026-06-09",
-          "close": 7386.65
         }
       ]
     }
