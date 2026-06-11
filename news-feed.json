@@ -1,8 +1,192 @@
 {
-  "updatedAt": "2026-06-11T13:53:07.228Z",
+  "updatedAt": "2026-06-11T22:47:15.950Z",
   "historyDays": 7,
-  "count": 514,
+  "count": 521,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘샀다, 팔았다’ 개미들 덕분에 돈방석 앉은 증권사...1분기 순익 4.3조 ‘사상최대’",
+      "summary": "국내 증권사들이 올해 1분기 4조원이 넘는 순이익을 거두며 분기 기준 사상 최대 실적을 달성했다. 증시 활황으로 개인 투자자들의 주식 거래가 폭증하면서 수수료 수익이 급증한 영향이..",
+      "link": "https://www.mk.co.kr/news/stock/12072308",
+      "publishedAt": "2026-06-11T22:35:25.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "■ 트럼프 &quot;이란과 방금 훌륭한 합의&quot;…이란 &quot;최종결정 안내려&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260612018700011",
+      "publishedAt": "2026-06-11T22:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'남부 해양수도권' 논의 본격화…고위급 정책협의회 재가동",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 6·3 지방선거가 마무리돼 부산·울산·경남 지역 지방자치단체가 새롭게 구성되면서 정부가 추진 중인 &apos;남부 해양...",
+      "link": "https://www.yna.co.kr/view/AKR20260611132800051",
+      "publishedAt": "2026-06-11T22:20:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "미 항소법원, 트럼프 ‘글로벌 10% 관세’ 유지 결정…7월까지 효력 지속",
+      "summary": "미국 항소법원이 트럼프 행정부의 글로벌 10% 관세 효력을 2심 판결이 나올때까지 유지하기로 했다. 이로써 트럼프 행정부는 항소법원의 판단이 나올 때까지 글로벌 관세를 계속 부과할..",
+      "link": "https://www.mk.co.kr/news/economy/12072302",
+      "publishedAt": "2026-06-11T22:13:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 돈잔치 시작됐다\"…'삼전닉스' 투자 확대에 폭등한 종목 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061112556",
+      "publishedAt": "2026-06-11T21:30:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국내 첫 '동물복지과' 신설…부산보건대, 2027년 신입생 받는다",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 국내 최초로 반려동물 산업이나 수의학 보조 영역을 넘어 동물복지를 전문적으로 교육하는 학과가 신설된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260611140000030",
+      "publishedAt": "2026-06-11T21:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "개인투자자 돈 153조 몰렸다…스페이스X, 공모가 135달러 확정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061219557",
+      "publishedAt": "2026-06-11T21:24:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美항소법원, 트럼프 '10% 글로벌관세 무효판결' 집행 일시정지 연장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061219487",
+      "publishedAt": "2026-06-11T21:11:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "똑같이 일했는데, 노후 레벨 달라졌다…DC형 택했더니 22% 수익",
+      "summary": "은행 퇴직연금 1분기 성적표 예금중심 DB 수익률 제자리 펀드 품은 DC·IRP는 우상향작년부터 시작된 이례적인 국내 증시 호황이 퇴직연금 수익률에도 영향을 미친 것으로 나타났다..",
+      "link": "https://www.mk.co.kr/news/economy/12072278",
+      "publishedAt": "2026-06-11T21:08:43.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"시민 조망권 침해\"…부산항만공사, 북항환승 토지계약해제 추진",
+      "summary": "(부산=연합뉴스) 조정호 기자 = 부산항만공사(BPA)가 북항 재개발지구 내 환승센터 사업자가 지구단위계획을 위반해 공사를 강행하자 토지매매계약...",
+      "link": "https://www.yna.co.kr/view/AKR20260611115100051",
+      "publishedAt": "2026-06-11T21:00:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증권사 1분기 순익 4.3兆 '역대 최대'…전년비 77% 급증",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061107316",
+      "publishedAt": "2026-06-11T21:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "외국인도 쓸어담더니…\"65만원 간다\" 전망에 개미들 '들썩'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061114531",
+      "publishedAt": "2026-06-11T21:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중기부, 한·이탈리아 협동조합 협력 확대…로마서 MOU 체결",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 이탈리아 로마에서 &apos;한-이탈리아 협동조합 업무협약(MOU) 및 세미나&apos;를 열고 양국 협동조합 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260611146900030",
+      "publishedAt": "2026-06-11T21:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울시 \"구독서비스 19개 중 8개는 전화상담 미운영…개선요청\"",
+      "summary": "(서울=연합뉴스) 김준태 기자 = 구독 서비스 이용 중 문제가 생겨 고객센터에 연락하려 해도 전화 연결이 어렵다는 조사 결과가 나왔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260611152600004",
+      "publishedAt": "2026-06-11T21:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"6.9만원짜리 5000원에 파는 줄\"…다이소 제품, 또 품절 대란 [권 기자의 장바구니]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606111822i",
+      "publishedAt": "2026-06-11T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "이번엔 진짜하나...종전 기대감에 美증시 급등[월가월부]",
+      "summary": "트럼프 “주말에 유럽서 서명” 3차 공습 취소로 종전 기대감 마이크론 11%, 인텔 9% 반등무산 위기에 처했던 미국과 이란간 종전협상이 다시 급물살을 타면서 국제유가는 급락하고 ..",
+      "link": "https://www.mk.co.kr/news/economy/12072264",
+      "publishedAt": "2026-06-11T20:45:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“국민연금 월554만원 받는 부부” … 평범한 직장인도 가능한 노후 전략",
+      "summary": "국민연금 부부 수급 100만쌍 육박“국민연금으로만 월 554만원, 정말 부럽다.” “현실적으로 가능한 금액인가” “자식에게 손 안 벌리며 배짱 편하게 살겠네.” “지금부터 준비하면..",
+      "link": "https://www.mk.co.kr/news/economy/12071609",
+      "publishedAt": "2026-06-11T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "LG엔솔, 中 신왕다와 특허 분쟁서 승리",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061118111",
+      "publishedAt": "2026-06-11T15:49:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 삼성전자, 가격 낮춘 '스팀 로봇청소기' 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061114381",
+      "publishedAt": "2026-06-11T15:48:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] BTS 맞이 나선 부산 파라다이스",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061115161",
+      "publishedAt": "2026-06-11T15:40:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 하나금융·산단공 MOU",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061114971",
+      "publishedAt": "2026-06-11T15:35:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 너무 비싸요\" 불붙은 경제성 논란...반도체는 \"정점 멀었다\" [빈난새의 개장전요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606111852i",
+      "publishedAt": "2026-06-11T15:13:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "올 글로벌 성장률도 '뚝' … 세계은행 \"2.5% 그칠듯\"",
+      "summary": "세계은행은 올해 세계 경제성장률이 지난해(2.9%) 대비 0.4% 하락한 2.5%가 될 것이라고 11일 밝혔다. 이는 지난 1월 전망보다 0.1%포인트 낮은 수치다. 세계은행은 ..",
+      "link": "https://www.mk.co.kr/news/economy/12072164",
+      "publishedAt": "2026-06-11T14:02:38.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3986,134 +4170,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606058492i",
       "publishedAt": "2026-06-05T01:03:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "전성수 서초구청장 당선 1호 결재는 '재건축 신속 지원단'",
-      "summary": "(서울=연합뉴스) 정준영 기자 = 전성수 서울 서초구청장이 민선9기 지방선거 당선 직후에 구청장 직속 &apos;찾아가는 재건축 신속 지원단&apos; 운영 계획...",
-      "link": "https://www.yna.co.kr/view/AKR20260605011700004",
-      "publishedAt": "2026-06-04T22:10:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"이러면 안 사곤 못 배길걸\"…생존 위기에 업계 1위도 '대변신'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060480841",
-      "publishedAt": "2026-06-04T22:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "포켓몬이 유통가 뒤덮자…'캐릭터 강자' 디즈니의 토이스토리 승부수 [장서우의 하입:hype]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606058421i",
-      "publishedAt": "2026-06-04T22:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"일정 짜줘\" 한마디에 끝…여행업계, AI 플랫폼 경쟁 본격화",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606047534g",
-      "publishedAt": "2026-06-04T22:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "결혼은 늘었는데…가구에 수천만원 쓰던 신혼부부 사라져 [류은혁의 유통기한]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606048371i",
-      "publishedAt": "2026-06-04T22:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황, 오늘 韓 총수들과 '삼소회동'…AI 동맹 논의",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060584777",
-      "publishedAt": "2026-06-04T21:32:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "버팔로 트레이스, 신세계 강남서 팝업…한정 에디션 선보여",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606058456g",
-      "publishedAt": "2026-06-04T21:00:58.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "농식품부, 폭염·호우 대비 전국 동물보호센터 226곳 현장 점검",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 여름철을 앞두고 보호동물의 건강과 안전을 확보하기 위해 오는 8일부터 26일까지 전국 동물보호...",
-      "link": "https://www.yna.co.kr/view/AKR20260604143100030",
-      "publishedAt": "2026-06-04T21:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "무협·코엑스, 호찌민서 베트남 국제 프리미엄 소비재전",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 한국무역협회는 코엑스와 함께 4∼7일 베트남 호찌민 사이공전시컨벤션센터(SECC)에서 &apos;2026 베트남 국제 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260604171000003",
-      "publishedAt": "2026-06-04T21:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "통상본부장, OECD 각료이사회 참석…'M.AX·5극3특' 정책 소개",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 산업통상부는 여한구 통상교섭본부장이 3∼4일(현지시간) 프랑스 파리 경제협력개발기구(OECD) 본부에서 열린 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260604185600003",
-      "publishedAt": "2026-06-04T21:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "1천만원 이상 가상자산 이전거래, 의무보고→각사관리 완화키로",
-      "summary": "(서울=연합뉴스) 배영경 박수현 기자 = 국내 가상자산사업자가 해외 가상자산사업자나 개인지갑과 1천만원 이상의 가상자산 이전거래를 할 때, 금융...",
-      "link": "https://www.yna.co.kr/view/AKR20260604189000002",
-      "publishedAt": "2026-06-04T20:51:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "과열되는 AI '쩐의 전쟁'…머스크 뒤통수 친 구글? [월가 백브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606058438i",
-      "publishedAt": "2026-06-04T20:37:53.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“우주의 기운 모여든 제2의 반도체 ” … K뷰티 신화 만든 3개 축",
-      "summary": "박종대 하나증권 수석연구위원 인터뷰반도체가 AI(인공지능) 시대 한국 수출을 견인하고 있지만, 글로벌 시장에서 조용히 존재감을 키우며 또 하나의 국가대표 산업으로 떠오른 분야가 있..",
-      "link": "https://www.mk.co.kr/news/stock/12065825",
-      "publishedAt": "2026-06-04T20:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "달러-원, 외환당국 '말발' 도통 안 먹힌다…1,540원선까지 확대",
-      "summary": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 확대하며 1,530원 선 위에서 거래를 마쳤다.",
-      "link": "https://www.yna.co.kr/view/AKR20260605003800002",
-      "publishedAt": "2026-06-04T19:19:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미래에셋, 5일부터 스페이스X 공모주 청약",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060483761",
-      "publishedAt": "2026-06-04T15:32:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "정부 구두개입에도…원화값 1540원대 급락",
-      "summary": "정부가 외환·채권 시장을 향해 동시에 경고장을 날렸다. 일부 투기성 움직임이 가계와 기업 부담으로 전이되는 것을 막기 위해 구두 개입에 나선 것이다. 구윤철 부총리 겸 재정경제부 ..",
-      "link": "https://www.mk.co.kr/news/economy/12066324",
-      "publishedAt": "2026-06-04T14:17:38.000Z"
     }
   ]
 }
