@@ -1,8 +1,112 @@
 {
-  "updatedAt": "2026-06-12T12:49:39.409Z",
+  "updatedAt": "2026-06-12T22:18:36.703Z",
   "historyDays": 7,
-  "count": 519,
+  "count": 516,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주유소 기름값 4주 연속 하락…전국 평균 휘발윳값 2천9원대",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 이번 주 국내 주유소 휘발유와 경유의 주간 평균 가격이 4주 연속 소폭 하락했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612107400003",
+      "publishedAt": "2026-06-12T22:01:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"오늘 점심은 최현석이 직접 서빙\"…삼성·SK, 회사밥 전쟁 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606110373i",
+      "publishedAt": "2026-06-12T22:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[금주핫템] 프로-스펙스 러닝화·애경산업 윤광 스틱 블러셔",
+      "summary": "▲ 프로-스펙스는 입문 러너를 위한 트레이닝 러닝화 &apos;스피드 러시 3&apos;를 출시했다고 13일 밝혔다. 이 제품은 전작 사용자 의견을 반영해 발을 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260612045900030",
+      "publishedAt": "2026-06-12T22:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[신상잇슈] 오뚜기-신세계푸드 협업 버거 2종·백미당 '쉐이크 빙수'",
+      "summary": "▲ 오뚜기[007310] 소스 브랜드 타바스코와 신세계푸드[031440] 노브랜드 버거는 미식 여행 콘셉트를 구현한 &apos;아보카도 타코&apos;와 &apos;스모크...",
+      "link": "https://www.yna.co.kr/view/AKR20260612149900030",
+      "publishedAt": "2026-06-12T22:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "韓이 장악한 '원전 파운드리' 중심엔 두산에너빌리티·BHI",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061237821",
+      "publishedAt": "2026-06-12T21:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "퍼스트솔라, 탠덤 셀 스타트업 인수…도요타는 배터리 특허 1000개 싹쓸이",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061237871",
+      "publishedAt": "2026-06-12T21:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 내주 평택 고덕 우미 린 프레스티지 등 3천606가구 공급",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 3천606가구가 공급된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612121000003",
+      "publishedAt": "2026-06-12T21:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "테슬라·포르쉐도 베팅…AI 전력난이 밀어올린 태양광·수소株",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061237841",
+      "publishedAt": "2026-06-12T21:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "비트코인 한때 6만 달러 밑으로 '뚝'…최고가 대비 반토막",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 최근 가상자산 시가총액 1위인 비트코인 가격이 6만달러를 밑돌며 52주 최저가를 기록했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612132900002",
+      "publishedAt": "2026-06-12T20:51:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미·이란 합의 기대로 유가 3%대↓…브렌트유 3월5일 이후 최저",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 12일(현지시간) 미국과 이란의 종전 합의가 가까워졌다는 기대감에 국제유가가 이틀 연속 가파르게 하락했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260613007400072",
+      "publishedAt": "2026-06-12T19:56:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "머스크, 인류 최초 '1조달러 자산가' 등극…스페이스X 상장 효과",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606134011i",
+      "publishedAt": "2026-06-12T16:16:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"월세 45만원 믿기지 않아\"…7조원 들여 지은 '펭귄섬' 정체 [차이나 워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606122888i",
+      "publishedAt": "2026-06-12T13:45:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피 거래대금 4배 폭증…증권사, 한 분기 만에 작년 순익 절반 벌어",
+      "summary": "작년보다 77% 급증한 4.3조 코스피 거래대금 4배 늘면서 불어난 수수료가 실적 견인 자산관리 수수료도 90% 증가 자산총액도 1천조 처음 돌파 IB 수수료는 0.1%늘며 제..",
+      "link": "https://www.mk.co.kr/news/stock/12073126",
+      "publishedAt": "2026-06-12T13:00:33.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -4026,134 +4130,6 @@
       "summary": "증권사 연간 목표지수 잇단 상향 올해 AI·반도체 이익 탄탄 코스피 12개월 선행 PER 7배 선진국 19배·신흥국 11배 불과 “지금은 몇 까지 오를까 보다 언제까지 상승 지..",
       "link": "https://www.mk.co.kr/news/stock/12067371",
       "publishedAt": "2026-06-05T22:24:27.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[금주핫템] 노스페이스 '냉감 의류'·K2 '시원서커 반팔 셔츠 셋업'",
-      "summary": "▲ 아웃도어 브랜드 노스페이스는 야외 활동과 출퇴근, 여행 등 폭넓게 활용할 수 있는 &apos;냉감 의류&apos;를 선보였다. 여름철에도 쾌적하게 착용하도록 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260604176000030",
-      "publishedAt": "2026-06-05T22:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[신상잇슈] 해태제과 '구운나초'·동서식품 '오레오오즈바' 2종",
-      "summary": "▲ 해태제과는 옥수수 스낵 나초를 스틱과자로 구현한 &apos;구운나초&apos;를 출시했다. 구운나초는 해태제과가 지난 2002년 첫 선을 보인 구운감자 이후 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260605128000030",
-      "publishedAt": "2026-06-05T22:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "美정부, AI기업 지분 보유 검토…트럼프 \"곧 그들과 만날 것\"",
-      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 5일(현지시간) 정부 차원에서 인공지능(AI) 연구·개발 기업들의 지분을 확보...",
-      "link": "https://www.yna.co.kr/view/AKR20260606008400071",
-      "publishedAt": "2026-06-05T21:38:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“코스피 로봇 대장주, 다들 아시죠?”...‘현대차 이름표’ 단 ETF 봇물",
-      "summary": "집중형·혼합형…상품군 다양 車 넘어 피지컬AI 강자로 인기 ETF 상품명으로 들어가는 건 반도체 대형주 제외하면 유일 삼성전자·SK하이닉스에 이어 단일종목 레버리지 출시 유력국내..",
-      "link": "https://www.mk.co.kr/news/stock/12067361",
-      "publishedAt": "2026-06-05T21:14:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“레드보다 화이트?”…편의점 판도 바꾼 1만원대 와인 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606023790i",
-      "publishedAt": "2026-06-05T21:00:09.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부동산캘린더] 내주 경기 화성 동탄2 공공분양 등 2천가구 공급",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 2천가구가 공급된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260605130200003",
-      "publishedAt": "2026-06-05T21:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "美금리인상 기대강화에 주식·채권·금 동반급락…달러는 강세(종합)",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 예상이 확산하면서 5일...",
-      "link": "https://www.yna.co.kr/view/AKR20260606005751072",
-      "publishedAt": "2026-06-05T20:59:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 전망에 힘이 실리면서 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260606005700072",
-      "publishedAt": "2026-06-05T20:06:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“수익률 40%라더니 겨우 원금 회복?” … 변액보험 통장 열어보고 ‘깜짝’",
-      "summary": "변액보험의 숨은 비용 구조 8000피 달성에 자금 대거 유입 세 자릿수 수익률 상품도 등장“국내 증시 불장에 기존에 가입한 변액보험 수익률이 꽤 나왔는데, 계속 유지할까요, 아니면..",
-      "link": "https://www.mk.co.kr/news/economy/12066825",
-      "publishedAt": "2026-06-05T20:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 축구 동작 학습하는 아틀라스",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060502581",
-      "publishedAt": "2026-06-05T16:00:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 별마당 도서관 9주년 전시",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060501601",
-      "publishedAt": "2026-06-05T15:50:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606060532i",
-      "publishedAt": "2026-06-05T15:40:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“외국인 연일 조 단위로 던지더니”…환율 ‘초비상’ 1550원선도 돌파",
-      "summary": "야간거래 장중 1555.5원…美 고용 호조 등 영향미국 고용 호조 등의 영향으로 원달러 환율이 5일 야간거래에서 1550원선도 돌파하며 초비상 상태다. 이날 서울 외환시장 야간 거..",
-      "link": "https://www.mk.co.kr/news/economy/12067295",
-      "publishedAt": "2026-06-05T14:11:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "원·달러 환율 야간 거래서 1550원 돌파…\"글로벌 금융위기 이후 최고\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060504867",
-      "publishedAt": "2026-06-05T13:11:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "쌈 먹고 폭탄주 제조한 젠슨 황…\"2차는 치킨집으로\" [영상]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060504717",
-      "publishedAt": "2026-06-05T13:06:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'브로드컴 쇼크'에 반도체 패닉셀…증권가 \"저가매수 기회\" [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060500626",
-      "publishedAt": "2026-06-05T13:00:01.000Z"
     }
   ]
 }
