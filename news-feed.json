@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-06-11T22:47:15.950Z",
+  "updatedAt": "2026-06-12T07:15:25.501Z",
   "historyDays": 7,
-  "count": 521,
+  "count": 520,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한우협회 \"농협, 사료가 7.9% 인상 통보…즉각 철회해야\"",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 전국한우협회가 농협사료의 가격 인상 통보에 반발하며 즉각 철회를 촉구했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612126700030",
+      "publishedAt": "2026-06-12T07:06:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "세방전지 \"자회사 세방리튬배터리 주식 921억원에 추가취득\"",
+      "summary": "(서울=연합뉴스) 코스피 상장사 세방전지[004490]는 에너지 저장장치 제조업 자회사 세방리튬배터리의 주식 1억2천596만9천844주를 약 9...",
+      "link": "https://www.yna.co.kr/view/AKR20260612126900008",
+      "publishedAt": "2026-06-12T07:05:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[월드컵] 오전 치맥·팝업 응원전…식품업계 이색 마케팅 열기(종합)",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 2026 북중미 월드컵 개막과 함께 식음료·외식업계가 대한민국 축구 국가대표팀 경기 일정에 맞춘 응원 마케팅을...",
+      "link": "https://www.yna.co.kr/view/AKR20260612054151030",
+      "publishedAt": "2026-06-12T07:05:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "8% 폭등 뒤 뒷심 빠진 코스피…돌아온 외국인에 8100선은 안착",
+      "summary": "코스피가 중동발 지정학적 리스크 완화 기대에 힘입어 8000선을 탈환했다. 장 초반 8% 넘게 치솟으며 매수 사이드카까지 발동됐지만, 차익실현 매물이 나오면서 상승폭은 일부 줄어든..",
+      "link": "https://www.mk.co.kr/news/stock/12072777",
+      "publishedAt": "2026-06-12T07:05:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "역대급 과징금 폭탄 맞았는데… '주가 14% 급등' 쿠팡 무슨 일이",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123399i",
+      "publishedAt": "2026-06-12T07:02:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] 美훈풍에 삼전·닉스↑…'32만전자'·'215만닉스' 회복(종합)",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 삼성전자[005930]와 SK하이닉스[000660] 주가가 미국발 훈풍에 12일 동반 상승해 각각 32만원, ...",
+      "link": "https://www.yna.co.kr/view/AKR20260612041951008",
+      "publishedAt": "2026-06-12T06:59:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"반도체 슈퍼사이클 이제 시작\"...골드만삭스·노무라 한목소리",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123179i",
+      "publishedAt": "2026-06-12T06:58:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스닥 '반도체 소부장주' 급등…최고가 종목중 95% 차지",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 국내 증시에서 삼성전자[005930]와 SK하이닉스[000660]가 12일 반도체 투심을 이끌며 상승하자, 코...",
+      "link": "https://www.yna.co.kr/view/AKR20260612123900008",
+      "publishedAt": "2026-06-12T06:58:18.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주식 순매수한 외국인·종전 기대감…환율 사흘 만에 1,510원대",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 12일 원/달러 환율은 외국인이 주식을 순매수하고 미국·이란 종전 기대감이 커지면서 사흘 만에 1,510원대로...",
+      "link": "https://www.yna.co.kr/view/AKR20260612121300002",
+      "publishedAt": "2026-06-12T06:55:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“물가 잡는 게 우선” 한은 금리 인상 예고… 통화긴축 시계 빨라진다",
+      "summary": "신현송 “금리 인상 늦지 않아야” 소비자물가 상승률 3.1% ‘비상’ 그린북서 ‘하방위험’ 삭제했지만 5월 취업자수 4만명 깜짝 감소에 구윤철 “청년고용 개선, 최우선”신현송 한..",
+      "link": "https://www.mk.co.kr/news/economy/12072760",
+      "publishedAt": "2026-06-12T06:52:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"스페이스X에 투자한 상장사 뽑아줘\"…에픽AI가 바로 찾아준다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123312i",
+      "publishedAt": "2026-06-12T06:51:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'삼전닉스 3배' 레버리지도 있다…해외서 더 불붙은 韓주식",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123346i",
+      "publishedAt": "2026-06-12T06:47:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "오픈런에 3시간 대기까지…'아시아 유일' 토이스토리 팝업 대박났다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123304g",
+      "publishedAt": "2026-06-12T06:38:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "6억 돈잔치가 만든 '황금 수갑'…'말뚝' 박는 삼성맨들 [리멤버 오피스워]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606122188g",
+      "publishedAt": "2026-06-12T06:36:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "올해 500% 넘게 올랐어도 믿을건 삼성전기 [주식 초고수는 지금]",
+      "summary": "[수익률 상위 1% 투자자 오후 2시30분 거래동향]주식 투자 수익률 상위 1% 초고수들은 12일 오후 2시 30분 기준으로 삼성전기, SK네트웍스, 알테오젠, 에이프릴바이오, 테..",
+      "link": "https://www.mk.co.kr/news/stock/12072734",
+      "publishedAt": "2026-06-12T06:31:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "교보생명, 24년 ‘축구 사랑’…북중미 월드컵 대국민 캠페인 눈길",
+      "summary": "교보생명이 ‘2026 FIFA 북중미 월드컵’ 개막을 맞아 대한민국 축구 국가대표팀을 응원하는 대국민 캠페인을 전격 전개한다. 2002년 한일 월드컵부터 시작해 올해로 24년째 이..",
+      "link": "https://www.mk.co.kr/news/economy/12072730",
+      "publishedAt": "2026-06-12T06:24:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증권사 1분기 순익 최대치 찍었지만…\"이익 성장 둔화 가능성\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123224i",
+      "publishedAt": "2026-06-12T06:08:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "통화 정책 사이클 전환에 따른 시장 변화에 주목할 때",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123088i",
+      "publishedAt": "2026-06-12T06:06:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "창(긴축)과 방패(반도체)의 대결",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606110924i",
+      "publishedAt": "2026-06-12T06:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "iM뱅크, 대구 수성동 본점에 김준성 초대은행장 흉상 전시",
+      "summary": "장남인 김상범 이수그룹 회장도 참석iM뱅크가 12일 시중은행 전환 3년차이자 오는 10월 창립 59주년을 앞두고 고(故) 김준성 1대 은행장(이수그룹 명예회장)의 흉상을 설치했다...",
+      "link": "https://www.mk.co.kr/news/economy/12072703",
+      "publishedAt": "2026-06-12T05:50:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피 1만1000 간다는 노무라...“반도체 슈퍼사이클 이제 막 시작됐다”",
+      "summary": "일본 노무라증권이 인공지능(AI) 확산에 따른 메모리 반도체 수요 급증을 근거로 “반도체 슈퍼사이클은 이제 막 시작됐다”고 진단했다. 아울러 AI 반도체 가치사슬을 중심으로 방산과..",
+      "link": "https://www.mk.co.kr/news/stock/12072702",
+      "publishedAt": "2026-06-12T05:50:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“마통 뚫어보려 했는데, 포기했습니다”…금융권 줄줄이 대출 조이기",
+      "summary": "증시 활황에 ‘빚투’ 급증…신용대출 다시 들썩 시중·지방은행부터 카드사까지 대출 문턱 높여 당국 경고에 금융권 선제 대응…추가 규제 가능성↑증시 활황으로 ‘빚투(빚내서 투자)’가 ..",
+      "link": "https://www.mk.co.kr/news/economy/12072693",
+      "publishedAt": "2026-06-12T05:41:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"이재용 회장 직접 답해달라\"…뿔난 개미들, 삼성 사옥 앞 기자회견",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606122996g",
+      "publishedAt": "2026-06-12T05:34:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "롯데하이마트 신임 대표에 김종윤 부사장 내정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123147g",
+      "publishedAt": "2026-06-12T05:34:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"자동차는 아는 길, 군은 안 가본 길 간다\"…전쟁용 무인 로봇의 숙제",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605269933i",
+      "publishedAt": "2026-06-12T05:17:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "KB국민은행, 신용대출 1억·마통 5000만원 한도로 조인다",
+      "summary": "16일부터 대출 관리 강화KB국민은행이 가계부채 관리를 위해 마이너스 통장과 일반 신용대출 한도를 각각 5000만원, 1억원으로 제한한다. 국민은행은 이달 16일부터 가계대출 증가..",
+      "link": "https://www.mk.co.kr/news/economy/12072645",
+      "publishedAt": "2026-06-12T05:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“돈 필요한 직장인은 어쩌라고”…‘마통 5000 일괄제한’에 실수요자 비상",
+      "summary": "지난달 가계빚 9조3000억 껑충 은행 한도 1억·일 접수량 등 제한 실수요자 자금줄 차단 지적도은행권에서 마이너스통장(마통) 등 신용대출 한도를 ‘확’ 조이면서 직장인들이 바짝 ..",
+      "link": "https://www.mk.co.kr/news/economy/12072620",
+      "publishedAt": "2026-06-12T03:45:44.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“오늘은 주식보다 축구죠”…여의도 증권가 응원 열기로 ‘들썩’ [르포]",
+      "summary": "“대~한민국!” 12일 오전 10시 서울 여의도 한국투자증권 본사 앞. 2026 국제축구연맹(FIFA) 북중미 월드컵 첫 경기 체코전 경기를 앞두고 삼삼오오 모여든 시민들이 초대형..",
+      "link": "https://www.mk.co.kr/news/stock/12072583",
+      "publishedAt": "2026-06-12T02:26:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "NH증권 차기 CEO 최종 후보에 신재욱·배광수",
+      "summary": "IB 신재욱·WM 배광수 ‘투톱’ IMA 성장 전략 실행력 제고NH투자증권 임원후보추천위원회가 차기 각자대표 체제 최종 대표이사 후보로 신재욱 부동산인프라사업부 대표와 배광수 WM..",
+      "link": "https://www.mk.co.kr/news/stock/12072578",
+      "publishedAt": "2026-06-12T02:20:01.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3930,246 +4162,6 @@
       "summary": "KB금융그룹이 중소기업·소상공인을 돕기 위해 대·중소기업 상생협력기금에 100억원을 출연한다고 5일 밝혔다. 특히 인공지능 전환(AX), 녹색 전환(GX), 안전 전환(SX) 지원..",
       "link": "https://www.mk.co.kr/news/economy/12067084",
       "publishedAt": "2026-06-05T08:46:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "글로벌세아 제지사업 예비입찰에 복수 FI 참여",
-      "summary": "매각 측, 기업가치 2조원 기대 원매자가 눈높이 맞출지 관심[본 기사는 06월 05일(15:46) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 2조원 수..",
-      "link": "https://www.mk.co.kr/news/stock/12066912",
-      "publishedAt": "2026-06-05T06:56:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘검은 금요일’ 코스닥 5%대 급락해 8160 마감…코스닥도 4.5% 내려",
-      "summary": "‘9000피’를 목전에 뒀던 코스피가 글로벌 반도체 조정 역풍을 맞으며 8100선까지 밀려났다. 5일 코스피는 전일 대비 478.82포인트(5.54%) 내린 8160.59에 거래를..",
-      "link": "https://www.mk.co.kr/news/stock/12066910",
-      "publishedAt": "2026-06-05T06:54:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "홍대 PC방 뜬 젠슨황, 페이커 만났다…\"韓게이머들이 엔비디아 GPU 선택\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059912g",
-      "publishedAt": "2026-06-05T06:53:57.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[특징주] \"깜짝선물\" 젠슨황 언급에도…LG·네이버 하락 마감(종합)",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 5일 한국 기업들과 협업을 논하기 위해 입국한 가운데 증시 내 관련 종...",
-      "link": "https://www.yna.co.kr/view/AKR20260605038251008",
-      "publishedAt": "2026-06-05T06:50:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "방한날 줄하락한 젠슨황 수혜株 …초고수는 종일 집중매수 [주식 초고수는 지금]",
-      "summary": "[수익률 상위 1% 투자자 오후 2시30분 거래동향] 오전에 이어 오후에도 삼전닉스 풀매수주식 투자 수익률 상위 1% 초고수들은 5일 오후 2시30분 기준으로 NAVER, SK하이..",
-      "link": "https://www.mk.co.kr/news/stock/12066901",
-      "publishedAt": "2026-06-05T06:45:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[특징주] 은행주, 코스피 급락 속 '방어주'로 선전(종합)",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 코스피가 5일 급락한 가운데 은행주가 &apos;방어주&apos;로서 선전했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260605034451008",
-      "publishedAt": "2026-06-05T06:42:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[특징주] 신영증권, 1조 규모 자사주 소각 계획에 상승(종합)",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 신영증권[001720]이 5일 대규모 자사주 소각 계획 소식에 상승했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260605030651008",
-      "publishedAt": "2026-06-05T06:41:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[특징주] 삼전·닉스, 급락 마감…각각 6%·9%대 하락(종합)",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 5일 각각 6%와 9% 넘게 하락한 채 정규장을 종료했다...",
-      "link": "https://www.yna.co.kr/view/AKR20260605034051008",
-      "publishedAt": "2026-06-05T06:40:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "익산시, 농식품 창업기업-대형 유통사 연계 '판로 확대'",
-      "summary": "(익산=연합뉴스) 김진방 기자 = 전북 익산시는 5일 한국농업기술진흥원 호남농식품벤처창업센터와 청년시청에서 &apos;호남권 유통MD 품평회&apos;를 개최했다...",
-      "link": "https://www.yna.co.kr/view/AKR20260605106200055",
-      "publishedAt": "2026-06-05T06:38:22.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'검은 금요일' 코스닥 5%대 급락해 8,160…코스닥 4.5%↓",
-      "summary": "(서울=연합뉴스) 이민영 기자 = 코스피가 5일 5% 넘게 급락해 8,160대에서 장을 마쳤다.",
-      "link": "https://www.yna.co.kr/view/AKR20260605108200008",
-      "publishedAt": "2026-06-05T06:38:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황, 페이커와 회동…\"게임은 엔비디아의 출발점\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060598907",
-      "publishedAt": "2026-06-05T06:35:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"사용자 80% 급증\" GM의 '이 기술'…국내서도 통한 슈퍼크루즈",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059714g",
-      "publishedAt": "2026-06-05T06:22:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "발칸반도 첫 경제동맹… 한-세르비아 CEPA 전격 타결",
-      "summary": "반도체·가전 최대 25% 관세 철폐 자동차 부품도 ‘즉시 무관세’ 적용 리튬·희토류 등 핵심 원자재 관세 인하 여한구 본부장 “발칸 파트너와 협력”한국이 발칸반도 국가 중 최초로 ..",
-      "link": "https://www.mk.co.kr/news/economy/12066879",
-      "publishedAt": "2026-06-05T06:19:44.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "코나아이, 50억원 규모 자기주식 취득 결정...“실적 바탕 주주 환원”",
-      "summary": "핀테크 기업 코나아이가 약 50억1000만원 규모의 자기주식 취득을 결정했다. 최근 높은 실적을 바탕으로 주주환원을 강화하는 목적이다. 5일 전자공시시스템에 따르면 코나아이는 이날..",
-      "link": "https://www.mk.co.kr/news/economy/12066877",
-      "publishedAt": "2026-06-05T06:18:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "LG전자, '국가대표가전 국민 응원 대축제' 진행…최대 420만원 혜택",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059824g",
-      "publishedAt": "2026-06-05T06:13:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "NH투자증권 \"IMA 2호 상품에도 법인·신규 자금 몰려\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060598216",
-      "publishedAt": "2026-06-05T06:10:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황, 배경훈 과기부총리도 만난다…AI 협력 논의",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060598047",
-      "publishedAt": "2026-06-05T06:07:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] 젠슨 황 \"게임은 엔비디아 기원…한국은 e스포츠 최적화 시장\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060597977",
-      "publishedAt": "2026-06-05T06:03:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "ELS 과징금 감경에 한숨 돌린 은행권…충당금 반영률 확 높아져",
-      "summary": "과징금, 사전통지 규모 대비 70% 줄어홍콩H지수 주가연계증권(ELS) 불완전판매 과징금이 대폭 감경되면서 일부 은행들이 미리 쌓아둔 충당금이 실제 과징금 규모를 넘게 될 것으로 ..",
-      "link": "https://www.mk.co.kr/news/economy/12066849",
-      "publishedAt": "2026-06-05T05:59:54.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“숨 구멍은 여기뿐”…인뱅, ‘개인사업자 대출’에 사활",
-      "summary": "인뱅 3사 개인사업자 대출 1년새 52% 급증 가계대출 규제에 여신 포트폴리오 전환 가속 시중은행은 건전성 관리 강화에 잔액 감소인터넷전문은행(인뱅)이 최근 시중은행과의 출혈경쟁과..",
-      "link": "https://www.mk.co.kr/news/economy/12066820",
-      "publishedAt": "2026-06-05T05:40:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼일PwC, 신임 대표·부대표 인사...AI·글로벌 전문가 전진배치",
-      "summary": "5일 신임 파트너 33명도 선임 ‘비즈니스 다변화 및 산업 전문화’ 가속삼일PwC가 인공지능(AI)·디지털 전환과 글로벌 자문, 산업별 전문성을 갖춘 인재를 새 파트너와 리더로 발..",
-      "link": "https://www.mk.co.kr/news/stock/12066754",
-      "publishedAt": "2026-06-05T04:50:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "시너지이노베이션, 45.5억 규모 전환사채 콜옵션 전량 소각…“주주가치 제고”",
-      "summary": "미생물 배양배지 제조 전문기업 시너지이노베이션이 제14회차 전환사채(CB)의 콜옵션(매도청구권)을 행사해 취득한 사채를 전량 소각한다고 5일 밝혔다. 잠재적인 지분 희석 요인을 없..",
-      "link": "https://www.mk.co.kr/news/stock/12066750",
-      "publishedAt": "2026-06-05T04:43:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“2670조 스페이스X 상장, 어디서 사냐고요?” … 우주 ETF 3종 투자법",
-      "summary": "스페이스X 12일 나스닥 상장 예고서울 광화문 대기업에 다니는 김모 차장(39)은 미국 주식(로켓랩)을 전량 매도했지만 여전히 본인을 ‘서학개미’(미국 등 해외 주식 투자자)라고 ..",
-      "link": "https://www.mk.co.kr/news/business/12066748",
-      "publishedAt": "2026-06-05T04:40:37.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“지금이 돈 벌 기회라고”…공매도에 사상 최대 자금 몰려, 주요 종목보니",
-      "summary": "공매도, 연초대비 10.5조 급증 “코스피 향방에는 문제 없을 듯”코스피 ‘9천 피’ 문턱에서 공매도 잔고가 20조원을 훌쩍 넘어섰다. 공매도 비중이 높은 종목은 다른 종목보다 낙..",
-      "link": "https://www.mk.co.kr/news/economy/12066734",
-      "publishedAt": "2026-06-05T03:52:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“데이팅앱처럼 맞춤형 구인구직” AX로 재도약 美 HRCap",
-      "summary": "K피플/HRCap 스텔라 김 대표 인터뷰 자체 개발 AI플랫폼 기반 HR컨설팅 26년간 축적된 1천만명 구인·구직 DB“AI 솔루션을 넘어 AI 플랫폼 기반 맞춤형 HR컨설팅 회..",
-      "link": "https://www.mk.co.kr/news/economy/12066730",
-      "publishedAt": "2026-06-05T03:34:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "제이엘케이 \"국내에서 AI 특허 출원 건수 42위 기록\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060594096",
-      "publishedAt": "2026-06-05T02:59:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "도지OS 창업자 \"도지코인 사용자 1000만 시대…실사용 경제 구축\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060592086",
-      "publishedAt": "2026-06-05T02:05:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"젠슨 황은 믿어야지\"…'검은 금요일' 초고수들 몰린 곳",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059233i",
-      "publishedAt": "2026-06-05T01:59:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "환율 1540원 넘어 금융위기 후 최고…K증시 '빨간불' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060589856",
-      "publishedAt": "2026-06-05T01:18:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "젠슨 황 기대에 상한가→급락…'로봇株 옥석가리기' 시작 됐다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606058492i",
-      "publishedAt": "2026-06-05T01:03:50.000Z"
     }
   ]
 }
