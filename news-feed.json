@@ -1,8 +1,200 @@
 {
-  "updatedAt": "2026-06-12T22:18:36.703Z",
+  "updatedAt": "2026-06-13T06:52:06.639Z",
   "historyDays": 7,
   "count": 516,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“주말 낮에 충전했더니 더 싸네”…이용 건수 9% 늘었다",
+      "summary": "봄·가을 주말 낮시간대 할인 총 7545만원 할인 혜택 제공정부가 봄 주말 낮 전기차 충전요금을 한시적으로 인하하면서 충전 이용 건수가 소폭 증가한 것으로 나타났다. 12일 기후에..",
+      "link": "https://www.mk.co.kr/news/economy/12073350",
+      "publishedAt": "2026-06-13T06:07:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "개미들 기다렸던 스페이스X '0주' 파장…한국 운용사 '멘붕'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061343497",
+      "publishedAt": "2026-06-13T05:37:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"만우절이야?\" SNS 뒤흔든 투썸 '한글 로고'…정체 밝혀졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061343437",
+      "publishedAt": "2026-06-13T05:25:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“스페이스X 편입 기대했는데”…물량 증발에 운용사들도 ‘날벼락’",
+      "summary": "미국 우주기업 스페이스X 기업공개(IPO)에 참여했던 미래에셋증권이 최종 배정 과정에서 한 주도 받지 못하면서 스페이스X 편입을 추진하던 국내 자산운용사들의 계획에도 차질이 불가피..",
+      "link": "https://www.mk.co.kr/news/stock/12073341",
+      "publishedAt": "2026-06-13T05:24:45.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“챗GPT·클로드 하나쯤은 쓰시죠?”…카드사들 ‘AI 구독자’ 캐시백 경쟁",
+      "summary": "신한카드, 5달러 이상 구독시 4000원 캐시백챗GPT·클로드 등 생성형 AI 구독자를 잡기 위한 카드업계의 캐시백 경쟁이 갈수록 뜨거워지고 있다. AI 구독료가 통신비처럼 매달 ..",
+      "link": "https://www.mk.co.kr/news/economy/12073335",
+      "publishedAt": "2026-06-13T04:49:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“스페이스X 주식 1주도 못 줘”···골드만삭스의 ‘코리아패싱’ 대체 왜?",
+      "summary": "투자설명서에 ‘4700억 인수’ 명시하고도 최종 배정서 한국만 일방적 배제 초대형 흥행 속 전문투자자 모은 韓 ‘제외’ “국내 시장 소외시키고 무시한 처사” 지적스페이스X 기업공개..",
+      "link": "https://www.mk.co.kr/news/stock/12073327",
+      "publishedAt": "2026-06-13T03:59:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"아내 떠난 뒤 딸과…\" 슈퍼카 대신 '미니' 타고 제주 달린 사연 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606122869g",
+      "publishedAt": "2026-06-13T03:54:22.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“AI 특수에 가스까지 품귀”…후성 주가 일주일새 63% 쑥 [이주의 Bull기둥]",
+      "summary": "AI발 제품 판가 인상에 실적 성장 기대 모아져인공지능(AI)발 수요 증가에 따른 수혜 기대감에 반도체 가스 사업을 영위하는 후성의 주가가 급등했다. 12일 한국거래소에 따르면 이..",
+      "link": "https://www.mk.co.kr/news/stock/12073325",
+      "publishedAt": "2026-06-13T03:49:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"금반지 지금 팔아야 하나\"…개미들 2000억 '패닉셀' [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061117226",
+      "publishedAt": "2026-06-13T03:39:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[KIW2026 다시보기 영상] 프랭크 캐럴 \"글로벌 투자 자금, 미국에서 이 나라로 간다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123693i",
+      "publishedAt": "2026-06-13T02:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[KIW2026 다시보기 영상] 맨딥 싱 \"하이퍼 스케일러 투자 줄어도 메모리는 간다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123651i",
+      "publishedAt": "2026-06-13T02:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[KIW2026 다시보기 영상] 캐빈 류 \"중국 경제의 방향, 세가지 변수에 달렸다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123734i",
+      "publishedAt": "2026-06-13T02:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "카페 사장님 3명 중 1명이 골랐다…라떼 맛의 숨겨진 비밀 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123898i",
+      "publishedAt": "2026-06-13T02:00:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "미래에셋증권, 스페이스X 공모주 물량 못 받아…청약 고객에 전액 환불",
+      "summary": "미래에셋, 스페이스X IPO 인수단 참여 약 231만주 배정 예정이었으나 최종 과정에서 한 주도 받지 못해 미래에셋 “고객들에게 불편드려 송구”미래에셋증권이 미국 우주기업 ‘스페이..",
+      "link": "https://www.mk.co.kr/news/stock/12073309",
+      "publishedAt": "2026-06-13T01:49:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미래에셋, '스페이스X 공모주' 한주도 못 받았다…\"전액 환불\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061342637",
+      "publishedAt": "2026-06-13T01:47:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미래에셋 '스페이스X 공모주' 한주도 못받았다…전량 삭감돼",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 일론 머스크의 항공우주 기업 스페이스X의 기업공개(IPO)가 이뤄진 가운데 인수단으로 참여한 미래에셋증권[00...",
+      "link": "https://www.yna.co.kr/view/AKR20260613028600008",
+      "publishedAt": "2026-06-13T01:35:33.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260613028000011",
+      "publishedAt": "2026-06-13T01:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"엔비디아가 안 산다는데요?\"…삼성 발칵 뒤집은 소문의 실체 [인더스토리]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606123174g",
+      "publishedAt": "2026-06-13T00:44:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘빚투’에 신용대출 1.6조 급증…시중은행 가계대출, 이달 들어 2.8조 ‘쑥’",
+      "summary": "코스피 변동성 장세에 자금조달 수요 몰려 금융당국 관리강화 주문에 은행들 한도제한 조치 들어가코스피 변동성이 확대되는 상황에서 투자를 위한 자금 조달 등의 대출 수요가 빠르게 ..",
+      "link": "https://www.mk.co.kr/news/economy/12073287",
+      "publishedAt": "2026-06-13T00:31:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "디자인으로 해외 시장 뚫었다…글로벌 노리는 中자동차",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605272747i",
+      "publishedAt": "2026-06-13T00:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"지속 불가능한 주가\"까지 오를 스페이스X [월가백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606134164i",
+      "publishedAt": "2026-06-12T23:30:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부산시, 시금고 지정 공정성 강화…심사위원 과반을 민간에",
+      "summary": "(부산=연합뉴스) 민영규 기자 = 한해 17조원이 넘는 부산시 예산을 관리하는 금고를 선정하는 절차의 공정성이 한층 강화된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612116400051",
+      "publishedAt": "2026-06-12T23:30:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[다음주 경제] 5월 수출입·생산자물가 얼마나 뛰었나",
+      "summary": "(서울·세종=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주(15∼19일)에는 중동 전쟁에 따른 국내 물가 영향이 여러 지표로 발표된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612168000002",
+      "publishedAt": "2026-06-12T23:10:20.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[바이오사이언스] 유한양행 100년…'렉라자 신화' 넘어 글로벌 톱50 도전",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 오는 20일이면 유한양행[000100] 창립 100년이 된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260612115700017",
+      "publishedAt": "2026-06-12T23:10:01.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3938,198 +4130,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026060609047",
       "publishedAt": "2026-06-06T06:54:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "세계 식량가격, 4개월 만에 하락세…곡물·육류·설탕은 상승",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.8로 전달(131.0)보...",
-      "link": "https://www.yna.co.kr/view/AKR20260606037100030",
-      "publishedAt": "2026-06-06T06:36:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“너만 혼자 거지될래?”…예금 깨고 나온 돈, 우주항공·AI ETF로 향한다",
-      "summary": "전세계 수급 집중되는 ETF 테마는 스페이스X, 상장 절차 돌입 7월초 나스닥100지수 편입 글로벌 패시브자금 유입 예고 단일종목 레버리지 ETF 출시 주가 방향성 만큼 변동성 주..",
-      "link": "https://www.mk.co.kr/news/stock/12067455",
-      "publishedAt": "2026-06-06T06:26:19.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국힘, '투표지' 공세 고삐…개표소 봉쇄 시위엔 \"민주적 항거\"",
-      "summary": "(서울=연합뉴스) 박수윤 기자 = 국민의힘은 주말인 6일에도 6·3 지방선거에서 발생한 투표용지 부족 사태를 연결 고리로 대여 공세를 이어갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260606034300001",
-      "publishedAt": "2026-06-06T05:47:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "젠슨 황 '삼소 회동' 1년 전에 'SK·네이버·LG 주식' 샀다면…",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060608347",
-      "publishedAt": "2026-06-06T05:23:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"어제 레버리지 샀더니…\" 삼전닉스 급락에 개미들 '멘붕'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060607267",
-      "publishedAt": "2026-06-06T04:21:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'상추 싸질 줄 알았는데'…밥상 채소값 다시 '꿈틀' [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059767i",
-      "publishedAt": "2026-06-06T04:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "해커 공격에 발칵…CU 편의점 택배도 개인정보 '탈탈' 털렸다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060608307",
-      "publishedAt": "2026-06-06T03:36:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "월가 퀀트 출신이 만든 RWA 플랫폼 ‘베리에이셔널’…“올 여름 일반 공개”",
-      "summary": "슈어만 창업자 “전통금융과 블록체인 벽 허물 것” 골드만·제네시스 출신의 퀀트 노하우 담아 120여개 글로벌 실물자산 수수료 없이 거래 드래곤플라이 등 VC서 시리즈A 투자유치골드..",
-      "link": "https://www.mk.co.kr/news/stock/12067434",
-      "publishedAt": "2026-06-06T03:14:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[KIW2026 다시보기 영상] 박성현 \"국민성장펀드 1호는 왜 리벨리온이었을까\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606050259i",
-      "publishedAt": "2026-06-06T02:49:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한국이 AI 중심지\"…'불금' 즐긴 젠슨 황에 외신도 놀랐다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606060536g",
-      "publishedAt": "2026-06-06T02:18:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“점심에 맥주 한잔 어때요?”…직장인 노린 카스의 승부수",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059725i",
-      "publishedAt": "2026-06-06T02:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260606024500011",
-      "publishedAt": "2026-06-06T01:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“젠슨황 새 찐친 소개합니다”…1주일새 50% 뛴 두산로보틱스 [이주의 Bull기둥]",
-      "summary": "1분기 매출 전년比 189% ‘껑충’ 美 원엑시아 시너지·증설 박차 내년 AI 솔루션, 2028년 로봇 기대 고밸류·적자 지속은 극복 과제두산로보틱스가 협동로봇 전문 제조사에서 인..",
-      "link": "https://www.mk.co.kr/news/stock/12067409",
-      "publishedAt": "2026-06-06T01:04:41.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "부산 아파트값 보합…해운대·동래구는 약진",
-      "summary": "(부산=연합뉴스) 민영규 기자 = 부산지역 아파트 매매가격이 보합을 유지했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260605114300051",
-      "publishedAt": "2026-06-06T01:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[바이오사이언스] K바이오 기술수출 '30조' 시대 당겨질까",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 올해 국내 바이오·제약기업의 기술 수출이 이어지며 지난 4일 기준 기술 수출액이 13조원을 넘은 것으로 집계됐...",
-      "link": "https://www.yna.co.kr/view/AKR20260605054600017",
-      "publishedAt": "2026-06-06T01:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "반도체 다음은 바이오?…장수 시대 포트폴리오의 새 축",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059750i",
-      "publishedAt": "2026-06-06T00:02:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "머스크 또 '돈벼락' 맞나…'5000조' 파격 전망에 관심 폭발",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026060606977",
-      "publishedAt": "2026-06-06T00:01:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "천하의 '맥도날드' 제쳤다…글로벌 흔드는 中 '초저가' 밀크티",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605235668i",
-      "publishedAt": "2026-06-06T00:00:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "제대로 된 싱크탱크가 없다…정부 출연 국책연구기관 ‘S등급’ 전멸",
-      "summary": "국가 정책의 싱크탱크 역할을 수행하는 정부출연연구기관 25곳에 대한 종합 평가 결과, 최고점인 S등급을 받은 기관이 단 한 곳도 없는 것으로 나타났다. 특히 인공지능(AI) 전환이..",
-      "link": "https://www.mk.co.kr/news/economy/12067395",
-      "publishedAt": "2026-06-05T23:51:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "나스닥 4% 투매…① 메모리 정점? ② 메타도 증자? ③ 머스크 거부한 S&P [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606060558i",
-      "publishedAt": "2026-06-05T23:22:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "17년만에 최고 찍은 원달러 환율…하반기 전망과 수혜·피해주는",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606059310i",
-      "publishedAt": "2026-06-05T23:10:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[다음주 경제] 취업자 얼마나 늘었나…1분기 성장률 잠정치도 공개",
-      "summary": "(서울·세종=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(8∼12일)에는 취업·금융 시장 동향과 한국 경제 성장률을 살필 수 있는 지표가 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260606013300002",
-      "publishedAt": "2026-06-05T22:54:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한-세르비아 투자 증진 및 보호 협정 오늘 발효",
-      "summary": "(서울=연합뉴스) 이은정 기자 = &apos;대한민국 정부와 세르비아 공화국 정부 간의 투자의 증진 및 보호를 위한 협정&apos;이 6일 발효된다고 외교부가 밝...",
-      "link": "https://www.yna.co.kr/view/AKR20260606014100504",
-      "publishedAt": "2026-06-05T22:47:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“여기까지 올라오니 1만피가 저기 보이네”…6월 쉬어가도 천장 열려있다",
-      "summary": "증권사 연간 목표지수 잇단 상향 올해 AI·반도체 이익 탄탄 코스피 12개월 선행 PER 7배 선진국 19배·신흥국 11배 불과 “지금은 몇 까지 오를까 보다 언제까지 상승 지..",
-      "link": "https://www.mk.co.kr/news/stock/12067371",
-      "publishedAt": "2026-06-05T22:24:27.000Z"
     }
   ]
 }
