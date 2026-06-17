@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-17T13:37:17.060Z",
+  "updatedAt": "2026-06-17T22:40:54.401Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 8864.24,
-      "previous": 8726.6,
-      "dayChange": 137.64,
-      "dayChangePct": 1.58,
-      "monthChangePct": 17.94,
+      "current": 8726.6,
+      "previous": 8545.98,
+      "dayChange": 180.62,
+      "dayChangePct": 2.11,
+      "monthChangePct": 16.11,
       "lastUpdated": "2026-06-17T09:05:40.000Z",
       "candles": [
         {
@@ -92,10 +92,6 @@
         {
           "date": "2026-06-16",
           "close": 8726.6
-        },
-        {
-          "date": "2026-06-17",
-          "close": 8864.24
         }
       ]
     },
@@ -104,12 +100,12 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26462.97,
+      "current": 26021.66,
       "previous": 26376.34,
-      "dayChange": 86.63,
-      "dayChangePct": 0.33,
-      "monthChangePct": 1.43,
-      "lastUpdated": "2026-06-17T13:37:11.000Z",
+      "dayChange": -354.68,
+      "dayChangePct": -1.34,
+      "monthChangePct": -0.26,
+      "lastUpdated": "2026-06-17T21:15:59.000Z",
       "candles": [
         {
           "date": "2026-05-18",
@@ -197,7 +193,7 @@
         },
         {
           "date": "2026-06-17",
-          "close": 26462.97
+          "close": 26021.66
         }
       ]
     },
@@ -206,12 +202,12 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7519.56,
+      "current": 7420.1,
       "previous": 7511.35,
-      "dayChange": 8.21,
-      "dayChangePct": 0.11,
-      "monthChangePct": 1.57,
-      "lastUpdated": "2026-06-17T13:37:16.000Z",
+      "dayChange": -91.25,
+      "dayChangePct": -1.21,
+      "monthChangePct": 0.23,
+      "lastUpdated": "2026-06-17T20:50:34.000Z",
       "candles": [
         {
           "date": "2026-05-18",
@@ -299,7 +295,7 @@
         },
         {
           "date": "2026-06-17",
-          "close": 7519.56
+          "close": 7420.1
         }
       ]
     }
