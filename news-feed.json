@@ -1,8 +1,168 @@
 {
-  "updatedAt": "2026-06-18T12:46:14.979Z",
+  "updatedAt": "2026-06-18T22:52:06.839Z",
   "historyDays": 7,
-  "count": 505,
+  "count": 496,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "임기 만료 앞둔 종로구청장, 종묘앞 세운4구역 재개발 인가",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 퇴임을 2주가량 남긴 국민의힘 소속 정문헌 서울 종로구청장이 세운4구역 재개발사업 사업시행계획안을 인가했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260619017500004",
+      "publishedAt": "2026-06-18T22:40:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "탄탄 본업에 'AI 클라우드' 엔진 단 NHN, 하반기 날아 오를까",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606184776i",
+      "publishedAt": "2026-06-18T22:36:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전기, MLCC·패키징 기판 여전히 과소평가…목표가 300만원\"-KB",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061956156",
+      "publishedAt": "2026-06-18T22:35:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "■ 美-이란, 종전MOU 이행 착수…이란비핵화 협상 개시 지연 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260619014100011",
+      "publishedAt": "2026-06-18T22:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반도체 랠리에 강세 마감…나스닥 1.9%↑ [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061956196",
+      "publishedAt": "2026-06-18T22:20:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "MSCI, 韓증시 투자상품 가용성 개선 평가…\"투자 상품폭 넓어져\"(종합)",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 모건스탠리캐피털인터내셔널(MSCI)은 한국 증시의 투자상품 가용성이 개선됐다고 19일 평가했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260619008951008",
+      "publishedAt": "2026-06-18T21:57:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“원화 약세에 외국인들 카드 막 긁는다”…반도체 못지 않은 백화점株",
+      "summary": "지난달 결제액 2조원도 돌파 백화점서 초고가 럭셔리 쇼핑 현대百 주가, 이달 86% 급등K팝·K드라마 등 K콘텐츠의 높은 인기로 한국을 찾는 외국인 관광객이 역대급으로 늘어나며 백..",
+      "link": "https://www.mk.co.kr/news/stock/12078090",
+      "publishedAt": "2026-06-18T21:40:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'호재 만발' SK하이닉스, 시총 1위 넘보는데…향후 변수는? [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061853056",
+      "publishedAt": "2026-06-18T21:30:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "생산자물가 전년 대비 8.5% 상승…3년10개월 만에 최고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061955717",
+      "publishedAt": "2026-06-18T21:22:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "MSCI, 韓증시 투자상품 가용성 개선 평가…\"투자 상품폭 넓어져\"",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 모건스탠리캐피털인터내셔널(MSCI)은 한국 증시의 투자상품 가용성이 개선됐다고 19일 평가했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260619008900008",
+      "publishedAt": "2026-06-18T21:06:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "취준생 몰리는 SK하닉의 '승부수'…삼성, 30년 먼저 없앴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606184635g",
+      "publishedAt": "2026-06-18T21:03:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "용도변경 안했는데 '주거용'…생활숙박 허위광고 등 315건 적발",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 국토교통부는 주거용으로 용도변경하지 않은 생활숙박시설(생숙)을 주거용으로 쓸 수 있는 것처럼 오인하게 한 인터...",
+      "link": "https://www.yna.co.kr/view/AKR20260618127300003",
+      "publishedAt": "2026-06-18T21:00:17.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "고유가 파급·증시 호조 등에 5월 생산자물가 9개월째 상승",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 유가 상승 파급 효과가 나타나고 증시 호조에 따른 서비스 가격도 상승해 국내 생산자물가가 9개월째 상승...",
+      "link": "https://www.yna.co.kr/view/AKR20260618149600002",
+      "publishedAt": "2026-06-18T21:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"공짜로 가져가세요\"…양배추 밭 갈아엎고 나눔하는 이유 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606185231i",
+      "publishedAt": "2026-06-18T21:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "믿었던 자산배분이 같은 방향으로 쏠렸다면 … 지도를 바꿔보자",
+      "summary": "흔들리는 자산배분 원칙자산배분의 세계에는 오래된 믿음이 하나 있다. 위험자산과 안전자산을 적당히 섞으면 한쪽이 흔들릴 때 다른 그쪽이 받쳐 준다는 믿음이다. 여기에 부동산이나 금 ..",
+      "link": "https://www.mk.co.kr/news/economy/12077804",
+      "publishedAt": "2026-06-18T21:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "정부 환율대책 ‘약발’이 안 먹히는 까닭",
+      "summary": "[고환율 긴급 점검③]스페이스X의 기업공개(IPO)를 앞두고 이달초 이색적인 뉴스가 보도됐다. 한국 외환 당국이 IPO 탓에 원화값이 떨어질 것을 우려해 대책 회의를 열었다는 내용..",
+      "link": "https://www.mk.co.kr/news/economy/12077348",
+      "publishedAt": "2026-06-18T20:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“스페이스X? 너무 비싸 한 주도 안 산다” … 가치평가 대가의 일침",
+      "summary": "애스워드 다모다란 뉴욕대 스턴경영대학원 교수모든 투자의 기본은 ‘싸게 사서 비싸게 파는 것’이다. 투자자라면 누구나 좋은 주식을 저렴한 가격에 사길 원한다. 문제는 내가 사려는 주..",
+      "link": "https://www.mk.co.kr/news/stock/12077763",
+      "publishedAt": "2026-06-18T19:05:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 멕시코 축제에 뜬 신라면",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026061850551",
+      "publishedAt": "2026-06-18T15:59:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“배달 잘 뛰면 직장인 보다 낫다고?”…라이더 폭증 탓에 벌이 ‘반토막’",
+      "summary": "긱워커 일자리·임금 분석 2024년 라이더 16만2746명 수입 2383만원…4년새 44%↓ 취업 어려워 종사자 늘지만 N잡러 가세하며 경쟁 치열 콘텐츠 제작자도 수입 줄어#..",
+      "link": "https://www.mk.co.kr/news/economy/12077945",
+      "publishedAt": "2026-06-18T13:06:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"책 안 읽는다\" 출판사 불황인데…MZ 열광한 '뜻밖의 상황' [트렌드+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606183432g",
+      "publishedAt": "2026-06-18T12:16:34.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3810,238 +3970,6 @@
       "summary": "IB 신재욱·WM 배광수 ‘투톱’ IMA 성장 전략 실행력 제고NH투자증권 임원후보추천위원회가 차기 각자대표 체제 최종 대표이사 후보로 신재욱 부동산인프라사업부 대표와 배광수 WM..",
       "link": "https://www.mk.co.kr/news/stock/12072578",
       "publishedAt": "2026-06-12T02:20:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘샀다, 팔았다’ 개미들 덕분에 돈방석 앉은 증권사...1분기 순익 4.3조 ‘사상최대’",
-      "summary": "국내 증권사들이 올해 1분기 4조원이 넘는 순이익을 거두며 분기 기준 사상 최대 실적을 달성했다. 증시 활황으로 개인 투자자들의 주식 거래가 폭증하면서 수수료 수익이 급증한 영향이..",
-      "link": "https://www.mk.co.kr/news/stock/12072308",
-      "publishedAt": "2026-06-11T22:35:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "summary": "■ 트럼프 &quot;이란과 방금 훌륭한 합의&quot;…이란 &quot;최종결정 안내려&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260612018700011",
-      "publishedAt": "2026-06-11T22:30:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'남부 해양수도권' 논의 본격화…고위급 정책협의회 재가동",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 6·3 지방선거가 마무리돼 부산·울산·경남 지역 지방자치단체가 새롭게 구성되면서 정부가 추진 중인 &apos;남부 해양...",
-      "link": "https://www.yna.co.kr/view/AKR20260611132800051",
-      "publishedAt": "2026-06-11T22:20:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "미 항소법원, 트럼프 ‘글로벌 10% 관세’ 유지 결정…7월까지 효력 지속",
-      "summary": "미국 항소법원이 트럼프 행정부의 글로벌 10% 관세 효력을 2심 판결이 나올때까지 유지하기로 했다. 이로써 트럼프 행정부는 항소법원의 판단이 나올 때까지 글로벌 관세를 계속 부과할..",
-      "link": "https://www.mk.co.kr/news/economy/12072302",
-      "publishedAt": "2026-06-11T22:13:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"AI 돈잔치 시작됐다\"…'삼전닉스' 투자 확대에 폭등한 종목 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061112556",
-      "publishedAt": "2026-06-11T21:30:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국내 첫 '동물복지과' 신설…부산보건대, 2027년 신입생 받는다",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 국내 최초로 반려동물 산업이나 수의학 보조 영역을 넘어 동물복지를 전문적으로 교육하는 학과가 신설된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260611140000030",
-      "publishedAt": "2026-06-11T21:30:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "개인투자자 돈 153조 몰렸다…스페이스X, 공모가 135달러 확정",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061219557",
-      "publishedAt": "2026-06-11T21:24:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美항소법원, 트럼프 '10% 글로벌관세 무효판결' 집행 일시정지 연장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061219487",
-      "publishedAt": "2026-06-11T21:11:46.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "똑같이 일했는데, 노후 레벨 달라졌다…DC형 택했더니 22% 수익",
-      "summary": "은행 퇴직연금 1분기 성적표 예금중심 DB 수익률 제자리 펀드 품은 DC·IRP는 우상향작년부터 시작된 이례적인 국내 증시 호황이 퇴직연금 수익률에도 영향을 미친 것으로 나타났다..",
-      "link": "https://www.mk.co.kr/news/economy/12072278",
-      "publishedAt": "2026-06-11T21:08:43.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"시민 조망권 침해\"…부산항만공사, 북항환승 토지계약해제 추진",
-      "summary": "(부산=연합뉴스) 조정호 기자 = 부산항만공사(BPA)가 북항 재개발지구 내 환승센터 사업자가 지구단위계획을 위반해 공사를 강행하자 토지매매계약...",
-      "link": "https://www.yna.co.kr/view/AKR20260611115100051",
-      "publishedAt": "2026-06-11T21:00:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "증권사 1분기 순익 4.3兆 '역대 최대'…전년비 77% 급증",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061107316",
-      "publishedAt": "2026-06-11T21:00:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "외국인도 쓸어담더니…\"65만원 간다\" 전망에 개미들 '들썩'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061114531",
-      "publishedAt": "2026-06-11T21:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "중기부, 한·이탈리아 협동조합 협력 확대…로마서 MOU 체결",
-      "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 이탈리아 로마에서 &apos;한-이탈리아 협동조합 업무협약(MOU) 및 세미나&apos;를 열고 양국 협동조합 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260611146900030",
-      "publishedAt": "2026-06-11T21:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "서울시 \"구독서비스 19개 중 8개는 전화상담 미운영…개선요청\"",
-      "summary": "(서울=연합뉴스) 김준태 기자 = 구독 서비스 이용 중 문제가 생겨 고객센터에 연락하려 해도 전화 연결이 어렵다는 조사 결과가 나왔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260611152600004",
-      "publishedAt": "2026-06-11T21:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"6.9만원짜리 5000원에 파는 줄\"…다이소 제품, 또 품절 대란 [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606111822i",
-      "publishedAt": "2026-06-11T21:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "이번엔 진짜하나...종전 기대감에 美증시 급등[월가월부]",
-      "summary": "트럼프 “주말에 유럽서 서명” 3차 공습 취소로 종전 기대감 마이크론 11%, 인텔 9% 반등무산 위기에 처했던 미국과 이란간 종전협상이 다시 급물살을 타면서 국제유가는 급락하고 ..",
-      "link": "https://www.mk.co.kr/news/economy/12072264",
-      "publishedAt": "2026-06-11T20:45:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“국민연금 월554만원 받는 부부” … 평범한 직장인도 가능한 노후 전략",
-      "summary": "국민연금 부부 수급 100만쌍 육박“국민연금으로만 월 554만원, 정말 부럽다.” “현실적으로 가능한 금액인가” “자식에게 손 안 벌리며 배짱 편하게 살겠네.” “지금부터 준비하면..",
-      "link": "https://www.mk.co.kr/news/economy/12071609",
-      "publishedAt": "2026-06-11T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "LG엔솔, 中 신왕다와 특허 분쟁서 승리",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061118111",
-      "publishedAt": "2026-06-11T15:49:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 삼성전자, 가격 낮춘 '스팀 로봇청소기' 출시",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061114381",
-      "publishedAt": "2026-06-11T15:48:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] BTS 맞이 나선 부산 파라다이스",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061115161",
-      "publishedAt": "2026-06-11T15:40:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 하나금융·산단공 MOU",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061114971",
-      "publishedAt": "2026-06-11T15:35:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"AI 너무 비싸요\" 불붙은 경제성 논란...반도체는 \"정점 멀었다\" [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606111852i",
-      "publishedAt": "2026-06-11T15:13:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "올 글로벌 성장률도 '뚝' … 세계은행 \"2.5% 그칠듯\"",
-      "summary": "세계은행은 올해 세계 경제성장률이 지난해(2.9%) 대비 0.4% 하락한 2.5%가 될 것이라고 11일 밝혔다. 이는 지난 1월 전망보다 0.1%포인트 낮은 수치다. 세계은행은 ..",
-      "link": "https://www.mk.co.kr/news/economy/12072164",
-      "publishedAt": "2026-06-11T14:02:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "세계은행, 올해 세계 성장률 2.5% 전망…코로나19 이후 최저 수준",
-      "summary": "미국 성장률 2.2%로 소폭 상향 유로존·일본 등은 전반적 둔화 “중동분쟁 등으로 하방 요인 커” 다자무역체제·금융안정 등 제언세계은행은 올해 세계 경제 성장률을 지난해(2.9%)..",
-      "link": "https://www.mk.co.kr/news/economy/12072158",
-      "publishedAt": "2026-06-11T13:46:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "거래소, 코스닥시장위원장에 김우찬 고려대 교수 추천",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606111829i",
-      "publishedAt": "2026-06-11T13:31:37.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "외국계 은행 ‘환율 투기’ 있었나…1분기 외환파생거래 28% 급증",
-      "summary": "외은지점 외환거래 28%↑ 주요銀 선물환도 900조 넘어1500원대 고환율 시대가 고착화된 가운데 역외 자금의 관문인 외국은행 국내지점(외은지점)의 외환파생상품 거래가 최근 급증한..",
-      "link": "https://www.mk.co.kr/news/economy/12072150",
-      "publishedAt": "2026-06-11T13:28:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "증시 흔드는 금리…고금리 환경서 잘 버틸 종목은? [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061107006",
-      "publishedAt": "2026-06-11T13:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "스타벅스 제쳤다더니…中 본토서 대란 난 커피 한국 온다 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606119769g",
-      "publishedAt": "2026-06-11T13:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "돈 없는 2030 급속도로 늘었다…소득 하위 20% 비율, 5년새 2배",
-      "summary": "데이터처 5월 고용동향 취업자 수 43개월 연속 감소 소득 하위 20% 청년 비중 5년만에 두배 가까이 늘어청년층 고용 부진이 코로나19 이후 가장 심각한 수준으로 악화한 것으로..",
-      "link": "https://www.mk.co.kr/news/economy/12072125",
-      "publishedAt": "2026-06-11T12:47:53.000Z"
     }
   ]
 }
