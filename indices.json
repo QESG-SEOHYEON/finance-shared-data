@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T11:51:15.455Z",
+  "updatedAt": "2026-06-20T22:00:28.506Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -7,9 +7,9 @@
       "short": "KOSPI",
       "currency": "KRW",
       "current": 9052.42,
-      "previous": 9063.84,
-      "dayChange": -11.42,
-      "dayChangePct": -0.13,
+      "previous": 8864.24,
+      "dayChange": 188.18,
+      "dayChangePct": 2.12,
       "monthChangePct": 24.49,
       "lastUpdated": "2026-06-19T09:05:40.000Z",
       "candles": [
@@ -94,10 +94,6 @@
           "close": 8864.24
         },
         {
-          "date": "2026-06-18",
-          "close": 9063.84
-        },
-        {
           "date": "2026-06-19",
           "close": 9052.42
         }
@@ -108,11 +104,11 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26517.93,
-      "previous": 26021.66,
-      "dayChange": 496.27,
-      "dayChangePct": 1.91,
-      "monthChangePct": 2.5,
+      "current": 26021.66,
+      "previous": 26376.34,
+      "dayChange": -354.68,
+      "dayChangePct": -1.34,
+      "monthChangePct": 0.58,
       "lastUpdated": "2026-06-18T21:15:59.000Z",
       "candles": [
         {
@@ -198,10 +194,6 @@
         {
           "date": "2026-06-17",
           "close": 26021.66
-        },
-        {
-          "date": "2026-06-18",
-          "close": 26517.93
         }
       ]
     },
@@ -210,11 +202,11 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7500.58,
-      "previous": 7420.1,
-      "dayChange": 80.48,
-      "dayChangePct": 1.08,
-      "monthChangePct": 2,
+      "current": 7420.1,
+      "previous": 7511.35,
+      "dayChange": -91.25,
+      "dayChangePct": -1.21,
+      "monthChangePct": 0.9,
       "lastUpdated": "2026-06-18T20:42:06.000Z",
       "candles": [
         {
@@ -300,10 +292,6 @@
         {
           "date": "2026-06-17",
           "close": 7420.1
-        },
-        {
-          "date": "2026-06-18",
-          "close": 7500.58
         }
       ]
     }
