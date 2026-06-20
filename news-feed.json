@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-06-20T06:55:34.294Z",
+  "updatedAt": "2026-06-20T11:51:14.813Z",
   "historyDays": 7,
-  "count": 486,
+  "count": 488,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국힘, 김용범 '역대급 호황' 언급에 \"다른 세상 살고 있나\"",
+      "summary": "(서울=연합뉴스) 박수윤 기자 = 국민의힘은 20일 김용범 청와대 정책실장이 한국 경제 상황을 &apos;역대급 호황&apos;이라고 평가하면서 부동산 과세 정상...",
+      "link": "https://www.yna.co.kr/view/AKR20260620040000001",
+      "publishedAt": "2026-06-20T10:12:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "아침부터 외국인 '바글바글'…\"한국 오니까 싸네요\" 인기폭발 [트렌드+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606197155g",
+      "publishedAt": "2026-06-20T09:16:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“전기는 있는데 사람이 없다”…해남·광주 ‘AI 벨트’가 못 푼 마지막 숙제",
+      "summary": "태양광·AI센터 대규모 투자에도 中보다 비싼 국산 패널이 숙제 국산 NPU는 소프트웨어 취약 산업생태계 육성·수출판로 확보 고차방정식 풀려면 인재 필요 정부, 파격적 세제인센티브..",
+      "link": "https://www.mk.co.kr/news/economy/12078969",
+      "publishedAt": "2026-06-20T08:16:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"빨리 회장님 찾아봐\"…야구장 달군 깜짝 '이벤트' 뭐길래",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606207971i",
+      "publishedAt": "2026-06-20T07:00:01.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3874,22 +3906,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606122324g",
       "publishedAt": "2026-06-13T14:30:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“가득이요” 자신있게 외치세요, 제가 깎아드릴게…주유 할인카드 다시 뜬다 [머니앤리치]",
-      "summary": "고유가 장기화에 ‘체감형 마케팅’ 주유카드 연회비 전액 캐시백 구매금액 10% 할인 등 다양국제유가가 다시 상승세를 보이면서 카드사들이 주유 할인 혜택 연장에 나서고 있다. 중동 ..",
-      "link": "https://www.mk.co.kr/news/economy/12073427",
-      "publishedAt": "2026-06-13T10:04:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"2만원에 티켓 샀다\" 일본여행 수요 폭발하는데…'초비상'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606122970g",
-      "publishedAt": "2026-06-13T08:55:49.000Z"
     }
   ]
 }
