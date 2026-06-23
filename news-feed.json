@@ -1,8 +1,192 @@
 {
-  "updatedAt": "2026-06-23T12:28:18.856Z",
+  "updatedAt": "2026-06-23T22:07:22.154Z",
   "historyDays": 7,
-  "count": 498,
+  "count": 500,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'자리 있나요?' 문의전화 1000통 폭주…5060에 인기 폭발",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062335821",
+      "publishedAt": "2026-06-23T22:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[율곡로] 중남미 휩쓰는 파란 물결",
+      "summary": "(서울=연합뉴스) 이승우 선임기자 = 정치적 펜듈럼(Pendulum:시계추) 현상을 반복해온 중남미 대륙이 오른쪽으로 돌아서고 있다. 거센 &apos;블...",
+      "link": "https://www.yna.co.kr/view/AKR20260623153000546",
+      "publishedAt": "2026-06-23T21:58:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "호르무즈 긴장 완화 기대감…국제유가, 넉달 만에 최저치",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062440097",
+      "publishedAt": "2026-06-23T21:31:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"M자형 탈모도 건보?\"…7일 만에 주가 두배로 치솟은 회사 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062328816",
+      "publishedAt": "2026-06-23T21:30:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "흰우유 의존도 낮춘다…유업계, 단백질음료·발효유로 체질 개선",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 유업계가 흰 우유 중심 사업 구조에서 벗어나 단백질과 발효유, 식물성 음료 등 고부가가치 제품군 육성에 나서고...",
+      "link": "https://www.yna.co.kr/view/AKR20260623153100030",
+      "publishedAt": "2026-06-23T21:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "울산시, 온산·범서에 청년주택 '유홈' 건립…설계 공모",
+      "summary": "(울산=연합뉴스) 김용태 기자 = 울산시는 청년 맞춤형 공공주택 브랜드인 &apos;유홈&apos;(U-home)을 울주군 온산읍, 범서읍에 각각 건립한다고 24...",
+      "link": "https://www.yna.co.kr/view/AKR20260623173200057",
+      "publishedAt": "2026-06-23T21:20:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "한국증시, '선진국 클럽' 입성 좌절…美 MSCI 관찰대상국 불발 [종합]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062439966",
+      "publishedAt": "2026-06-23T21:17:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중기부, 개인정보 유출에 \"노출됐다\" 브리핑…책임 축소 지적",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부가 &apos;모두의 창업&apos; 개인정보 유출 사고에 대해 &apos;노출&apos;로 언급한 것을 두고 책임을 축소하려는 의도...",
+      "link": "https://www.yna.co.kr/view/AKR20260623168300030",
+      "publishedAt": "2026-06-23T21:11:11.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "작년 대기업 계열사 내부거래 비중 16%…전년대비 0.2%P↓",
+      "summary": "(서울=연합뉴스) 김민지 기자 = 지난해 대기업집단 계열사 간 내부거래 비중이 전년 대비 소폭 감소한 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260623145100003",
+      "publishedAt": "2026-06-23T21:01:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'폰팔이 성지'에 무슨 일로?…아이들까지 돈 쓰러 몰렸다 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606221397i",
+      "publishedAt": "2026-06-23T21:00:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국내기업 경기전망 4개월째 부진…반도체·수출은 호조",
+      "summary": "(서울=연합뉴스) 김보경 기자 = 국내 기업들의 경기 전망이 4개월 연속 기준점을 하회하는 등 부진을 이어가고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20260623142500003",
+      "publishedAt": "2026-06-23T21:00:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "100억 이상 자산가들, 삼전닉스 보다 더 산 종목이 있었네",
+      "summary": "미래에셋 100억 이상 자산가 반도체 관련 종목에 집중투자 단일 종목은 현대차 최다 보유100억원 이상을 보유한 초고액 자산가가 가장 많이 담은 국내 주식은 ‘삼전닉스’와 한미반도..",
+      "link": "https://www.mk.co.kr/news/stock/12081494",
+      "publishedAt": "2026-06-23T20:57:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 한국증시, 美 MSCI 선진국지수 관찰대상국 편입 불발",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062439676",
+      "publishedAt": "2026-06-23T20:54:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반도체 너무 올랐나...기술주 투매에 나스닥 2.2% 급락 [월가월부]",
+      "summary": "전쟁 변수 시들해지자 AI과열 부각 마이크론·샌디스크 -13% 폭락 연내 금리인상 우려도 매도세 자극이란전쟁 영향력이 약해진 가운데 인공지능(AI) 과열 우려가 다시 부각되면서 ..",
+      "link": "https://www.mk.co.kr/news/economy/12081491",
+      "publishedAt": "2026-06-23T20:51:37.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“들어갈 집 아니면 팔라” … 세금 엄포로 집값이 잡힐까",
+      "summary": "이재명 정부 부동산 대책 의미와 한계오는 7월 말 발표될 세법개정안의 최대 관심사는 부동산 세금제도입니다. 정부는 실거주 1주택자는 보호하면서 다주택자와 비거주 1주택자, 고가주택..",
+      "link": "https://www.mk.co.kr/news/economy/12081106",
+      "publishedAt": "2026-06-23T20:20:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“농사 안 짓는 농지 매각해야” … 비거주 농업인은 어떡하나요?",
+      "summary": "농지 전수조사...결국 답은 ‘실제 경작’자경감면 요건을 제대로 맞춘 농지는 농지법상 리스크도 크게 줄어듭니다 농지를 둘러싼 분위기가 확실히 달라지고 있습니다. 과거에는 농지를 취..",
+      "link": "https://www.mk.co.kr/news/economy/12081144",
+      "publishedAt": "2026-06-23T19:10:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“환율 1500원, IMF 또 오나?” … 1997년 변양호 보고서가 말한 진짜 위험",
+      "summary": "⑴ 1500원 환율의 공포, 변양호의 1997년 보고서를 다시 읽다2026년 원·달러 환율이 1500원을 넘어서자 1997년 외환위기의 기억이 다시 소환됐다. 지금 한국경제는 정말..",
+      "link": "https://www.mk.co.kr/news/economy/12081126",
+      "publishedAt": "2026-06-23T19:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국내 은행권 연합체 ‘유니카’, 유럽 금융권과 스테이블코인 국제거래 검증 착수",
+      "summary": "유럽 스테이블코인 결제 프로젝트 ‘판게아’ 출범 SWIFT·키발리스·체인링크 등 결제망 혁신 추진 신한·NH 등 10여곳 국제송금·외환거래 실증 추진 페어스퀘어랩, 온체인 FX거래..",
+      "link": "https://www.mk.co.kr/news/stock/12081445",
+      "publishedAt": "2026-06-23T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"마피아가 보호비 내라는 꼴\"…이란,호르무즈 통행료 꼼수 시동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606243918i",
+      "publishedAt": "2026-06-23T15:56:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 6월 제조업 PMI 55.7…공장 활동 예상밖 깜짝 증가",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606233909i",
+      "publishedAt": "2026-06-23T15:00:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "유가하락에 국채금리 내렸지만…나스닥 1.2%↓하락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606233880i",
+      "publishedAt": "2026-06-23T14:37:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'빚투' 38조 역대 최대인데…계좌 열어본 개미들 '패닉' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062335286",
+      "publishedAt": "2026-06-23T13:00:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“오늘 주식 팔면 내일 입금돼야”…주식결제주기 단축, 10월 로드맵",
+      "summary": "李 “증권사만 헤택보는 구조 개편안 시행 시기 앞당겨야”이재명 대통령은 23일 주식을 팔면 이틀 뒤 매각대금이 계좌에 입금되는 현행 주식 매각대금 청산 기일을 하루로 줄이는 방안을..",
+      "link": "https://www.mk.co.kr/news/stock/12081373",
+      "publishedAt": "2026-06-23T12:45:36.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3818,174 +4002,6 @@
       "summary": "■ 李대통령 &quot;北문제 평화적 해결 주도&quot; 요청…트럼프 &quot;노력하겠다&quot;",
       "link": "https://www.yna.co.kr/view/AKR20260617012900011",
       "publishedAt": "2026-06-16T22:30:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국동서발전, 전국서 '보이지않는 발전소'…에너지 효율화 앞장",
-      "summary": "(울산=연합뉴스) 장영은 기자 = 기후 위기와 전력수요 증가가 동시에 진행되는 가운데, 중동 분쟁 우려 등에 따른 국제 에너지 공급망 불안까지 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260616118000057",
-      "publishedAt": "2026-06-16T22:07:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "환자식 넘어 에너지젤까지…'운동하는 소비자 '잡는다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606169427g",
-      "publishedAt": "2026-06-16T22:00:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "급변하는 결제 인프라…자금세탁방지는 어떻게? [태평양의 미래금융]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606169596i",
-      "publishedAt": "2026-06-16T22:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "당좌예금 회전율 9년 만에 최고, 기업투자·소비 개선",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061705657",
-      "publishedAt": "2026-06-16T21:57:23.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "팔로워 84만 해외 트레이더 “이 주식 사세요”…외국인 몰리자 급등한 K기업",
-      "summary": "유명 투자자 X계정 ‘세레니티’ 중국의 대일본 수출통제 따른 공급망 병목현상 수혜주 꼽아84만명의 사회관계망서비스(SNS) 팔로어를 보유한 해외 유명 주식 트레이더가 한국 상장사 ..",
-      "link": "https://www.mk.co.kr/news/stock/12075986",
-      "publishedAt": "2026-06-16T21:40:44.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“주식 물타야 하는데 마통 놔뒀다 뭐해요”…규제로도 못잡는 53조 쌓여있다",
-      "summary": "‘빚투’ 사각지대 된 마통 5대은행 전체 한도 96.5조 사용된 금액은 44.9% 그쳐 절반 이상 언제든 인출 가능 이달 들어서도 2조원 넘게 쑥한도를 받아두고 필요한 만큼 가져..",
-      "link": "https://www.mk.co.kr/news/economy/12075985",
-      "publishedAt": "2026-06-16T21:40:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "스페이스X 상장 3일만에 아마존 제쳤다...기술주 약세에 나스닥은 숨고르기 [월가월부]",
-      "summary": "스페이스X가 상장 3일만에 아마존을 제치고 시가총액 기준 5위로 올라섰다. 미국 뉴욕증시는 전날 미국과 이란의 종전 합의 기대감과 함께 큰 폭으로 올랐지만, 이날에는 숨 고르기에 ..",
-      "link": "https://www.mk.co.kr/news/stock/12075984",
-      "publishedAt": "2026-06-16T21:34:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "돈 빌려 '빚투' 밀어준 증권사들…금융보험업 대출 180조",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061705497",
-      "publishedAt": "2026-06-16T21:34:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"종전합의에도 더 올랐네\"…한화그룹주, 고공행진 한 이유 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061698766",
-      "publishedAt": "2026-06-16T21:30:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "성수동 넘어 한강·호텔로…식품업계, 여름 팝업 마케팅 경쟁",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 식품업계가 본격적인 여름 성수기를 맞아 팝업스토어 마케팅 경쟁에 나섰다.",
-      "link": "https://www.yna.co.kr/view/AKR20260616148400030",
-      "publishedAt": "2026-06-16T21:30:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "공정위, 두나무·네이버 합병 의견 조회…증권사들 \"우려\"",
-      "summary": "(서울=연합뉴스) 박수현 기자 = 공정거래위원회가 두나무와 네이버파이낸셜의 기업결합을 심사하며 주요 증권사에 의견을 요청했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260616117900002",
-      "publishedAt": "2026-06-16T21:01:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "대법 \"꼬마빌딩 상속세, 국세청 사후 감정평가로 시가산정 가능\"",
-      "summary": "(서울=연합뉴스) 이미령 기자 = &apos;꼬마빌딩&apos; 등 소규모 비주거용 부동산 상속세를 매길 때 국세청이 사후 감정평가를 의뢰해 나온 가액도 시가로 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260616092700004",
-      "publishedAt": "2026-06-16T21:00:22.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "코트라·무보, 수출기업 무역사기 예방·대응 설명회",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 대한무역투자진흥공사(코트라)와 한국무역보험공사는 지난 16일 서울 서초구 코트라 본사에서 법무부, 경찰청과 &apos;...",
-      "link": "https://www.yna.co.kr/view/AKR20260616126400003",
-      "publishedAt": "2026-06-16T21:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"항상 빈손으로 나와요\" 외면…중소 아울렛 몰락한 진짜 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061601261",
-      "publishedAt": "2026-06-16T21:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "치맥 다음은 '치막'?…교촌, 근위튀김·막걸리 조합 키우는 이유 [권용훈의 트렌트워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606168713i",
-      "publishedAt": "2026-06-16T21:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "엑손모빌→애플→엔비디아 … 세계시총 1위 이제 우주서 나온다",
-      "summary": "스페이스X의 군사전용 위성망 ‘스타쉴드’, 미래 전쟁 패러다임 바꾼다2006년, 중국 경제의 폭발적 성장에 힘입어 유가가 치솟으면서 엑손모빌(ExxonMobil)이 글로벌 시가총액..",
-      "link": "https://www.mk.co.kr/news/stock/12075157",
-      "publishedAt": "2026-06-16T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "스페이스X, 그록 위해 '90조원짜리' 코딩에이전트 쇼핑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606160402i",
-      "publishedAt": "2026-06-16T13:27:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "큰돈 쓰던 중국인 안 오는데…면세점 대박 터진 '숨은 이유'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606169598g",
-      "publishedAt": "2026-06-16T13:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "호르무즈 정상화까지 수개월…\"유가 단기 급락 없다\" [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061602776",
-      "publishedAt": "2026-06-16T13:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "브렌트유 80달러 아래로 하락…3개월 만에 최저",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606160382i",
-      "publishedAt": "2026-06-16T12:53:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "이틀만에 아마존 시총 제치고 MS 턱밑…스페이스X ‘대기권 돌파’",
-      "summary": "시간외거래서 230달러 육박 상장후 이틀 연속 19% 상승 머스크 “2030년 매출 1조弗”미국 증시에 입성한 우주기업 스페이스X가 상장 이후 이틀 연속 급등세를 이어간 가운데 시..",
-      "link": "https://www.mk.co.kr/news/stock/12075851",
-      "publishedAt": "2026-06-16T12:46:05.000Z"
     }
   ]
 }
