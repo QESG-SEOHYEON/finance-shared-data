@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-06-22T22:42:20.911Z",
+  "updatedAt": "2026-06-23T06:41:17.852Z",
   "historyDays": 7,
-  "count": 496,
+  "count": 519,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 코스피, ‘역대급’ 10% 급락한 8203…코스닥 7.9%↓",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/stock/12080914",
+      "publishedAt": "2026-06-23T06:37:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "외국환시세(6월23일·마감가)",
+      "summary": "(15:30)",
+      "link": "https://www.yna.co.kr/view/AKR20260623127800002",
+      "publishedAt": "2026-06-23T06:35:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[속보] 코스피, '역대급' 10% 급락한 8,203…코스닥 7.9%↓",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20260623127100008",
+      "publishedAt": "2026-06-23T06:34:15.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[외환] 원/달러 환율 2.1원 오른 1,539.1원(15:30 종가)",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20260623126200002",
+      "publishedAt": "2026-06-23T06:30:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "구윤철, 에이전틱AI 교육 현장 방문…\"첨단부문 1천명 양성\"",
+      "summary": "(세종=연합뉴스) 송정은 기자 = 구윤철 부총리 겸 재정경제부 장관은 23일 에이전틱 인공지능(AI) 등 첨단 분야 인재 양성을 위한 실무교육 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260623110400002",
+      "publishedAt": "2026-06-23T06:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "와이솔 \"계열사 엔알랩 주식 189억원어치 취득…지분율 100%\"",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 와이솔[122990]은 전자부품제조 계열사 엔알랩의 주식 800만주를 약 189억원에 취득한다고 23일 공시했다...",
+      "link": "https://www.yna.co.kr/view/AKR20260623125000008",
+      "publishedAt": "2026-06-23T06:25:48.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "호남권생물자원관·E-순환거버넌스, 폐제품 친환경 처리 협력",
+      "summary": "(목포=연합뉴스) 조근영 기자 = 국립호남권생물자원관은 E-순환 거버넌스와 폐전기·전자제품의 친환경 처리 및 자원순환 활성화를 위한 업무협약(M...",
+      "link": "https://www.yna.co.kr/view/AKR20260623123300054",
+      "publishedAt": "2026-06-23T06:23:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피 시총 1위는 내줬지만…저가 매수세 몰리는 SK하이닉스 [주식 초고수는 지금]",
+      "summary": "[수익률 상위 1% 투자자 오후 2시30분 거래동향]주식 투자 수익률 상위 1% 초고수들은 23일 오후 2시 30분 기준으로 SK하이닉스, HD현대일렉트릭, 삼성중공업, 현대차, ..",
+      "link": "https://www.mk.co.kr/news/stock/12080891",
+      "publishedAt": "2026-06-23T06:21:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "신한은행, 중저신용자 금리 최고 6.9%로...'포용금융 2.0' 가동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606232961i",
+      "publishedAt": "2026-06-23T06:08:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "반도체 극한 쏠림의 결말? … 닷컴버블 돌아보면 미래가 보인다",
+      "summary": "과거 버블 붕괴서 얻는 교훈올해 들어 국내 증시가 반도체 일변도로 상승 랠리를 펼치면서 쏠림에 대한 우려가 커지고 있다. 지난 22일엔 삼성전자가 25년 7개월 동안 지켜왔던 코스..",
+      "link": "https://www.mk.co.kr/news/stock/12080874",
+      "publishedAt": "2026-06-23T06:06:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성 HBM 핵심 거점 찾은 이재용…차세대 반도체 전략 점검",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062330367",
+      "publishedAt": "2026-06-23T06:05:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "韓선박 호르무즈 탈출 ‘병목현상’… 이란 해군 “조금 더 기다려라”",
+      "summary": "이란 항로에 선박 몰리며 대기 좁은 해협에 각국 선박 뒤엉켜 휴전 분위기 변화 가능성 촉각호르무즈 해협을 빠져나오려는 한국 선사 소속 선박들이 출항 대기 중인 가운데, 각국 선박이..",
+      "link": "https://www.mk.co.kr/news/economy/12080872",
+      "publishedAt": "2026-06-23T06:05:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "농부들 한 숨 돌리나…중동 긴장 둔화에 요소 가격 정상화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606232916i",
+      "publishedAt": "2026-06-23T05:58:22.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 해외체류 입증땐 실손보험료 안 낸다…7월부터 개선안 시행",
+      "summary": "개인실손 중지제도 개선 해외실손 가입요건 폐지 기존 출국자도 적용 검토오는 7월부터 국내 의료 이용이 어려운 해외 장기체류자가 실손보험료 부담을 덜 수 있도록 제도 문턱을 낮춘다..",
+      "link": "https://www.mk.co.kr/news/economy/12080858",
+      "publishedAt": "2026-06-23T05:53:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "홈플러스, 밀린 4·5월 임금 지급…6월분은 여전히 미지급",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062329957",
+      "publishedAt": "2026-06-23T05:46:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "더이상 ‘영끌’ 안되자 보험 담보로 ‘빚투’…5년만에 대출폭 최대",
+      "summary": "코스피 9천선 넘기며 변동성↑ 지난달 보험계약대출 증가세# 30대 A씨는 최근 가지고 있던 종신보험을 해약한 뒤 받을 금액을 주식에 쓸지 고민하고 있다. 지금 해약하면 2000여만..",
+      "link": "https://www.mk.co.kr/news/economy/12080847",
+      "publishedAt": "2026-06-23T05:44:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“하이닉스 시총, 삼전 넘으면 증시 추락”…증권사 보고서 ‘성지순례’ 왔습니다",
+      "summary": "전날 코스피 시총 1위 오른 SK하닉 지난달 하나증권 리포트 다시 주목 “시총 역전은 시장 과열 신호” 분석 내년 이익 전망은 삼성전자가 높아반도체 업종을 중심으로 코스피가 강세장..",
+      "link": "https://www.mk.co.kr/news/stock/12080843",
+      "publishedAt": "2026-06-23T05:42:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성전자 팔아치우는 외국인…보유율, 13년 만에 최저",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062329347",
+      "publishedAt": "2026-06-23T05:40:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 코스피 8%대 폭락에 서킷브레이커 발동…올들어 4번째",
+      "summary": "코스피가 8% 넘게 폭락하며 유가증권시장에 1단계 서킷브레이커가 발동됐다. 최근 사상 최고치를 경신하며 9000선을 돌파했던 코스피가 하루 만에 급락세로 돌아서며 투자심리가 급격히..",
+      "link": "https://www.mk.co.kr/news/stock/12080839",
+      "publishedAt": "2026-06-23T05:36:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 역대급 급락에 코스피 서킷브레이커 발동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062329586",
+      "publishedAt": "2026-06-23T05:35:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "전쟁 딛고 다시 나는 대한항공…이익 컨센서스 46% 상향",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606232567i",
+      "publishedAt": "2026-06-23T05:29:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "텅텅 비었던 매장 '반전'…NS홈쇼핑, 홈플러스 익스프레스 인수 완료",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606232799i",
+      "publishedAt": "2026-06-23T05:24:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“지금 사두면 최소 5배 벌어요”…비상장 투자가 ‘잔혹한 덫’ 되는 이유",
+      "summary": "“회사 계좌로 투자금 송금 요구하면 거래중단해야”“지금 사두면 수익률 최소 5배 벌 수 있어요.” 경기도에 사는 50대 A씨는 이 같은 전화를 받고 1000만원을 송금했다. 상대는..",
+      "link": "https://www.mk.co.kr/news/economy/12080826",
+      "publishedAt": "2026-06-23T05:23:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "액상형 전자담배도 규제 대상…7월 15일까지 금연구역 집중점검",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062328937",
+      "publishedAt": "2026-06-23T05:22:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "보수적 퇴직연금 투자 DB형서도 수익률 갈린 이유는",
+      "summary": "1분기 5대은행 DB형 수익률 분석 예금성원리금보장형 수익 차이없지만 펀드·ETF 등 원리금비보장형 격차 커 대기업 위주 신한·하나·우리 2~4%대 중견·중기 많은 KB·농협 10..",
+      "link": "https://www.mk.co.kr/news/economy/12080820",
+      "publishedAt": "2026-06-23T05:17:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼전닉스 '잭팟' 터진다는데…'반도체 운명 달렸다' 초긴장 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062327426",
+      "publishedAt": "2026-06-23T05:05:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "KB자산운용, 차이나 AMC와 맞손.. \"한국·홍콩 ETF 공동 상장 추진\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606232831i",
+      "publishedAt": "2026-06-23T05:04:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독] 코닝 CFO \"반도체 유리 기판, 한국 투자 고려\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606232821i",
+      "publishedAt": "2026-06-23T05:04:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "KB국민은행, 주담대 한도 줄인다…모기지 신용보증·보험 가입 중단",
+      "summary": "KB국민은행이 모기지 신용보증·보험 가입을 중단해 주택담보대출(주담대) 한도를 줄인다. 정부의 가계대출 조이기 기조에, 대출 문턱을 간접적으로 높이는 조치를 취한 것이다. 23일 ..",
+      "link": "https://www.mk.co.kr/news/economy/12080775",
+      "publishedAt": "2026-06-23T04:37:30.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3922,54 +4154,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026061697106",
       "publishedAt": "2026-06-16T06:45:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "총저축률·투자율 역대급 괴리… 반도체 호황에도 ‘돈 가뭄’",
-      "summary": "총저축률 41.7% vs 투자율 25.3% 괴리율 1998년 외환위기 당시 추월 반도체로 번 달러 국내 안 오고 해외로 거주자 외화예금은 933억달러 육박 “韓흑자, 미국 자산 매..",
-      "link": "https://www.mk.co.kr/news/economy/12075447",
-      "publishedAt": "2026-06-16T06:35:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"빚투 막는다\"…인터넷은행 3사, 마이너스통장 한도 제한",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061696736",
-      "publishedAt": "2026-06-16T06:27:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"스페이스X 청약 투자자 금전 보상 검토\"…미래에셋 공식 사과",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061696246",
-      "publishedAt": "2026-06-16T06:04:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "20% 폭락에 1500억 던진 개미들…\"지금이 바닥\" 고수의 조언",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606169578i",
-      "publishedAt": "2026-06-16T05:59:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 전략비축유 1983년 이후 최저…공급 불안 우려 확대",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606168229i",
-      "publishedAt": "2026-06-15T22:52:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "세븐일레븐, '취사병 전설이 되다' 찜닭 도시락 출시",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606168241g",
-      "publishedAt": "2026-06-15T22:46:19.000Z"
     }
   ]
 }
