@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-06-23T22:07:22.154Z",
+  "updatedAt": "2026-06-24T06:38:00.510Z",
   "historyDays": 7,
-  "count": 500,
+  "count": 525,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“코스피 추세 하락 아냐”…모건스탠리, ‘1만500’ 반전 전망, 이유가?",
+      "summary": "“장기간 상승랠리 피로감 누적…펀더멘털 여전히 견조”모건스탠리는 최근 한국 증시의 급락과 관련해 “추세적 하락(breakdown)보다는 일시적 숨 고르기(breather)”라고 평..",
+      "link": "https://www.mk.co.kr/news/economy/12081962",
+      "publishedAt": "2026-06-24T06:37:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼정KPMG 윤학섭 세무자문 대표 부회장 승진",
+      "summary": "부대표 11명·전무 27명 정기 파트너 인사삼정KPMG가 세무자문 부문 수장을 부회장으로 승진시키고 감사·세무·딜·디지털 전환 등 주요 서비스 라인에서 파트너 인사를 단행했다. 기..",
+      "link": "https://www.mk.co.kr/news/stock/12081954",
+      "publishedAt": "2026-06-24T06:35:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“용돈으로 튼 첫 거래가 평생 간다”…인뱅, 미래 큰손 모시기 사활",
+      "summary": "태아적금·초등생 체크카드… 디지털세대 타깃층 넓힌 인뱅인터넷전문은행(인뱅)들이 최근 미성년 고객 모시기에 열을 올리고 있다. 유소년 대상 금융플랫폼을 제공함으로써 얻을 수 있는 당..",
+      "link": "https://www.mk.co.kr/news/economy/12081949",
+      "publishedAt": "2026-06-24T06:31:19.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "민주노총 \"李정부 1년…노란봉투법 중요한 진전·구조개혁 회피\"",
+      "summary": "(서울=연합뉴스) 한혜원 기자 = 전국민주노동조합총연맹(민주노총)은 24일 이재명 정부 1년간의 노동 분야 경과를 &quot;입법 진전, 실행 지체, 구...",
+      "link": "https://www.yna.co.kr/view/AKR20260624123500530",
+      "publishedAt": "2026-06-24T06:28:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "바이오USA서 주목받은 K바이오…\"혁신 신약 도전 강점\"",
+      "summary": "(샌디에이고=연합뉴스) 신선미 기자 = 세계 최대 규모 제약·바이오 산업 전시회인 &apos;2026 바이오 인터내셔널 컨벤션&apos;(바이오 USA)에서 K바...",
+      "link": "https://www.yna.co.kr/view/AKR20260624052900017",
+      "publishedAt": "2026-06-24T06:27:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'손톱 밑 가시뺀다' 전주 만성지구, 업무시설 제한 등 규제 완화",
+      "summary": "(전주=연합뉴스) 김동철 기자 = 전북 전주시가 만성지구의 경제 활성화를 위해 업무시설 규모 제한 등 각종 규제를 대폭 완화한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260624125700055",
+      "publishedAt": "2026-06-24T06:26:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "이찬진 “회계부정, 예방적 감독체계로 전환”",
+      "summary": "금감원 회계심사·감리제도 개선 세미나 감리주기 단축 및 수단 강화 모색 중대 회계부정 신속 상폐 필요성 강조 AI 활용 및 전문 인력 확보도 논의금융감독원이 회계부정 발생 이후 제..",
+      "link": "https://www.mk.co.kr/news/stock/12081940",
+      "publishedAt": "2026-06-24T06:23:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "링크드, 기업 AX 솔루션 사업 본격화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245559i",
+      "publishedAt": "2026-06-24T06:21:37.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] '바이오 USA' 참석 바이오주 강세…삼바 9%대 급등",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 세계 최대 규모 제약·바이오 산업 전시회인 &apos;2026 바이오 인터내셔널 컨벤션&apos;(바이오 USA)이 진행 중인 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260624124300008",
+      "publishedAt": "2026-06-24T06:20:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이상일 \"삼성전자, 용인 반도체팹 계획대로 추진 의사 밝혀\"",
+      "summary": "(용인=연합뉴스) 김광호 기자 = 이상일 경기 용인시장은 삼성전자와 SK하이닉스의 호남·충청 등에 대규모 반도체 산업 투자 검토와 관련해 &quot;이동...",
+      "link": "https://www.yna.co.kr/view/AKR20260624124100061",
+      "publishedAt": "2026-06-24T06:18:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 오비맥주, 광주시에 '빛고을 장학금' 1천500만원 기탁",
+      "summary": "▲ 오비맥주는 자사 생산공장이 있는 광주광역시에 지역 인재 육성을 위한 &apos;빛고을 장학금&apos; 1천500만원을 기탁했다고 24일 밝혔다. 해당 장학금...",
+      "link": "https://www.yna.co.kr/view/AKR20260624121600030",
+      "publishedAt": "2026-06-24T06:15:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "다음은 팹리스와 전력주다…AI 밸류체인 주목 [주식 초고수는 지금]",
+      "summary": "[수익률 상위 1% 투자자 오후 2시30분 거래동향] 오후들어 코스닥 팹리스 기업 주목 LS일렉, 효성중공업 등 전력주도 줍줍주식 투자 수익률 상위 1% 초고수들은 24일 오후 2..",
+      "link": "https://www.mk.co.kr/news/stock/12081934",
+      "publishedAt": "2026-06-24T06:13:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] HMM, 벌크선 확대 전략 통했다…글로벌 해운사 이익률 3위",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245508i",
+      "publishedAt": "2026-06-24T06:12:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피 역대급 폭락에도…\"1만500까지 간다\" 반전 전망 나왔다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062454817",
+      "publishedAt": "2026-06-24T06:11:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "출혈경쟁 끝에 기준 강화…배터리 3사 '날벼락' 맞나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245208i",
+      "publishedAt": "2026-06-24T06:10:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "하나금융, 전국 상권서 '청년 소상공인' 업체 4000곳 키운다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245452i",
+      "publishedAt": "2026-06-24T06:06:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "역대급 신용융자 조이기 나선 금감원…증권사 소집해 “기계적 리스크관리서 탈피를”",
+      "summary": "24일 10개 증권사 CRO 간담회 5월 반대매매 규모 374억원 건전성·유동성 관리 강조신용융자 잔고가 38조원에 달하며 역대 최대 수준으로 불어나자 금융감독원이 주요 증권사 리..",
+      "link": "https://www.mk.co.kr/news/stock/12081929",
+      "publishedAt": "2026-06-24T06:06:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "우주 중력 활용해 약 만들고, 경수형 열공급 SMR 개발...41대1 경쟁률 뚫은 연구과제 살펴보니",
+      "summary": "중기부, 생태계혁신형 딥테크 챌린지 7개 과제 선정 최종 선발팀에 4년간 200억원 R&D 지원시장을 혁신할 첨단기술에 4년간 최대 200억원의 연구개발(R&D)비용을 지원하는 ‘..",
+      "link": "https://www.mk.co.kr/news/economy/12081928",
+      "publishedAt": "2026-06-24T06:03:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "진 수 BoA 아태 대표 \"변동성은 정상…외국인, 韓 이탈 아니다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245249i",
+      "publishedAt": "2026-06-24T06:02:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"꼬리가 몸통 흔들었다\"…전세계 덮친 '삼전닉스 레버리지' 쇼크 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062452436",
+      "publishedAt": "2026-06-24T06:00:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "4월 출생아 18% ‘역대급’ 급증…7년 만에 10만 명 육박",
+      "summary": "4월 증가율 18.0% 1981년 통계 작성 이래 최고치 합계출산율 0.93명으로 반등해 22개월 연속 증가세 지속 고무 혼인도 2만 건 돌파, 10년 만에 최대 인구 자연감소 3..",
+      "link": "https://www.mk.co.kr/news/economy/12081926",
+      "publishedAt": "2026-06-24T05:57:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "최저임금發 고용 한파 오나…中企 절반이 \"채용 축소·감원\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245450i",
+      "publishedAt": "2026-06-24T05:56:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“증시폭락 징징대긴, 우린 어쩌라고”…수익률 꼴찌 기록한 비트코인",
+      "summary": "코인 6월 투자수익률, 美증시·금 하회 알트코인도 혹한기…이더리움 16%↓ MSTR 비트코인 추가 매도 우려 여전뉴욕 증시, 금, 비트코인 등 주요 투자자산 중 6월 들어 비트코인..",
+      "link": "https://www.mk.co.kr/news/stock/12081904",
+      "publishedAt": "2026-06-24T05:43:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "월마트, 프랑스 광고기술 기업 바이브닷코 14억달러에 인수",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245322i",
+      "publishedAt": "2026-06-24T05:35:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"10년 만기 벤처펀드로는 AI 못 키운다\"…초장기 투자펀드 도입 논의",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245364i",
+      "publishedAt": "2026-06-24T05:27:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"500% 먹고 최근에 다 팔았다\"…28세 투자 고수의 비결",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606169391i",
+      "publishedAt": "2026-06-24T05:11:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "9000피 돌파, 그 빛과 그림자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606233369i",
+      "publishedAt": "2026-06-24T05:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 공정위, 한화그룹 현장조사…‘브랜드 사용료’ 내부거래 들여다볼듯",
+      "summary": "지주사 한화 등 4곳 조사 내부거래 적정성 쟁점 타 기업 확산 가능성도공정거래위원회가 한화그룹 계열사 간 브랜드 사용료 거래에 대한 현장조사에 착수한 것으로 확인됐다. 계열사들이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12081805",
+      "publishedAt": "2026-06-24T02:35:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“반도체만 보고 경기 살아난 줄 착각”…기업 경기전망 4개월째 기준선 밑돌아",
+      "summary": "올해 7월 BSI 98.0 기록 제조업 전망치 95.6으로 부진 의약품·전자업종만 100 넘겨국내 기업들의 경기 전망이 4개월 연속 기준선을 밑돌며 부진한 흐름을 이어갔다. 다만 ..",
+      "link": "https://www.mk.co.kr/news/economy/12081564",
+      "publishedAt": "2026-06-24T00:10:32.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3970,38 +4202,6 @@
       "summary": "농산물 소비촉진부터 임직원 나눔실천…지역 선순환 견인서울 영등포농협이 상생금융 중심의 ESG 경영활동을 성공적으로 전개하고 있어 눈길을 끈다. 최근 삼성전자가 대규모 수익을 온누리..",
       "link": "https://www.mk.co.kr/news/economy/12076410",
       "publishedAt": "2026-06-17T06:38:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "조용히 올랐다…수주 1.7배 늘어난 'K조선' 주목",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606172004i",
-      "publishedAt": "2026-06-17T06:35:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美 방산기업 L3해리스, 미사일 자회사 Axyv 상장 추진",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606172082i",
-      "publishedAt": "2026-06-17T06:34:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 코스피 '사상 최고치'…1.58% 상승한 8864.24 마감",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061720886",
-      "publishedAt": "2026-06-17T06:33:45.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "summary": "■ 李대통령 &quot;北문제 평화적 해결 주도&quot; 요청…트럼프 &quot;노력하겠다&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260617012900011",
-      "publishedAt": "2026-06-16T22:30:00.000Z"
     }
   ]
 }
