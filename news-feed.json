@@ -1,8 +1,168 @@
 {
-  "updatedAt": "2026-06-24T12:14:05.239Z",
+  "updatedAt": "2026-06-24T22:08:55.268Z",
   "historyDays": 7,
-  "count": 500,
+  "count": 497,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'채무 급증' 대전시, 도시공사 부채 비율도 1년만에 1.8배 ↑",
+      "summary": "(대전=연합뉴스) 박주영 기자 = 이장우 시장의 민선 8기 대전시 채무가 급증한 것으로 드러나 논란인 가운데, 도시 개발을 담당하는 시 산하 공...",
+      "link": "https://www.yna.co.kr/view/AKR20260624069400063",
+      "publishedAt": "2026-06-24T22:05:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[우분투칼럼] 모닝커피서 명절 차례상까지 우리 곁 '아프리카'",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260623076900898",
+      "publishedAt": "2026-06-24T22:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "브렌트유 4% 급락…호르무즈 통항 재개 기대에 유가↓",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062564827",
+      "publishedAt": "2026-06-24T21:49:29.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "비티젠 \"국민성장펀드 지원금, 1공장 증설에 투입\"",
+      "summary": "(샌디에이고=연합뉴스) 신선미 기자 = 최근 국민성장펀드 투자 대상으로 선정된 비티젠은 지원금 850억원을 1공장 증설에 투입, 바이오 의약품 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260625011600017",
+      "publishedAt": "2026-06-24T21:48:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“작년 한 해만 650억 샜다”…동네서 찍은 CT 4명 중 1명 다른 병원서 또 찍어",
+      "summary": "병원을 옮긴 환자 4명 중 1명 이상은 한 달 이내에 같은 컴퓨터단층촬영(CT)을 다시 받는 것으로 드러났다. 3년 만에 새로 집계된 건강보험심사평가원(심평원) 통계를 분석한 결과..",
+      "link": "https://www.mk.co.kr/news/economy/12082579",
+      "publishedAt": "2026-06-24T21:37:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“인류최초 ‘조만장자’ 타이틀 반납”…스페이스X 급락에 머스크 자산 가치도↓",
+      "summary": "세계 첫 ‘조만장자’(Trillionaire) 자리에 올랐던 일론 머스크 테슬라·스페이스X 최고경영자(CEO)가 10여일 만에 타이틀을 반납했다. 24일 미 경제 전문지 포브스는 ..",
+      "link": "https://www.mk.co.kr/news/stock/12082575",
+      "publishedAt": "2026-06-24T21:30:18.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[인터뷰] 우상호 \"평화 정착 없이는 경제 모멘텀 만들 수 없어\"",
+      "summary": "(춘천=연합뉴스) 이재현 기자 = 우상호 강원특별자치도지사 당선인은 25일 &quot;평화가 정착되지 않으면 경제적인 모멘텀을 만들 수가 없는데, 이는 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260624155500062",
+      "publishedAt": "2026-06-24T21:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“16% 인상”vs“동결”서 출발…내년 최저임금 본격 줄다리기",
+      "summary": "내년도 최저임금을 얼마로 정할지를 두고 25일 경영계와 노동계가 본격 줄다리기에 나설 예정이다. 사용자·근로자·공익위원으로 구성된 최저임금위원회는 이날 오후 3시 정부세종청사에서 ..",
+      "link": "https://www.mk.co.kr/news/economy/12082571",
+      "publishedAt": "2026-06-24T21:25:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“디지털 금이라 부르기도 민망”…주요 투자자산 중 성적 압도적 꼴찌",
+      "summary": "코인 6월 투자수익률, 美증시·금 하회 알트코인도 혹한기…이더리움 16%↓ MSTR 비트코인 추가 매도 우려 여전뉴욕 증시, 금, 비트코인 등 주요 투자자산 가운데 비트코인이 6월..",
+      "link": "https://www.mk.co.kr/news/stock/12082560",
+      "publishedAt": "2026-06-24T21:02:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성·SK '수백조' 투자에도…소부장 업계는 '글쎄'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245611i",
+      "publishedAt": "2026-06-24T21:00:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "3년 전 주가로 돌아간 '바이오'…반드시 상승할 8가지 이유 [프리미엄9 투자스쿨]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606233069i",
+      "publishedAt": "2026-06-24T21:00:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼전닉스 잘 나가는데…\"호황 뒤엔 불황\" 위기론 꺼낸 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606245960g",
+      "publishedAt": "2026-06-24T21:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"한일전 축구 참패 갚았죠\"…9년 만에 일본에 설욕한 정부 [김익환의 부처 핸즈업]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606244492i",
+      "publishedAt": "2026-06-24T21:00:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농식품부, '동물복지 정책참여단'과 간담회…입양·등록제 논의",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 25일 오후 서울역 스페이스쉐어에서 &apos;동물복지 정책참여단&apos; 20여명과 첫 대면 간담회를 개최한...",
+      "link": "https://www.yna.co.kr/view/AKR20260624145200030",
+      "publishedAt": "2026-06-24T21:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "휴고보스·랄프로렌도 온다…서울 프리미엄 텍스타일 개막",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 국내 우수 섬유 소재를 글로벌 패션 바이어와 연결하고 섬유 패션 산업의 공급망 경쟁력을 강화하기 위한 비즈니스...",
+      "link": "https://www.yna.co.kr/view/AKR20260624159400003",
+      "publishedAt": "2026-06-24T21:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“공부 안 하면 못 지킨다” … 1년새 170조 통화량 늘며 주식·부동산 시장 들썩",
+      "summary": "매경플러스 재테크 특별강연 부산 편코스피가 역대급 변동성을 보이는 가운데 매일경제가 제공하는 프리미엄 재테크 서비스 ‘매경플러스’가 부산에서 재테크 특별강연을 열었다. 지난 24일..",
+      "link": "https://www.mk.co.kr/news/stock/12082294",
+      "publishedAt": "2026-06-24T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "웬디스, 美 X세대 추억 소환하며 밈주식으로 떴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606256378i",
+      "publishedAt": "2026-06-24T15:43:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "스페이스X, 공매도 늘어…유통주식 적어 '숏스퀴즈' 위험 커",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606256373i",
+      "publishedAt": "2026-06-24T15:15:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하늘까지 높아진 마이크론 실적 기대...금값 4000달러도 깨졌다 [빈난새의 개장전요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606246360i",
+      "publishedAt": "2026-06-24T14:56:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "유가·국채금리 하락에 美증시 상승…마이크론 변동성이 심리 좌우",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606246356i",
+      "publishedAt": "2026-06-24T14:44:21.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3818,190 +3978,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026061831636",
       "publishedAt": "2026-06-17T22:20:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[우분투칼럼] 남아공의 반이민 정서…국경 문제 아닌 국가 문제",
-      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260612127000898",
-      "publishedAt": "2026-06-17T22:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "내리라고 임명했는데…'워시의 연준' 첫회의서 금리인상 시사(종합)",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 케빈 워시 신임 의장 체제에서 첫 통화정책 회의를 연 미 연방준비제도(Fed·연준) 위원들은 17일(현지시간...",
-      "link": "https://www.yna.co.kr/view/AKR20260618007451072",
-      "publishedAt": "2026-06-17T21:56:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"아직도 코로나 빚 못 갚았다\"…소상공인 상환유예 급증",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061831627",
-      "publishedAt": "2026-06-17T21:46:26.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "AI 국가프로젝트 K-문샷, PD 채용방식 바꾼다",
-      "summary": "(서울=연합뉴스) 조승한 기자 = 과학기술정보통신부가 이해충돌 문제 등으로 운영에 어려움을 겪고 있는 인공지능(AI) 기반 범부처 연구개발(R&amp;...",
-      "link": "https://www.yna.co.kr/view/AKR20260617140000017",
-      "publishedAt": "2026-06-17T21:33:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'250만닉스' 신기록…외국인이 3.8조 쓸어 담은 이유는? [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061723376",
-      "publishedAt": "2026-06-17T21:30:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“요즘은 종목 20개씩 담으면 컨셉없다 해요”...2~3개만 담는 압축ETF 열풍",
-      "summary": "운용업계 신흥 격전지로 부상 반도체TOP2·조선 TOP3 인기 신한, 대형사 제치고 2위 올라 상품당 평균 순자산 삼성 2.5배적게는 불과 2개 대장주에 집중 투자하는 이른바 ‘초..",
-      "link": "https://www.mk.co.kr/news/stock/12077011",
-      "publishedAt": "2026-06-17T21:24:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“프장서 돈벌고 기분좋게 하루 시작”…장외거래 비중 45% 넘었다",
-      "summary": "美반도체주 재료, 프장 삼전닉스에 연동대체거래소(ATS) 넥스트레이드에서 프리마켓과 애프터마켓 거래 비중이 전체 거래 규모의 절반에 육박한 것으로 나타났다. 삼성전자·SK하이닉스를..",
-      "link": "https://www.mk.co.kr/news/stock/12077010",
-      "publishedAt": "2026-06-17T21:23:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"1초에 63개씩\" 대박…전 세계가 열광한 한국 라면의 비밀 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606171553i",
-      "publishedAt": "2026-06-17T21:00:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "SNS서 난리난 '마늘종 비빔밥'…정작 가격은 20% 떨어졌다 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606172441i",
-      "publishedAt": "2026-06-17T21:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"전화도 안 돼요\" 항의 빗발…4월부터 불티난 '이 가전'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061725421",
-      "publishedAt": "2026-06-17T21:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "인하서 인상으로 바뀐 연준..워시 “물가안정 의지 강력” [월가월부]",
-      "summary": "연준, 기준금리 3.5~3.75% 유지 올해 1회 금리 인상 예고 美 증시 긴축공포에 일제히 하락 질주하던 스페이스X 5% 급락미국과 이란이 전쟁 106일만에 종전에 합의한 가..",
-      "link": "https://www.mk.co.kr/news/economy/12076988",
-      "publishedAt": "2026-06-17T20:36:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“끝까지 버티면 38% 더 받는다” … 계모임 닮은 ‘톤틴연금’의 비밀",
-      "summary": "매달 연금 500만원 받는법 4회서울에 거주하는 56세 직장인 김모 씨는 최근 은퇴를 앞두고 큰 고민에 빠졌다. 30년 가까이 직장생활을 했지만 자녀 교육비와 주택 마련에 대부분 ..",
-      "link": "https://www.mk.co.kr/news/economy/12076373",
-      "publishedAt": "2026-06-17T20:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "연준 확 바꾸는 워시...포워드가이던스 폐지·점도표 거부",
-      "summary": "FOMC 데뷔서 연준 개혁 일성 결정문서 향후 방향 예고 문구 삭제 반토막으로 줄어든 결정문케빈 워시 미 연방준비제도(Fed) 의장의 데뷔 무대 일성은 포워드가이던스(선제적 통..",
-      "link": "https://www.mk.co.kr/news/economy/12076960",
-      "publishedAt": "2026-06-17T19:40:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "워시의 첫 FOMC…\"미래 예고 안 한다\" 포워드 가이던스 폐기 [Fed 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606183085i",
-      "publishedAt": "2026-06-17T19:29:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "달러 비싸서 미국 주식 못 산다고? … 환율 1500원 시대 달라진 투자 셈법",
-      "summary": "환율 눈치보다 미국장 못 들어간다면 짚어볼 점달러-원 환율이 월 중 1500원을 돌파하자 금융위기 당시를 떠올리는 투자자들이 크게 늘었다. 그렇다면 지금의 환율은 정말 위기의 신호..",
-      "link": "https://www.mk.co.kr/news/economy/12076383",
-      "publishedAt": "2026-06-17T19:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[속보] 워시 연준 금리 동결...석달전엔 인하, 이젠 인상 예고",
-      "summary": "연준, 기준금리 3.5~3.75% 유지 워시 데뷔 무대서 만장일치 결정 종전 합의에도 인플레 리스크 올해 물가전망 2.7%->3.6% 상향미국과 이란이 전쟁 106일만에 종전에 ..",
-      "link": "https://www.mk.co.kr/news/economy/12076953",
-      "publishedAt": "2026-06-17T18:12:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[속보] 연준 4연속 금리동결...케빈 워시 데뷔서 만장일치",
-      "summary": "연준, 기준금리 3.5~3.75% 유지 종전 합의에도 인플레 리스크 워시 첫 FOMC 주재미국과 이란이 전쟁 106일만에 종전에 합의한 가운데 미국 중앙은행 연방준비제도(Fed)가..",
-      "link": "https://www.mk.co.kr/news/economy/12076952",
-      "publishedAt": "2026-06-17T18:01:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] 美 Fed, 기준금리 연 3.5~3.75%로 동결 [Fed워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606183059i",
-      "publishedAt": "2026-06-17T18:00:44.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금융위 ‘매출 부풀리기’ 한창·더테크놀로지에 과징금 12억원",
-      "summary": "한창, 철강 유통 매출 최대 165억원 과대계상 더테크놀로지, 가공거래 꾸미고 외부감사까지 방해금융위원회가 매출을 부풀리는 등 회계처리기준을 위반한 한창과 더테크놀로지에 회사와 전..",
-      "link": "https://www.mk.co.kr/news/stock/12076933",
-      "publishedAt": "2026-06-17T15:16:55.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼일PwC “3500억 달러 對美투자…공급망 위주 산업구조 재편 신호탄”",
-      "summary": "한미전략투자공사 출범…투자구조 및 향후 전략 보고서최근 글로벌 통상 질서가 관세 중심 경쟁에서 투자·생산·공급망 중심 경쟁으로 빠르게 이동하고 있다. 특히 미국이 관세를 전략 산업..",
-      "link": "https://www.mk.co.kr/news/stock/12076931",
-      "publishedAt": "2026-06-17T15:10:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼정KPMG, 신임 파트너 18명 승진 인사 발표",
-      "summary": "AI·사이버보안·공급망 등 핵심 경영분야 전문가 발탁 자문 역량도 고도화삼정KPMG가 최근 경영위원회를 열고 총 18명의 신임 파트너 승진 인사를 발표했다고 17일 밝혔다. 이..",
-      "link": "https://www.mk.co.kr/news/stock/12076930",
-      "publishedAt": "2026-06-17T15:08:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "블랙록, '수익형 ETF' BITA 선보여…첫날 587만불 거래",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061725136",
-      "publishedAt": "2026-06-17T14:50:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“그때 안 사길 잘했다”…고점서 미끄러진 金값, 골드바도 인기 급감",
-      "summary": "美금리인상 가능성 커지자 국제금값 올해 20% 떨어져 은행 골드뱅킹 4000억 감소 올들어 처음 잔액 2조 밑으로연초 달아올랐던 ‘골드 러시’가 한풀 꺾이고 있다. 미국의 금리 ..",
-      "link": "https://www.mk.co.kr/news/economy/12076887",
-      "publishedAt": "2026-06-17T13:18:50.000Z"
     }
   ]
 }
