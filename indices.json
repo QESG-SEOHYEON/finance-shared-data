@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-24T22:08:55.736Z",
+  "updatedAt": "2026-06-25T06:41:25.335Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 8203.84,
-      "previous": 9114.55,
-      "dayChange": -910.71,
-      "dayChangePct": -9.99,
-      "monthChangePct": 1.94,
-      "lastUpdated": "2026-06-24T09:05:30.000Z",
+      "current": 8964.1,
+      "previous": 8471.02,
+      "dayChange": 493.08,
+      "dayChangePct": 5.82,
+      "monthChangePct": 11.39,
+      "lastUpdated": "2026-06-25T06:21:20.000Z",
       "candles": [
         {
           "date": "2026-05-26",
@@ -92,6 +92,14 @@
         {
           "date": "2026-06-23",
           "close": 8203.84
+        },
+        {
+          "date": "2026-06-24",
+          "close": 8471.02
+        },
+        {
+          "date": "2026-06-25",
+          "close": 8964.1
         }
       ]
     },
@@ -100,9 +108,9 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 25476.63,
+      "current": 25476.64,
       "previous": 25587.04,
-      "dayChange": -110.41,
+      "dayChange": -110.4,
       "dayChangePct": -0.43,
       "monthChangePct": -4.43,
       "lastUpdated": "2026-06-24T21:15:59.000Z",
@@ -189,7 +197,7 @@
         },
         {
           "date": "2026-06-24",
-          "close": 25476.63
+          "close": 25476.64
         }
       ]
     },
