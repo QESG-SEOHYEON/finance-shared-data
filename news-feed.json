@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-06-26T12:06:44.955Z",
+  "updatedAt": "2026-06-26T22:04:24.490Z",
   "historyDays": 7,
-  "count": 498,
+  "count": 500,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "이번엔 '칩플레이션' 논쟁, 반도체 변동성에 대응하려면 [월가백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606271098i",
+      "publishedAt": "2026-06-26T21:11:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"술보다 좋아\" 핫플 찾은 2030 즐겨 먹더니…'대박' 터졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062608101",
+      "publishedAt": "2026-06-26T21:00:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 내주 서울 성북구 장위푸르지오마크원 등 8천167가구 분양",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 8천167가구가 분양에 나선다.",
+      "link": "https://www.yna.co.kr/view/AKR20260626156400003",
+      "publishedAt": "2026-06-26T21:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국제유가, 공급 우려 해소에 급락…WTI 배럴당 70달러 아래로",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 26일(현지시간) 국제유가는 호르무즈 해협의 통항량 증가와 사우디아라비아의 선적 재개로 공급 부족 우려가 해...",
+      "link": "https://www.yna.co.kr/view/AKR20260627004900072",
+      "publishedAt": "2026-06-26T19:51:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "달러-원, 안전 선호 확산에 낙폭 축소…1,535.80원 마감",
+      "summary": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 줄였다.",
+      "link": "https://www.yna.co.kr/view/AKR20260627004200002",
+      "publishedAt": "2026-06-26T18:57:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "대기업 부실비율 확 줄었지만…중소기업·자영업자는 ‘고사 직전’",
+      "summary": "대기업 부실비율 3분의1로 뚝 중기·자영업자는 꾸준히 상승 경기부진에 건전성 양극화국책은행 기업대출 부실의 무게중심이 대기업에서 중소기업·자영업자로 옮겨가고 있다. 조선·해운 등 ..",
+      "link": "https://www.mk.co.kr/news/economy/12084459",
+      "publishedAt": "2026-06-26T13:23:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "주식·원자재·비상장주까지 무기한 선물의 무한 확장...한국은?[엠블록레터]",
+      "summary": "안녕하세요 엠블록레터의 AI 인턴입니다. 암호화폐와 연관된 파생상품인 무기한 선물, 이른바 ‘퍼프(Perp, Perpetual Futures)’가 비트코인과 이더리움을 넘어 주식,..",
+      "link": "https://www.mk.co.kr/news/stock/12084455",
+      "publishedAt": "2026-06-26T13:11:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"미식으로 즐겨주길\"…잔 대신 접시 내민 위스키 업계 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606260862g",
+      "publishedAt": "2026-06-26T13:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "SK하닉 '45조' 美 상장 노리는데…삼성전자 전망에 '깜짝' [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062604096",
+      "publishedAt": "2026-06-26T13:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "주요 외신 “삼성전자·SK하이닉스, 글로벌 반도체주 핵심 변수됐다”",
+      "summary": "삼전닉스 급락에 미·유럽 기술주도 동반 약세 주요 외신 “한국, AI 투자 심리 좌우하는 핵심 시장” 차익실현·AI 수요 둔화 우려 겹쳐…마이크론 실적 분수령SK하이닉스와 삼성전자..",
+      "link": "https://www.mk.co.kr/news/stock/12084445",
+      "publishedAt": "2026-06-26T12:42:22.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘-9.99%→3.26%→5.42%→-5.81%’…현기증 나는 韓 증시 널뛰기 왜?",
+      "summary": "매수 사이드카→매도 사이드카에 서킷 브레이커 차익실현·반도체 쏠림·레버리지 등 요인 지적국내 증시가 또다시 극심한 변동성을 노출하면서, 하루 4~5% 이상 급등락을 반복하는 ‘변동..",
+      "link": "https://www.mk.co.kr/news/economy/12084444",
+      "publishedAt": "2026-06-26T12:41:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "뚝 떨어진 삼성전자 퇴직률…男 육아휴직은 2000명 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606260798g",
+      "publishedAt": "2026-06-26T12:00:04.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -3906,86 +4002,6 @@
       "summary": "공공기관 경영평가 기관장 7명 ‘아주 미흡’ 평가 공무원연금, 내부 통제 실패 코바코·코이카·국립공원공단 ‘기관 평가’서 최하 등급 기록 D등급 이하는 성과급 미지급정부가 공무..",
       "link": "https://www.mk.co.kr/news/economy/12078835",
       "publishedAt": "2026-06-19T22:10:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“MSCI 지수 편입, 호재일까 악재일까”...한국증시, 24일 갈림길 선다",
-      "summary": "시장접근성 평가 18개 항목중 외환·결제 등 5개부문 “개선 필요” 24일 관찰대상국 편입 결과 발표MSCI가 한국 증시의 투자상품 가용성 평가를 상향했다. 한국 지수 연계 파생상..",
-      "link": "https://www.mk.co.kr/news/stock/12078825",
-      "publishedAt": "2026-06-19T21:08:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“지금 아니면 못 먹어”…가격 20% 뛰어도 잘 나가는 제철 채소 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606185308i",
-      "publishedAt": "2026-06-19T21:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "9000피에 '빚투'도 펄펄 끓는다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061974771",
-      "publishedAt": "2026-06-19T21:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "폐장도 규칙도 없는 금융 온다 … 한국에 필요한건 상상력",
-      "summary": "새로운 헤지 공간 여는 글로벌 크립토 월드최근 한 글로벌 투자은행이 국내 증권사에 SK하이닉스 주가가 급락하면 큰 수익이 나는 파생상품을 제안했다. 국내 투자자 입장에서는 위험을 ..",
-      "link": "https://www.mk.co.kr/news/stock/12077535",
-      "publishedAt": "2026-06-19T21:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국제유가, 미·이란 후속협상 지연에 상승…브렌트 0.9%↑",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 스위스에서 열릴 예정이었던 미국과 이란 간 후속 협상이 미뤄지면서 19일(현지시간) 국제 유가가 상승했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260620003400072",
-      "publishedAt": "2026-06-19T19:23:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "달러-원, 이스라엘·헤즈볼라 휴전에 하락 후 되돌림…1,531원 마감",
-      "summary": "*그림*",
-      "link": "https://www.yna.co.kr/view/AKR20260620002000002",
-      "publishedAt": "2026-06-19T17:42:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 美 테크 콘퍼런스 참가한 SK하이닉스",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061974231",
-      "publishedAt": "2026-06-19T15:30:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이름은 하나인데 성격은 셋…골라 타는 재미 더한 RAV4 [신차털기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606185447g",
-      "publishedAt": "2026-06-19T15:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "삼전 ‘테슬라’ 넘고, 하이닉스 ‘마이크론’ 제쳤다…세계 뒤흔든 ‘K-반도체’",
-      "summary": "삼전 시총 12위·하이닉스 15위 “반도체주 강세에 격차 확대”글로벌 시가총액 순위에서 삼성전자가 테슬라를 넘어선 것으로 나타났다. 이와 함께 SK하이닉스도 미국 반도체 기업 마이..",
-      "link": "https://www.mk.co.kr/news/economy/12078807",
-      "publishedAt": "2026-06-19T12:58:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘주가조작 패가망신 1호’ 정조준…검찰, 증권사 3곳 압수수색",
-      "summary": "금융전문가 등이 연루된 1000억원대 주가조작 사건 관련 검찰이 또다시 강제 수사에 나섰다. 서울남부지검 금융·증권범죄합동수사부(신동환 부장검사)는 19일 자본시장법 위반 등 혐의..",
-      "link": "https://www.mk.co.kr/news/stock/12078802",
-      "publishedAt": "2026-06-19T12:30:01.000Z"
     }
   ]
 }
