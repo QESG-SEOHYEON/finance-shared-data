@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-06-27T06:23:38.853Z",
+  "updatedAt": "2026-06-27T11:21:49.265Z",
   "historyDays": 7,
-  "count": 496,
+  "count": 500,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "DL이앤씨, 1.3조원 규모 목동6단지 재건축 시공사 선정",
+      "summary": "(서울=연합뉴스) 임기창 기자 = DL이앤씨가 목동신시가지 재건축 중 선두주자인 목동 6단지 재건축 사업 시공사로 선정됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260627041700003",
+      "publishedAt": "2026-06-27T09:13:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"막상 은퇴하면 상황 달라진다\"…요즘 뜨는 '연금 투자 전략'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606269340i",
+      "publishedAt": "2026-06-27T08:57:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'초특가 야놀자' vs '여행할때 여기어때'…여행 예약은 어디서? [맞짱대결]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605224043g",
+      "publishedAt": "2026-06-27T08:30:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘제2의 월세’ 관리비 아끼는 법…냉방비 겁나는 여름, 카드만 잘 골라도 이득",
+      "summary": "냉방비 느는 여름…관리비 할인카드 관심↑ 통신비·교육비·OTT까지 혜택 제각각 개인별 소비 패턴 맞는 카드 선택이 핵심고물가 시대, 아파트 관리비가 ‘제2의 월세’로 불릴 만큼 부..",
+      "link": "https://www.mk.co.kr/news/economy/12084696",
+      "publishedAt": "2026-06-27T08:16:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“오늘 주식 팔면 모레 아닌 내일 입금”…결제주기 단축 10월 나온다",
+      "summary": "투자자들이 주식을 팔고 다음날 돈을 받을 수 있도록 하는 주식 매매 결제주기 단축 로드맵이 오는 10월 나올 예정이다. 이재명 대통령이 지난 3월 ‘자본시장 안정과 정상화 간담회’..",
+      "link": "https://www.mk.co.kr/news/stock/12084694",
+      "publishedAt": "2026-06-27T08:16:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"반도체 계속 간다\"…'압축 투자' ETF에 몰리는 개미들 [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062601096",
+      "publishedAt": "2026-06-27T08:00:02.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -18,6 +66,14 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606257569g",
       "publishedAt": "2026-06-27T05:42:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼전닉스 주가 따라가는 마이크론”…코스피 핵심 시장 부상?",
+      "summary": "외신, 한국 증시 AI 핵심 시장 평가 “한국발 급락장, ETF 시장 우려↑” 일본, 코스피 보고 매매 전략 세워최근 코스피가 9000선에 도달한 뒤 급락·급등을 보이며 변동성이 ..",
+      "link": "https://www.mk.co.kr/news/stock/12084660",
+      "publishedAt": "2026-06-27T05:09:37.000Z"
     },
     {
       "source": "연합뉴스",
@@ -42,6 +98,14 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026062713397",
       "publishedAt": "2026-06-27T03:38:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“코스피 롤러코스터 장세”…다음주 9500선까지 오른다는데",
+      "summary": "코스피, 9000선 도달 후 변동성↑ 호실적 전망에 예상밴드 9500선 증권가 “주도주 중심 대응 유지”최근 코스피가 연일 급등·급락을 오가며 큰 변동성을 보이는 가운데, 다음주 ..",
+      "link": "https://www.mk.co.kr/news/stock/12084627",
+      "publishedAt": "2026-06-27T02:00:31.000Z"
     },
     {
       "source": "연합뉴스",
@@ -146,6 +210,14 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606260020i",
       "publishedAt": "2026-06-26T23:00:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성전자 덕에 몸값 35조 뛰었다”…삼성물산 목표가 70만원 나온 이유 [이주의 Bull기둥]",
+      "summary": "이달 들어 주가 25% 크게 뛰어 지분가치·배당·원전사업 기대 증권가 ‘강력매수’…목표가 상향이번주 국내 증시에서는 삼성물산이 가파른 상승세를 보였다. 삼성전자 등 핵심 계열사 주..",
+      "link": "https://www.mk.co.kr/news/stock/12084585",
+      "publishedAt": "2026-06-26T22:56:54.000Z"
     },
     {
       "source": "한국경제",
@@ -3930,46 +4002,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606185415i",
       "publishedAt": "2026-06-20T12:56:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "불장에 \"삼전닉스 사면 무조건 돈 번다\"…영끌 개미들 '풀베팅' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026061970946",
-      "publishedAt": "2026-06-20T11:13:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국힘, 김용범 '역대급 호황' 언급에 \"다른 세상 살고 있나\"",
-      "summary": "(서울=연합뉴스) 박수윤 기자 = 국민의힘은 20일 김용범 청와대 정책실장이 한국 경제 상황을 &apos;역대급 호황&apos;이라고 평가하면서 부동산 과세 정상...",
-      "link": "https://www.yna.co.kr/view/AKR20260620040000001",
-      "publishedAt": "2026-06-20T10:12:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "아침부터 외국인 '바글바글'…\"한국 오니까 싸네요\" 인기폭발 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606197155g",
-      "publishedAt": "2026-06-20T09:16:55.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“전기는 있는데 사람이 없다”…해남·광주 ‘AI 벨트’가 못 푼 마지막 숙제",
-      "summary": "태양광·AI센터 대규모 투자에도 中보다 비싼 국산 패널이 숙제 국산 NPU는 소프트웨어 취약 산업생태계 육성·수출판로 확보 고차방정식 풀려면 인재 필요 정부, 파격적 세제인센티브..",
-      "link": "https://www.mk.co.kr/news/economy/12078969",
-      "publishedAt": "2026-06-20T08:16:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"빨리 회장님 찾아봐\"…야구장 달군 깜짝 '이벤트' 뭐길래",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606207971i",
-      "publishedAt": "2026-06-20T07:00:01.000Z"
     }
   ]
 }
