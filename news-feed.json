@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-06-28T21:55:47.636Z",
+  "updatedAt": "2026-06-29T07:22:42.309Z",
   "historyDays": 7,
-  "count": 486,
+  "count": 509,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "LH, 2천475가구 분당 6·S3구역 사업시행자 지정",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)가 경기 성남시 분당신도시 선도지구인 6·S3구역의 사업시행자로 지정됐다고 29일 밝혔다...",
+      "link": "https://www.yna.co.kr/view/AKR20260629128100003",
+      "publishedAt": "2026-06-29T07:12:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "K로봇 의외의 '노다지'는 중동...건설·주방·물류 로봇 수주대박 예고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606294555i",
+      "publishedAt": "2026-06-29T07:12:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "케이지에이, 국가첨단전략산업 이차전지 기업 선정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606294552i",
+      "publishedAt": "2026-06-29T07:11:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "SC제일은행 \"하반기 한국선 반도체주 위주 투자…美비중도 확대\"",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = SC제일은행은 하반기 미국과 아시아의 주식 비중을 확대하는 투자 전략을 제시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260629115300002",
+      "publishedAt": "2026-06-29T07:10:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스피 변동성지수 또 급등…종가기준 역대 최고치 경신(종합)",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 한국형 공포지수로 불리는 코스피200 변동성지수(VKOSPI)가 29일 또다시 역대급으로 뛰어올랐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260629052151008",
+      "publishedAt": "2026-06-29T07:04:52.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 수출플러스지원단, '글로벌 수주 분쟁 대응 방안 설명회' 개최",
+      "summary": "▲ 재정경제부 수출 플러스 지원단은 29일 오후 서울 삼성동 한국무역협회 대회의실에서 대한상사중재원, 한국무역협회와 공동으로 &apos;글로벌 수주 분쟁...",
+      "link": "https://www.yna.co.kr/view/AKR20260629125100002",
+      "publishedAt": "2026-06-29T07:03:29.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[특징주] 삼성전자, 4%대 급락 마감…SK하이닉스도 1%대 하락(종합)",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]가 29일 5% 가까이 급락한 채 정규장 거래를 마감했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260629030651008",
+      "publishedAt": "2026-06-29T07:02:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자, 에어컨이 사용자 위치 파악…생각 읽고 알아서 쾌적하게",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062934341",
+      "publishedAt": "2026-06-29T07:02:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'고객 경험·지속가능 성장'…미래 이끄는 기업의 비결",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062934281",
+      "publishedAt": "2026-06-29T07:00:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "LG전자, 국내 최대 용량 세탁·건조…빨래의 모든 불편 없앴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062934361",
+      "publishedAt": "2026-06-29T06:59:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자, 오늘 뭐 먹지? 냉장고가 스스로 레시피 추천",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062934411",
+      "publishedAt": "2026-06-29T06:58:22.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "7.7조 팔아치운 외국인…환율 또 금융위기 후 최고",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 원/달러 환율은 29일 외국인들이 국내 주식을 대거 팔아치우면서 글로벌 금융위기 후 최고 수준인 1,540원대...",
+      "link": "https://www.yna.co.kr/view/AKR20260629124400002",
+      "publishedAt": "2026-06-29T06:57:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "초고수, 9% 오른 하이브 ‘팔자’ [주식 초고수는 지금]",
+      "summary": "29일 오후 초고수 순매수 동향 삼전닉스, SK, HD현대중공업 매수 삼성전기, 하이브, DB하이텍 매도주식 투자 수익률 상위 1% 초고수들은 26일 오후 2시 30분 기준 삼성전..",
+      "link": "https://www.mk.co.kr/news/stock/12085676",
+      "publishedAt": "2026-06-29T06:57:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피 소폭 내리고…하락세였던 코스닥은 하루에 8%대 급등 마감",
+      "summary": "코스피 8300선·코스닥 920선 마감 코스피 장중 한때 8500선 넘겨 2차전지·바이오·전력주 등 강세29일 코스피는 소폭 내린 반면 그동안 연일 하락세였던 코스닥은 8%대 급등..",
+      "link": "https://www.mk.co.kr/news/stock/12085670",
+      "publishedAt": "2026-06-29T06:50:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "축협, 매년 공공지원만 100억 넘어…정부, 내년 예산 손보나",
+      "summary": "대표팀 졸전으로 32강 좌절 李대통령, 재발방지 마련 지시 정부·공공재원 축협 예산 10% 문체부, 지원 지속여부 따질듯2026 북중미 월드컵에서 한국 축구대표팀의 32강 진출이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12085668",
+      "publishedAt": "2026-06-29T06:49:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피, 반도체 고점 부담에 약보합 마감…코스닥은 8%대 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062943266",
+      "publishedAt": "2026-06-29T06:46:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“최소 연평균 4% 이상 금리 준다”…정부, 개인투자용 국채 발행",
+      "summary": "3년물 수익률 4% 돌파재정경제부가 7월 개인투자용 국채를 총 1600억원어치 발행한다. 3년물 이표채와 복리채 각각 30억원·70억원, 5년물 600억원, 10년물 700억원, ..",
+      "link": "https://www.mk.co.kr/news/economy/12085666",
+      "publishedAt": "2026-06-29T06:45:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "씨티, 테크주 투자의견 '중립'으로 하향 조정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606294415i",
+      "publishedAt": "2026-06-29T06:44:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성증권, 금융자산 30억 이상 초고액자산가 1만명 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062944146",
+      "publishedAt": "2026-06-29T06:31:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼전닉스 레버리지로 '서학개미 유턴' 노렸는데...美 레버리지 투자 2.5배 폭증",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606293744i",
+      "publishedAt": "2026-06-29T06:28:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"빠져도 너무 빠졌다\"…코스닥, 3거래일 만에 반등 시도",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606293980i",
+      "publishedAt": "2026-06-29T06:12:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "이더리움 사상 첫 3분기 연속 마이너스 유력[매일코인]",
+      "summary": "가상자산계의 은(銀)으로 불리는 이더리움이 사상 처음으로 3개 분기 연속 하락 마감을 앞두고 있다. 블록체인 채택이 확장되고 있지만 토큰은 외면받고 있기 때문이다. 블록체인 네트워..",
+      "link": "https://www.mk.co.kr/news/stock/12085613",
+      "publishedAt": "2026-06-29T05:52:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "키움證 빗썸 지분 인수 제안…빗썸, “구체적 논의는 아직”",
+      "summary": "키움증권, 빗썸에 지분 투자 제안 제3자 배정 신주 발행 형태 검토 빗썸 “구체적 논의 단계 아냐” 선긋기 단순 투자 넘어 글로벌 시너지가 관건키움증권이 국내 2위 가상자산 거래소..",
+      "link": "https://www.mk.co.kr/news/stock/12085612",
+      "publishedAt": "2026-06-29T05:52:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼전닉스만 계속 오를 줄 알았더니…바이오·전력 등 소외 업종 부각되나",
+      "summary": "삼전닉스, 최근 하락하며 주춤 바이오주·전력 등 소외업종 강세 증권가, 반도체 사이클 유지 전망코스피가 최근 9000선을 찍은 뒤 급락과 급등을 이어가는 가운데, 그동안 국내 증시..",
+      "link": "https://www.mk.co.kr/news/stock/12085610",
+      "publishedAt": "2026-06-29T05:50:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"성적 안 좋으면 투자 못해\"…단일종목레버리지 '시험 통과제' 검토",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606294112i",
+      "publishedAt": "2026-06-29T05:46:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "작년 231조 벌었더니 생긴 일…국민연금 고갈시점 최대 7년 늦춰진다",
+      "summary": "평균 운용 수익률 4.5% 적용하면 기금 소진 시점 2064년→2069년 5.5%까지 올리면 2071년으로 연장지난해 국민연금이 역대 최대 운용 수익을 거두면서 기금 소진 시점이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12085598",
+      "publishedAt": "2026-06-29T05:38:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“혼수상태 남편 어쩌나” 발 동동…7월부터 ‘보험금 대리청구’ 쉬워진다",
+      "summary": "동의 없이도 치매보험 ‘대리청구인 지정’ 암·뇌·심혈관 보험으로도 확대다음달부터 치매보험금 대리 청구권자를 무기명으로 지정할 수 있게 된다. 만약 실제 보험 가입자가 치매에 걸렸을..",
+      "link": "https://www.mk.co.kr/news/economy/12085583",
+      "publishedAt": "2026-06-29T05:23:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "중·저신용자에 중금리 생활자금…최대 1000만원 더 빌려준다",
+      "summary": "5~15%대 금리…6개 저축은행 출시 연소득 한도와 무관하게 대출 가능신용평점 하위 50% 이하 중·저신용자를 위한 금리 5~15%대 ‘중금리 생활안정대출’ 상품이 29일부터 6개..",
+      "link": "https://www.mk.co.kr/news/economy/12085426",
+      "publishedAt": "2026-06-29T05:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“낸 보험료 노후자금으로 쓰고 사망보장은 유지”…교보생명, 환급형 종신보험 출시",
+      "summary": "교보생명이 납입한 보험료를 생활자금으로 활용하면서도 사망보장은 유지할 수 있는 종신보험을 내놨다. 고령화로 노후 현금흐름에 대한 관심이 커지면서 생명보험사들이 종신보험에 환급·연금..",
+      "link": "https://www.mk.co.kr/news/economy/12085557",
+      "publishedAt": "2026-06-29T04:45:20.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3842,54 +4074,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606220882i",
       "publishedAt": "2026-06-22T07:26:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "HBM으로 삼전 꺾고 시총 1위 SK하이닉스…코스피 9100 방어 [종합]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062207976",
-      "publishedAt": "2026-06-22T07:07:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"월 100만 원도 안 아깝다\"…'개 집사'가 고른 막내딸 보양식",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606220668g",
-      "publishedAt": "2026-06-22T07:06:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "3분기 전기료는 일단 동결 '안심'…\"진짜 청구서는 하반기에\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606220436i",
-      "publishedAt": "2026-06-22T06:58:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"대체 카카오게임즈 주가 언제 올라\"…日라인야후 품에 안겨 '반전'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606220690i",
-      "publishedAt": "2026-06-22T06:57:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'머무는 공간' 지켜온 할리스…도심선 '퀵&스마트'로 달린다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606220481g",
-      "publishedAt": "2026-06-22T06:52:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "쿠팡, 작년 일자리 8250개 늘렸다…'지방 투자'로 고용 창출 1위",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606220811i",
-      "publishedAt": "2026-06-22T06:49:06.000Z"
     }
   ]
 }
