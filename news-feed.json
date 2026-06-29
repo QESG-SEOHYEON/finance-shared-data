@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-06-29T13:58:34.144Z",
+  "updatedAt": "2026-06-29T22:04:24.819Z",
   "historyDays": 7,
-  "count": 490,
+  "count": 494,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "매경이 전하는 세상의 지식(매-세-지, 6월 30일)",
+      "summary": "1. 정부가 청와대에서 이재명 대통령 주재로 국민보고회를 열고 반도체, 피지컬 AI, AI 데이터센터 등 이른바 ‘3대 메가프로젝트’에 시동을 걸었습니다. 신규 반도체 공장과 관련..",
+      "link": "https://www.mk.co.kr/news/economy/12085780",
+      "publishedAt": "2026-06-29T22:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "제주특별자치도 20년…지방분권에 외형 커졌지만 난개발 그늘도",
+      "summary": "(제주=연합뉴스) 고성식 기자 = 2006년 7월 출범한 제주특별자치도가 다음 달 1일로 20주년을 맞는다.",
+      "link": "https://www.yna.co.kr/view/AKR20260629028400056",
+      "publishedAt": "2026-06-29T21:31:32.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"주요 IB, 美연준 금리인하 종료 평가…하반기 동결·인상 전망\"",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 월가의 주요 투자은행들은 케빈 워시 신임 의장 체제를 출범한 미 연방준비제도(Fed·연준)가 올해 기준...",
+      "link": "https://www.yna.co.kr/view/AKR20260630009100072",
+      "publishedAt": "2026-06-29T21:20:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "호르무즈 무력 공방에 국제유가 상승…WTI 2%↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026063053377",
+      "publishedAt": "2026-06-29T21:19:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "美·이란 공격중단에 다우존스 최고...AI 반도체주 일제히 반등 [월가월부]",
+      "summary": "뉴욕 3대 증시 일제히 상승 알파벳 담은 다우 5만2천 돌파 테슬라 8%·스페이스X 7% 급등미국과 이란간 군사적 충돌 중단으로 중동 지역 긴장감이 완화된데다 인공지능(AI) 반도..",
+      "link": "https://www.mk.co.kr/news/economy/12086157",
+      "publishedAt": "2026-06-29T21:01:13.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "울산 공무원 우수제안 9건 선정…'지능형 세무조사 모델' 금상",
+      "summary": "(울산=연합뉴스) 김용태 기자 = 울산시는 올해 공무원 우수 제안 9건을 선정했다고 30일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260629166600057",
+      "publishedAt": "2026-06-29T21:01:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'알테쉬' 中직구 어린이 샌들·완구서 유해성물질 검출",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 중국 직접구매(직구) 사이트에서 판매하는 어린이용 샌들과 완구, 모자 등이 국내 안전 기준에 미달해 서울시가 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260629137700004",
+      "publishedAt": "2026-06-29T21:00:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "몰래 가입된 태블릿 계약 해지…서울시, 장애인 소비상담 2만8천건",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 지적장애인 A씨는 휴대전화 요금을 줄여준다는 광고를 보고 대리점을 찾았다가 자신도 모르는 사이 태블릿PC 2대...",
+      "link": "https://www.yna.co.kr/view/AKR20260629143100004",
+      "publishedAt": "2026-06-29T21:00:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "최저임금 심의시한 또 넘겨…노사 '1차 수정안', 격차 좁혀질까",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 내년도 최저임금을 결정하기 위한 심의가 노사 간 견해차로 법정 시한을 넘기면서, 올해도 기한 내 의결이 불발됐...",
+      "link": "https://www.yna.co.kr/view/AKR20260629105000530",
+      "publishedAt": "2026-06-29T21:00:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"장 보러 온 게 아닙니다\"…MZ 줄서는 전통시장 '기막힌 반전' [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606292962i",
+      "publishedAt": "2026-06-29T21:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "홈플러스, '2000억 확보' 실패…\"파산만은 막아달라\" 호소",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606294147g",
+      "publishedAt": "2026-06-29T21:00:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국민연금 국내 주식 수익률, 60% 넘었다…그래서 얼마 벌었나요?",
+      "summary": "전체 연금 수익률도 14% 달해 기금운용수익 208조원 불어나코스피가 6600선에서 거래됐던 지난 4월 말 국민연금이 14% 수익률을 기록한 것으로 드러났다. 국내 주식 수익률은 ..",
+      "link": "https://www.mk.co.kr/news/stock/12086148",
+      "publishedAt": "2026-06-29T20:52:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "비용 1.2조원 줄였는데 2000억 더 필요…홈플러스 회생계획 수정안 제출",
+      "summary": "홈플러스 “점포수 절반 감소 비용 1.2조 줄이고 M&A추진” 온라인 장보기도 일부 중지 법원, 내달 3일 회생계획 심사 구체적 자금조달 계획이 쟁점홈플러스가 제출한 기업회생안에..",
+      "link": "https://www.mk.co.kr/news/business/12086146",
+      "publishedAt": "2026-06-29T20:51:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“괜히 건물주 됐습니다”…공실지옥·고금리에 4년새 대출연체 8배로",
+      "summary": "안정적 대출처 임대업도 ‘흔들’ 4년새 못갚은 대출 8천억으로 자영업자 폐업에 이자비용 쑥 식당보다 연체증가 속도 빨라경기 불황의 그늘이 길어지면서 은행에 가장 안정적인 대출 업종..",
+      "link": "https://www.mk.co.kr/news/economy/12086145",
+      "publishedAt": "2026-06-29T20:51:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“2주택인데 세금 안 내요” … 국세청도 통과한 합법적 ‘꼼수’",
+      "summary": "상급지 갈아타는 3가지 비과세 방법더 좋은 지역으로 거주지를 옮기기 위해 3가지 비과세 방법이 존재한다. 기존 주택이 있는 상태에서 추가 주택을 취득하거나 혹은 주택 분양권, 조합..",
+      "link": "https://www.mk.co.kr/news/economy/12085694",
+      "publishedAt": "2026-06-29T20:31:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "한화생명, 애큐온캐피탈·저축은행 인수",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026062952181",
+      "publishedAt": "2026-06-29T15:33:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美대법원 \"연준 쿡, 직책 유지\" 판결…트럼프 연준장악시도 제동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606305255i",
+      "publishedAt": "2026-06-29T15:24:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "스타링크에 도전…로켓랩,위성전화 이리듐커뮤니케이션 인수",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606295248i",
+      "publishedAt": "2026-06-29T14:52:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "뉴욕증시,지난 주 하락딛고 나스닥 1.2% 상승",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202606295242i",
+      "publishedAt": "2026-06-29T14:26:10.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3802,126 +3954,6 @@
       "summary": "(서울=연합뉴스) 김동규 기자 = 집중호우 때 수위가 급격히 불어나 침수 우려가 컸던 도림천 일대에 대심도 빗물배수터널을 건설하는 사업이 본격화...",
       "link": "https://www.yna.co.kr/view/AKR20260623016100004",
       "publishedAt": "2026-06-22T22:12:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“400만닉스 가능한가요?”...'PER'로 보면 그렇습니다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606221479i",
-      "publishedAt": "2026-06-22T22:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[우분투칼럼] 아프리카와 개발협력⒁:",
-      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260618079000898",
-      "publishedAt": "2026-06-22T22:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "20% 밀려 천스닥 깨졌는데…액티브ETF 성적표 보니 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062208646",
-      "publishedAt": "2026-06-22T21:30:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "울산시, 드론으로 찍고 AI로 분석해 만든 전자지도 실증 추진",
-      "summary": "(울산=연합뉴스) 김근주 기자 = 울산시는 공간정보와 인공지능(AI)을 결합해 도시 변화를 전자지도에 나타내는 기술 실증에 나선다고 23일 밝혔...",
-      "link": "https://www.yna.co.kr/view/AKR20260622154000057",
-      "publishedAt": "2026-06-22T21:02:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"올 여름 큰 놈이 싸다\"…새벽배송 타고 국민밥상 오른 완도 보양식 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606221081i",
-      "publishedAt": "2026-06-22T21:00:17.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "서울시, 체납세금 징수 나설 기간제 근로자 292명 채용",
-      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 지방세와 세외수입 소액 체납 관리와 징수의 효율성을 높이기 위해 시민이 직접 참여하는 &apos;서울시 지방세...",
-      "link": "https://www.yna.co.kr/view/AKR20260622137900004",
-      "publishedAt": "2026-06-22T21:00:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼전닉스 언제 팔까요 묻거든…“내년 12월 달력을 보게하라”는데",
-      "summary": "모건스탠리가 진단한 ‘K반도체 호황’ 中제조· 美내수의존한 수출형태 벗어나 AI설비투자로 견인…내년말까지는 견조 주주환원 확대 이어지면 증시 재평가도“과거 수출 사이클이 중국 제..",
-      "link": "https://www.mk.co.kr/news/stock/12080504",
-      "publishedAt": "2026-06-22T20:58:22.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "스페이스X 16% 급락, 알파벳 5% 하락에 뉴욕증시 혼조...“시장 극도로 고평가” [월가월부]",
-      "summary": "뉴욕증시에서 스페이스X가 16% 급락하고, 알파벳(구글)이 5% 넘게 내리면서 나스닥이 1% 넘게 하락 마감했다. 다만 미국과 이란의 평화협상 진전이라는 호재로 다우와 S&P500..",
-      "link": "https://www.mk.co.kr/news/stock/12080492",
-      "publishedAt": "2026-06-22T20:34:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼전보다 더 올랐다 … 앞으로 더 간다는 ‘제2의 반도체’",
-      "summary": "‘북새통’ K백화점 주가급등 유지될까“옷 한 벌 입어보는 데 10분 걸려요. 사람이 너무 많아요”. 비가 추적추적 내린 지난 20일. 서울 여의도 더현대서울 여성복 매장에는 국내외..",
-      "link": "https://www.mk.co.kr/news/economy/12080134",
-      "publishedAt": "2026-06-22T20:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "주식 샀더니 무료맥주·항공권 할인까지 … 주주 챙겨주는 日",
-      "summary": "일본 주식시장의 최저 거래 단위는 100주라는 얘기를 지난번에 했다. 이처럼 우리와 다른 일본 증시의 제도 중에 ‘주주우대권(株主優待)’이라는 것이 있다. 주주우대권은 기업이 배당..",
-      "link": "https://www.mk.co.kr/news/stock/12080133",
-      "publishedAt": "2026-06-22T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "스페이스X, 고금리 빚 갚으려 첫 채권 발행…주가는 하락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606231487i",
-      "publishedAt": "2026-06-22T15:30:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'AI 인재 확보전' 밀리는 구글…럽너 \"6월말 변동성 후 강세\" [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606221480i",
-      "publishedAt": "2026-06-22T15:09:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이란 긴장 완화에도…뉴욕증시, 채권금리 상승에 혼조세",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606221475i",
-      "publishedAt": "2026-06-22T14:45:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 \"이란 원유, 8월 21일까지 판매 승인\" 발표",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606221465i",
-      "publishedAt": "2026-06-22T14:19:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "한국씨티은행, 목소리 기부 동화책 낭독 봉사",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606221469i",
-      "publishedAt": "2026-06-22T14:14:16.000Z"
     }
   ]
 }
