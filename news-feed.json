@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-07-02T06:32:24.176Z",
+  "updatedAt": "2026-07-02T12:03:47.956Z",
   "historyDays": 7,
-  "count": 497,
+  "count": 493,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "한미사이언스 임종훈, 제3자에 지분 넘긴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070229331",
+      "publishedAt": "2026-07-02T11:09:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "이지스운용 '1조 대어' 케이트윈타워 품는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070229161",
+      "publishedAt": "2026-07-02T11:07:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "현대모비스, 해외 범퍼사업부 5000억에 매각",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070229441",
+      "publishedAt": "2026-07-02T11:02:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“환율 1560원이 1차 저지선…빠져 나갈 외국인 자금 100조” [머니닥터 긴급 진단]",
+      "summary": "서정훈 하나은행 수석연구위원 긴급 인터뷰원화값이 가파르게 떨어지면서 달러당 원화 환율이 1550원을 넘어섰다. 6월 중순까지만해도 1500원 선에 인접했던 것을 감안하면 보름동안 ..",
+      "link": "https://www.mk.co.kr/news/economy/12089290",
+      "publishedAt": "2026-07-02T11:02:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"공차만 있는 게 아니네\"…'중화권 브랜드 격전지' 된 한국 시장 [트렌드+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607022111g",
+      "publishedAt": "2026-07-02T11:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독]현대모비스 해외범퍼사업부 5000억에 서연이화 등 3곳에 매각",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607022928i",
+      "publishedAt": "2026-07-02T10:27:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'충청권 국민보고회' 간 李대통령, 이재용·서정진과 \"파이팅\"(종합2보)",
+      "summary": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 2일 충남 아산시의 삼성디스플레이 아산 2캠퍼스에서 열린 &apos;충청권 첨단산업 발전 비전 국민보고...",
+      "link": "https://www.yna.co.kr/view/AKR20260702044752001",
+      "publishedAt": "2026-07-02T10:24:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독]현대모비스 해외범퍼사업부 5000억에 서연이화 등 3곳에 매각",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607022917i",
+      "publishedAt": "2026-07-02T10:24:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독] 현대모비스, 해외 범퍼사업부 매각",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607022919i",
+      "publishedAt": "2026-07-02T10:23:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "1조원대 더케이트윈타워 새 주인에 이지스운용",
+      "summary": "서울 중심업무지구 1조원대 오피스 거래로 관심을 모으고 있는 더케이트윈타워 매각전에서 이지스자산운용이 우선협상대상자로 선정됐다. 2일 투자은행(IB)업계에 따르면 더케이트윈타워 매..",
+      "link": "https://www.mk.co.kr/news/stock/12089264",
+      "publishedAt": "2026-07-02T10:17:33.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국민연금, 하반기부터 수탁자 책임활동 이행 점검 도입",
+      "summary": "(서울=연합뉴스) 김영신 기자 = 국민연금이 수탁자 책임 활동에 대한 이행 점검 체계를 도입한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260702163400530",
+      "publishedAt": "2026-07-02T10:07:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“고점일까 매일이 불안해요”…극도로 예민해진 반도체株 [뉴스&분석]",
+      "summary": "메타發 AI 과잉투자 논란에 코스피 7% 급락해 7648 마감 SK하닉 17년만에 최대폭 하락페이스북·인스타그램의 모회사인 미국 메타가 데이터센터 인프라를 활용해 클라우드 사업 진..",
+      "link": "https://www.mk.co.kr/news/stock/12089202",
+      "publishedAt": "2026-07-02T09:32:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "SK그룹, 협력사 지원에 1조4000억 투입",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070227851",
+      "publishedAt": "2026-07-02T09:30:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 한국표준협회 2026 한국서비스품질지수 인증 수여식",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070227811",
+      "publishedAt": "2026-07-02T09:29:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "레몬헬스케어, 코스닥 신규 상장…6일 거래 개시",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 한국거래소는 2일 레몬헬스케어의 코스닥시장 신규상장을 승인했다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260702159600008",
+      "publishedAt": "2026-07-02T09:29:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "대우건설, 사내 '기술 명인' 선임",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070227791",
+      "publishedAt": "2026-07-02T09:27:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "정부, 염전 노동착취 뿌리 뽑는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070227571",
+      "publishedAt": "2026-07-02T09:08:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "역대급 엔저에 해외관광객 몰리지만…일본인은 고비용 해외행 '주저'",
+      "summary": "(도쿄=연합뉴스) 조성미 특파원 = 엔화 가치가 약 40년 만에 최저로 떨어지면서 높아진 여행 비용 부담에 올해 여름 휴가철 해외여행에 나서는 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260702158700073",
+      "publishedAt": "2026-07-02T09:07:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 로봇들의 월드컵…현란한 드리블",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070227501",
+      "publishedAt": "2026-07-02T09:06:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "OECD “한국 부동산 세제, 거래세→보유세 전환해야”",
+      "summary": "GDP 대비 부동산세 3% OECD 평균 대비 두배 교육교부금 개편에 공감 “고등교육 투자 더 늘려야”한국의 부동산 세제를 거래세 중심에서 보유세 중심 체계로 단계적 전환해야 한다..",
+      "link": "https://www.mk.co.kr/news/economy/12089160",
+      "publishedAt": "2026-07-02T09:03:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "미허가 드론 뜨면 포획드론 출동…3대 무역항 ‘안티드론 시스템’ 가동",
+      "summary": "‘탐지→식별→추적→무력화’ 4단계 대응 재밍건으로 전파 차단 후 그물망 포획 부산·인천·울산항서 7월부터 운영미허가 드론이 항만에 접근하자 종합상황실에 경보가 발령됐다. ‘안티드론..",
+      "link": "https://www.mk.co.kr/news/economy/12089158",
+      "publishedAt": "2026-07-02T09:02:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 메타발 &apos;검은 목요일&apos;…반도체 수요위축 우려에 &apos;8천피&apos; 깨졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260702153700011",
+      "publishedAt": "2026-07-02T09:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“연준은 자신이 만든 가격 믿을 수 있나”…워시가 그린 ‘작은 연준’의 실체",
+      "summary": "케빈 워시 FOMC 분석 ②시장가격을 보겠다는 중앙은행장이 정작 시장이 가장 크게 반응한 가격에는 답하지 않았다. 이상한 장면처럼 보였지만, 지난 6월 케빈 워시 미국 연방준비제도..",
+      "link": "https://www.mk.co.kr/news/world/12089150",
+      "publishedAt": "2026-07-02T08:59:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "딥커머스, 74억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 딥커머스가 73억 7466만원 규모의 제3자배정증자를 실시한다고 2026년 7월 2일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 614만 5550주, ..",
+      "link": "https://www.mk.co.kr/news/stock/12089143",
+      "publishedAt": "2026-07-02T08:54:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "광진실업, 50억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 광진실업이 50억 3965원 규모의 제3자배정증자를 실시한다고 2026년 7월 2일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 124만 5331주, 증..",
+      "link": "https://www.mk.co.kr/news/stock/12089144",
+      "publishedAt": "2026-07-02T08:54:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "팸텍, 100억 원 규모 전환사채 발행",
+      "summary": "코스닥 상장사 팸텍이 제4회 100억 원 규모의 전환사채를 발행한다고 2026년 7월 2일 공시했다. 전환가액은 1524원이며, 전환 청구 기간은 2027년 7월 10일부터 203..",
+      "link": "https://www.mk.co.kr/news/stock/12089140",
+      "publishedAt": "2026-07-02T08:53:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "BYD·벤츠 등 6개사 … 車 14만6천여대 리콜",
+      "summary": "국토교통부는 BYD코리아, 메르세데스벤츠코리아, 스텔란티스코리아, 재규어랜드로버코리아, 현대자동차, 볼보자동차코리아가 제작·수입·판매한 38개 차종 14만6505대에서 제작 결함이..",
+      "link": "https://www.mk.co.kr/news/economy/12089120",
+      "publishedAt": "2026-07-02T08:49:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "상승속도 가파른 韓 국채금리 … 美·日 등 주요국보다 더 뛰어",
+      "summary": "올해 들어 주요 국가 가운데 한국의 국채 금리가 가장 가파르게 오른 것으로 나타났다. 물가 상승과 경기 개선에 대한 기대감이 맞물리면서 한국은행이 금리 인상에 나설 가능성이 부각되..",
+      "link": "https://www.mk.co.kr/news/economy/12089121",
+      "publishedAt": "2026-07-02T08:49:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "'테슬라用' 전기차 보조금 논란… 진땀나는 정부",
+      "summary": "테슬라가 보조금 적격 판정을 받자마자 가격 인상을 단행한 것을 놓고 논란이 일고 있다. 특히 기후에너지환경부가 정치권 압력과 소비자 선택권 논란에 휩싸여 평가 문턱을 낮춰주자 테슬..",
+      "link": "https://www.mk.co.kr/news/economy/12089118",
+      "publishedAt": "2026-07-02T08:49:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "큐에이드 \"위니아 주식 849억원어치 취득…지분율 19.7%\"",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 큐에이드[377460]는 기타 가정용 전기기기 제조업 업체 위니아의 주식 1억6천986만4천167주를 약 849...",
+      "link": "https://www.yna.co.kr/view/AKR20260702157300008",
+      "publishedAt": "2026-07-02T08:46:45.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3706,278 +3946,6 @@
       "summary": "글로벌 투자은행(IB) JP모건이 한국 증시에 대한 낙관론을 한층 강화했다. 강세장 시나리오에서 코스피 전망치를 기존 1만에서 1만5000으로 대폭 상향하며 “조정이 올 때마다 (..",
       "link": "https://www.mk.co.kr/news/stock/12083466",
       "publishedAt": "2026-06-25T12:29:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘총수 일가 골프장만 이용 원칙’ 미래에셋 계열사들 무죄 확정",
-      "summary": "미래에셋그룹 계열사들이 총수 일가 회사에 일감을 몰아줬다는 의혹을 둘러싼 형사 재판과 행정 소송이 대법원에서 서로 다른 결론으로 마무리됐다. 형사 사건에서는 무죄가 확정됐지만, 공..",
-      "link": "https://www.mk.co.kr/news/stock/12083440",
-      "publishedAt": "2026-06-25T11:54:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'큰손' 국민연금 곁으로…한화운용, 전주에 내달 사무소 개소",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 한화자산운용이 다음 달 전주에 사무소를 개소할 예정이다.",
-      "link": "https://www.yna.co.kr/view/AKR20260625165600008",
-      "publishedAt": "2026-06-25T11:21:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "메리츠-MBK 홈플러스 공방에 시간만 간다…\"이러다 파산할라\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606257850g",
-      "publishedAt": "2026-06-25T11:07:56.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "JP모건 \"코스피, 강세장서 15,000 간다…조정시 사야\"",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 글로벌 투자은행 JP모건이 강세장에서 코스피 전망치를 기존 10,000에서 15,000으로 상향 조정했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260625163800008",
-      "publishedAt": "2026-06-25T11:00:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"조정 오면 더 담아라\"…코스피 '1만5000' 파격 전망 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062580656",
-      "publishedAt": "2026-06-25T11:00:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "자영업자 빚탕감 심사 깐깐해진다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062587371",
-      "publishedAt": "2026-06-25T10:35:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "SKT, SK하이닉스 미국 AI 투자법인에 7천억원대 출자",
-      "summary": "(서울=연합뉴스) 박형빈 기자 = SK텔레콤[017670]이 SK하이닉스[000660]의 미국 투자 법인에 7천억원대의 대규모 투자를 결정했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260625163000017",
-      "publishedAt": "2026-06-25T10:28:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국민성장펀드, 풍력·케이블·반도체에 3천700억원 지원",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 25일 국민성장펀드 기금운용심의위원회를 열고 영양군 육상풍력사업 인프라 투융자 및 케이블·반도체 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260625157800002",
-      "publishedAt": "2026-06-25T10:18:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[인사] 손해보험협회",
-      "summary": "[승진]",
-      "link": "https://www.yna.co.kr/view/AKR20260625158300002",
-      "publishedAt": "2026-06-25T10:08:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "직장갑질119 \"회생절차 JTBC, 프리랜서·파견 채용 중단해야\"",
-      "summary": "(서울=연합뉴스) 양수연 기자 = 시민단체 직장갑질119는 종합편성채널 JTBC가 법원에 기업회생절차를 신청했음에도 자회사들이 여전히 프리랜서·...",
-      "link": "https://www.yna.co.kr/view/AKR20260625161200004",
-      "publishedAt": "2026-06-25T10:08:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[인기검색TOP5] 다스코, SK, 삼성물산, 광주신세계, 대한항공",
-      "summary": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 다스코 +29.91%, SK +17.70%, 삼성물산 +..",
-      "link": "https://www.mk.co.kr/news/stock/12083353",
-      "publishedAt": "2026-06-25T10:06:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"BTS 뷔도 빠졌다\"…10만원짜리 '국민 애착인형' 뭐길래",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606257982g",
-      "publishedAt": "2026-06-25T10:05:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "보스턴다이내믹스, 1억弗 투자…아틀라스 양산 준비 나선다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585341",
-      "publishedAt": "2026-06-25T09:56:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "한화파워, 가스압축기 북미 첫 진출",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585331",
-      "publishedAt": "2026-06-25T09:55:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "최윤범, 호주서 광물 공급망 강화 논의",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585321",
-      "publishedAt": "2026-06-25T09:54:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“반도체發 호황 내년 말까지 간다”… 코스피 1만500P 부른 글로벌 IB 명가",
-      "summary": "모건스탠리 석준 한국전략총괄·캐슬린 오 이코노미스트지난 5월 한국 수출은 지난 40년간 가장 빠른 성장세를 기록하며 새 역사를 썼다. 코스피지수 역시 지난 6월 18일 사상 처음으..",
-      "link": "https://www.mk.co.kr/news/business/12083337",
-      "publishedAt": "2026-06-25T09:42:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“재생에너지 인프라 구축” 국민성장펀드, 풍력발전 등 3700억 투자",
-      "summary": "영양 육상풍력 발전사업에 2700억 규모 인프라투융자금융당국이 국민성장펀드를 통해 재생에너지 인프라 구축 사업에 3700억원을 지원한다. 금융위원회는 25일 열린 국민성장펀드 기금..",
-      "link": "https://www.mk.co.kr/news/economy/12083329",
-      "publishedAt": "2026-06-25T09:28:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'고점론 불안' 지운 실적 기대감…삼전닉스, 다시 랠리",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585991",
-      "publishedAt": "2026-06-25T09:27:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "세계 경제 뒤흔드는 '칩플레이션' [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585621",
-      "publishedAt": "2026-06-25T09:16:36.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“연봉 6억 안되면 애나 키우세요”…일할수록 손해라는 美워킹맘 [홍키자의 美쿡]",
-      "summary": "33세 미국인 여성 사라 이브라힘은 시카고 외곽의 한 사립 유아원에서 4년간 일했습니다. 아이를 가르치는 일을 했지만, 정작 자기 아이는 맡길 곳을 찾지 못했습니다. 첫째 아이 데..",
-      "link": "https://www.mk.co.kr/news/business/12083324",
-      "publishedAt": "2026-06-25T09:04:15.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "키신저 재소환한 미국…이란과 합의한 건 ‘평화’가 아니다 [전쟁과 투자]",
-      "summary": "美-이란 종전 진단 ④ 키신저 모델의 한계JD 밴스 미국 부통령은 6월 22일 스위스 루체른의 뷔르겐슈토크 리조트에서 기자들 앞에 섰다. 미국과 이란이 무박 2일, 18시간 협상을..",
-      "link": "https://www.mk.co.kr/news/stock/12083323",
-      "publishedAt": "2026-06-25T09:03:54.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "韓투자, 美로 쏠렸다… 대미금융자산 1조弗 돌파",
-      "summary": "한국이 미국에서 보유하고 있는 금융자산 규모가 사상 처음으로 1조달러를 넘어섰다. 서학개미의 미국 주식 매수세가 이어진 데다 증시 상승으로 보유 주식의 평가액까지 불어나면서 대미 ..",
-      "link": "https://www.mk.co.kr/news/economy/12083318",
-      "publishedAt": "2026-06-25T09:02:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[뉴스&분석] 아시아의 '7마리 龍' AI 품고…증시 평정",
-      "summary": "인공지능(AI) 대전환 시대를 맞아 글로벌 증시 지형도가 급변하고 있다. AI·반도체 밸류체인에서 중요한 입지를 선점한 한국·대만·일본 증시의 상승률은 올해 들어 나란히 글로벌 1..",
-      "link": "https://www.mk.co.kr/news/stock/12083316",
-      "publishedAt": "2026-06-25T09:02:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'반도체 ETF'로 시작한 20년…미래에셋, 세계 11위 운용사로",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606258631i",
-      "publishedAt": "2026-06-25T09:02:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "데임 수전 랭글리 시장 \"영국 IPO 시장 다시 활기…한국 기업에도 기회\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585911",
-      "publishedAt": "2026-06-25T08:58:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "잠수함 연료전지·로봇관절… 車부품사 \"신사업만이 살길\"",
-      "summary": "중국차 공세와 국내 완성차 업체 단가 인하 압박에 위기를 맞은 자동차 부품업계가 신사업 개척에 속도를 낸다. 전통적 내연기관차 위주 부품 생산만으로는 생존을 장담할 수 없게 되자 ..",
-      "link": "https://www.mk.co.kr/news/economy/12083300",
-      "publishedAt": "2026-06-25T08:56:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "삼성 반도체·SK AI·LG OLED…대기업 50곳 '청년 인재' 키운다",
-      "summary": "일자리를 얻지 못한 15~34세 청년을 지원하기 위해 50개 기업이 다음달 일제히 '취업 스쿨' 문을 연다. 25일 재계에 따르면 삼성, SK, 현대자동차, LG, 한화 등 주요 ..",
-      "link": "https://www.mk.co.kr/news/economy/12083294",
-      "publishedAt": "2026-06-25T08:56:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "카카오뱅크, 캐피털로 영토 확장",
-      "summary": "카카오뱅크가 여신전문금융사인 마스턴캐피탈을 인수하며 캐피털업에 진출한다. 인터넷전문은행이 은행업을 넘어 자동차금융과 리스, 기업금융 등으로 사업 영역을 넓히며 종합 금융 플랫폼 구..",
-      "link": "https://www.mk.co.kr/news/economy/12083239",
-      "publishedAt": "2026-06-25T08:43:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "ETF 자금 쏠림에…우선주 '역대급 저평가'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062585451",
-      "publishedAt": "2026-06-25T08:43:33.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "\"수출대기업 원화 환전 독려\" … 정부, 외환거래 매일 점검",
-      "summary": "달러당 원화값이 글로벌 금융위기 이후 가장 낮은 수준에서 횡보하는 가운데 정부가 환율 대응책의 일환으로 주요 수출 대기업의 외환거래를 일 단위로 점검하고 있다. 수출 대기업이 달러..",
-      "link": "https://www.mk.co.kr/news/economy/12083230",
-      "publishedAt": "2026-06-25T08:43:22.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“1500억 달러 마스가 시동”…수은 등 정책금융·조선사 ‘팀코리아’ 띄웠다",
-      "summary": "한미 조선협력투자 업무협약한국수출입은행 등 정책금융기관 5곳과 대형 조선사가 1500억 달러 규모의 한미 조선업 협력 프로젝트(MASGA·마스가) 이행을 위해 손을 잡았다. 민관이..",
-      "link": "https://www.mk.co.kr/news/economy/12083014",
-      "publishedAt": "2026-06-25T06:38:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[속보] 코스피, 5.4% 급등 8,930 마감",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20260625124500008",
-      "publishedAt": "2026-06-25T06:34:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스콤, 삼전닉스 얼마나 담았나…랭킹으로 한눈에 'ETF 체크'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062571451",
-      "publishedAt": "2026-06-25T06:33:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼전닉스 몰빵에서 전력·엔터·배터리로 분산투자 전환[주식 초고수는 지금]",
-      "summary": "[수익률 상위 1% 투자자 오후 2시30분 거래동향] 오후들어 MLCC 글로벌 절대강자 삼성전기 주목 최근 주가 크게 하락한 하이브와 포스코홀딩스도 줍줍주식 투자 수익률 상위 1%..",
-      "link": "https://www.mk.co.kr/news/stock/12083004",
-      "publishedAt": "2026-06-25T06:32:46.000Z"
     }
   ]
 }
