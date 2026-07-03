@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-07-02T22:00:22.795Z",
+  "updatedAt": "2026-07-03T06:23:09.707Z",
   "historyDays": 7,
-  "count": 485,
+  "count": 498,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "롯데호텔앤리조트, 프로골퍼 최나연·김하늘 앰배서더로 위촉",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 롯데호텔앤리조트는 프로골퍼 최나연과 김하늘을 공식 앰배서더로 위촉했다고 3일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260703098400030",
+      "publishedAt": "2026-07-03T06:19:25.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코웨이, 8월 말까지 '아이스 페스타'…정수기 대여료 반값 제공",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 코웨이[021240]는 다음 달 27일까지 얼음정수기 대여료를 할인하고 각종 혜택을 제공하는 &apos;아이스 페스타&apos;...",
+      "link": "https://www.yna.co.kr/view/AKR20260703086200030",
+      "publishedAt": "2026-07-03T06:18:28.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한화, 우주·AI에 55조원 투자…영남권 중심 우주항공 생태계",
+      "summary": "(서울=연합뉴스) 김윤구 기자 = 한화가 2040년까지 우주항공과 인공지능(AI) 산업에 총 55조원을 투자해 독자 발사체와 위성망, 국방 AI...",
+      "link": "https://www.yna.co.kr/view/AKR20260703104151003",
+      "publishedAt": "2026-07-03T06:16:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SK하이닉스가 가장 싸다…매수세 집중 [주식 초고수는 지금]",
+      "summary": "3일 오전에 이어 오후에도 SK하이닉스 매수 삼성전자는 오후에도 순매도 1위지만 상승세주식 투자 수익률 상위 1% 초고수들은 3일 오후 2시 30분 기준 SK하이닉스, DB하이텍,..",
+      "link": "https://www.mk.co.kr/news/stock/12089875",
+      "publishedAt": "2026-07-03T06:16:37.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[바이오스냅] 한미약품, 키움증권과 '이노베이션 데이'",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 한미약품[128940]은 키움증권[039490]과 함께 바이오벤처와 투자자를 연결하는 행사를 연다.",
+      "link": "https://www.yna.co.kr/view/AKR20260703100000017",
+      "publishedAt": "2026-07-03T06:16:22.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[속보] 현대차그룹, 10년간 영남권에 42조원 투자",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20260703105900003",
+      "publishedAt": "2026-07-03T06:15:56.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부동산 PF익스포저, 전분기比 4.5조↓…규제완화 일부 재연장",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 정부는 3일 부동산 프로젝트파이낸싱(PF) 관련 한시적 금융규제 완화 조치 일부를 재연장하고 정상 사업장에는 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260703100300002",
+      "publishedAt": "2026-07-03T06:12:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 삼성SDI, 울산에 16조 투자…차세대 배터리 양산",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070344587",
+      "publishedAt": "2026-07-03T06:03:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "오픈USD, 스테이블코인 판 흔드나...삼성·신한 참여했는데 한국은?[엠블록레터]",
+      "summary": "안녕하세요 엠블록레터의 AI 인턴입니다. 글로벌 결제·금융·빅테크 기업 140여 곳이 연합한 컨소시엄 ‘오픈스탠다드’가 지난달 30일(현지시간) 새로운 달러 연동 스테이블코인 ‘오..",
+      "link": "https://www.mk.co.kr/news/stock/12089811",
+      "publishedAt": "2026-07-03T05:21:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘국내 최초’ 외국환중개 플랫폼 에프엑스원, 6일부터 서비스",
+      "summary": "재정경제부 본인가 획득외국환중개 플랫폼 에프엑스원이 오는 6일부터 본격적인 서비스에 들어간다. 에프엑스원외국환중개는 재정경제부로부터 본인가를 획득했다고 3일 밝혔다. 에프엑스원은 ..",
+      "link": "https://www.mk.co.kr/news/economy/12089807",
+      "publishedAt": "2026-07-03T05:18:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "월가 \"무조건 매수해라\"…'중국판 엔비디아' 떴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607020712i",
+      "publishedAt": "2026-07-03T05:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "나의 노후자금 어디에서 투자할까? 계좌별 최대 절세 조합을 찾아라",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607021923i",
+      "publishedAt": "2026-07-03T04:57:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 급등장에 코스피 매수 사이드카 발동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070342436",
+      "publishedAt": "2026-07-03T04:54:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 코스피, 매수 사이드카 발동…5%대 급등 8000선 회복",
+      "summary": "7700선 출발 뒤 상승 폭 늘려최근 큰 변동성을 보이는 코스피가 3일 상승 폭을 늘리며 8000선을 회복하며 상승 전환했다. 이날 코스피 지수는 오후 급반등세를 보이며 유가증권시..",
+      "link": "https://www.mk.co.kr/news/stock/12089785",
+      "publishedAt": "2026-07-03T04:52:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SK하이닉스는 사고 삼성전자는 판다 [주식 초고수는 지금]",
+      "summary": "3일 오전, “죽어도 SK하이닉스” 매수 삼성전자는 오히려 순매도 1위에 올라주식 투자 수익률 상위 1% 초고수들은 3일 오전 9시 30분 기준 SK하이닉스, 삼성전기, SK스퀘어..",
+      "link": "https://www.mk.co.kr/news/stock/12089777",
+      "publishedAt": "2026-07-03T04:43:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스피 장중 8000선 회복…4%대 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070341926",
+      "publishedAt": "2026-07-03T04:40:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "김상호 뉴욕총영사 “민원관리관 신설”",
+      "summary": "뉴욕총영사관, 재외동포 단체 간담회 민원업무 개선·재외동포 안전망 구축 논의김상호 뉴욕총영사는 동포사회의 불만이 집중됐던 민원업무 개선을 위해 영사관내 민원관리관을 신설하고 중장기..",
+      "link": "https://www.mk.co.kr/news/economy/12089774",
+      "publishedAt": "2026-07-03T04:39:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "씨티 “환율 석달 내 1500원선 회복” 전망한 근거가…“반도체 수출이 버팀목”",
+      "summary": "외국인 투자자의 국내 주식 순매도세가 이어지고 있지만, 달러당 원화값은 향후 3개월 안에 1500원 수준까지 회복될 것이라는 전망이 나왔다. 외환시장 안정화 조치와 반도체 수출 호..",
+      "link": "https://www.mk.co.kr/news/economy/12089767",
+      "publishedAt": "2026-07-03T04:28:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "목포·평택항, 반도체 '전력 보급기지'로 변신한다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607033997i",
+      "publishedAt": "2026-07-03T04:19:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "EX30 통했다…볼보코리아, 프리미엄 콤팩트 EV 판매 1위",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034115g",
+      "publishedAt": "2026-07-03T04:16:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"현대차보다 싸게\"…테슬라가 내놓은 '차박 필수템' [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607023052i",
+      "publishedAt": "2026-07-03T04:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "캐피털그룹, KT&G 지분 또 늘렸다…보유율 8.22%",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034093i",
+      "publishedAt": "2026-07-03T03:13:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "아이패드보다 제로모공패드…K뷰티, 아마존서 또 잭팟 [장서우의 하입:hype]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607033687i",
+      "publishedAt": "2026-07-03T03:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "수출입은행, 환율 피해 기업에 3%대 초저리 대출 ‘긴급 지원’",
+      "summary": "고환율 극복 상생대출 운영 올해 운용한도 3000억원으로 “수입대금 결제부담 낮춘다”한국수출입은행이 환율 불안에 따른 경영난을 겪고 있는 중소기업에게 3%대 초저금리 대출을 긴급 ..",
+      "link": "https://www.mk.co.kr/news/economy/12089707",
+      "publishedAt": "2026-07-03T02:03:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“비올 때 우산드립니다”…시중은행, 소비 침체 속 ‘골목 상생’ 러시",
+      "summary": "소상공인에 자금 지원 운영 노하우 컨설팅도소비 위축으로 경영난을 겪는 소상공인이 많아지면서 국내 주요 은행들이 자영업자 지원에 나선다. KB국민은행은 오는 6일부터 8일까지 전북 ..",
+      "link": "https://www.mk.co.kr/news/economy/12089684",
+      "publishedAt": "2026-07-03T01:45:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "후시파트너스, 신용보증기금 협업 ESG 컨설팅 지원",
+      "summary": "부산 중소・중견기업 6개사 대상 탄소·ESG 성과 ‘자산’으로 전환 카본AI 기반 원스톱 지원탄소배출권 전문 기후핀테크 기업 후시파트너스(공동대표 이행열·조성훈)가 신용보증기금이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12089671",
+      "publishedAt": "2026-07-03T01:33:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "7700 회복했다가 7400 깨졌다가…멀미 나는 '롤러코스피'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070338306",
+      "publishedAt": "2026-07-03T01:22:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "증시 오르든 내리든, 돈이 벌린다…증권업계 어닝서프라이즈 예고",
+      "summary": "거래대금 폭증·코스닥 활성화 수혜 NH·삼성증권 6~7% 배당매력 부각 2분기 순익 전망 20% 상회 전망도국내 대형 증권주들이 2분기 거래대금 급증과 배당 매력 부각에 힘입어 실..",
+      "link": "https://www.mk.co.kr/news/stock/12089656",
+      "publishedAt": "2026-07-03T01:19:42.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "MBK “RCPS 조건변경은 합리적…성실히 소명할 것”",
+      "summary": "금감원, 전날 중징계 결정[본 기사는 07월 03일(10:00) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 금융감독원이 홈플러스 사태와 관련해 MBK파트..",
+      "link": "https://www.mk.co.kr/news/stock/12089647",
+      "publishedAt": "2026-07-03T01:05:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[마켓라이브]코스피 8,000선 재돌파 시도… 기관 2.7조 순매수, 반도체·금융 강세 주도[오후 시황]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607033617i",
+      "publishedAt": "2026-07-03T00:37:58.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3746,142 +3986,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202606260207i",
       "publishedAt": "2026-06-26T06:27:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "주도주 흔들리자 투매…'검은 금요일' 코스피 8% 급락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260246i",
-      "publishedAt": "2026-06-26T06:16:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "ABL생명, 경영진 이어 관리자도 AI 교육…“조직 전반 AX 확산”",
-      "summary": "우리금융그룹 계열 ABL생명은 팀장 및 파트장 등 관리자 43명을 대상으로 ‘AI 리더십 프로그램’을 실시했다고 26일 밝혔다. 앞서 지난달 전체 임원을 대상으로 ‘인공지능 전환(..",
-      "link": "https://www.mk.co.kr/news/economy/12084037",
-      "publishedAt": "2026-06-26T06:12:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "명동·홍대 안 거치고 부산으로…외국인들 탈서울 가속",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260220i",
-      "publishedAt": "2026-06-26T05:59:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"삼성전자 'N% 성과급'은 불법\"…청와대까지 몰려간 개미들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269921g",
-      "publishedAt": "2026-06-26T05:34:36.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“이자장사 한계 왔다”…인뱅, 자동차금융부터 코인까지 눈독",
-      "summary": "캐피털·펀드·디지털자산 확대…종합플랫폼 진화 대출 규제·사업모델 한계…비이자 수익 확보 치열인터넷전문은행(인뱅)들이 예대마진(예금과 대출 금리 차) 중심의 수익 구조에서 벗어나 ..",
-      "link": "https://www.mk.co.kr/news/economy/12084008",
-      "publishedAt": "2026-06-26T05:33:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "CXMT 상장, HBM 시장에 드리우는 변곡점",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260069i",
-      "publishedAt": "2026-06-26T05:23:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'中 저가공세' 속 신형 아반떼 공개…무뇨스 사장 \"가격이 전부 아냐\" [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269905g",
-      "publishedAt": "2026-06-26T05:00:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"맛 없으면 안 먹을래요\" 돌변…휴가철 앞두고 식품업계 '승부수' [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269980i",
-      "publishedAt": "2026-06-26T05:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "고유가 직격탄…출범 1년 만에 임원 급여까지 반납한 신생 항공사",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269951g",
-      "publishedAt": "2026-06-26T04:54:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "레몬, 76억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 레몬이 75억 7250만원 규모의 제3자배정증자를 실시한다고 2026년 6월 25일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 250만 주, 증자 전 ..",
-      "link": "https://www.mk.co.kr/news/stock/12083936",
-      "publishedAt": "2026-06-26T04:28:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "리가켐바이오, 3300억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 리가켐바이오가 3299억 9973만 900원 규모의 제3자배정증자를 실시한다고 2026년 6월 26일 공시했다. 이번 유상증자의 증자 전 발행 주식 수는 보통주 37..",
-      "link": "https://www.mk.co.kr/news/stock/12083934",
-      "publishedAt": "2026-06-26T04:26:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "흑초엔 베르가못, 육포엔 키캡…'이색 굿즈' 내놓은 샘표",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269969i",
-      "publishedAt": "2026-06-26T04:04:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 코스피, 8%대 급락에 서킷브레이커 발동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062699326",
-      "publishedAt": "2026-06-26T03:14:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[속보] 코스피, 8%대 급락에 서킷브레이커 발동",
-      "summary": "코스피가 장중 8% 넘게 급락하면서 유가증권시장 거래가 일시 중단되는 ‘서킷브레이커’가 발동됐다. 장 초반 매도 사이드카에 이어 서킷브레이커까지 잇달아 작동하면서 투자심리가 급격히..",
-      "link": "https://www.mk.co.kr/news/stock/12083910",
-      "publishedAt": "2026-06-26T03:14:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "새 경영진 체제 '카카오게임즈'…3000억 실탄 들고 재도약 할까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269818i",
-      "publishedAt": "2026-06-26T02:38:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘도농상생 영양 지원’ 첫발…새마을금고 재단, 농가·아동 동시 지원",
-      "summary": "‘어글리푸드’ 매입해 농가 소득 보전 구매한 농산물은 결식아동 등에 지원MG새마을금고 지역희망나눔재단이 ‘MG 도농상생 영양 지원사업’을 추진한다고 25일 밝혔다. 농촌 지역의 활..",
-      "link": "https://www.mk.co.kr/news/economy/12083759",
-      "publishedAt": "2026-06-26T01:03:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "OK저축은행, 예금금리 연 4.5%로 인상",
-      "summary": "OK저축은행이 정기예금 금리를 최고 연 4.5%까지 끌어올렸다. 증시 불장에 따른 ‘머니무브’에 대응해 선제적으로 수신 기반을 확보하려는 움직임으로 풀이된다. 26일 OK저축은행은..",
-      "link": "https://www.mk.co.kr/news/economy/12083757",
-      "publishedAt": "2026-06-26T01:03:20.000Z"
     }
   ]
 }
