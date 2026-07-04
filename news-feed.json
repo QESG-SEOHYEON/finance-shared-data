@@ -1,8 +1,168 @@
 {
-  "updatedAt": "2026-07-03T21:58:29.716Z",
+  "updatedAt": "2026-07-04T06:11:52.909Z",
   "historyDays": 7,
   "count": 485,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "세계 식량가격, 2개월 연속 하락세…유지류·육류는 상승",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.3으로 전달(130.8)...",
+      "link": "https://www.yna.co.kr/view/AKR20260704028200030",
+      "publishedAt": "2026-07-04T05:59:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“상반기엔 하이닉스로 통했다면, 하반기는 이것”…ETF ‘창과 방패’ 이렇게 짜라",
+      "summary": "국내 ETF 순자산 513조...72%↑ 상반기 ‘극단 쏠림’ 소화 국면 HBM4 세대교체 큰 파장 예고 장비·美 AI 전력 건설주 주목 커버드콜·수익형 액티브 결합 하방 방어하는..",
+      "link": "https://www.mk.co.kr/news/stock/12090284",
+      "publishedAt": "2026-07-04T04:07:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "시진핑 덕에 초고속 상장…\"中에 다 뺏길 판\" 한국 '초비상' [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070346646",
+      "publishedAt": "2026-07-04T03:00:10.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "고유가 지원금 최종 신청률 98%…6조1천123억원 지급",
+      "summary": "(서울=연합뉴스) 홍준석 기자 = 고유가 피해지원금 최종 신청률이 98%로 집계됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260704019300530",
+      "publishedAt": "2026-07-04T03:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "용인시, 내달부터 '체납관리단' 운영…36명 채용",
+      "summary": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 각종 지방세 및 세외수입 체납액을 징수할 체납관리단을 구성, 다음달 3일부터 11월 30일까지 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260703097200061",
+      "publishedAt": "2026-07-04T02:01:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "인텔도 2조3000억 쏟아부었다…반도체 판 뒤흔드는 나라 [테크로그]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034268g",
+      "publishedAt": "2026-07-04T02:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“정착지원금 막혀도 줄 건 준다”…보험업계 우회 지급 꼼수 논란",
+      "summary": "7월부터 법인보험대리점(GA) 소속 설계사에게도 ‘1200% 룰’이 적용됐다. 1200% 룰은 GA가 설계사에게 지급하는 1차년도 모집수수료를 월납보험료의 12배 이내로 제한하는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12090264",
+      "publishedAt": "2026-07-04T01:54:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[마이더스] 상반기 중간결산과 하반기 절세 전략",
+      "summary": "상반기가 마무리되고 반기결산을 앞둔 시점, 법인 대표들은 중요한 선택을 마주하게 된다. 같은 상황이라도 대응 방식에 따라 연간 세 부담은 크게 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260703028600980",
+      "publishedAt": "2026-07-04T01:30:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260704020000011",
+      "publishedAt": "2026-07-04T01:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금리 상승·시장 변동성 확대에…ELB·DLB 발행 '역대급'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607045362i",
+      "publishedAt": "2026-07-04T00:54:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"해외주식 사느라 달러 수요 커졌다\"…환율 1500원대 고착 우려",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070453437",
+      "publishedAt": "2026-07-04T00:25:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[현장in] 부산역 관문 통행로 부실 설계 논란에 법정 다툼",
+      "summary": "(부산=연합뉴스) 박창수 기자 = 부산역과 북항 재개발지역을 잇는 관문 통행로 역할을 할 것으로 기대되는 복합환승센터 공사가 부실 설계 논란에 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260703060500051",
+      "publishedAt": "2026-07-04T00:20:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"치킨 몇 마리 팔릴지 AI는 알고 있다\"…유통사 대대적 변신 [류은혁의 유통기한]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034708i",
+      "publishedAt": "2026-07-04T00:00:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "전통주 가고 성장주…부동산 둔화 속 자본시장 선수 교체",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607019750i",
+      "publishedAt": "2026-07-04T00:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"팔았는데 다시 살까요?\"…급반등한 삼전닉스 다음주 전망은",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070453187",
+      "publishedAt": "2026-07-03T23:57:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"휘발유 2000원 밑으로\"…한 주 새 56원 내렸다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070453137",
+      "publishedAt": "2026-07-03T23:44:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"개미 실탄 줄었나\"…예탁금 2개월 반 만에 120조 밑으로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070453037",
+      "publishedAt": "2026-07-03T23:33:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'삼전닉스' 2분기 실적 변수로 떠오른 '성과급'…이익 증가세 꺾일까",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034209i",
+      "publishedAt": "2026-07-03T23:00:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "득이 되는 보험, 독이 되는 보험 [보험 리얼 가이드]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034278i",
+      "publishedAt": "2026-07-03T23:00:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“매년 몰라서 버린 돈이 무려 1000억”…카드포인트로 현금 버는 법",
+      "summary": "5년 지나면 자동 소멸…1포인트부터 계좌 입금 통합조회 한 번이면 모든 카드사 포인트 확인 세금·연회비 납부부터 마일리지 전환까지몰라서 혹은 귀찮아서 방치한 신용카드 포인트가 매년..",
+      "link": "https://www.mk.co.kr/news/economy/12090222",
+      "publishedAt": "2026-07-03T22:32:27.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -10,6 +170,14 @@
       "summary": "중소·중견기업 긴급지원 초저금리 상생대출 신설 법인세 등 납부기한 연장 수은, 3%대 저금리 대출원·달러 환율이 1500원대에서 내려올 기미를 보이지 않자, 정부가 고환율로 피해를..",
       "link": "https://www.mk.co.kr/news/economy/12090206",
       "publishedAt": "2026-07-03T21:01:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "국산 삼겹살 3분의 1 가격…마트서 '이것' 불티나게 팔렸다 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607023034i",
+      "publishedAt": "2026-07-03T21:00:15.000Z"
     },
     {
       "source": "매일경제",
@@ -3714,174 +3882,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026062601096",
       "publishedAt": "2026-06-27T08:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부고] 송오순(한국수출입은행 기업구조조정단장)씨 모친상",
-      "summary": "▲ 김정순(향년 95세)씨 별세, 송관순·송연순·송철순·송재순·송오순(한국수출입은행 기업구조조정단장)씨 모친상, 장영랑·김기숙·나효진·이현숙·최...",
-      "link": "https://www.yna.co.kr/view/AKR20260627031400002",
-      "publishedAt": "2026-06-27T05:44:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "햄버거·치킨에 밀리더니 급기야…'국민 간식'의 대반격 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606257569g",
-      "publishedAt": "2026-06-27T05:42:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“삼전닉스 주가 따라가는 마이크론”…코스피 핵심 시장 부상?",
-      "summary": "외신, 한국 증시 AI 핵심 시장 평가 “한국발 급락장, ETF 시장 우려↑” 일본, 코스피 보고 매매 전략 세워최근 코스피가 9000선에 도달한 뒤 급락·급등을 보이며 변동성이 ..",
-      "link": "https://www.mk.co.kr/news/stock/12084660",
-      "publishedAt": "2026-06-27T05:09:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
-      "summary": "(전주=연합뉴스) 최영수 기자 = 이원택 전북특별자치도지사 당선인이 글로벌 인공지능(AI) 반도체 기업인 엔비디아의 젠슨 황 최고경영자에게 새만...",
-      "link": "https://www.yna.co.kr/view/AKR20260627030500055",
-      "publishedAt": "2026-06-27T04:44:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"지금이 제일 싸다\"…애플 한마디에 쿠팡부터 난리 [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606271306i",
-      "publishedAt": "2026-06-27T03:59:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "스페이스X, 내달 7일 나스닥100 편입…\"6.6조원 수급 유입될 것\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062713397",
-      "publishedAt": "2026-06-27T03:38:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“코스피 롤러코스터 장세”…다음주 9500선까지 오른다는데",
-      "summary": "코스피, 9000선 도달 후 변동성↑ 호실적 전망에 예상밴드 9500선 증권가 “주도주 중심 대응 유지”최근 코스피가 연일 급등·급락을 오가며 큰 변동성을 보이는 가운데, 다음주 ..",
-      "link": "https://www.mk.co.kr/news/stock/12084627",
-      "publishedAt": "2026-06-27T02:00:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260627024400011",
-      "publishedAt": "2026-06-27T01:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"AI 다음은 에너지\"…강남 부자들이 원유·구리에 꽂힌 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606233066i",
-      "publishedAt": "2026-06-27T01:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'자산 26억' 58세 명퇴자, 국민연금 7년 남았는데…'날벼락' [돈 버는 법 아끼는 법]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260031i",
-      "publishedAt": "2026-06-27T01:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한국증시는 노름판?…300만닉스 코앞서 개미들 '패닉' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062602716",
-      "publishedAt": "2026-06-27T00:21:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "호르무즈 내 한국 선박 2척 추가로 빠져나와…남은 배 3척",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 중동 전쟁으로 호르무즈 해협에 발이 묶였던 한국 선박들 가운데 2척이 추가로 해협을 빠져나왔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260627021000051",
-      "publishedAt": "2026-06-27T00:12:26.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "김해시, 8월부터 100만원 미만 소액 체납관리단 150명 규모 운영",
-      "summary": "(김해=연합뉴스) 이준영 기자 = 경남 김해시는 오는 8월부터 100만원 미만 소액 체납을 징수하기 위한 체납관리단을 운영한다고 27일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260626127600052",
-      "publishedAt": "2026-06-27T00:05:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"지옥의 레이스\" 도전장…전설적 드라이버가 '신생팀' 제네시스로 옮긴 이유 [인터뷰]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260337g",
-      "publishedAt": "2026-06-26T23:55:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[다음주 경제] 중동전쟁 생산·소비·투자·물가 남은 영향은…국세수입도 주목",
-      "summary": "(세종=연합뉴스) 이대희 배영경 한지훈 기자 = 다음주(6월 29일∼7월 3일)에는 최근 한국의 실물 경제와 물가 흐름을 가늠할 수 있는 지표가...",
-      "link": "https://www.yna.co.kr/view/AKR20260627014200002",
-      "publishedAt": "2026-06-26T23:53:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"비트코인 소리없이 사라질 것\"…억만장자 투자자의 경고",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062711987",
-      "publishedAt": "2026-06-26T23:21:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "스페이스X 공모가 아래로 간다(83%) Fed 금리 안 올려(54%) [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606271163i",
-      "publishedAt": "2026-06-26T23:10:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'메이드 인 USA' 인텔의 화려한 부활…애플·구글 업고 주가 237% 급등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269994i",
-      "publishedAt": "2026-06-26T23:00:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스 못 샀다면…올해 소외된 대형주 10개 뽑아보니",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260168i",
-      "publishedAt": "2026-06-26T23:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"몇 잔 팔아야 하나\"…BTS 광고에 커피업계 술렁이는 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606260020i",
-      "publishedAt": "2026-06-26T23:00:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“삼성전자 덕에 몸값 35조 뛰었다”…삼성물산 목표가 70만원 나온 이유 [이주의 Bull기둥]",
-      "summary": "이달 들어 주가 25% 크게 뛰어 지분가치·배당·원전사업 기대 증권가 ‘강력매수’…목표가 상향이번주 국내 증시에서는 삼성물산이 가파른 상승세를 보였다. 삼성전자 등 핵심 계열사 주..",
-      "link": "https://www.mk.co.kr/news/stock/12084585",
-      "publishedAt": "2026-06-26T22:56:54.000Z"
     }
   ]
 }
