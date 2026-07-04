@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-07-04T06:11:52.909Z",
+  "updatedAt": "2026-07-04T11:19:17.584Z",
   "historyDays": 7,
-  "count": 485,
+  "count": 487,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "전국 휘발윳값 평균 1900원대로…가장 저렴한 지역은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070455887",
+      "publishedAt": "2026-07-04T10:40:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“어느덧 30살 된 코스닥, 대수술 들어간다”…거래소가 꺼낸 극약 처방",
+      "summary": "올해로 개장 30돌을 맞은 코스닥이 대수술에 들어간다. 한 때 벤처 신화의 상징이었지만, ‘동전주(주가 1000원 미만 종목) 시장’ ‘개미지옥’이라는 꼬리표를 떼지 못한 코스닥 ..",
+      "link": "https://www.mk.co.kr/news/stock/12090344",
+      "publishedAt": "2026-07-04T10:04:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“치매 오기 전에 미리 사인해 둔다”…5년 만에 5조 몰린 ‘이 통장’",
+      "summary": "치매 대비·상속·증여 한번에 유언대용신탁 5년새 5배 성장 금융기관이 계약내용 집행 안정성 높고 분쟁 줄어 금융·세무·법률 서비스에 건강관리·주거까지 결합대한민국이 초고령사회에 들..",
+      "link": "https://www.mk.co.kr/news/economy/12090331",
+      "publishedAt": "2026-07-04T08:16:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "6억 성과급에도 \"돈 더 달라\"…삼성전자 '임금 전쟁' 2차전 [김대영의 노무스쿨]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607034855g",
+      "publishedAt": "2026-07-04T08:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼전닉스 말고 이거 살걸\" 주가 8배 폭등…개미들도 놀랐다 [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070331096",
+      "publishedAt": "2026-07-04T07:37:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "블룸버그 \"SK하닉 ADR 상장 수수료율 0.5% 검토\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070455447",
+      "publishedAt": "2026-07-04T07:32:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"주말 주차장부터 전쟁\"…치솟는 물가에 '알뜰족' 몰린다 [장바구니+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607045487g",
+      "publishedAt": "2026-07-04T07:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "세계 식량가격지수, 2개월 연속 하락…곡물·유제품·설탕 가격↓",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070455227",
+      "publishedAt": "2026-07-04T06:21:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "고유가 지원금 최종 신청률 98%…총 6조1123억원 지급",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070454967",
+      "publishedAt": "2026-07-04T05:59:40.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3826,62 +3898,6 @@
       "summary": "(세종=연합뉴스) 오진송 기자 = 건설업 생산이 전년 동월 대비 24개월 연속 감소하며 외환위기와 글로벌 금융위기 당시를 넘어 통계 작성 이래 ...",
       "link": "https://www.yna.co.kr/view/AKR20260627035200003",
       "publishedAt": "2026-06-27T21:07:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"다이소도 아닌데\"…3만원 들고 가면 가방에 옷까지 풀세팅 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269802g",
-      "publishedAt": "2026-06-27T11:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "DL이앤씨, 1.3조원 규모 목동6단지 재건축 시공사 선정",
-      "summary": "(서울=연합뉴스) 임기창 기자 = DL이앤씨가 목동신시가지 재건축 중 선두주자인 목동 6단지 재건축 사업 시공사로 선정됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260627041700003",
-      "publishedAt": "2026-06-27T09:13:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"막상 은퇴하면 상황 달라진다\"…요즘 뜨는 '연금 투자 전략'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606269340i",
-      "publishedAt": "2026-06-27T08:57:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'초특가 야놀자' vs '여행할때 여기어때'…여행 예약은 어디서? [맞짱대결]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605224043g",
-      "publishedAt": "2026-06-27T08:30:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘제2의 월세’ 관리비 아끼는 법…냉방비 겁나는 여름, 카드만 잘 골라도 이득",
-      "summary": "냉방비 느는 여름…관리비 할인카드 관심↑ 통신비·교육비·OTT까지 혜택 제각각 개인별 소비 패턴 맞는 카드 선택이 핵심고물가 시대, 아파트 관리비가 ‘제2의 월세’로 불릴 만큼 부..",
-      "link": "https://www.mk.co.kr/news/economy/12084696",
-      "publishedAt": "2026-06-27T08:16:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“오늘 주식 팔면 모레 아닌 내일 입금”…결제주기 단축 10월 나온다",
-      "summary": "투자자들이 주식을 팔고 다음날 돈을 받을 수 있도록 하는 주식 매매 결제주기 단축 로드맵이 오는 10월 나올 예정이다. 이재명 대통령이 지난 3월 ‘자본시장 안정과 정상화 간담회’..",
-      "link": "https://www.mk.co.kr/news/stock/12084694",
-      "publishedAt": "2026-06-27T08:16:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"반도체 계속 간다\"…'압축 투자' ETF에 몰리는 개미들 [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026062601096",
-      "publishedAt": "2026-06-27T08:00:02.000Z"
     }
   ]
 }
