@@ -18,7 +18,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deploy-final.outputs.page_url || steps.deploy-2.outputs.page_url || steps.deploy-1.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,5 +26,24 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: "."
-      - id: deployment
+
+      # deploy-pages@v4 가 GitHub Pages 백엔드의 산발적
+      # "Deployment failed, try again later." 를 종종 뱉음 → 지연 두고 최대 3회 재시도.
+      - id: deploy-1
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: wait before retry #2
+        if: steps.deploy-1.outcome == 'failure'
+        run: sleep 30
+      - id: deploy-2
+        if: steps.deploy-1.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: wait before retry #3
+        if: steps.deploy-1.outcome == 'failure' && steps.deploy-2.outcome == 'failure'
+        run: sleep 60
+      - id: deploy-final
+        if: steps.deploy-1.outcome == 'failure' && steps.deploy-2.outcome == 'failure'
         uses: actions/deploy-pages@v4
