@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-07-07T22:06:02.400Z",
+  "updatedAt": "2026-07-08T05:42:28.929Z",
   "historyDays": 7,
-  "count": 521,
+  "count": 542,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "BNK, 부울경 기업지원센터 신설…금융·비금융 종합지원",
+      "summary": "서민금융센터와 함께 생산적·포용금융 확대 지역 앵커·협력기업 연결해 지원 경영 컨설팅 등 맞춤형 서비스도 제공BNK금융그룹에 부산 울산 경남 기업을 지원하는 센터가 들어선다. BN..",
+      "link": "https://www.mk.co.kr/news/economy/12093346",
+      "publishedAt": "2026-07-08T05:35:58.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "summary": "■ 코스피·코스닥서 잇단 매도 사이드카…양 시장 5%씩 하락 중",
+      "link": "https://www.yna.co.kr/view/AKR20260708115000011",
+      "publishedAt": "2026-07-08T05:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스닥, 10개월 만에 800선도 이탈…거래대금 7조원 아래로 '뚝'",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 코스닥이 이달 들어 10% 가까이 급락해 8일에는 800선까지 내주면서 지수가 10개월 전 수준으로 돌아갔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260708113600008",
+      "publishedAt": "2026-07-08T05:24:41.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "해남군 장학사업기금 271억 돌파…2032년 500억 조성 목표",
+      "summary": "(해남=연합뉴스) 조근영 기자 = 전남광주통합특별시 해남군은 장학사업 기금이 271억원을 돌파하며 2032년 500억원 조성 목표를 향해 순항하...",
+      "link": "https://www.yna.co.kr/view/AKR20260708113400054",
+      "publishedAt": "2026-07-08T05:23:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농협은행, 베트남 아그리뱅크와 디지털 농업금융 협력",
+      "summary": "(서울=연합뉴스) 임지우 기자 = NH농협은행은 베트남 아그리뱅크 경영진의 한국 방문을 맞아 디지털 농업금융 협력을 위한 프로그램을 진행한다고 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260708114200002",
+      "publishedAt": "2026-07-08T05:22:19.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "경남 고성군, 체육인 숙소 '스포츠빌리지' 20일까지 입주자 모집",
+      "summary": "(경남 고성=연합뉴스) 정종호 기자 = 경남 고성군은 최근 준공한 &apos;고성군 스포츠빌리지&apos; 입주자를 모집한다고 8일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260708114500052",
+      "publishedAt": "2026-07-08T05:21:10.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대기업 건설사, 잇따라 부산 조직 축소…'탈부산' 가속화 우려(종합)",
+      "summary": "(부산=연합뉴스) 오수희 기자 = 부산의 부동산 경기 침체가 깊어지는 가운데 대기업 건설사인 롯데건설과 SK에코플랜트가 지역 조직을 축소하기로 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260707134451051",
+      "publishedAt": "2026-07-08T05:18:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "유진투자증권, 모바일 자동 분할매매 ‘매직스플릿’ 출시…최대 7종목 지원",
+      "summary": "유진투자증권은 개인 투자자의 편리하고 체계적인 주식 거래를 지원하기 위해 모바일 특화 자동 분할매매 서비스 ‘매직스플릿’을 정식 출시했다고 8일 밝혔다. 매직스플릿은 투자자가 미리..",
+      "link": "https://www.mk.co.kr/news/stock/12093281",
+      "publishedAt": "2026-07-08T05:06:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "티로보틱스, 국내 최초 방사성폐기물 처분시설 무인화 실증 참여",
+      "summary": "고위험 산업 로봇 시장 확대진공로봇·자율이동로봇(AMR) 전문기업 티로보틱스는 국내 방사성폐기물 처분시설 무인화 실증사업에 참여하며 고위험 산업용 로봇 시장 확대에 나선다고 8일 ..",
+      "link": "https://www.mk.co.kr/news/stock/12093280",
+      "publishedAt": "2026-07-08T05:05:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반토막 난 주가에 개미 '한숨'…카카오 반등 조건은? [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070817916",
+      "publishedAt": "2026-07-08T05:04:37.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "한국전력공사, 포브스 순위 3년 만에 428계단 급등",
+      "summary": "올해 종합 319위 기록해 재무개선 노력 결실 맺어한국전력공사가 올해 ‘포브스 글로벌 2000’ 순위가 3년 만에 428계단 급등한 것으로 나타났다. 포브스 글로벌 2000은 미국..",
+      "link": "https://www.mk.co.kr/news/economy/12093278",
+      "publishedAt": "2026-07-08T05:04:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "패닉 또 패닉…코스피·코스닥 잇달아 매도 사이드카 발동 [종합]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070827846",
+      "publishedAt": "2026-07-08T05:00:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 코스피 이어 코스닥도 매도 사이드카 발동",
+      "summary": "코스피와 코스닥시장에서 매도 사이드카(프로그램매매 매도호가 일시효력 정지)가 잇따라 발동됐다. 프로그램 매수 또는 매도호가의 효력이 5분간 정지된다. 한국거래소는 8일 오후 1시 ..",
+      "link": "https://www.mk.co.kr/news/stock/12093262",
+      "publishedAt": "2026-07-08T04:44:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스피·코스닥 급락에 모두 매도 사이드카 발동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070827576",
+      "publishedAt": "2026-07-08T04:37:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스피 급락에 매도 사이드카 발동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070827547",
+      "publishedAt": "2026-07-08T04:36:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 코스피 급락에 매도 사이드카 발동",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/stock/12093254",
+      "publishedAt": "2026-07-08T04:36:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "노머스 “주주가치 제고 최우선”…30억원 규모 자기주식 취득 완료·소각결정",
+      "summary": "아티스트 지식재산권(IP) 솔루션 전문기업 노머스가 올해 총 30억원 규모의 자기주식 취득을 완료한 후 소각을 결정했다고 8일 밝혔다. 노머스는 지난 3월부터 주주가치 제고를 위해..",
+      "link": "https://www.mk.co.kr/news/stock/12093246",
+      "publishedAt": "2026-07-08T04:22:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼전 다시 오른다\" 베팅 나선 1% 초고수…하이닉스는 매도",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082543i",
+      "publishedAt": "2026-07-08T04:13:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"반도체 못지않은 전략 자산\"…중국 '이 기술' 유출 막는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082686i",
+      "publishedAt": "2026-07-08T04:11:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "저녁 8시 주문도 당일 도착…SSG닷컴, '2시간 이내' 배송 도입",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082698g",
+      "publishedAt": "2026-07-08T04:11:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "KB증권, 2030 자산가 대상 ‘2026 더 넥스트 서밋’ 개최",
+      "summary": "KB증권은 지난달 30일 조선팰리스 호텔에서 2030 젊은 자산가를 대상으로 자산관리 전략을 공유하는 ‘2026 KB The Next Summit’을 성황리에 개최했다. 8일 KB..",
+      "link": "https://www.mk.co.kr/news/stock/12093239",
+      "publishedAt": "2026-07-08T04:09:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] \"저출생은 오히려 기회…'더 좋은 한 개' 팔아 2000억 도전\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607081730i",
+      "publishedAt": "2026-07-08T04:04:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"많이 팔리는데 남는 게 없다\"…中 반려동물 시장 '할인 내전'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607035111i",
+      "publishedAt": "2026-07-08T04:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "아마존, AI 투자 위해 또 회사채 발행…250억달러 규모",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082609i",
+      "publishedAt": "2026-07-08T03:46:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "압구정 올영서 \"We're here to help!\" 왜 안 들리나 했더니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082034i",
+      "publishedAt": "2026-07-08T03:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "공정위, 글로벌 반도체 기업 '유통사 갑질' 행위 정조준",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082389i",
+      "publishedAt": "2026-07-08T03:00:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "구윤철 “경제대도약 원년 완성…하반기 경제성장전략 조만간 발표”",
+      "summary": "잠재성장률 반등·양극화 극복 등 반영 “호남 반도체 클러스터 전속력 추진” 수입철강재 조강국 정보 제출 의무화 위기대응사업 지원대상도 추가 결정구윤철 부총리 겸 재정경제부 장관이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12093144",
+      "publishedAt": "2026-07-08T02:07:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“혹 떼려다 혹 붙였네”…양도세 안내려 ‘엄마 친구’에 허위 매도한 2주택자",
+      "summary": "총 731억 탈루 적발·318억 추징 40억 아파트 취득자금 쫓아보니 배우자 법인자금, 31억 추징# 2주택자 A씨는 아파트 한 채를 엄마 친구에게 허위로 판 뒤 그 집에 계속 ..",
+      "link": "https://www.mk.co.kr/news/economy/12093092",
+      "publishedAt": "2026-07-08T01:25:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“저희는 하이닉스가 정말 싫습니다”…대기업 인사과 악몽 됐다는데",
+      "summary": "대기업들 “퇴직자 속출할까 우려” 현대차 게시판 “하이닉스 서류합격” 정유사 면접선 응시자 절반 불참도국내 대기업의 인사 담당 A씨는 저연차 직원들을 생각하면 걱정이 앞선다. 최근..",
+      "link": "https://www.mk.co.kr/news/economy/12093081",
+      "publishedAt": "2026-07-08T01:18:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "발언하는 경제부총리",
+      "summary": "구윤철 부총리 겸 재정경제부 장관이 8일 서울 종로구 정부서울청사에서 열린 비상경제본부 회의 겸 경제ㆍ산업경쟁력강화 관계장관회의에서 발언하고 있다. 2026.7.8 [이승환기자]",
+      "link": "https://www.mk.co.kr/news/economy/12093002",
+      "publishedAt": "2026-07-07T23:54:06.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -4098,78 +4338,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202607019513i",
       "publishedAt": "2026-07-01T05:45:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼성·SK 800조 투자에 '주가 급등'…美 개미들도 '들썩'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607019263i",
-      "publishedAt": "2026-07-01T05:41:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "호르무즈 국적선 탈출 막바지…'얀부항' 우회 지속하는 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607019376i",
-      "publishedAt": "2026-07-01T05:40:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한국투자증권, 첫 ‘성장형 IMA’ 출시…1200억원 한도 모집",
-      "summary": "한국투자증권은 신규 종합투자계좌(IMA) 상품 ‘한국투자 IMA G1’을 출시하고 오는 3일까지 모집을 진행한다고 1일 밝혔다. 한국투자 IMA G1은 기존 안정형 IMA 상품 대..",
-      "link": "https://www.mk.co.kr/news/stock/12087679",
-      "publishedAt": "2026-07-01T05:39:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "1억 넣었으면 2억 됐다…'수익률 101%' 압도적 1위 등극",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607019338i",
-      "publishedAt": "2026-07-01T05:37:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "현대차그룹, 베네수엘라 지진 피해복구 성금 100만달러 전달",
-      "summary": "현대자동차그룹이 최근 지진으로 큰 피해를 본 베네수엘라에 100만달러(약 15억원)의 구호 성금을 지원한다고 1일 밝혔다. 이번 성금은 대한적십자사를 통해 전달돼 현지 구호 활동과..",
-      "link": "https://www.mk.co.kr/news/economy/12087668",
-      "publishedAt": "2026-07-01T05:34:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘삼전닉스’보다 더 올랐다…상반기 708% 뛴 ‘이 종목’",
-      "summary": "상반기 수익률 톱10 보니 1, 2위 삼성전기·삼성전기우코스피가 사상 처음 9000선을 돌파하는 등 ‘반도체 랠리’가 펼쳐진 올해 상반기 국내 증시는 인공지능(AI) 인프라 밸류체..",
-      "link": "https://www.mk.co.kr/news/stock/12087658",
-      "publishedAt": "2026-07-01T05:30:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘전화 한 통’에 내밀한 개인정보 유출 비상…교묘해진 ‘이것’ 대체 뭐길래",
-      "summary": "GA, ‘DB 영업’ 과정에 소비자 개인정보 수집 “정보제공 범위·목적 등 꼭 확인해야…동의 철회 가능”“보험료 절감과 미청구(숨은) 보험금 찾기에 대해 무료 상담일정 짧게 안내드..",
-      "link": "https://www.mk.co.kr/news/economy/12087651",
-      "publishedAt": "2026-07-01T05:26:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "사회적 죽음 상태 빠진 ‘쉬었음 청년들’…무기력의 고리를 끊을 시간 [기자24시]",
-      "summary": "분노 뒤에 찾아오는 무기력. 이런 감정 상태를 설명할 때 자주 인용되는 것이 엘리자베트 퀴블러로스의 ‘죽음의 5단계’ 이론이다. 사람들이 죽음을 받아들이는 과정이 부정으로 시작해 ..",
-      "link": "https://www.mk.co.kr/news/economy/12087650",
-      "publishedAt": "2026-07-01T05:25:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "289% 대박 터졌다…반도체 ETF가 상반기 시장 싹쓸이",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202606307777i",
-      "publishedAt": "2026-07-01T05:00:10.000Z"
     }
   ]
 }
