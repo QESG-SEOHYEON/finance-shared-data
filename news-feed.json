@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-07-10T12:20:37.754Z",
+  "updatedAt": "2026-07-10T21:53:07.690Z",
   "historyDays": 7,
-  "count": 521,
+  "count": 526,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "프리랜서도 고용보험 길 열린다…근로시간 아닌 보수기준 개편",
+      "summary": "고용보험법 개정령안 예고 합산제 신설…35만명이 혜택정부가 고용보험 가입 기준을 근로 시간에서 소득으로 개편한다. 월 보수 80만원 이상이면 근로 시간과 관계없이 고용보험에 가입할..",
+      "link": "https://www.mk.co.kr/news/economy/12095941",
+      "publishedAt": "2026-07-10T21:52:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "코스트코의 파격…\"베테랑 계산원에 억대 연봉\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071085511",
+      "publishedAt": "2026-07-10T21:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071088397",
+      "publishedAt": "2026-07-10T21:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"두바이만 보지 마라\"…45년 비즈니스맨이 꼽은 '이곳'은 [이광식의 거상열전]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607108332i",
+      "publishedAt": "2026-07-10T21:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 내주 청약 단지 3곳 그쳐…견본주택은 11곳 개관",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 여름 장마와 무더위가 본격화된 가운데 다음 주에는 신규 아파트 분양단지가 3곳에 그칠 전망이다.",
+      "link": "https://www.yna.co.kr/view/AKR20260710134000003",
+      "publishedAt": "2026-07-10T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘하닉’ ADR 첫날 13%...뉴욕증시 상승 [월가월부]",
+      "summary": "SK하이닉스 ADR 성공적 데뷔 공모가 149달러에서 첫날 168달러로SK하이닉스 미국 주식예탁증서(ADR)가 나스닥 상장 첫날 13% 오르며 성공적인 데뷔전을 치렀다. SK하이..",
+      "link": "https://www.mk.co.kr/news/world/12095910",
+      "publishedAt": "2026-07-10T20:13:36.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반도체 피크아웃? 최태원 “메모리 수요 폭발적, 美 공장 검토”",
+      "summary": "SK하이닉스, 나스닥 상장으로 40조 조달 최태원 회장, 간담회서 공격적 투자 강조 “수요 기하급수적, 고객들 5~6배 원해” “반도체, 사이클 벗어나 구조적 변화”10일(현지시간..",
+      "link": "https://www.mk.co.kr/news/economy/12095894",
+      "publishedAt": "2026-07-10T17:52:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071189041",
+      "publishedAt": "2026-07-10T17:11:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "9시30분 벨 누르자 거래 시작…\"웰컴 투 나스닥\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071189031",
+      "publishedAt": "2026-07-10T17:09:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SK하이닉스, 美나스닥 화려한 데뷔…40조 조달로 ‘AI 메모리’ 승부수",
+      "summary": "ADR 상장 기념 오프닝벨 행사SK하이닉스가 미국주식예탁증서(ADR) 상장을 통해 미국 나스닥 시장에 공식 입성했다. 약 40조원을 조달하며 글로벌 투자 기반을 확대하고 인공지능(..",
+      "link": "https://www.mk.co.kr/news/business/12095869",
+      "publishedAt": "2026-07-10T13:59:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "中 '반도체 핵심소재' 헬륨 수출 금지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071088521",
+      "publishedAt": "2026-07-10T13:58:03.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -4122,54 +4210,6 @@
       "summary": "5년 지나면 자동 소멸…1포인트부터 계좌 입금 통합조회 한 번이면 모든 카드사 포인트 확인 세금·연회비 납부부터 마일리지 전환까지몰라서 혹은 귀찮아서 방치한 신용카드 포인트가 매년..",
       "link": "https://www.mk.co.kr/news/economy/12090222",
       "publishedAt": "2026-07-03T22:32:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“팔수록 손해, 요즘은 진짜”…고환율 직격탄 中企, 정부 15조 대출·보증",
-      "summary": "중소·중견기업 긴급지원 초저금리 상생대출 신설 법인세 등 납부기한 연장 수은, 3%대 저금리 대출원·달러 환율이 1500원대에서 내려올 기미를 보이지 않자, 정부가 고환율로 피해를..",
-      "link": "https://www.mk.co.kr/news/economy/12090206",
-      "publishedAt": "2026-07-03T21:01:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "국산 삼겹살 3분의 1 가격…마트서 '이것' 불티나게 팔렸다 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607023034i",
-      "publishedAt": "2026-07-03T21:00:15.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "외환위기와 AI는 같은 답을 말했다 … “작은 정부보다 실력있는 정부”",
-      "summary": "(2)우리는 왜 위기를 막지 못했나2026년 원·달러 환율이 1500원을 넘어서자 1997년 외환위기의 기억이 다시 소환됐다. 지금 한국경제는 정말 그때만큼 위험한가. ‘경제실록’..",
-      "link": "https://www.mk.co.kr/news/economy/12089841",
-      "publishedAt": "2026-07-03T20:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "달러-원, 미 독립기념일 휴장에 엔화 연동…1,530원 마감",
-      "summary": "*그림*",
-      "link": "https://www.yna.co.kr/view/AKR20260704003600002",
-      "publishedAt": "2026-07-03T19:40:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 기아, 해양 환경보호에 전기차 지원",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070349211",
-      "publishedAt": "2026-07-03T15:53:46.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "엔비디아 브로드컴 다 한물 갔다고?…월가 큰손들, 왜 ‘이 주식’에 주목하나",
-      "summary": "블룸버그 통신에 따르면 미국 데이터 센터 인근 지역의 전기 요금은 5년전에 비해 267% 올랐다고 한다. 인공지능이 소모하는 전력이 엄청나기 때문이다. 미국 50개주 가운데 13개..",
-      "link": "https://www.mk.co.kr/news/stock/12090174",
-      "publishedAt": "2026-07-03T12:29:21.000Z"
     }
   ]
 }
