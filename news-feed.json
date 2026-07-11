@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-07-11T05:32:50.001Z",
+  "updatedAt": "2026-07-11T10:56:19.433Z",
   "historyDays": 7,
   "count": 529,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“재산세도 할부됩니다”…카드로 세금 똑똑하게 내는 법, 따로 있다",
+      "summary": "카드 납부해도 지방세 수수료 ‘0원’ 주요 카드사 무이자·부분무이자 행사 포인트 사용·실적 인정 여부는 확인해야매년 7월이면 어김없이 재산세 고지서가 날아온다. 목돈이 한 번에 빠..",
+      "link": "https://www.mk.co.kr/news/economy/12096148",
+      "publishedAt": "2026-07-11T09:59:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“미국 증시에 화려하게 데뷔했다”…SK하이닉스 집중 조명한 외신들",
+      "summary": "10일(현지시간) 미국주식예탁증서(ADR)를 통해 뉴욕 증시에 입성한 SK하이닉스에 대해 외신과 월가전문가들이 큰 관심을 보였다. 특히 최태원 SK그룹 회장이 이날 CNBC와 블룸..",
+      "link": "https://www.mk.co.kr/news/stock/12096135",
+      "publishedAt": "2026-07-11T09:32:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"로봇 믿고 쓸어담았는데\"…증권가 전망에 개미들 '대혼란' [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026070963046",
+      "publishedAt": "2026-07-11T08:51:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“의료쇼핑에 정작 필요한 사람까지 피해”…제한 생긴 ‘도수치료’의 주요쟁점",
+      "summary": "보험사, 도수치료비 지급 보류 상담 “보험금 지급사유 조사할 수 있어” 이달부터 도수치료 진료가격 통일이달부터 도수치료의 1회당 진료비용이 4만3850원·연간 15회(주2회) 제한..",
+      "link": "https://www.mk.co.kr/news/economy/12096114",
+      "publishedAt": "2026-07-11T08:37:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 박경희(삼성증권 부사장)씨 모친상",
+      "summary": "▲ 이영식씨 별세, 박경희(삼성증권 부사장)씨 모친상 = 11일 오후 1시 1분, 삼성서울병원 장례식장 17호실, 발인 13일 오전 11시, 장...",
+      "link": "https://www.yna.co.kr/view/AKR20260711043500008",
+      "publishedAt": "2026-07-11T08:32:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"사두면 돈 된다더니\" 한숨…금값 꺾이자 발칵 뒤집힌 곳이",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071193257",
+      "publishedAt": "2026-07-11T08:11:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 배준석(은행연합회 감사)씨 장모상",
+      "summary": "▲ 박경자씨 별세, 이유인(Cvent 수석 소프트웨어 엔지니어)·이인애(무대미술가)씨 모친상, 배준석(은행연합회 감사)씨 장모상, 이세원씨 시모...",
+      "link": "https://www.yna.co.kr/view/AKR20260711038800002",
+      "publishedAt": "2026-07-11T07:22:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'카드게임'의 고수는 어떻게 '주식투자' 고수가 됐나 [김정남의 주식투자 프레임]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607082383i",
+      "publishedAt": "2026-07-11T06:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "매년 수백억씩 쏟아부었는데…韓축구가 日과 비교되는 이유 [혈세 누수 탐지기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607107963H",
+      "publishedAt": "2026-07-11T06:00:04.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -18,6 +90,14 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202607107802i",
       "publishedAt": "2026-07-11T05:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "이재용, 억만장자 모임서 포착…\"2028년까지 완판\" TSMC에 반격 [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071069186",
+      "publishedAt": "2026-07-11T04:51:39.000Z"
     },
     {
       "source": "매일경제",
@@ -4154,86 +4234,6 @@
       "summary": "EU 무관세 쿼터 46% 축소 속 한국은 19.7% 줄어들어 ‘선방’ FTA 체결국 우대…中은 67% 급감최근 유럽연합(EU)이 철강 수입 무관세 쿼터를 국가별로 대폭 줄여서 발..",
       "link": "https://www.mk.co.kr/news/economy/12090359",
       "publishedAt": "2026-07-04T11:20:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "전국 휘발윳값 평균 1900원대로…가장 저렴한 지역은?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070455887",
-      "publishedAt": "2026-07-04T10:40:23.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“어느덧 30살 된 코스닥, 대수술 들어간다”…거래소가 꺼낸 극약 처방",
-      "summary": "올해로 개장 30돌을 맞은 코스닥이 대수술에 들어간다. 한 때 벤처 신화의 상징이었지만, ‘동전주(주가 1000원 미만 종목) 시장’ ‘개미지옥’이라는 꼬리표를 떼지 못한 코스닥 ..",
-      "link": "https://www.mk.co.kr/news/stock/12090344",
-      "publishedAt": "2026-07-04T10:04:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“치매 오기 전에 미리 사인해 둔다”…5년 만에 5조 몰린 ‘이 통장’",
-      "summary": "치매 대비·상속·증여 한번에 유언대용신탁 5년새 5배 성장 금융기관이 계약내용 집행 안정성 높고 분쟁 줄어 금융·세무·법률 서비스에 건강관리·주거까지 결합대한민국이 초고령사회에 들..",
-      "link": "https://www.mk.co.kr/news/economy/12090331",
-      "publishedAt": "2026-07-04T08:16:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "6억 성과급에도 \"돈 더 달라\"…삼성전자 '임금 전쟁' 2차전 [김대영의 노무스쿨]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607034855g",
-      "publishedAt": "2026-07-04T08:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전닉스 말고 이거 살걸\" 주가 8배 폭등…개미들도 놀랐다 [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070331096",
-      "publishedAt": "2026-07-04T07:37:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "블룸버그 \"SK하닉 ADR 상장 수수료율 0.5% 검토\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070455447",
-      "publishedAt": "2026-07-04T07:32:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"주말 주차장부터 전쟁\"…치솟는 물가에 '알뜰족' 몰린다 [장바구니+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607045487g",
-      "publishedAt": "2026-07-04T07:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "세계 식량가격지수, 2개월 연속 하락…곡물·유제품·설탕 가격↓",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070455227",
-      "publishedAt": "2026-07-04T06:21:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "고유가 지원금 최종 신청률 98%…총 6조1123억원 지급",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070454967",
-      "publishedAt": "2026-07-04T05:59:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "세계 식량가격, 2개월 연속 하락세…유지류·육류는 상승",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.3으로 전달(130.8)...",
-      "link": "https://www.yna.co.kr/view/AKR20260704028200030",
-      "publishedAt": "2026-07-04T05:59:11.000Z"
     }
   ]
 }
