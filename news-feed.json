@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-07-12T05:48:18.487Z",
+  "updatedAt": "2026-07-12T11:05:48.002Z",
   "historyDays": 7,
-  "count": 524,
+  "count": 523,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "전국 종부세 33%, 강남3구가 냈다…정부는 ‘더 센 카드’ 준비중",
+      "summary": "강남권 고가주택 쏠림 심화로 지난해 비중 5년 만에 30%대 정부, 부동산 세제개편 앞두고 비거주·초고가 아파트 겨냥해 장특공제까지 재설계 나설 듯 부처토론후 李, 대토론회 주재지..",
+      "link": "https://www.mk.co.kr/news/economy/12096628",
+      "publishedAt": "2026-07-12T10:38:23.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "신한투자, 선취 판매수수료 없는 '라이트 펀드' 등 출시",
+      "summary": "(서울=연합뉴스) 고은지 기자 = 신한투자증권은 선취 판매 수수료가 없는 온라인 전용 펀드를 비롯해 파격적인 가격 정책을 반영한 &apos;신한 Ligh...",
+      "link": "https://www.yna.co.kr/view/AKR20260712046500008",
+      "publishedAt": "2026-07-12T09:58:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "신한투자증권, 선취 판매수수료 없는 '라이트 펀드' 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607120295i",
+      "publishedAt": "2026-07-12T09:17:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'주식 투자 고수' 된 카드게임 고수 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202611",
+      "publishedAt": "2026-07-12T09:17:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "獨·日은 월급제 중심, 美는 시급제 기반",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202581",
+      "publishedAt": "2026-07-12T09:15:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "현대차 노조, 13일부터 부분파업…하투 본격화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202571",
+      "publishedAt": "2026-07-12T09:14:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성 용인 클러스터 첫 가동 2년 당긴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202691",
+      "publishedAt": "2026-07-12T09:13:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "대출 절벽 초읽기 한도 15%만 남아",
+      "summary": "5대 시중은행이 올해 상반기에 연간 가계대출 증가 여력의 85%를 이미 소진한 것으로 확인됐다. 시중은행이 연초부터 대출에 고삐를 조이긴 했지만 증시 투자를 위한 신용대출이 늘고,..",
+      "link": "https://www.mk.co.kr/news/economy/12096600",
+      "publishedAt": "2026-07-12T09:08:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "① 과열된 삼전닉스 레버리지, 예탁금 높여야 투기거래 줄어",
+      "summary": "최근 코스피가 급등락을 반복하는 '롤러코스피' 장세를 이어가면서 상장지수펀드(ETF) 시장에서 인버스와 레버리지 상품 거래량이 동반 급증하는 현상이 관측된다. 특히 지난 5월 27..",
+      "link": "https://www.mk.co.kr/news/stock/12096595",
+      "publishedAt": "2026-07-12T09:08:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "HD현대일렉·LG이노텍 '황제주' 복귀 시동",
+      "summary": "국내 증시에서 한때 주당 100만원을 웃돌며 '황제주' 반열에 올랐던 HD현대일렉트릭과 LG이노텍이 최근 왕관을 내려놓은 이후에도 주가가 좀처럼 반등하지 못하고 있다. '삼전닉스'..",
+      "link": "https://www.mk.co.kr/news/stock/12096594",
+      "publishedAt": "2026-07-12T09:08:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "KT·SK텔레콤 실적 … 2분기 전망 엇갈려",
+      "summary": "올해 2분기 실적발표를 앞둔 국내 대표 통신주 SK텔레콤과 KT의 성적표가 엇갈릴 것으로 관측된다. 증권가는 KT에 대해 전망치를 밑돌 것으로 전망하는 반면, SK텔레콤과 관련해서..",
+      "link": "https://www.mk.co.kr/news/stock/12096592",
+      "publishedAt": "2026-07-12T09:08:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "'안티' 일론 머스크 ETF 등장",
+      "summary": "'일론 머스크'가 이끄는 기업을 투자 대상에서 제외한 이색 상장지수펀드(ETF)가 미국에서 상장을 추진하고 있다. 머스크의 정치적 행보와 기업 지배구조를 둘러싼 논란이 이어지는 ..",
+      "link": "https://www.mk.co.kr/news/stock/12096585",
+      "publishedAt": "2026-07-12T09:05:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "펀드 선취 판매수수료 '0' 신한 Light펀드 나왔다",
+      "summary": "신한투자증권이 고객 관점 상품 전략 재수립의 일환으로 파격적인 가격 정책을 반영한 '신한 Light 상품'을 출시한다고 12일 밝혔다. 신한 Light 상품은 크게 3가지(펀드·채..",
+      "link": "https://www.mk.co.kr/news/stock/12096583",
+      "publishedAt": "2026-07-12T09:05:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "대체투자 '큰손' 공제회, 하반기에도 실탄 부족",
+      "summary": "주식시장 둔화로 시중은행 정기예금에 자금이 몰리는 역(逆)머니무브 현상이 나타나고 있지만, 사모펀드(PEF) 위탁운용사 출자의 한 축인 공제회의 경우 여전히 자금 유입이 개선되지 ..",
+      "link": "https://www.mk.co.kr/news/stock/12096584",
+      "publishedAt": "2026-07-12T09:05:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] \"로봇에 야근 뺏길라\"…현대차, 60년 만에 시급제 폐지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202811",
+      "publishedAt": "2026-07-12T08:53:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "규제 심사대 오르는 '특금법'…네이버·두나무 통합 운명은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607129984i",
+      "publishedAt": "2026-07-12T08:53:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 고정급 높여주는 대신 '로봇 전환'…제조업 임금체계 뉴노멀 되나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202591",
+      "publishedAt": "2026-07-12T08:52:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "SK하이닉스 조달액 265억弗 국내 풀린다…외환시장 숨통 트일까",
+      "summary": "미국 나스닥 상장으로 265억달러(약 40조원)를 조달한 SK하이닉스가 국내 투자 집행을 위해 대규모 달러를 원화로 환전할 예정이어서 외환시장 안정에 상당한 도움이 될 것이라는 전..",
+      "link": "https://www.mk.co.kr/news/economy/12096510",
+      "publishedAt": "2026-07-12T08:49:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "연금 알아서 굴려주는 TDF…'세 가지' 모르면 낭패",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071201681",
+      "publishedAt": "2026-07-12T08:42:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "종부세 33%는 강남3구 … 더 센 보유세 예고",
+      "summary": "지난해 전국 주택분 종합부동산세의 33%를 서울 강남 3구(강남·서초·송파) 납세자가 부담한 것으로 나타났다. 강남권 집값 쏠림 현상이 심화하며 종부세 비중이 5년 만에 다시 30..",
+      "link": "https://www.mk.co.kr/news/economy/12096496",
+      "publishedAt": "2026-07-12T08:33:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "올 육아휴직 10만명 돌파…10명중 4명은 아빠였다",
+      "summary": "올해 상반기 육아휴직급여 수급자가 10만명을 돌파하며 역대 최대치를 기록할 것으로 전망된다. 특히 남성 육아휴직급여 수급자 비율이 40%에 육박하는 것으로 나타났다. 고용노동부는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12096497",
+      "publishedAt": "2026-07-12T08:33:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "배터리 구독서비스 보조금 정부, 리스社에 지급 검토",
+      "summary": "정부가 전기차 배터리 구독 서비스 실증 사업을 앞두고 배터리 소유주인 리스 사업자를 상대로 보조금을 지급하는 방안을 검토 중이다. 12일 관련 부처에 따르면 재정경제부와 기후에너지..",
+      "link": "https://www.mk.co.kr/news/economy/12096495",
+      "publishedAt": "2026-07-12T08:33:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "홍콩 H지수 ETF '날개'…원유투자 상품도 강세",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071202111",
+      "publishedAt": "2026-07-12T08:28:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 김검수(새마을금고중앙회 사회금융본부장)씨 빙모상",
+      "summary": "▲ 마영순(향년 88세)씨 별세, 박춘원·박정규·박진규·박태심·박혜란씨 모친상, 김윤희·정오임씨 시모상, 이방곤·김검수(새마을금고중앙회 사회금융...",
+      "link": "https://www.yna.co.kr/view/AKR20260712043500530",
+      "publishedAt": "2026-07-12T08:23:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "환율·채권, 하이닉스 미국 상장發 달러유입 기대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071201791",
+      "publishedAt": "2026-07-12T08:22:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "뉴욕·상하이 증시, 워시 취임 첫 '통화정책 보고' 주목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071201781",
+      "publishedAt": "2026-07-12T08:21:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"홍콩, 스위스 제치고 세계 최대 역외 자산관리 시장 등극\"",
+      "summary": "(도쿄=연합뉴스) 조성미 특파원 = 홍콩이 중국으로부터 흘러드는 막대한 규모의 자금에 힘입어 스위스를 제치고 세계 최대 자산관리 시장의 지위에 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260712041500073",
+      "publishedAt": "2026-07-12T08:06:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "환시에 '통화스와프급' 265억달러 퍼붓는 구원투수 SK하이닉스(종합)",
+      "summary": "(서울·세종=연합뉴스) 강태우 송정은 기자 = 미국 나스닥 상장에 성공한 SK하이닉스[000660]가 한국 외환시장에 &apos;통화스와프급&apos; 달러 폭탄...",
+      "link": "https://www.yna.co.kr/view/AKR20260710148451003",
+      "publishedAt": "2026-07-12T08:05:55.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "SNS 미담주·3대 메가 수혜주…급락장서 튀어 오른 테마주들(종합)",
+      "summary": "(서울=연합뉴스) 김유향 정수연 기자 = 지난주 국내 증시가 하락세를 보인 가운데, 실적이나 수주 근거보다는 지역 연고 또는 SNS 미담 등을 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260711026451008",
+      "publishedAt": "2026-07-12T07:29:55.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\"",
+      "summary": "(서울=연합뉴스) 고동욱 기자 = 김용범 청와대 정책실장은 12일 한국 경제가 최근 성장률 반등 조짐을 보이는 데 대해 &quot;단순한 경기 회복이 아...",
+      "link": "https://www.yna.co.kr/view/AKR20260712033400001",
+      "publishedAt": "2026-07-12T06:24:42.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3946,254 +4186,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026070565637",
       "publishedAt": "2026-07-05T11:26:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "독자 최애 코너는 '투자 고수에게 듣는다'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070565251",
-      "publishedAt": "2026-07-05T11:03:55.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "삼성전자, 5억원 사내 주택자금 대출 대상 '국평' 이하로 제한",
-      "summary": "(서울=연합뉴스) 임성호 기자 = 삼성전자가 무주택 직원에 지원하는 사내 대출 대상이 되는 주택을 수도권과 대도시 기준 &apos;국민평형&apos;(전용 85㎡...",
-      "link": "https://www.yna.co.kr/view/AKR20260705041400003",
-      "publishedAt": "2026-07-05T10:21:21.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "1조4천억원 성수4지구 재개발 시공사에 롯데건설",
-      "summary": "(서울=연합뉴스) 오진송 기자 = 롯데건설이 대우건설을 꺾고 총공사비 1조3천628억원 규모의 서울 성동구 성수전략정비구역 4지구 재개발사업 시...",
-      "link": "https://www.yna.co.kr/view/AKR20260705041200003",
-      "publishedAt": "2026-07-05T10:13:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "아이폰 이어 삼성 폴더블폰 값도 대폭 오른다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564251",
-      "publishedAt": "2026-07-05T09:49:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "신동빈, 송도 롯데바이오서 '현장 경영'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564241",
-      "publishedAt": "2026-07-05T09:49:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "진옥동 신한금융 회장 \"그룹 리더부터 AI 써라\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564271",
-      "publishedAt": "2026-07-05T09:49:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼성전자 무풍 에어컨, 10년 만에 2000만대 판매",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564291",
-      "publishedAt": "2026-07-05T09:48:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "LG화학, 앰코에 반도체 후공정 소재 공급",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564261",
-      "publishedAt": "2026-07-05T09:48:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "HD건설기계, 軍 현장에 무인 자율화 기술 도입",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564301",
-      "publishedAt": "2026-07-05T09:48:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "식품사의 변신…AI 소재사로 우뚝 [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564081",
-      "publishedAt": "2026-07-05T09:47:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"깜짝 실적 예고한 유통·증권주 관심 가져야\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564641",
-      "publishedAt": "2026-07-05T09:45:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "빅테크 성적표 어떻게 나올까…잠 못 드는 서학개미",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564651",
-      "publishedAt": "2026-07-05T09:45:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "재테크 고수 되는 길, 한경 프리미엄9 영상에 답 있다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564091",
-      "publishedAt": "2026-07-05T09:34:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"수수료 적고 수익률 높은 ETF 알려드려요\"…AI가 계좌 맞춤 진단",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564101",
-      "publishedAt": "2026-07-05T09:34:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "수수료 2000억에 들썩…SK하닉 '초대형 미국 상장' 예고",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026070564737",
-      "publishedAt": "2026-07-05T09:07:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "김용범 \"AI시대 국가역할 커져 … 초과이윤 다음세대로 연결을\"",
-      "summary": "김용범 청와대 정책실장이 5일 인공지능(AI) 시대를 맞아 국가의 역할이 확장되고 있다며 전력·용수·송전망 등으로 대표되는 AI 산업 인프라스트럭처 공급은 물론 AI 산업의 과실인..",
-      "link": "https://www.mk.co.kr/news/economy/12090765",
-      "publishedAt": "2026-07-05T09:04:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "AI·OTT…월정액 달러유출 '눈덩이'",
-      "summary": "40대 후반의 A씨는 넷플릭스와 유튜브 프리미엄 등 온라인동영상서비스(OTT)와 챗GPT 등 인공지능(AI) 서비스 구독료를 보면 한숨이 나온다. 3인 가족이 월 6만9000원을 ..",
-      "link": "https://www.mk.co.kr/news/economy/12090751",
-      "publishedAt": "2026-07-05T08:58:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "\"변동성 통제불가 수준\" 괴물된 삼닉 레버리지",
-      "summary": "삼성전자와 SK하이닉스를 기초자산으로 삼는 '단일종목 레버리지 상장지수펀드(ETF)'에 개인투자자들의 매매가 집중되면서 코스피 변동성을 키우는 주범으로 지목받고 있다. '삼전닉스'..",
-      "link": "https://www.mk.co.kr/news/stock/12090749",
-      "publishedAt": "2026-07-05T08:57:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "거래대금 급증에 증권株 방긋",
-      "summary": "국내 증권사들이 올해 1분기에 이어 2분기에도 거래대금 급증과 해외 자산 평가이익에 힘입어 시장 전망치를 웃도는 호실적을 올릴 전망이다. 5일 에프앤가이드와 증권가 분석을 종합하면..",
-      "link": "https://www.mk.co.kr/news/stock/12090745",
-      "publishedAt": "2026-07-05T08:56:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "이번주 '반도체 슈퍼위크' … 삼전 실적발표·하닉 美상장",
-      "summary": "최근 국내외 반도체 업종의 주가 변동성이 확대되면서 반도체 투자심리가 시험대에 올랐다. 이런 가운데 이번주 삼성전자 실적 발표와 SK하이닉스 미국 주식예탁증서(ADR) 상장 등 대..",
-      "link": "https://www.mk.co.kr/news/stock/12090743",
-      "publishedAt": "2026-07-05T08:56:17.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "2분기 빚투 하루 62조로 역대 최대",
-      "summary": "올해 2분기 개인투자자가 증권사로부터 자금을 빌려 투자한 '빚투'가 하루 평균 60조원을 웃돌며 역대 최대치를 기록한 것으로 나타났다. 5일 금융투자협회에 따르면 지난 4~6월 신..",
-      "link": "https://www.mk.co.kr/news/stock/12090739",
-      "publishedAt": "2026-07-05T08:55:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼닉 레버리지로 손실 입은 개미들 … \"이제라도 팔까\" 전전긍긍",
-      "summary": "단일종목 레버리지 상장지수펀드(ETF)가 출시된 지 단 한 달 만에 한국 증시의 새로운 '게임 체인저'로 부상했다. 현재 상장된 14종의 상품 중 대표 격인 'KODEX SK하이닉..",
-      "link": "https://www.mk.co.kr/news/stock/12090737",
-      "publishedAt": "2026-07-05T08:55:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "2012년 옵션거래 강력규제처럼 … 최저예탁금 한도 상향 카드 만지작",
-      "summary": "금융당국이 삼성전자·SK하이닉스 단일종목 레버리지 상장지수펀드(ETF) 상품과 관련해 투자자 보호를 위한 보완책 마련에 착수했다. 기본예탁금 상향과 사전교육 강화, 자산운용사의 괴..",
-      "link": "https://www.mk.co.kr/news/stock/12090738",
-      "publishedAt": "2026-07-05T08:55:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12090728",
-      "publishedAt": "2026-07-05T08:50:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 신한금융 하반기 경영포럼",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12090727",
-      "publishedAt": "2026-07-05T08:50:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "온라인 쇼핑몰 피싱 주의보 … 카드정보 5707건 탈취 정황",
-      "summary": "최근 온라인 쇼핑몰 내 피싱·해킹에 의한 카드 정보 탈취 정황이 확인돼 금융감독원이 소비자경보를 발령했다고 5일 밝혔다. 최근 금융보안원은 국내 일부 온라인 쇼핑몰에 실제 결제 화..",
-      "link": "https://www.mk.co.kr/news/economy/12090724",
-      "publishedAt": "2026-07-05T08:50:55.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 李정부 '미소금융 3종세트' 희비 엇갈려",
-      "summary": "금융당국이 지난 3월 포용금융 차원에서 출시한 정책서민금융 상품인 '금융소외자 대출상품(미소금융) 3종 세트'의 초반 공급 실적에 희비가 엇갈리고 있다. 청년대출로 수요가 몰리는 ..",
-      "link": "https://www.mk.co.kr/news/economy/12090725",
-      "publishedAt": "2026-07-05T08:50:55.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동포의 창] '경북-글로벌 차세대 포럼' 성료…\"네트워크가 자산\"",
-      "summary": "(안동=연합뉴스) 강성철 기자 = 전 세계 다양한 분야에서 활약하는 재외동포 청년 리더들과 국내 청년기업가·대학생이 경북 안동시에 모여 글로벌 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260705035100371",
-      "publishedAt": "2026-07-05T08:32:47.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[속보] 강훈식 \"반도체 추가세수로 미래대응기금 신설…미래위해 투자\"",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20260705033200001",
-      "publishedAt": "2026-07-05T07:17:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "다시 9000 도전? 8000 붕괴?…삼전 실적·하닉 ADR에 달린 ‘코스피 슈퍼위크’",
-      "summary": "메모리 피크아웃 우려에 주가 급등락 삼성전자 영업익 컨센서스는 85조 하이닉스 글로벌 패스브 자금 기대최근 코스피 변동성이 극심한 가운데 이번 주 발표되는 삼성전자의 2분기 잠정 ..",
-      "link": "https://www.mk.co.kr/news/stock/12090551",
-      "publishedAt": "2026-07-05T06:30:35.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "■ 트럼프에 무역·외교 핵심까지…美정부와 넓고 깊게 엮인 쿠팡",
-      "link": "https://www.yna.co.kr/view/AKR20260705027100011",
-      "publishedAt": "2026-07-05T06:00:00.000Z"
     }
   ]
 }
