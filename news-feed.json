@@ -1,8 +1,184 @@
 {
-  "updatedAt": "2026-07-16T21:57:22.903Z",
+  "updatedAt": "2026-07-17T05:33:25.666Z",
   "historyDays": 7,
-  "count": 494,
+  "count": 500,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "김용범 “AI 혁명 시대…국가·기업·금융 새로운 관계로”",
+      "summary": "新 국가론·재정론 토론 제안 “필요한 건 이념적 구호 아냐 창의적·실용적 가설 토론해야”김용범 청와대 정책실장이 17일 인공지능(AI) 혁명 시대를 맞아 새로운 국가론·재정론에 대..",
+      "link": "https://www.mk.co.kr/news/politics/12100966",
+      "publishedAt": "2026-07-17T05:18:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"다이소보다 살 게 많은데?\"…외국인 관광객 홀린 '이 시장' [류은혁의 유통기한]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607170863i",
+      "publishedAt": "2026-07-17T04:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "관세는 누가 부담하는가",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607156263i",
+      "publishedAt": "2026-07-17T03:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“퇴직금 없는 우리엄마 희소식”…이달부터 자영업자 노란우산 한도 연 1800만원으로",
+      "summary": "상반기 한도 채웠어도 추가 납입 가능# 경기도에서 한식당을 운영하는 김모(56) 씨는 매달 늘어가는 가게 고정비만큼이나 불안한 노후 걱정에 밤잠을 설쳐왔다. 회사원과 달리 별도의 ..",
+      "link": "https://www.mk.co.kr/news/economy/12100934",
+      "publishedAt": "2026-07-17T02:27:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "오세훈 \"정부, 증시 투전판 만들고 빚탕감 생색…청년들 파산\"",
+      "summary": "(서울=연합뉴스) 김준태 기자 = 오세훈 서울시장이 국내 증시의 심각한 변동성을 초래한 레버리지 파생상품 문제와 함께 이재명 대통령이 주문한 &apos;...",
+      "link": "https://www.yna.co.kr/view/AKR20260717028300004",
+      "publishedAt": "2026-07-17T02:27:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "박민준 뤼튼 대표 \"내년 'AI로 일하는 시대' 열려…데이터 '철도'로 대비해야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607170866i",
+      "publishedAt": "2026-07-17T02:25:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "복잡한 절차 쉽게…서울시설공단, '공사현장 이행업무 가이드' 배포",
+      "summary": "(서울=연합뉴스) 김준태 기자 = 서울시설공단이 17일부터 서울시내 공사현장에 &apos;단계별 이행업무 가이드&apos;를 배포한다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260716182900004",
+      "publishedAt": "2026-07-17T02:15:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"SK하닉 주식 '샀다 팔았다' 그만\"…최태원 회장의 'AI 전망'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071708397",
+      "publishedAt": "2026-07-17T02:08:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "서울상의, 청년층 진로 찾기 돕는다…미래내일 일경험 성료",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607170791i",
+      "publishedAt": "2026-07-17T02:04:22.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한국, 미래투자교역파트너십 가입…\"신통상 규범 정립 선도\"",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 정부가 신(新)통상 규범 논의에 선제적으로 참여하고 실용적인 국제협력 기반을 마련하기 위해 미래투자교역파트너십...",
+      "link": "https://www.yna.co.kr/view/AKR20260717020600003",
+      "publishedAt": "2026-07-17T02:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "최태원 “하이닉스 주가 우상향…가만히 갖고 있으면 된다”",
+      "summary": "대한상의 대담서 주식 장기보유 권해 “AI는 아직 4살 아기…수요 늘어날것”최태원 대한상공회의소 회장이 SK하이닉스 주가에 대해 “메모리는 계속 필요하기 때문에 시간을 두면 우상향..",
+      "link": "https://www.mk.co.kr/news/business/12100926",
+      "publishedAt": "2026-07-17T01:56:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
+      "summary": "(제주=연합뉴스) 조성흠 기자 = 최태원 대한상공회의소 회장은 17일 SK하이닉스 주가에 대해 &quot;메모리는 계속 필요하기 때문에 시간을 두면 우상...",
+      "link": "https://www.yna.co.kr/view/AKR20260717026000003",
+      "publishedAt": "2026-07-17T01:38:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "■ 다시 불길 커진 &apos;두 전쟁&apos;…유가·곡물발 인플레 우려도 재점화",
+      "link": "https://www.yna.co.kr/view/AKR20260717024800011",
+      "publishedAt": "2026-07-17T01:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "휴가철 바가지요금 잡자…춘천시 피서지 물가 집중관리",
+      "summary": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 본격적인 여름 휴가철을 맞아 관광객과 시민이 안심하고 이용할 수 있는 소비환경 조성을 위한 피서...",
+      "link": "https://www.yna.co.kr/view/AKR20260716178100062",
+      "publishedAt": "2026-07-17T01:10:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“공포가 주가 흔들면 저가매수”…반도체 피크아웃론 반박한 SK증권 [여의도란도란]",
+      "summary": "한동희 SK증권 반도체 연구원 LTA 구속력으로 체질 개선 AI 투자의 핵심은 효율성 극대화 주주환원으로 입증할 이익 지속성 단기 조정 흔들릴 때가 매수 기회“최근 현물 가격 상승..",
+      "link": "https://www.mk.co.kr/news/stock/12100896",
+      "publishedAt": "2026-07-17T00:21:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'도박보다 무섭다'…7조 빨아들인 삼전닉스 레버리지 '공포'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071707247",
+      "publishedAt": "2026-07-17T00:20:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"국회가 쉴 때 주가가 오른다?\"…투자 전략에는 함정이 있다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607143607i",
+      "publishedAt": "2026-07-17T00:00:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "42% 급락한 삼성전기 담는 외국인…\"2028년 영업익 2.7배\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607169668i",
+      "publishedAt": "2026-07-17T00:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "중국 AI 모델 약진의 명과 암",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607169541i",
+      "publishedAt": "2026-07-17T00:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"롤러코스닥에 '옥석가리기' 필수\"…'코스닥 액티브 ETF' 다시 불붙는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607169352i",
+      "publishedAt": "2026-07-16T23:30:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "TSMC 끝내줬지만, 반도체 4.3% 급락…스페이스X의 경착륙 [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607170670i",
+      "publishedAt": "2026-07-16T23:11:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "데이터센터·엔트로픽·기저효과…SK텔레콤 주가상승 기대하는 세가지 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607169008i",
+      "publishedAt": "2026-07-16T23:00:21.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3826,134 +4002,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202607106959g",
       "publishedAt": "2026-07-10T05:47:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“하이닉스 형님 어서오세요”…태극기 빛난 뉴욕 심장부",
-      "summary": "미국시간 10일 ADR 첫날 앞두고 JP모건, 사옥 외벽에 태극기 띄워 외국기업 역대 최대 규모 조달액 최태원 회장, 美증시 오프닝벨 타종SK하이닉스 미국주식예탁증서(ADR) 상장..",
-      "link": "https://www.mk.co.kr/news/stock/12095356",
-      "publishedAt": "2026-07-10T05:26:22.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "이준석 “젊은층, 미디어법에 우려”에...한성숙 “기업 자율·정부 협력으로 해소”",
-      "summary": "개혁신당 지도부 면담 이준석 “젊은층 우려 커” 민간 경험 해결책 제시 AI 대전환 협조 요청도한성숙 신임 국무총리가 최근 시행된 정보통신망법 개정안에 대한 젊은 층 우려를 전해..",
-      "link": "https://www.mk.co.kr/news/economy/12095346",
-      "publishedAt": "2026-07-10T05:20:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "초고수, SK하이닉스·브이엠 담았다…삼성전자는 차익실현 [주식 초고수는 지금]",
-      "summary": "10일 오전 수익률 상위 1% 투자자 거래동향주식 투자 수익률 상위 1% 초고수들은 10일 장 초반 SK하이닉스와 브이엠, 삼성전기 등을 가장 많이 사들인 것으로 나타났다. 반면 ..",
-      "link": "https://www.mk.co.kr/news/stock/12095344",
-      "publishedAt": "2026-07-10T05:19:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "AI가 쇼핑하고 카드 긁는 시대인데…전자금융법에 가로막힌 한국",
-      "summary": "글로벌은 AI 결제 상용화 속도 국내는 규제에 발목 잡혀생성형 인공지능(AI)이 사용자를 대신해 상품을 고르고 결제까지 수행하는 ‘AI 에이전트 결제’가 글로벌 빅테크를 중심으로 ..",
-      "link": "https://www.mk.co.kr/news/economy/12095343",
-      "publishedAt": "2026-07-10T05:19:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"월급만으론 돈 못 모아\"…요즘 대학생들 푹 빠져든 이것",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607083927i",
-      "publishedAt": "2026-07-10T05:15:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "700MW 시장 노린다…LG엔솔·삼성SDI 격돌",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607107584i",
-      "publishedAt": "2026-07-10T05:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "하루 만에 비명→환호…\"또 사이드카\" 멀미 나는 개미들 [종합]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071078216",
-      "publishedAt": "2026-07-10T04:44:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'애국개미운동'으로 한성기업 상폐위기 탈출…이틀째 상한가",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607107659i",
-      "publishedAt": "2026-07-10T04:23:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "SK하이닉스 ADR로 265억 달러 조달…美 외국 기업 IPO 중 최대",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607107721i",
-      "publishedAt": "2026-07-10T04:17:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 코스피 이어 코스닥도 매수 사이드카 발동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071077706",
-      "publishedAt": "2026-07-10T04:12:54.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "횡보장에 녹아내리는 계좌…‘삼전닉스’ 레버리지 덫에 靑 “제도 고민 중”",
-      "summary": "김용범 “투자자 보호, 보완할 부분 살펴볼 예정”삼성전자·SK하이닉스 단일종목 레버리지 상장지수펀드(ETF)가 주가 변동성이 확대되고 있다는 우려가 커지는 데 대해 청와대가 “시장..",
-      "link": "https://www.mk.co.kr/news/economy/12095294",
-      "publishedAt": "2026-07-10T04:04:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "위스키 한 잔에 미술·파인다이닝까지…발베니의 '경험 마케팅'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607107051i",
-      "publishedAt": "2026-07-10T03:59:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "이사철 앞두고 ‘날벼락’…하루아침에 수억 원 대출 깎인 실수요자들 ‘발동동’",
-      "summary": "은행권 가계대출 ‘돈줄 죄기’ 본격化 주택담보대출 6억→3억 다시 ‘빗장’ “당분간 고강도 조치 동시다발 나올듯”“결혼 10년 만에 좀 더 넓은 집으로 이사 가려고 집을 알아보고 ..",
-      "link": "https://www.mk.co.kr/news/economy/12095269",
-      "publishedAt": "2026-07-10T02:31:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“주담대 깎여 3억 현금 마련해야 한다고요?”…깊어지는 주택 매수대기자들 고민 [알쓸금잡]",
-      "summary": "국민은행 3억 한도 발표 이후 여타 은행으로 확산할 가능성 대출 금액 줄어들지 걱정되면 잔금일 당기는 등 조치 필요해오는 10월 KB국민은행에서 5억원 대출을 일으켜 서울 지역 ..",
-      "link": "https://www.mk.co.kr/news/economy/12095251",
-      "publishedAt": "2026-07-10T02:18:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이마트24, 장마철 무알콜 와인 판매 493% 증가…막걸리는 제자리",
-      "summary": "(서울=연합뉴스) 정수연 기자 = 편의점 이마트24는 장마철 주류와 생필품 소비 패턴에 과거와 다른 변동이 나타났다고 10일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260709170500030",
-      "publishedAt": "2026-07-09T22:05:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'공사장 아재옷' 옛말…\"2000억 연매출\" 도전장 낸 기업 [장서우의 하입:hype]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607096625i",
-      "publishedAt": "2026-07-09T22:00:03.000Z"
     }
   ]
 }
