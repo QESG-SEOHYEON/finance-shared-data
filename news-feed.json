@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-07-17T21:42:44.845Z",
+  "updatedAt": "2026-07-18T05:16:43.294Z",
   "historyDays": 7,
-  "count": 480,
+  "count": 475,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하반기 증시, 조정을 대비해야 하는 이유 [이주영의 시장을 꿰뚫는 기술]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607169724i",
+      "publishedAt": "2026-07-18T04:22:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "애플, 오픈AI 이직자에 경고장…'내부기밀 탈취' 공세",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071817917",
+      "publishedAt": "2026-07-18T04:16:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "칸 뒤집어 놓은 '쏘나타 조상님'…40년 만에 화려한 부활  [최수진의 모빌리티톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607169670g",
+      "publishedAt": "2026-07-18T04:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "하정우 \"AI로 고용 감소…초과 세수 청년성장에 투자해야\"",
+      "summary": "(서귀포=연합뉴스) 김윤구 기자 = 하정우 전 청와대 AI미래기획수석이 18일 인공지능(AI) 시대 고용 감소와 양극화에 대비해야 한다고 제언했...",
+      "link": "https://www.yna.co.kr/view/AKR20260718028800003",
+      "publishedAt": "2026-07-18T03:23:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "하정우 \"한국만의 AI 모델 앞세워 '지능 수출국' 나아가야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607181753i",
+      "publishedAt": "2026-07-18T02:56:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "송길영 작가 \"AI 시대 '김부장' 없어질 것…AI 활용 선택의 문제 아냐\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607181731i",
+      "publishedAt": "2026-07-18T02:05:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260718024900011",
+      "publishedAt": "2026-07-18T01:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "키옥시아, 美특허소송 패소로 3000억대 배상…주가 16% 폭락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026071817167",
+      "publishedAt": "2026-07-18T01:27:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "최휘영 장관 \"LA·뉴욕 등 대규모 공연장 운영권 확보 추진\"",
+      "summary": "(제주=연합뉴스) 조성흠 기자 = 최휘영 문화체육관광부 장관이 세계 주요 도시에 K-컬처의 거점이 될 대규모 공연장들을 확보하겠다는 구상을 소개...",
+      "link": "https://www.yna.co.kr/view/AKR20260718024700003",
+      "publishedAt": "2026-07-18T01:16:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[다음주 경제] 2분기 성장률 발표…1분기 깜짝 성장 이어갈까",
+      "summary": "(세종=연합뉴스) 이대희 배영경 한지훈 기자 = 다음주(7월 20∼24일)에는 한국 경제 전체를 조망할 수 있는 거시 지표가 공개된다.",
+      "link": "https://www.yna.co.kr/view/AKR20260718018400002",
+      "publishedAt": "2026-07-18T00:01:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "30평짜리 신축이 '1억5000만원'…삼성·LG '파격 승부수' [홍민성의 테토남]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607168114g",
+      "publishedAt": "2026-07-18T00:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "훠궈 열풍 탄 충칭맥주…말레이시아로 눈 돌린 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607106655i",
+      "publishedAt": "2026-07-18T00:00:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "충북 화장품기업 10개사, 미국 박람회서 156억원 수출계약",
+      "summary": "(청주=연합뉴스) 전창해 기자 = 충북의 화장품기업들이 최근 미국에서 열린 박람회에서 156억원 규모의 수출계약을 했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260716189000064",
+      "publishedAt": "2026-07-18T00:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "실적은 반토막인데…주가 213% 급등한 '애국 테마주' 운명은 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607171441i",
+      "publishedAt": "2026-07-18T00:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[IPO챗]'19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 7월 넷째 주(20~24일) 기업공개(IPO) 시장에서는 원료의약품(API) 전문기업 에이치엘지노믹스가 코스닥...",
+      "link": "https://www.yna.co.kr/view/AKR20260716187000008",
+      "publishedAt": "2026-07-18T00:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "월가 덮친 '중국산 AI' 쇼크…반도체 부활 기회 남았나 [월가 백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607181616i",
+      "publishedAt": "2026-07-17T23:29:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'이익 29% 성장' 2분기 어닝시즌의 '함정'은 [김현석의 퀵브리프]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607170541i",
+      "publishedAt": "2026-07-17T23:14:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "보험료보다 먼저 계산해야 할 것",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607160127i",
+      "publishedAt": "2026-07-17T23:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“전쟁나면 오른다더니, 고점 찍고 주르륵”…金값 반등도 쉽지 않다는데 [원자재로 살아남기]",
+      "summary": "지난해 전세계 모든 자산이 오르는 에브리싱 랠리(Everything Rally)가 진행되며 투자자들이 뭉칫돈을 싸들고 앞다퉈 금을 사들였다. 최고의 안전자산이라는 이름이 붙은 만큼..",
+      "link": "https://www.mk.co.kr/news/stock/12101313",
+      "publishedAt": "2026-07-17T22:54:25.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3650,198 +3802,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202607107963H",
       "publishedAt": "2026-07-11T06:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"자진신고는 자백\"…오너들 섣부른 도박에 기업 명줄 끊긴다 [대륙아주의 세무전략]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607108295i",
-      "publishedAt": "2026-07-11T05:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "고금리 장기화 부작용, 미국 하이일드 주목",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607107802i",
-      "publishedAt": "2026-07-11T05:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "이재용, 억만장자 모임서 포착…\"2028년까지 완판\" TSMC에 반격 [강경주의 테크X]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071069186",
-      "publishedAt": "2026-07-11T04:51:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "유가 떨어져도 목표주가는 줄상향…‘고배당 매력’ 다시 커지는 에쓰오일 [이주의 Bull기둥]",
-      "summary": "윤활기유 역대 최대 실적 전망 목표주가 최고 20만원까지 상향 내년까지 배당주 매력도 부각국제유가 하락에도 불구하고 올해 2분기 실적 서프라이즈에 대한 기대감에 에쓰오일(S-Oil..",
-      "link": "https://www.mk.co.kr/news/stock/12096045",
-      "publishedAt": "2026-07-11T04:23:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"요즘 누가 BMW 타나요\"…'하차감' 따지던 20대 돌변 [최수진의 모빌리티톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607108453g",
-      "publishedAt": "2026-07-11T04:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "벼랑 끝 회사, 개미들이 살렸다…모나미 대표 '눈물의 편지'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071191917",
-      "publishedAt": "2026-07-11T03:53:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스가 아니었다…한달 수익률 1~5위 '싹쓸이' 대반전 [이수의 ETF줌인]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071082776",
-      "publishedAt": "2026-07-11T03:26:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "어제의 동지가 오늘의 적…애플, 오픈AI에 결국 칼 빼들었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071191617",
-      "publishedAt": "2026-07-11T02:35:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“은행 예금 40조 어디로 갔나”…상반기 결산 끝나자 기업자금 대이동",
-      "summary": "일주일 만에 39조원 넘게 급감 결산 이후 운용처 재배치 영향지난 6월 말 반기 결산이 끝나자 주요 은행 요구불예금에서 약 40조원 규모의 자금이 빠져나간 것으로 나타났다. 반기 ..",
-      "link": "https://www.mk.co.kr/news/economy/12096015",
-      "publishedAt": "2026-07-11T02:04:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260711024100011",
-      "publishedAt": "2026-07-11T01:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "최고 전문가도 '당혹'…고3 뒤흔든 '오답률 74%' 킬러문항",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607119102i",
-      "publishedAt": "2026-07-11T01:11:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 미국 정부의 대미 투자 압박이 거세지는 가운데 미국 나스닥 상장에 성공한 SK하이닉스[000660]가 미국 내...",
-      "link": "https://www.yna.co.kr/view/AKR20260711021700003",
-      "publishedAt": "2026-07-11T01:06:36.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'뉴스 보고 모의투자' 울산 동구, 초등생 금융교육 진행",
-      "summary": "(울산=연합뉴스) 장지현 기자 = 울산 동구는 11일 구청 대강당에서 초등학교 4∼6학년 학생들을 대상으로 &apos;코스피 1만 시대, 우리 아이들을 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260710122600057",
-      "publishedAt": "2026-07-11T01:05:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "주가는 빠졌지만…'반도체 사이클' 아직 안 끝났다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607094827i",
-      "publishedAt": "2026-07-11T01:00:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "현대건설, 디에이치 방배 공개…주거서비스 'H 컬처클럽' 첫선",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 현대건설은 오는 9월 입주를 앞둔 서울 서초구 방배동 &apos;디에이치 방배&apos;에서 입주자 사전점검 행사인 &apos;디 에이치...",
-      "link": "https://www.yna.co.kr/view/AKR20260710139400003",
-      "publishedAt": "2026-07-11T01:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "대학 자퇴하고 주식 올인 23살 청년…수익률 170% 잭팟 비결",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607108491i",
-      "publishedAt": "2026-07-11T00:52:51.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개",
-      "summary": "(서울·세종=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(7월 12∼18일)에는 정부의 하반기 경제성장전략이 윤곽을 드러낸다. 한국은행 금...",
-      "link": "https://www.yna.co.kr/view/AKR20260711012900002",
-      "publishedAt": "2026-07-11T00:09:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "통상당국 '정상방문 취소 카드' 배수진…EU 철강 쿼터 방어",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 한국이 유럽연합(EU)과 철강 담판에서 선방할 수 있었던 배경에는 정상외교 일정까지 협상의 지렛대로 삼는 정부...",
-      "link": "https://www.yna.co.kr/view/AKR20260710168200003",
-      "publishedAt": "2026-07-11T00:01:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "최태원 \"메모리 사이클, 구조 변화\"…14일 CPI·워시·어닝 몰렸다 [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607118953i",
-      "publishedAt": "2026-07-10T23:10:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] “2055년 장기요양 보험료 3.6배 증가…지출 효율화 필요”",
-      "summary": "건보공단 연구용역보고서 30년 후 장기요양 재정 120조 지역사회 연계해 효율화 필요고령화로 인한 장기요양보험의 재정 부담이 2055년 120조원대까지 급증할 수 있다는 분석이 나..",
-      "link": "https://www.mk.co.kr/news/economy/12095942",
-      "publishedAt": "2026-07-10T23:03:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성은 왜 ADR 안하나요\"…증권가 \"가능성 낮을 것\" 이유 봤더니",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607107976i",
-      "publishedAt": "2026-07-10T23:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "SK하이닉스 '화려한 데뷔'…\"블록버스터급\" 나스닥 사장도 감탄",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071190037",
-      "publishedAt": "2026-07-10T22:53:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“반도체주 떨어졌다고요? 3배로 베팅”…레버리지 싹쓸이한 서학개미",
-      "summary": "반도체 3배 ‘속슬’ 2.3조원 사들여 순매수 상위권 레버리지가 휩쓸어 증권가선 “변동성 관리해야” 경고미국 증시가 출렁이자 서학개미(미국 증시에 투자하는 국내 개인 투자자)들은 ..",
-      "link": "https://www.mk.co.kr/news/stock/12095944",
-      "publishedAt": "2026-07-10T22:13:37.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "프리랜서도 고용보험 길 열린다…근로시간 아닌 보수기준 개편",
-      "summary": "고용보험법 개정령안 예고 합산제 신설…35만명이 혜택정부가 고용보험 가입 기준을 근로 시간에서 소득으로 개편한다. 월 보수 80만원 이상이면 근로 시간과 관계없이 고용보험에 가입할..",
-      "link": "https://www.mk.co.kr/news/economy/12095941",
-      "publishedAt": "2026-07-10T21:52:24.000Z"
     }
   ]
 }
