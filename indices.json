@@ -1,34 +1,18 @@
 {
-  "updatedAt": "2026-07-19T21:42:18.151Z",
+  "updatedAt": "2026-07-20T06:07:34.179Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 6820.6,
-      "previous": 7284.41,
-      "dayChange": -463.81,
-      "dayChangePct": -6.37,
-      "monthChangePct": -21.84,
-      "lastUpdated": "2026-07-16T09:05:40.000Z",
+      "current": 6507.91,
+      "previous": 6820.6,
+      "dayChange": -312.69,
+      "dayChangePct": -4.58,
+      "monthChangePct": -28.6,
+      "lastUpdated": "2026-07-20T05:47:30.000Z",
       "candles": [
-        {
-          "date": "2026-06-16",
-          "close": 8726.6
-        },
-        {
-          "date": "2026-06-17",
-          "close": 8864.24
-        },
-        {
-          "date": "2026-06-18",
-          "close": 9063.84
-        },
-        {
-          "date": "2026-06-19",
-          "close": 9052.42
-        },
         {
           "date": "2026-06-22",
           "close": 9114.55
@@ -104,6 +88,10 @@
         {
           "date": "2026-07-16",
           "close": 6820.6
+        },
+        {
+          "date": "2026-07-20",
+          "close": 6507.91
         }
       ]
     },
