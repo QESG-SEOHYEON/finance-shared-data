@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-07-23T05:45:42.316Z",
+  "updatedAt": "2026-07-23T11:45:47.446Z",
   "historyDays": 7,
-  "count": 481,
+  "count": 482,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "40대 여행가방서 10억 돈뭉치…해먹은 돈 반의 반도 안된다는데",
+      "summary": "국세청·관세청, 고액체납자 은닉재산 압류국세청과 관세청이 고액·악성 체납자에 대한 합동수색을 진행해 총 13억원 상당의 은닉 재산을 압류했다. 국세청과 관세청은 재산 은닉 혐의가 ..",
+      "link": "https://www.mk.co.kr/news/economy/12105939",
+      "publishedAt": "2026-07-23T11:39:43.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국민성장펀드, LG디스플레이에 1조원대 저리대출",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 국민성장펀드가 유기발광다이오드(OLED) 산업의 경쟁력 강화를 위해 LG디스플레이[034220]에 1조원대 저...",
+      "link": "https://www.yna.co.kr/view/AKR20260723190100002",
+      "publishedAt": "2026-07-23T11:18:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'1년 수익률 140%' 잭팟 터진 곳이…퇴직연금 '반전 결과'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607232361i",
+      "publishedAt": "2026-07-23T11:05:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"국민연금은 증시 부양·주가 방어용 아냐\"…김성주 작심발언",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072325516",
+      "publishedAt": "2026-07-23T11:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'왕사남 표절 의혹' 상영금지 가처분 기각…\"줄거리 전혀 달라\"",
+      "summary": "(서울=연합뉴스) 전재훈 기자 = 장항준 감독의 영화 &apos;왕과 사는 남자&apos;(왕사남)가 드라마 &apos;엄흥도&apos; 작가의 시나리오를 표절했다며 상영과 OTT...",
+      "link": "https://www.yna.co.kr/view/AKR20260723186100004",
+      "publishedAt": "2026-07-23T10:49:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "동아쏘시오, 동아제약 흡수합병",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072328781",
+      "publishedAt": "2026-07-23T10:41:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "ETF의 아버지가 삼닉 레버리지·곱버스 투자 말린 까닭은[한국의 위대한 투자자]",
+      "summary": "배재규 한국투자신탁운용 대표 1편지난달 말 국내 상장지수펀드(ETF) 순자산총액은 500조원을 넘어섰다. 이제 ETF는 개인투자자의 자산관리와 퇴직연금 운용의 핵심 투자수단으로 자..",
+      "link": "https://www.mk.co.kr/news/stock/12105868",
+      "publishedAt": "2026-07-23T10:06:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "오스코텍, 창업주 지분 상속 완료…아들 최대주주",
+      "summary": "(서울=연합뉴스) 박상현 기자 = 오스코텍[039200]은 창업주 고(故) 김정근 고문의 상속 절차가 마무리돼 아들인 김성연 씨와 특별 관계자가...",
+      "link": "https://www.yna.co.kr/view/AKR20260723183500017",
+      "publishedAt": "2026-07-23T09:58:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“생활비 부담에 이사갔는데”…이제 미국에 낙원은 없다[홍키자의 美쿡]",
+      "summary": "집값 상승이 만든 신조어 Californication의 의미43세 미국인 테리 길리엄 씨는 샌프란시스코 베이 에어리어(Bay Area)에서 35년을 살았습니다. 그런데 2021년 ..",
+      "link": "https://www.mk.co.kr/news/world/12105858",
+      "publishedAt": "2026-07-23T09:55:20.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "토비스의 네오뷰, 코스닥 시장 분할재상장",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소는 네오뷰의 코스닥시장 분할 재상장을 승인했다고 23일 밝혔다. 거래는 오는 27일부터 가능하다.",
+      "link": "https://www.yna.co.kr/view/AKR20260723177600008",
+      "publishedAt": "2026-07-23T09:39:34.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미래에셋증권, 5천24억원 자사주 소각…\"역대 최대 규모\"",
+      "summary": "(서울=연합뉴스) 임은진 기자 = 미래에셋증권[006800]은 5천억원이 넘는 규모의 자사주를 소각하기로 했다고 23일 공시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260723178300008",
+      "publishedAt": "2026-07-23T09:38:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "李 \"전세대출이 집값 폭등 원인… 청년·신혼부부 핀셋 지원\" [퇴근길 30초 경제]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607232800H",
+      "publishedAt": "2026-07-23T09:30:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자 노사, 특별경영성과급 일부 사회공헌에 쓴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326271",
+      "publishedAt": "2026-07-23T09:25:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "현대차, 브라질 산림 조성·의료 지원 확대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326161",
+      "publishedAt": "2026-07-23T09:24:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "대신송촌재단, 아산병원에 암 치료 기금 전달",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326191",
+      "publishedAt": "2026-07-23T09:23:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "하나금융 '다문화가정대상' 시상식",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326181",
+      "publishedAt": "2026-07-23T09:21:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "HSAD, 관광공사와 AI 마케팅 MOU",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326291",
+      "publishedAt": "2026-07-23T09:20:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[인기검색TOP5] 휴림에이텍, SK이터닉스, NAVER, 삼성전기, SK하이닉스",
+      "summary": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 휴림에이텍 +29.92%, SK이터닉스 +22.26%, ..",
+      "link": "https://www.mk.co.kr/news/stock/12105833",
+      "publishedAt": "2026-07-23T09:17:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한국투자증권, K리그1 FC서울 ‘스페셜데이’ 개최... 아동복지시설 어린이 초청",
+      "summary": "한국투자증권은 지난 22일 서울 월드컵경기장에서 열린 K리그1 FC서울과 포항 스틸러스의 경기에서 아동복지시설 아동과 고객 및 임직원을 초대한 ‘한국투자증권 스페셜데이’ 행사를 열..",
+      "link": "https://www.mk.co.kr/news/stock/12105831",
+      "publishedAt": "2026-07-23T09:11:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성바이오, 2분기 영업익 역대 최대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326731",
+      "publishedAt": "2026-07-23T09:07:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "플라즈맵, 70억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 플라즈맵이 70억 1280원 규모의 제3자배정증자를 실시한다고 2026년 7월 23일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 153만 5088주, ..",
+      "link": "https://www.mk.co.kr/news/stock/12105826",
+      "publishedAt": "2026-07-23T09:06:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "아리바이오LAB, 20억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 아리바이오LAB이 19억 9999만 9749원 규모의 제3자배정증자를 실시한다고 2026년 7월 23일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 94..",
+      "link": "https://www.mk.co.kr/news/stock/12105827",
+      "publishedAt": "2026-07-23T09:06:15.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 李대통령 &quot;보유세강화 대체적 동의…어느 정도와 범위인지 중요&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260723172900011",
+      "publishedAt": "2026-07-23T09:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반도체의 힘…韓 2분기 성장률 0.6%",
+      "summary": "반도체 수출 호조에 힘입어 한국 경제가 올해 2분기 전 분기 대비 0.6% 성장했다. 전년 동기 대비 성장률로는 3.7%에 달한다. 이에 따라 실질 국내총소득(GDI)은 전년 동..",
+      "link": "https://www.mk.co.kr/news/economy/12105791",
+      "publishedAt": "2026-07-23T08:55:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "박현주의 가상자산 승부수…\"코빗→디지털X로 사명 변경\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326206",
+      "publishedAt": "2026-07-23T08:54:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "영업이익 흑자 전환 OCI홀딩스 '상한가'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072326401",
+      "publishedAt": "2026-07-23T08:51:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[포토] 신복위, 취약계층 여름나기 응원",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12105770",
+      "publishedAt": "2026-07-23T08:50:56.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "하나·농협銀 예금금리 인상 1년 만기상품 연 3%대로 쑥",
+      "summary": "한국은행 기준금리 인상에 맞춰 5대 시중은행(KB국민·신한·하나·우리·NH농협)이 예·적금 금리를 잇달아 올리며 연 3%대 예금 상품이 다시 확산하고 있다. 23일 금융권에 따르면..",
+      "link": "https://www.mk.co.kr/news/economy/12105767",
+      "publishedAt": "2026-07-23T08:50:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "트립닷컴서 신한카드 쓰면 최대 20% 호텔숙박비 할인",
+      "summary": "신한카드가 트립닷컴 고객을 대상으로 최대 20%의 호텔 할인 혜택을 제공한다. 신한카드는 글로벌 온라인 여행 플랫폼 트립닷컴과 프리미엄 여행 혜택 강화를 위한 전략적 업무협약을 체..",
+      "link": "https://www.mk.co.kr/news/economy/12105768",
+      "publishedAt": "2026-07-23T08:50:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "대출규제 풍선효과에…당국, 車담대도 조인다",
+      "summary": "올해 들어 가계대출을 조이고 있는 금융당국이 지난해 6·27 대출 규제 이후 풍선효과로 부각돼 온 자동차담보대출에 대해서도 관리를 강화하기로 했다. 담보인정비율이 100%가 넘는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12105769",
+      "publishedAt": "2026-07-23T08:50:55.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3618,238 +3858,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026071692556",
       "publishedAt": "2026-07-16T13:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합3보)",
-      "summary": "(서울·세종=연합뉴스) 배영경 이대희 김지연 기자 = 앞으로 단일종목 레버리지 상장지수펀드(ETF)를 매매하려면 기본예탁금으로 현금 3천만원이 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260716165353002",
-      "publishedAt": "2026-07-16T11:33:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[단독] 삼닉 레버리지 예탁금 … 3배 높여 3천만원으로",
-      "summary": "앞으로 국내 투자자가 국내 증권사를 통해 단일종목 레버리지 상장지수펀드(ETF)·상장지수증권(ETN)을 새로 사거나 추가로 매수하려면 계좌에 현금을 3000만원 이상 보유해야 한다..",
-      "link": "https://www.mk.co.kr/news/stock/12100671",
-      "publishedAt": "2026-07-16T11:07:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'부산병' 걸린 외국인 많다더니…'매출 230% 폭증' 대박 터졌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071601551",
-      "publishedAt": "2026-07-16T11:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“홀짝홀짝 증시에 없던 병 생길 판”…7천피 붕괴이유 있다는데",
-      "summary": "코스피 6.3% 급락에 7000선 반납 모건스탠리 “데이터센터 건설 잇단 취소” AI인프라투자 회의론에 삼전닉스 주가 뚝 기준금리 인상에 외국인·기관 매물폭탄코스피가 한국은행의 기..",
-      "link": "https://www.mk.co.kr/news/stock/12100641",
-      "publishedAt": "2026-07-16T10:16:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"취약계층·영세업자 지원 확대\"…삼성, 2000억 출연",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071601451",
-      "publishedAt": "2026-07-16T10:08:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이세돌 \"신진서, 접바둑서 AI 이길것\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071601401",
-      "publishedAt": "2026-07-16T10:06:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "신한은행, 공무원연금공단과 업무협약",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071601461",
-      "publishedAt": "2026-07-16T10:04:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "금융위 \"단일종목 레버리지 외화유출 방지효과 분명 있어\"",
-      "summary": "(서울=연합뉴스) 배영경 김지연 기자 = 금융위원회는 16일 단일종목 레버리지 상장지수펀드(ETF)가 해외증시로의 외화 유출을 막는 효과가 있었...",
-      "link": "https://www.yna.co.kr/view/AKR20260716201700002",
-      "publishedAt": "2026-07-16T10:03:13.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합2보)",
-      "summary": "(서울·세종=연합뉴스) 배영경 이대희 김지연 기자 = 앞으로 단일종목 레버리지 상장지수펀드(ETF)를 매매하려면 기본예탁금으로 현금 3천만원이 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260716165352002",
-      "publishedAt": "2026-07-16T10:01:36.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"웃돈 줘도 못 구해\" 결국 터질게 터졌다…광주에 무슨 일이",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602031",
-      "publishedAt": "2026-07-16T10:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "성평등전담부서 15개 부처에 신설…고용평등공시 법근거 마련(종합)",
-      "summary": "(서울=연합뉴스) 홍준석 기자 = 정부가 성평등 정책을 전담하는 부서를 15개 부처에 새로 설치하고, 성별 임금 현황과 고용 실태를 공개하는 고...",
-      "link": "https://www.yna.co.kr/view/AKR20260716024051530",
-      "publishedAt": "2026-07-16T09:58:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“연금으로 단타 치다간 노후 끝장납니다”…변동성 시대 생존 투자법 [매달 연금 500만원 받는법]",
-      "summary": "매달 연금 500만원 받는법 6회“요즘은 하루에도 수천만 원씩 왔다 갔다 합니다.” 지난해 대기업에서 퇴직한 최 씨는 퇴직금을 퇴직연금계좌(IRP)로 받아 약 3억 원을 주식형 상..",
-      "link": "https://www.mk.co.kr/news/economy/12100620",
-      "publishedAt": "2026-07-16T09:43:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "TSMC, 또 최대 실적…'AI 고점론' 불식하나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602111",
-      "publishedAt": "2026-07-16T09:39:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "오픈AI보다 먼저…앤트로픽, 10월 상장 추진",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602091",
-      "publishedAt": "2026-07-16T09:36:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "씨티 \"한은, 8월에도 기준금리 올릴 듯\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071603317",
-      "publishedAt": "2026-07-16T09:35:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "올 합병 성공 5건 불과…스팩, 줄줄이 상폐·청산",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602071",
-      "publishedAt": "2026-07-16T09:35:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "메모리 휘청이자 코스피 '뚝'…7천피, 하루 만에 무너졌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602101",
-      "publishedAt": "2026-07-16T09:33:20.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "해상풍력 인프라 항만에 구축…호남 반도체 클러스터 지원",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 해상 풍력산업 성장을 지원하기 위한 부두가 목포항을 비롯한 일부 국내 항만에 건립된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260716194800051",
-      "publishedAt": "2026-07-16T09:18:57.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "허영 의원·육동한 춘천시장, 국토부 장관 만나 미래사업 건의",
-      "summary": "(춘천=연합뉴스) 이상학 기자 = 더불어민주당 허영 의원(춘천·철원·화천·양구갑)과 육동한 춘천시장은 16일 김윤덕 국토교통부 장관을 만나 핵심...",
-      "link": "https://www.yna.co.kr/view/AKR20260716195500062",
-      "publishedAt": "2026-07-16T09:18:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "충북도·청주시, GC녹십자와 5천300억원 규모 투자협약(종합)",
-      "summary": "(청주·서울=연합뉴스) 전창해 신선미 기자 = GC녹십자가 미국 피하주사형 면역글로불린(SCIG) 인프라 구축을 본격화한다.",
-      "link": "https://www.yna.co.kr/view/AKR20260716181651064",
-      "publishedAt": "2026-07-16T09:18:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"트럼프의 '기축통화 탓'은 틀렸다\" [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602041",
-      "publishedAt": "2026-07-16T09:10:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"미장이 답인가\"…'국장 복귀는 지능 순' 외치던 개미들 돌변",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071602151",
-      "publishedAt": "2026-07-16T09:05:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "진영, 5억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 진영이 4억 9999만 8897원 규모의 제3자배정증자를 실시한다고 2026년 7월 16일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 49만 1641주..",
-      "link": "https://www.mk.co.kr/news/stock/12100586",
-      "publishedAt": "2026-07-16T08:56:17.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "태양광 경쟁입찰 상한가 5% 인하",
-      "summary": "정부가 태양광 고정가격계약 경쟁입찰 상한가격을 전년 대비 하향 조정했다. 16일 기후에너지환경부는 2026년도 제1차 태양광 고정가격계약 경쟁입찰을 공고한다고 밝혔다. 총 공고 용..",
-      "link": "https://www.mk.co.kr/news/economy/12100585",
-      "publishedAt": "2026-07-16T08:55:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12100583",
-      "publishedAt": "2026-07-16T08:55:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "KB국민銀, 코스닥협회와 코스닥 시장 활성화 MOU",
-      "summary": "KB국민은행이 코스닥 상장기업에 대한 생산적 금융 지원을 확대하고 기업금융과 자본시장 서비스를 연계한 맞춤형 솔루션을 제공한다. KB국민은행은 지난 15일 코스닥협회와 '코스닥시장..",
-      "link": "https://www.mk.co.kr/news/economy/12100580",
-      "publishedAt": "2026-07-16T08:55:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 삼성화재·강북삼성병원, 고객 맞춤 라이프케어 센터 설립",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12100581",
-      "publishedAt": "2026-07-16T08:55:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "벡트, 84억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 벡트가 83억 5011만 5530원 규모의 제3자배정증자를 실시한다고 2026년 7월 16일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 367만 361..",
-      "link": "https://www.mk.co.kr/news/stock/12100573",
-      "publishedAt": "2026-07-16T08:55:17.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "우성머티리얼스, 10억원 규모 유상증자 실시",
-      "summary": "유가증권시장 상장사 우성머티리얼스가 9억 9999만 7680원 규모의 제3자배정증자를 실시한다고 2026년 7월 16일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 4..",
-      "link": "https://www.mk.co.kr/news/stock/12100575",
-      "publishedAt": "2026-07-16T08:55:17.000Z"
     }
   ]
 }
