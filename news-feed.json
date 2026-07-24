@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-07-24T05:41:40.321Z",
+  "updatedAt": "2026-07-24T11:37:01.714Z",
   "historyDays": 7,
-  "count": 503,
+  "count": 511,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“이번주 내내 사이드카, 국장 못하겠습니다”…저점매수 했더니 지하실로",
+      "summary": "코스피·코스닥 5%대 하락 국제유가 급등에 투심 악화 美FOMC 금리인상 우려도 삼전 7%·하닉 8% 떨어져삼전닉스를 비롯한 국내 반도체주 투자 심리가 위축되면서 국내 증시가 연일..",
+      "link": "https://www.mk.co.kr/news/stock/12107013",
+      "publishedAt": "2026-07-24T11:19:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "러, 기준금리 14.0%로 인하…10차례 잇달아 내려",
+      "summary": "(이스탄불=연합뉴스) 김동호 특파원 = 러시아 중앙은행은 24일(현지시간) 이사회 회의를 통해 기준금리를 14.25%에서 14.00%로 0.25...",
+      "link": "https://www.yna.co.kr/view/AKR20260724174200108",
+      "publishedAt": "2026-07-24T11:08:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국내생산 稅지원서 전기차 빠질듯",
+      "summary": "정부가 국내 생산분에 대해 일정 부분 세제 혜택을 주는 국내생산촉진세제 적용 대상에서 전기차를 제외하는 방안을 검토하고 있다. 재원 부족과 구매 보조금 등 중복 지원, 다른 나라와..",
+      "link": "https://www.mk.co.kr/news/economy/12106997",
+      "publishedAt": "2026-07-24T11:02:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "규합위,'대주주 적격성' 개선권고…두나무·네이버 '숨통'",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 대통령 직속 규제합리화위원회(규합위)가 특정금융정보법(특금법) 시행령 개정안에 담긴 가상자산사업자 대주주 적격...",
+      "link": "https://www.yna.co.kr/view/AKR20260724168800002",
+      "publishedAt": "2026-07-24T10:30:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "석유최고가 동결 … 휘발유 1800원대 전망",
+      "summary": "정부가 향후 한 달간 석유제품 최고가격을 현 수준에서 유지하기로 했다. 또 정유사들은 수에즈 운하를 통한 원유 수급을 검토하고 나섰다. 24일 양기욱 산업통상부 산업자원안보실장은 ..",
+      "link": "https://www.mk.co.kr/news/economy/12106955",
+      "publishedAt": "2026-07-24T10:01:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성전자 환급 덕에 '1위' 등극…수요 폭발한 '뜻밖의 회사'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449301",
+      "publishedAt": "2026-07-24T10:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "8차 석유 최고가격 동결…\"필요시 비축유 스와프 제도 재도입\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607244330i",
+      "publishedAt": "2026-07-24T10:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"중동 확전 땐 유가 140弗 넘어\"…석유 최고가격제 유지한다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072450621",
+      "publishedAt": "2026-07-24T10:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "8차 석유 최고가격 동결…국제유가 급등에 출구전략 일단 정지",
+      "summary": "(세종=연합뉴스) 장보인 기자 = 일부 유종의 국제유가가 배럴당 100달러를 넘어서자 정부가 25일부터 적용되는 8차 석유 최고가격을 동결하기로...",
+      "link": "https://www.yna.co.kr/view/AKR20260724136600003",
+      "publishedAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "10년 전 판 해외법인 삼성생명 다시 품는다",
+      "summary": "삼성생명이 10여 년 전 자회사인 삼성자산운용에 넘겼던 미국 뉴욕·영국 런던법인을 다시 품는다. 저출생·고령화로 국내 보험시장의 성장세가 둔화한 가운데 글로벌 금융 중심지에 직접 ..",
+      "link": "https://www.mk.co.kr/news/economy/12106954",
+      "publishedAt": "2026-07-24T09:33:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "LG, 에티오피아 참전용사 위해…강뉴합창단 전용 연습실 조성",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072450021",
+      "publishedAt": "2026-07-24T09:24:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "감사 잘하는 중견 회계법인도 대형 상장사 맡는다…‘군 상향 특례’ 도입",
+      "summary": "금융위 ‘외부감사 규정’ 변경 감사품질 평가 우수 나군 법인 ‘특례가군’ 지정 대형 회계법인에 외부전문가 중심 감독위 의무화앞으로 감사품질이 우수한 중견 회계법인도 자산 2조원 ..",
+      "link": "https://www.mk.co.kr/news/stock/12106953",
+      "publishedAt": "2026-07-24T09:21:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'브랜드 오타쿠' 조 대표는 'CDeO'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072450251",
+      "publishedAt": "2026-07-24T09:17:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'빅데이터 패션'의 힘…무신사 PB도 급성장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072450241",
+      "publishedAt": "2026-07-24T09:16:51.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "5대금융 상반기 순이익 13조 넘겨…'역대 최대' 실적 행렬",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 5대 금융지주(KB·신한·하나·우리·NH농협)가 올해 상반기 13조원이 넘는 당기순이익을 기록하며 역대 최대 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260723180200002",
+      "publishedAt": "2026-07-24T09:10:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 월세가격까지 치솟자…정부, 월세 세액공제 혜택 늘린다",
+      "summary": "부동산 시장에서 월세가격이 지속적으로 오르자 정부가 월세 세액공제 혜택을 더욱 늘리기로 했다. 임차인의 주거비 부담을 일부나마 완화해주기 위해서다. 24일 정부 관계자에 따르면 재..",
+      "link": "https://www.mk.co.kr/news/economy/12106950",
+      "publishedAt": "2026-07-24T09:05:28.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "오세훈 시장, 김윤덕 국토부장관 만나 주택공급 방안 논의",
+      "summary": "(서울·세종=연합뉴스) 황재하 오진송 기자 = 이재명 정부의 부동산 정책 기조를 비판해온 오세훈 서울시장이 김윤덕 국토교통부 장관을 만나 주택공...",
+      "link": "https://www.yna.co.kr/view/AKR20260724162500004",
+      "publishedAt": "2026-07-24T09:02:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[단독] 범LG가 3세가 이끄는 VC 푸른인베, IPO 추진",
+      "summary": "[본 기사는 07월 24일(15:59) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 범LG가인 푸른그룹 계열의 벤처캐피탈(VC) 푸른인베스트먼트가 기업공개..",
+      "link": "https://www.mk.co.kr/news/stock/12106944",
+      "publishedAt": "2026-07-24T09:00:52.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 與, &apos;보완수사권 포함 檢 직접수사 폐지&apos; 형소법 개정 당론 추인",
+      "link": "https://www.yna.co.kr/view/AKR20260724155900011",
+      "publishedAt": "2026-07-24T09:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 외국환율고시표",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12106934",
+      "publishedAt": "2026-07-24T08:56:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] \"불법사금융 신고하세요\" 금융위, 포상금제도 운영",
+      "summary": "온라인 대출중개 플랫폼에서 정상적인 대부업체인 것처럼 광고하지만, 실제론 불법사금융업체에 정보를 넘기는 악성업체를 근절하기 위해 포상금 제도가 도입된다. 피해자가 자신도 모르는 새..",
+      "link": "https://www.mk.co.kr/news/economy/12106932",
+      "publishedAt": "2026-07-24T08:56:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "유가 뛰자 7천피 하루 만에 붕괴",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449671",
+      "publishedAt": "2026-07-24T08:49:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼닉 레버리지 예탁금… 31일부터 3천만원 상향",
+      "summary": "삼성전자와 SK하이닉스 단일종목 레버리지 상장지수펀드(ETF)·상장지수증권(ETN)을 사려면 당초 발표보다 빠른 오는 31일부터 계좌에 현금 3000만원 이상을 보유해야 한다. 다..",
+      "link": "https://www.mk.co.kr/news/stock/12106903",
+      "publishedAt": "2026-07-24T08:48:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"급등락 현기증난다\"… 5일연속 사이드카",
+      "summary": "삼전닉스를 비롯한 국내 반도체주 투자 심리가 위축되면서 국내 증시가 연일 급등락 장세를 연출하며 널뛰기 하고 있다. 이번주 들어서는 사이드카가 매일 발동되는 진기록도 세웠다. 24..",
+      "link": "https://www.mk.co.kr/news/stock/12106904",
+      "publishedAt": "2026-07-24T08:48:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼성重 영업익 59% 늘어 3250억",
+      "summary": "삼성중공업이 생산 역량을 강화하며 올 2분기 실적 개선에 성공했다. 24일 삼성중공업은 연결 기준 올해 2분기 영업이익이 3250억원으로 지난해 같은 기간보다 58.7% 증가한 ..",
+      "link": "https://www.mk.co.kr/news/stock/12106899",
+      "publishedAt": "2026-07-24T08:48:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "재산분할금 필요한 최태원…\"SKT 배당확대 유력\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449631",
+      "publishedAt": "2026-07-24T08:48:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼전·현대차 최대비중 '로봇 ETF' 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449661",
+      "publishedAt": "2026-07-24T08:46:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"돈 벌어도 현금이 마른다\"…AI 투자 청구서 받은 빅테크",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449227",
+      "publishedAt": "2026-07-24T08:45:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "31일부터 '현금 3천만원' 있어야 삼전닉스 레버리지ETF 거래",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449201",
+      "publishedAt": "2026-07-24T08:39:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성發 로봇 붐…ETF 시장도 들썩 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449181",
+      "publishedAt": "2026-07-24T08:38:48.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3850,182 +4090,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202607171368i",
       "publishedAt": "2026-07-17T12:15:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"주식 계좌 녹아요\" 눈물 흘리더니…개미 돈 다시 몰리는 곳 [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071694066",
-      "publishedAt": "2026-07-17T09:59:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "수억대 연봉 '네오 블루칼라'…젠슨 황의 전망, 현실로 성큼",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712001",
-      "publishedAt": "2026-07-17T08:56:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "얼굴 스캔하는데, 개인정보 유출되면 어쩌나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712201",
-      "publishedAt": "2026-07-17T08:56:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "정중동 전략?…'얼굴' 안 내미는 카카오페이",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712191",
-      "publishedAt": "2026-07-17T08:56:26.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "美기업 5~6곳 韓상장 논의 … K증시 글로벌화 발판 될듯",
-      "summary": "한국거래소와 뉴욕증권거래소(NYSE)가 22년 만에 새 업무협약(MOU)을 추진하는 것은 양측이 그동안의 선언적인 교류 관계에서 실질적인 협력 관계로 전환한다는 점에서 의미를 갖는..",
-      "link": "https://www.mk.co.kr/news/stock/12101134",
-      "publishedAt": "2026-07-17T08:56:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "中 병원, 환자 데이터 본격 판매…AI 학습용 의료정보 거래 확산",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712361",
-      "publishedAt": "2026-07-17T08:55:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[단독] 韓美거래소 8월 MOU …\"24시간 거래체계 협력\"",
-      "summary": "한국거래소가 미국 뉴욕증권거래소(NYSE)와 24시간 거래체계 협력 등을 담은 업무협약(MOU) 체결에 나선다. 2004년 양측이 포괄적 업무협약을 맺은 지 22년 만에 협력 틀을..",
-      "link": "https://www.mk.co.kr/news/stock/12101114",
-      "publishedAt": "2026-07-17T08:50:31.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "금리인상 후폭풍 … 고령층부터 타격",
-      "summary": "한국은행이 기준금리를 2.75%로 인상하며 긴축 통화정책으로 선회한 가운데 향후 시장금리가 따라 오를 때 고령층에 먼저 충격이 가해질 수 있다는 전망이 제기된다. 전체 취약차주 5..",
-      "link": "https://www.mk.co.kr/news/economy/12101110",
-      "publishedAt": "2026-07-17T08:50:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "화장률 95% 넘었는데…수도권 시설 부족해 '원정 화장'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712031",
-      "publishedAt": "2026-07-17T08:49:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "日키옥시아 시총 반토막…亞 반도체 일제히 급락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712541",
-      "publishedAt": "2026-07-17T08:48:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "TSMC 호실적도 못막은 반도체株 급락 … 亞증시 검은 금요일",
-      "summary": "미국 반도체주 급락 여파가 아시아 증시 전반으로 확산하면서 일본·대만 증시가 17일 큰 폭으로 하락했다. 이날 일본 증시에서 키옥시아홀딩스는 전 거래일 대비 16.1% 급락해 지난..",
-      "link": "https://www.mk.co.kr/news/stock/12101092",
-      "publishedAt": "2026-07-17T08:44:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "국내 ETF 시총 한달새 80조 증발",
-      "summary": "증시 상승을 견인해온 반도체주의 급락으로 국내 상장 ETF(상장지수펀드) 시가총액이 고점 대비 80조원 증발했다. 국내 반도체주를 담은 ETF는 증시 하락장의 직격탄을 맞았지만, ..",
-      "link": "https://www.mk.co.kr/news/stock/12101091",
-      "publishedAt": "2026-07-17T08:44:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "은행 대출 조이자… DSR 적용 안받는 서민급전대출 '껑충'",
-      "summary": "정부가 가계대출 관리를 위해 신용대출 문턱을 높이자 차주 단위 총부채원리금상환비율(DSR) 산정에서 제외되는 300만원 이하의 서민급전대출(소액신용대출)이 급증세다. 경기 침체에 ..",
-      "link": "https://www.mk.co.kr/news/economy/12101087",
-      "publishedAt": "2026-07-17T08:43:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "中企 연체율, 대기업의 4배 … 금리인상 기조에 '좌불안석'",
-      "summary": "본격적인 기준금리 인상 사이클이 시작되면서 경기 침체와 소비 부진 등으로 어려움을 겪고 있는 중소기업과 자영업자들의 재정 부담이 더 커질 것으로 보인다. 가뜩이나 연체율이 치솟는 ..",
-      "link": "https://www.mk.co.kr/news/economy/12101086",
-      "publishedAt": "2026-07-17T08:43:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "60대이상 취약차주 빚 평균 1억원 … 30대보다 2배 많아",
-      "summary": "\"취약차주 문제는 항상 염두에 두고 있다. 이 부분이야말로 정부와 금융당국의 조화로운 정책이 중요하다.\" 신현송 한국은행 총재는 지난 16일 기준금리 인상을 결정한 금융통화위원회 ..",
-      "link": "https://www.mk.co.kr/news/economy/12101085",
-      "publishedAt": "2026-07-17T08:43:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'제미나이 3.5 프로' 출시 지연에 실망…알파벳 휘청",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071712241",
-      "publishedAt": "2026-07-17T08:38:33.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12101076",
-      "publishedAt": "2026-07-17T08:32:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "힘빠진 현대카드 애플페이…신규등록 '뚝'",
-      "summary": "국내 유일한 애플페이 파트너인 현대카드의 신규 고객이 빠르게 줄어든 것으로 나타났다. 3년 전 출시 당시 돌풍을 일으켰던 애플페이의 성장성이 이제 정체 국면에 접어든 것 아니냐는 ..",
-      "link": "https://www.mk.co.kr/news/economy/12101074",
-      "publishedAt": "2026-07-17T08:32:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "구글 '제미나이 3.5 프로' 출시 지연에 알파벳 주가 4% 넘게 하락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607171084i",
-      "publishedAt": "2026-07-17T06:58:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "AI 우려에 무너진 키옥시아·TSMC…아시아 증시, '검은 금요일'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607170983i",
-      "publishedAt": "2026-07-17T06:55:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "7월 주가 상승을 기대해도 좋은 이유 [조윤남의 사이클투자]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607131754i",
-      "publishedAt": "2026-07-17T06:36:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "■ 트럼프 &quot;中, 2020년 대선 광범위 개입&quot;…美언론들 &quot;음모론 재탕&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260717037200011",
-      "publishedAt": "2026-07-17T06:00:00.000Z"
     }
   ]
 }
