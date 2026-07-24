@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-07-24T11:37:01.714Z",
+  "updatedAt": "2026-07-24T21:57:24.480Z",
   "historyDays": 7,
-  "count": 511,
+  "count": 512,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국민 64% “삼닉과 레버리지는 잘못된 만남”…31일부터 불개미 막는다",
+      "summary": "예탁금 현금 1000만→3000만원 상향 당초 내달 5일서 이달 31일에 조기시행 리얼미터 여론조사 “도입 잘못” 64.7%삼성전자와 SK하이닉스 단일종목 레버리지 상장지수펀드(E..",
+      "link": "https://www.mk.co.kr/news/stock/12107172",
+      "publishedAt": "2026-07-24T21:12:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“증시 오르든지 내리든지 우린 버니까”…5대금융 13조 벌었다",
+      "summary": "금융지주, 상반기 사상최대 실적 KB·신한 증권기여 확 늘고 하나·우리는 은행 홀로 선전 증권 순익 1조 육박 농협금융 우리금융 제치고 지주 4위로5대 금융그룹이 올해 상반기 13..",
+      "link": "https://www.mk.co.kr/news/economy/12107171",
+      "publishedAt": "2026-07-24T21:12:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"속옷 보이겠다\" 난색에도 불티…요즘 Z세대 '인싸템' 뭐길래",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607244643i",
+      "publishedAt": "2026-07-24T21:01:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "규제 피하고 돈 많은 곳 찾아…韓스타트업 193곳, 美에 둥지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072449371",
+      "publishedAt": "2026-07-24T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘AI 고속도로’ 병목 해결사…미국 광통신株 성장성 눈부시네",
+      "summary": "美 광통신 ETF 엇갈리는 포트폴리오인공지능(AI) 격전지가 그래픽처리장치(GPU)에서 데이터를 빛의 속도로 전송하는 ‘광통신’ 인프라로 이동하고 있다. 그러면서 국내 자산운용사도..",
+      "link": "https://www.mk.co.kr/news/stock/12106951",
+      "publishedAt": "2026-07-24T20:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증시 아직 덜 빠졌다?...실적 좋아도 주가 못 오르는 이유 [월가 백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607255234i",
+      "publishedAt": "2026-07-24T19:06:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "EU, 러시아산 LNG 韓수입 제재 면제",
+      "summary": "유럽연합(EU)의 러시아 제재로 국내 수입에 차질이 생길 뻔한 러시아산 액화천연가스(LNG) 20일분이 무사히 공급될 것으로 보인다. 24일 산업통상부는 23일 EU 이사회가 한국..",
+      "link": "https://www.mk.co.kr/news/economy/12107089",
+      "publishedAt": "2026-07-24T14:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "네이버파이낸셜-두나무 빅딜 '청신호'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072451971",
+      "publishedAt": "2026-07-24T13:31:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"실시간 돈 삭제\" 개미들 레버리지 쓸어담더니…확 달라졌다 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072447376",
+      "publishedAt": "2026-07-24T13:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "러시아산 LNG 수입 EU 제재 면제... 韓 LNG 200만t 수입 ‘청신호’",
+      "summary": "EU 이사회, LNG 제재서 한국행 예외 신설 한-EU 정상회담서 논의되며 물꼬 트여유럽연합(EU)의 러시아 제재로 국내 수입에 차질이 생길 뻔한 러시아산 액화천연가스(LNG) 2..",
+      "link": "https://www.mk.co.kr/news/economy/12107028",
+      "publishedAt": "2026-07-24T12:00:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"한국판 세기의 이혼\"…최태원·노소영 판결에 외신도 관심",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072451617",
+      "publishedAt": "2026-07-24T11:52:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"반도체 세수, 잘 써야 한다\"…미래대응기금 띄운 김용범",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072451607",
+      "publishedAt": "2026-07-24T11:37:57.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -10,6 +106,14 @@
       "summary": "코스피·코스닥 5%대 하락 국제유가 급등에 투심 악화 美FOMC 금리인상 우려도 삼전 7%·하닉 8% 떨어져삼전닉스를 비롯한 국내 반도체주 투자 심리가 위축되면서 국내 증시가 연일..",
       "link": "https://www.mk.co.kr/news/stock/12107013",
       "publishedAt": "2026-07-24T11:19:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "네이버-두나무 '빅딜' 청신호…규합위, 특금법 개정안 개선 권고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607245147i",
+      "publishedAt": "2026-07-24T11:15:25.000Z"
     },
     {
       "source": "연합뉴스",
@@ -3994,102 +4098,6 @@
       "summary": "지난해 전세계 모든 자산이 오르는 에브리싱 랠리(Everything Rally)가 진행되며 투자자들이 뭉칫돈을 싸들고 앞다퉈 금을 사들였다. 최고의 안전자산이라는 이름이 붙은 만큼..",
       "link": "https://www.mk.co.kr/news/stock/12101313",
       "publishedAt": "2026-07-17T22:54:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부동산캘린더] 내주 전국 8천905가구 분양…이달 들어 최다",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 이달 들어 한산했던 분양시장에 다음 주 다시 많은 물량이 공급된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260717043200003",
-      "publishedAt": "2026-07-17T21:31:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "본예산도 다 못썼는데 웬 추경?…뻥튀기로 신청해 허겁지겁 소진",
-      "summary": "국회예산정책처 2025년 결산 분석정부가 고용 악화와 중동전쟁 위기에 대응하기 위해 지난해 두 차례 추가경정예산(추경)을 편성했다. 그러나 추경에 편성된 항목 중 일부는 실제 수요..",
-      "link": "https://www.mk.co.kr/news/economy/12101289",
-      "publishedAt": "2026-07-17T21:12:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "주된 일자리 퇴직 후 연금 받기까지 '소득 절벽' 13년",
-      "summary": "(서울=연합뉴스) 서한기 기자 = 국내 중·고령층이 평생 일해 온 주된 일자리에서 은퇴하는 나이는 평균 52세에 불과하지만, 노후 생활비 마련을...",
-      "link": "https://www.yna.co.kr/view/AKR20260717031800530",
-      "publishedAt": "2026-07-17T21:11:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026071713427",
-      "publishedAt": "2026-07-17T21:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "연매출 5억서 84억으로…안동 종갓집 며느리의 성공 스토리 [이광식의 거상열전]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607170604i",
-      "publishedAt": "2026-07-17T21:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "술병에 '부산·대천·제주'…주류업계가 지역명 탐내는 이유 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607143583i",
-      "publishedAt": "2026-07-17T20:59:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 다시 무력 충돌하는 국면이 일주일째 이어진 17일(현지시간) 걸프 국가의 민간 인프라까지 타격...",
-      "link": "https://www.yna.co.kr/view/AKR20260718006800072",
-      "publishedAt": "2026-07-17T19:40:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“지금 안 하면 늦는다”…노후 불안 확산에 청년들 이례적으로 몰린 ‘이것’",
-      "summary": "연금보험, 20대 이하 증가율 97.5% 달해올 상반기 20대 청년층과 5060 고령층을 중심으로 연금보험 가입이 급증한 것으로 나타났다. 증시 호황에 따른 변액보험의 인기와 노후..",
-      "link": "https://www.mk.co.kr/news/economy/12101233",
-      "publishedAt": "2026-07-17T13:36:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "이젠 정말 ‘헛꿈’ 안 꾼다”…한 달 새 청약통장 10만명 깬 이유는?",
-      "summary": "청약통장을 해지하는 이른바 ‘청포족(청약 포기족)’이 크게 증가한 것으로 나타났다. 청약통장 무용론은 가점 인플레이션으로 당첨 가능성이 낮아지고, 높은 분양가와 대출 규제가 확대되..",
-      "link": "https://www.mk.co.kr/news/economy/12101222",
-      "publishedAt": "2026-07-17T12:56:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"2000억 들어와도 불안\"…홈플러스 직원들 웃지 못하는 까닭 [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607171087g",
-      "publishedAt": "2026-07-17T12:49:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "2주만에 14% 오른 삼성화재…주가 회복 기대에 '들썩'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607170726i",
-      "publishedAt": "2026-07-17T12:38:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "과학 유튜버 궤도 \"AI 시대, 인간의 경쟁력은 판단과 검증\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607171368i",
-      "publishedAt": "2026-07-17T12:15:32.000Z"
     }
   ]
 }
