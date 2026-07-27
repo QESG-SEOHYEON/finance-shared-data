@@ -1,8 +1,200 @@
 {
-  "updatedAt": "2026-07-26T21:51:26.366Z",
+  "updatedAt": "2026-07-27T06:19:30.848Z",
   "historyDays": 7,
-  "count": 492,
+  "count": 486,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "페퍼저축銀 최대주주 영국에서 한국 법인으로…경영 국내 일원화",
+      "summary": "최대주주 페퍼유럽→페퍼코리아홀딩스로 업권 둔화 속 책임경영·재무관리강화 차원페퍼저축은행의 최대주주가 6년 만에 한국법인으로 변경됐다. 부동산 프로젝트파이낸싱(PF) 부실 여파, 증..",
+      "link": "https://www.mk.co.kr/news/economy/12108403",
+      "publishedAt": "2026-07-27T06:12:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "원화값 1450원대 회복했지만…FOMC 경계감에 상승폭 반납",
+      "summary": "FOMC·주요국 통화정책회의가 변수1450원대까지 회복됐던 달러당 원화값이 장중 상승폭을 반납하며 오후 3시 현재 1466.4원에 거래되고 있다. 27일 서울외환시장에서 달러당 원..",
+      "link": "https://www.mk.co.kr/news/economy/12108395",
+      "publishedAt": "2026-07-27T06:03:25.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "조선미녀부터 아누아까지 연타 홈런 … K뷰티 미다스의 손 ‘이 남자’",
+      "summary": "한국 화장품 글로벌 확장 주역…김성운 실리콘투 대표“한 달에 화장품값만 4000억원 쓰는 남자” 한 달에 약 4000억원 규모에 달하는 수많은 한국산 화장품(K뷰티)을 구입해 세..",
+      "link": "https://www.mk.co.kr/news/stock/12108394",
+      "publishedAt": "2026-07-27T06:02:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“재방문 많이 한 식당, 대출유리” 새 소상공인 신용평가 8월부터 시범운영",
+      "summary": "개인사업자 전용 사잇돌대출에도 반영다음 달 말부터 KB국민·신한 등 주요 은행들이 업력과 성장성 등 비금융정보를 활용하는 소상공인 특화 신용평가모형(SCB)를 반영해 개인사업자대출..",
+      "link": "https://www.mk.co.kr/news/economy/12108392",
+      "publishedAt": "2026-07-27T05:56:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "카카오페이손해보험, 갤럭시 파손 보장 기간 3년→5년으로 확대",
+      "summary": "다음달 3일, 폰보험 첫달 100원 이벤트도카카오페이손해보험이 휴대폰보험의 갤럭시 휴대폰 파손 보장 기간을 기존 3년에서 최대 5년으로 늘린다고 27일 밝혔다. 카카오페이손보는 휴..",
+      "link": "https://www.mk.co.kr/news/economy/12108390",
+      "publishedAt": "2026-07-27T05:55:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "자동차 사고 보험금 두고 민원·소송 증가…보험료 할증 원인 된다는데",
+      "summary": "차사고, 과실비율 등 민원소송↑ 보험금 지출로 가입자 보험료 할증 “보상 기대심리 억제 방안 찾아야”최근 자동차 사고로 인한 보험금 및 과실비율 산정 등과 관련한 민원·소송이 증가..",
+      "link": "https://www.mk.co.kr/news/economy/12108367",
+      "publishedAt": "2026-07-27T05:37:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독] 한국타이어, 렌터카 사업 뛰어든다…롯데렌탈 인수전 참전",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607278154i",
+      "publishedAt": "2026-07-27T05:31:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "하나증권, 홍콩 푸투증권과 외국인통합계좌 거래 개시",
+      "summary": "美웨드부시와도 협력 추진하나증권이 홍콩 기반 금융플랫폼 ‘푸투(FUTU)’ 증권과 외국인통합계좌 거래를 개시했다고 27일 밝혔다. 외국인통합계좌는 비거주 외국인 투자자가 국내에 별..",
+      "link": "https://www.mk.co.kr/news/stock/12108355",
+      "publishedAt": "2026-07-27T05:26:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "고팍스, AWS 출신 김나영 신임 대표 선임…“고파이 상환 최우선”",
+      "summary": "하버드 MBA·CFA 출신 금융IT통 영입 AWS·블룸버그 거친 자본시장 전문가 VASP 갱신·경영 정상화 과제 산적국내 가상자산거래소 고팍스를 운영하는 스트리미가 신임 대표이사로..",
+      "link": "https://www.mk.co.kr/news/stock/12108353",
+      "publishedAt": "2026-07-27T05:25:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하한가 수준 폭락한 SK이터닉스…왜 이렇게 떨어지나 봤더니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607278192i",
+      "publishedAt": "2026-07-27T05:24:45.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "삼성카드, 상반기 순익 3105억…전년 대비 7.5% 감소",
+      "summary": "삼성카드가 총 취급고 증가에도 인건비 및 조달금리 상승으로 지난해 동기 대비 저조한 상반기 실적을 기록했다. 삼성카드는 상반기 순이익이 3105억원으로 지난해 상반기 대비 7.5%..",
+      "link": "https://www.mk.co.kr/news/economy/12108334",
+      "publishedAt": "2026-07-27T05:11:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "바이오포트, 상반기 영업이익 전년 比 215% ↑…“수익성 개선 넘어 주주환원 강화”",
+      "summary": "식품 유통 전문기업 바이오포트는 올해 상반기 연결기준 누적 영업이익이 전년동기대비 215% 증가한 것으로 잠정 집계됐다고 27일 밝혔다. 회사는 이날 2분기 잠정실적을 공시하고 이..",
+      "link": "https://www.mk.co.kr/news/stock/12108333",
+      "publishedAt": "2026-07-27T05:11:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“모두 ‘AI 반도체’ 외칠 때 다음을 준비”…증권가가 꼽은 차기 대세주는?",
+      "summary": "AI 투자 다음 주도주 ‘전력기기’ 부상 빅테크 AI 설비투자 유지 여부가 관건 “실적 전망 긍정, 밸류 부담 낮아져”인공지능(AI) 반도체주에 투자자들의 관심이 초집중된 가운데,..",
+      "link": "https://www.mk.co.kr/news/stock/12108326",
+      "publishedAt": "2026-07-27T05:02:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 19억짜리 설비를 1원에…이상한 태양광 계약의 실체",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607228676i",
+      "publishedAt": "2026-07-27T05:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "정부, 정유·해운업계와 중동 상황 대비…원유 수급 점검 회의 개최",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072781087",
+      "publishedAt": "2026-07-27T04:56:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“글로벌 공략 본격화”…하나증권, 홍콩 푸투증권과 외국인통합계좌 거래 개시",
+      "summary": "하나증권은 홍콩 기반 글로벌 금융플랫폼 푸투(FUTU)증권과 손잡고 외국인통합계좌 거래를 본격 시작했다. 27일 하나증권에 따르면, 외국인통합계좌는 비거주 외국인 투자자가 국내에 ..",
+      "link": "https://www.mk.co.kr/news/stock/12108314",
+      "publishedAt": "2026-07-27T04:49:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'AI 투자 증가 = 반도체 호재' 공식 깨졌다…숨죽인 개미들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607277420i",
+      "publishedAt": "2026-07-27T04:48:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"여벌옷 필수\"…에버랜드, 여름밤 물축제 '밤밤 썸머 나이트' 연다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607278045g",
+      "publishedAt": "2026-07-27T04:37:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] \"판매금융 바꿔더니 매출 '쑥'…대동, 북미 매출 1조원 목표\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607244439i",
+      "publishedAt": "2026-07-27T04:15:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "일정실업, K-OTC 상장폐지지정기업부 신규 지정…29일 거래 시작",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072780436",
+      "publishedAt": "2026-07-27T04:09:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美 10년물 금리 연 5% 넘으면 주가 폭락?…근거 따져보니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607277527i",
+      "publishedAt": "2026-07-27T04:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "결국 믿을 건 실적…여의도가 뽑은 '반드시 좋아질 종목'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607278020i",
+      "publishedAt": "2026-07-27T03:53:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI가 바꾼 반도체 공급망 지도…네덜란드, 한국 장비 최대 수입국으로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607277493i",
+      "publishedAt": "2026-07-27T03:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "KB금융, 생산금융 속도 올린다...1500억 '유니콘 육성 펀드' 조성",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607277948i",
+      "publishedAt": "2026-07-27T02:56:09.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3698,246 +3890,6 @@
       "summary": "정부가 27년 만에 '공장용지 내 제조시설 면적 규정' 기준을 전면 개편한다. 첨단 제조기술이 발전하고 산업이 고부가가치화되면서 제조업 생산 방식 등이 바뀌고 있음에도 공장입지 관..",
       "link": "https://www.mk.co.kr/news/economy/12102663",
       "publishedAt": "2026-07-20T08:46:53.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'제헌절 연휴 美증시 파고'에 코스피 출렁…다음 지지선 6,500?",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 제헌절 연휴 사이 미국과 일본, 대만 등 주요국 반도체주가 급락한 가운데 코스피가 20일 장중 4% 안팎의 낙...",
-      "link": "https://www.yna.co.kr/view/AKR20260720082600008",
-      "publishedAt": "2026-07-20T06:02:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "박홍근, 한국노총 위원장 만나 \"노동자 처우 개선 살피겠다\"",
-      "summary": "(세종=연합뉴스) 이대희 송정은 기자 = 박홍근 기획예산처 장관은 20일 김동명 한국노총 위원장과 만나 &quot;노동자 처우개선 등을 예산안 편성과 9...",
-      "link": "https://www.yna.co.kr/view/AKR20260720105300002",
-      "publishedAt": "2026-07-20T06:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "환적 석유제품도 블렌딩 허용…수출시장 키운다",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 앞으로는 국내에 보관 중인 환적 석유제품도 국내 탱크 터미널에서 다른 석유제품과 혼합·가공, 이른바 &apos;블렌딩&apos;...",
-      "link": "https://www.yna.co.kr/view/AKR20260720105700002",
-      "publishedAt": "2026-07-20T05:50:20.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "농식품부 \"2030년까지 139개 시군별 농촌특화지구 1곳 이상 육성\"",
-      "summary": "(서울=연합뉴스) 홍국기 기자 = 농림축산식품부는 20일 농촌의 체계적 관리와 지역 경제 활성화를 위해 2030년까지 전국 139개 시군별로 1...",
-      "link": "https://www.yna.co.kr/view/AKR20260720101000030",
-      "publishedAt": "2026-07-20T05:45:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "개도국에 AI 데이터센터 깐다…정부 ‘K-AI 패키지’ 지원",
-      "summary": "AI센터·스마트팜·정수처리 지원 한국기업 참여 높여 ‘윈윈’ 기대정부가 개발도상국에 인공지능(AI) 데이터센터, AI솔루션 등을 패키지로 지원할 예정이다. 20일 구윤철 부총리 겸..",
-      "link": "https://www.mk.co.kr/news/economy/12102392",
-      "publishedAt": "2026-07-20T05:43:22.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "민형배 전남광주특별시 인수위 해단…7대 전략 제시",
-      "summary": "(전남광주=연합뉴스) 형민우 기자 = 민형배 전남광주통합특별시장 인수위원회인 전남광주대전환위원회가 20일 특별시청 무안청사에서 해단식을 열고 4...",
-      "link": "https://www.yna.co.kr/view/AKR20260720104200054",
-      "publishedAt": "2026-07-20T05:34:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "산은·신용보증기금·한화그룹, 방산·조선 동반성장 위해 맞손",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 한국산업은행은 20일 신용보증기금 및 한화그룹 방산·조선 계열사가 참여한 가운데 방산·조선 협력업체 시설자금 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260720105000002",
-      "publishedAt": "2026-07-20T05:31:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘아고스’로 사명 변경 완료한 휴먼테크놀로지, 안티드론 방산사업 본격화",
-      "summary": "코스닥 상장사 휴먼테크놀로지가 사명을 ‘아고스’​로 변경하고 안티드론 방산사업을 중심으로 도약한다. 아고스는 20일 코스닥 시장에서 사명 변경에 따른 변경 상장을 완료했다고 밝혔다..",
-      "link": "https://www.mk.co.kr/news/stock/12102381",
-      "publishedAt": "2026-07-20T05:30:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“민주주의 지적한 최태원…자본주의 원칙부터 스스로 지켜야”",
-      "summary": "‘민주주의만 생각하다 자본주의 망각’ 최회장 발언에 기업거버넌스포럼 반박 주주권익 보호·이사회 독립성 등 강조 N%성과급도 주주 잔여가치 훼손우려최태원 대한상공회의소 회장 겸 SK..",
-      "link": "https://www.mk.co.kr/news/stock/12102346",
-      "publishedAt": "2026-07-20T04:58:26.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "FNC엔터 김유식 대표, 자사주 2만 878주 매입 “책임경영 강화”",
-      "summary": "FNC엔터테인먼트 김유식 대표가 자사주를 매입했다. FNC엔터테인먼트(이하 FNC)는 20일 김유식 대표가 자사 보통주 2만 878주를 장내 매수했다고 밝혔다. 이번 장내매수는 회..",
-      "link": "https://www.mk.co.kr/news/stock/12102343",
-      "publishedAt": "2026-07-20T04:55:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"中 반도체 위협 아니다…'세계 최고' 이익성장률에 주목할 때\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607169319i",
-      "publishedAt": "2026-07-20T04:46:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'반도체 대장주' SK하이닉스, 국내외 메모리 생산 기지 확장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607157538i",
-      "publishedAt": "2026-07-20T04:46:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"모든 악재 반영한 하단이 6000…빅테크 실적발표 이후 안정세\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607204381i",
-      "publishedAt": "2026-07-20T04:42:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "유안타증권, 온라인 세미나 '투자 인사이트 LIVE' 개최",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072044026",
-      "publishedAt": "2026-07-20T04:37:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“코스피, 다음주 빅테크 실적 확인후 안정화”…NH증권 “6천이 하방지지선”",
-      "summary": "반도체 업황의 피크아웃(고점 통과) 우려를 비롯해 미-이란 갈등 재점화, 미국 금리 상승 우려 등 악재가 겹치며 국내 증시가 고점 대비 30% 넘게 급락한 가운데, 코스피 6000..",
-      "link": "https://www.mk.co.kr/news/stock/12102331",
-      "publishedAt": "2026-07-20T04:37:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'유가 최고가격제' 인정받았다…9100만원 포상 받은 공무원들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607203549i",
-      "publishedAt": "2026-07-20T04:30:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "라온시큐어, NH농협손보에 양자내성암호 공급…금융권 수주 확대",
-      "summary": "KDB생명 이어 NH농협손보까지 연속 수주 인증·전자서명·가상키패드에 PQC 적용 고객정보 입력부터 거래 승인까지 보호양자컴퓨터 시대를 대비한 금융권 보안 경쟁이 본격화되고 있다...",
-      "link": "https://www.mk.co.kr/news/it/12102325",
-      "publishedAt": "2026-07-20T04:22:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“한국경제신문 영상정보부 최혁 기자, 제282회 이달의 보도사진상 수상”",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607204322i",
-      "publishedAt": "2026-07-20T03:55:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“휴대폰 빌려 쓰다 3400만원 독촉장”…신종사기에 고소위기 몰린 피해자들",
-      "summary": "렌탈 사업자 등록시켜 高금리 대출 부업 미끼 투자금 챙겨 잠적하기도“정식으로 휴대폰 렌탈사와 계약된 대부업체입니다. 휴대폰 렌탈사에 투자 유치를 받기 위해 계약서만 유지되는 것이고..",
-      "link": "https://www.mk.co.kr/news/economy/12102310",
-      "publishedAt": "2026-07-20T03:55:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "조선기자재 HLB오션테크, 미래먹거리 ‘방산 장비’ 낙점…2028년 매출 1천억 목표",
-      "summary": "조선기자재 기술력 바탕으로 방산·특수선 장비 사업 확대 무인수상정 운용 장비 개발 영업이익 두배↑·수주잔고 450억HLB오션테크가 기존 조선기자재 중심에서 방산·특수선 장비 분야로..",
-      "link": "https://www.mk.co.kr/news/stock/12102298",
-      "publishedAt": "2026-07-20T03:15:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "블랙스톤, 중견 차부품사 퓨트로닉 인수… 몸값만 1조원",
-      "summary": "기술장벽 기반 20%대 영업이익률 창업주 고진호 회장 경영참여 예정세계적인 사모펀드(PEF) 운용사 블랙스톤이 부산시 기반의 굴지의 중견 자동차 부품사 퓨트로닉을 전격 인수한다. ..",
-      "link": "https://www.mk.co.kr/news/stock/12102297",
-      "publishedAt": "2026-07-20T03:12:36.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI·태양광에 전력망 비상…'대정전' 막기 위한 특단의 조치",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607203512i",
-      "publishedAt": "2026-07-20T03:00:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "휴대폰 10대 렌탈시켜 연 160% 뜯었다…금감원, 신종사기 경고",
-      "summary": "급전 구하는 피해자 노려 불법대출불법사금융이 신종 수법으로 진화하는 가운데 급전이 필요한 피해자에게 접근해 휴대폰 렌탈계약을 미끼로 고금리 대출의 덫에 빠뜨리는 사례까지 나타났다...",
-      "link": "https://www.mk.co.kr/news/economy/12102275",
-      "publishedAt": "2026-07-20T03:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "P2P 원조 '에잇퍼센트', 에이판다 인수하고 STO 사업 진출",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607204227i",
-      "publishedAt": "2026-07-20T02:46:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "영업이익 111% 급증…파두, 상반기 매출 1327억원",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607204214i",
-      "publishedAt": "2026-07-20T02:38:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "초고수들은 기판·전력株에 베팅…SK하이닉스는 순매도 나서",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607204003i",
-      "publishedAt": "2026-07-20T02:33:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "FDA 답변에 '상한가'…삼천당제약, 정말 '허가 문턱' 넘었나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607203782i",
-      "publishedAt": "2026-07-20T02:24:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[속보] 급락에 코스닥 이어 코스피도 매도 사이드카",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072041686",
-      "publishedAt": "2026-07-20T02:24:37.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "2년차 들어서는 구윤철 “하반기 경제 현안 산적…국민 체감 변화에 역량 집중해달라”",
-      "summary": "관세협상·중동전쟁 파고 넘은 경제사령탑 3高 리스크·청년고용 둔화 등 2년차 숙제 “일하는 방식의 혁신에도 속도를 내겠다”취임 1주년을 맞는 구윤철 부총리 겸 재정경제부 장관이 재..",
-      "link": "https://www.mk.co.kr/news/economy/12102215",
-      "publishedAt": "2026-07-20T02:09:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "토스-SBI저축은행 손잡고 중금리 대출 선보인다",
-      "summary": "27일 토스 전용상품 출시 예정 하반기 대안신용평가 도입 확대토스가 SBI저축은행과 손잡고 신용점수가 낮아 대출이 어려웠던 중저신용 고객을 위한 중금리 신용대출을 내놓는다. 금융당..",
-      "link": "https://www.mk.co.kr/news/economy/12102169",
-      "publishedAt": "2026-07-20T01:28:13.000Z"
     }
   ]
 }
