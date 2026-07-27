@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-07-27T12:51:23.858Z",
+  "updatedAt": "2026-07-27T21:57:29.731Z",
   "historyDays": 7,
-  "count": 482,
+  "count": 471,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“머스크형 리딩 믿고 따라간 30조”…서학개미 ‘최애’ 두 종목, 풍비박산",
+      "summary": "테슬라·스페이스X 주가 부진 전기차 시장 경쟁 심해지고 미래먹거리 AI마저 불확실 테슬라 주가 올들어 30%↓ 스페이스X는 공모가 밑돌아스페이스X와 테슬라가 최근 동반 급락하면서 ..",
+      "link": "https://www.mk.co.kr/news/stock/12109008",
+      "publishedAt": "2026-07-27T21:06:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“기업·자영업 붕괴, 상환 쉽지 않다”…8조 규모 불어난 은행 요주의여신",
+      "summary": "석 달 새 7050억원 늘어나 총여신 증가 속도의 6배 고정이하여신도 11% 늘어 “하반기 건전성 관리 시험대”4대 시중은행(KB국민·신한·하나·우리)의 요주의여신이 8조원을 넘어..",
+      "link": "https://www.mk.co.kr/news/economy/12109004",
+      "publishedAt": "2026-07-27T21:04:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'일단 잘 먹고 갑니다'…삼전닉스 팔아치운 외국인 이유 있었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072789261",
+      "publishedAt": "2026-07-27T21:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "젠슨 황도 \"고맙다\"…'TSMC 추격은 착각'이라던 삼성의 반전 [테크로그]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607278722g",
+      "publishedAt": "2026-07-27T21:00:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“내년 2분기 반도체 공급 폭탄 카운트다운” … 삼전닉스 주가의 진짜 변수",
+      "summary": "김태홍의 반도체 집중분석 2편드디어 기다리던 구글(알파벳)의 클라우드 매출과 투자 규모가 발표됐다. 가장 중요한 클라우드 매출은 예상을 웃도는 82%의 놀라운 성장률을 보여줬으며,..",
+      "link": "https://www.mk.co.kr/news/stock/12108452",
+      "publishedAt": "2026-07-27T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607289209i",
+      "publishedAt": "2026-07-27T17:01:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 한화손보 \"여성 경제·펨테크 적극 지원\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072788941",
+      "publishedAt": "2026-07-27T16:28:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607289210i",
+      "publishedAt": "2026-07-27T16:07:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美증시, 반도체주식 급락에 나스닥 하락 전환",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607289204i",
+      "publishedAt": "2026-07-27T15:18:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "FOMC와 실적발표 몰린 주…美 증시, 국제유가 급락에 상승",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607279194i",
+      "publishedAt": "2026-07-27T14:11:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“단골 많은 사장님은 인정해줘야”…매출 적어도 소상공인 대출 OK",
+      "summary": "소상공인 신용평가 전면개편 8월 말부터 16개 은행 참여 사업자 사잇돌대출에도 활용오는 8월 말부터 업력이 길거나 단골손님이 많은 소상공인은 기존보다 더 많은 대출을 받거나 낮은 ..",
+      "link": "https://www.mk.co.kr/news/economy/12108876",
+      "publishedAt": "2026-07-27T13:53:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"1등 시간 문제\" 파격 전망까지…삼전닉스 위협하는 中 CXMT [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026072786316",
+      "publishedAt": "2026-07-27T13:00:01.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3674,190 +3770,6 @@
       "summary": "반도체 호조가 지속되며 이달 중순 수출액이 7월 기준 역대 최대를 기록했다. 반도체 수출액이 1년 전보다 180% 넘게 증가하며 전체 수출 실적을 견인했다. 21일 관세청에 따르면..",
       "link": "https://www.mk.co.kr/news/economy/12103105",
       "publishedAt": "2026-07-21T01:31:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘환불 리스크’ 때문에...홈플러스 매출대금 지급 중단한 카드사들",
-      "summary": "MBK파트너스와 메리츠금융그룹이 2000억원 규모 긴급 운영자금(DIP) 지원에 합의하며 회생 절차 재개를 추진 중인 홈플러스에 또 다른 악재가 불거졌다. 주요 카드사들이 환불 리..",
-      "link": "https://www.mk.co.kr/news/economy/12102920",
-      "publishedAt": "2026-07-20T21:38:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[르포] \"멀리 안가도 되니 좋네요\"…농촌 우체국이 4대은행 대출창구로",
-      "summary": "(청양=연합뉴스) 김준범 기자 = &quot;대출 상담을 받으려면 차나 버스를 타고 홍성이나 예산까지 가야 했는데, 이제 가까운 우체국에서 할 수 있으니...",
-      "link": "https://www.yna.co.kr/view/AKR20260720147800063",
-      "publishedAt": "2026-07-20T21:30:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“피 한방울로 암 진단, 이번엔 진짜”…주가 심상찮은 이 기업",
-      "summary": "美상장사 가던트헬스 주가 연일상승 생검 할 필요없이 채혈로 암세포 검출 민간보험 적용 겹호재에 올해 50%↑혈액을 뽑아 각종 암을 진단하는 기술을 가진 미국 상장사 ‘가던트헬스’에..",
-      "link": "https://www.mk.co.kr/news/stock/12102910",
-      "publishedAt": "2026-07-20T21:06:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "27년전 기준으로 AI칩 만들 뻔했다…공장 면적규정 개편착수",
-      "summary": "정부가 26년 만에 ‘공장 용지 내 제조시설 면적 규정’ 기준을 전면 개편한다. 첨단 제조기술이 발전하고 산업이 고부가가치화되면서 제조업 생산 방식 등이 바뀌고 있음에도 공장입지 ..",
-      "link": "https://www.mk.co.kr/news/economy/12102906",
-      "publishedAt": "2026-07-20T21:02:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] 코트라, '중국 역직구 활용한 소비재 수출 전략' 보고서",
-      "summary": "▲ 대한무역투자진흥공사(코트라)는 &apos;중국 역직구 시장을 활용한 K-소비재 수출 확대 전략&apos; 보고서를 발간했다고 21일 밝혔다. 보고서는 콘텐츠 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260720144000003",
-      "publishedAt": "2026-07-20T21:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"후배가 日제품 먹더라\"…이영표 한마디에 탄생한 '히트작' [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607143909i",
-      "publishedAt": "2026-07-20T21:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "카드업계 홈플러스 대금 지급보류…\"결제취소 리스크 관리\"",
-      "summary": "(서울=연합뉴스) 김지연 강류나 기자 = 카드사들이 휴업 상태인 홈플러스에 대금 지급을 보류하고 있는 것으로 알려졌다.",
-      "link": "https://www.yna.co.kr/view/AKR20260720167100002",
-      "publishedAt": "2026-07-20T20:53:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'미래금융 새판짜기' 의기투합한 하나금융·두나무",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = &quot;단순한 지분 투자나 원화 입출금 계좌 제휴를 넘어 미래 금융의 새 판을 짜는 협업&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260720151100002",
-      "publishedAt": "2026-07-20T20:53:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "또 전쟁리스크...뉴욕증시 일제히 하락 [월가월부]",
-      "summary": "트럼프 “미군 죽이면 몇배 대가” 경고 호르무즈 이어 홍해까지 봉쇄 위기에 유가 상승 지난주 대폭 하락 반도체주는 상승이란전쟁이 전면전 위기로 긴장감이 최고조에 달한 가운데 미국 ..",
-      "link": "https://www.mk.co.kr/news/economy/12102901",
-      "publishedAt": "2026-07-20T20:42:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "AI기본법 후속 개정안 시행…한국 AI 산업 시험대",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI)기본법 후속 개정안이 21일 시행되면서 국내 AI 법·제도 체계가 산업 현장에서 본격 가동된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260720150400017",
-      "publishedAt": "2026-07-20T20:30:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "중동 정세 불안에 국제유가 상승세 지속…브렌트유 1.3%↑",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 20일(현지시간) 미국과 이란 간 군사적 긴장이 이어지면서 국제유가가 상승세를 이어갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260721006200072",
-      "publishedAt": "2026-07-20T20:04:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"매일 밤마다 먼저 말 걸어줘요\"…500명 '우르르' 몰렸다 [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607205286i",
-      "publishedAt": "2026-07-20T20:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "‘160엔 마지노선’ 무너진 일본 … ‘일본판 국민연금’ 카드 꺼냈다",
-      "summary": "엔저 대응에 나선 이웃나라지난달 160엔대로 들어선 엔화값의 하락세가 멈추지 않고 있다. 지난 17일(현지시간) 뉴욕 외환시장에서도 달러화당 엔화 환율은 전날과 비슷한 162.30..",
-      "link": "https://www.mk.co.kr/news/stock/12102774",
-      "publishedAt": "2026-07-20T19:44:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "신현송은 올렸고, 워시는 올릴 준비 … 금리인상기, 왜 국채 투자일까",
-      "summary": "한국 BIS 출신 경제학자 vs 미국 월가 출신 은행가2026년 상반기 서울과 워싱턴의 통화정책 사령탑이 동시에 교체됐다. 4월 21일 국제결제은행(BIS) 통화경제국장 출신의 세..",
-      "link": "https://www.mk.co.kr/news/economy/12102722",
-      "publishedAt": "2026-07-20T19:07:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“나쁜 남자는 이제 싫어요” … 월가 96%가 추천한 장투용 주식은",
-      "summary": "中 위협에도 굳건한 美 AI 주식돌고 돌아 이 주식이다. 메모리 반도체 주식이 워낙 민감하다보니 투자자들은 좀더 안정적인 우량주를 찾게 된다. 과거 역사를 통해 최소한의 상승 기간..",
-      "link": "https://www.mk.co.kr/news/business/12102540",
-      "publishedAt": "2026-07-20T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607205474i",
-      "publishedAt": "2026-07-20T15:32:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "중동 '10일 휴전안' 부상…구글, 추론 전용칩 개발 추진 [빈난새의 개장전요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607205471i",
-      "publishedAt": "2026-07-20T15:06:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 증시, 유가 혼조 속 반도체 반등에 상승",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607205455i",
-      "publishedAt": "2026-07-20T14:23:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "EU \"알리익스프레스, 불법·위험상품 판매 조장\"…9300억 과징금 부과",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607205430i",
-      "publishedAt": "2026-07-20T13:47:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[속보] 뉴욕증시, 반도체 반등에 3대 주가지수 상승 출발",
-      "summary": "뉴욕증시의 3대 주가지수는 반도체주를 중심으로 저가 매수세가 유입되며 상승 출발했다. 지난주 거센 매도 압력을 받았던 반도체주를 중심으로 저가 매수세가 유입되면서 증시가 강세를 보..",
-      "link": "https://www.mk.co.kr/news/stock/12102833",
-      "publishedAt": "2026-07-20T13:47:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“원금 녹아 내린다”…‘ETF 아버지’ 배재규 “비난 하겠지만 지금이라도 멈춰야”",
-      "summary": "배재규 한투신탁운용 대표 글 올려 “지금처럼 변동성 크면 매일 손실 불어나”국내에서 최초로 상장지수펀드(ETF)를 도입해 ‘한국 ETF의 아버지’로 불리는 배재규 한국투자신탁운용 ..",
-      "link": "https://www.mk.co.kr/news/economy/12102829",
-      "publishedAt": "2026-07-20T13:40:47.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "환율, 왜 갑자기 떨어졌나 봤더니…SK하이닉스 효과였다 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072051156",
-      "publishedAt": "2026-07-20T13:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"올해 韓증시 변동성 60%, 비트코인 변동성 넘어서\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607205396i",
-      "publishedAt": "2026-07-20T12:56:20.000Z"
     }
   ]
 }
