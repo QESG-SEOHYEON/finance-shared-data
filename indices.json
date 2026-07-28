@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-07-27T21:57:30.080Z",
+  "updatedAt": "2026-07-28T05:38:54.394Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 6690.62,
-      "previous": 7096.89,
-      "dayChange": -406.27,
-      "dayChangePct": -5.72,
-      "monthChangePct": -20.3,
-      "lastUpdated": "2026-07-27T09:05:30.000Z",
+      "current": 6064.73,
+      "previous": 6755.75,
+      "dayChange": -691.02,
+      "dayChangePct": -10.23,
+      "monthChangePct": -27.75,
+      "lastUpdated": "2026-07-28T05:18:50.000Z",
       "candles": [
         {
           "date": "2026-06-29",
@@ -86,8 +86,12 @@
           "close": 7096.89
         },
         {
-          "date": "2026-07-24",
-          "close": 6690.62
+          "date": "2026-07-27",
+          "close": 6755.75
+        },
+        {
+          "date": "2026-07-28",
+          "close": 6064.73
         }
       ]
     },
@@ -97,9 +101,9 @@
       "short": "NASDAQ",
       "currency": "USD",
       "current": 24932.08,
-      "previous": 24975.82,
-      "dayChange": -43.74,
-      "dayChangePct": -0.18,
+      "previous": 25137.69,
+      "dayChange": -205.61,
+      "dayChangePct": -0.82,
       "monthChangePct": -3.44,
       "lastUpdated": "2026-07-27T21:15:59.000Z",
       "candles": [
@@ -176,10 +180,6 @@
           "close": 25137.69
         },
         {
-          "date": "2026-07-24",
-          "close": 24975.82
-        },
-        {
           "date": "2026-07-27",
           "close": 24932.08
         }
@@ -191,9 +191,9 @@
       "short": "S&P500",
       "currency": "USD",
       "current": 7413.18,
-      "previous": 7411.98,
-      "dayChange": 1.2,
-      "dayChangePct": 0.02,
+      "previous": 7408.3,
+      "dayChange": 4.88,
+      "dayChangePct": 0.07,
       "monthChangePct": -0.37,
       "lastUpdated": "2026-07-27T20:52:41.000Z",
       "candles": [
@@ -268,10 +268,6 @@
         {
           "date": "2026-07-23",
           "close": 7408.3
-        },
-        {
-          "date": "2026-07-24",
-          "close": 7411.98
         },
         {
           "date": "2026-07-27",
