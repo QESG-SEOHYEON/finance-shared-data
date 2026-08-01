@@ -1,8 +1,192 @@
 {
-  "updatedAt": "2026-07-31T21:58:09.923Z",
+  "updatedAt": "2026-08-01T05:46:47.491Z",
   "historyDays": 7,
-  "count": 455,
+  "count": 456,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“열대야도 아닌데 잠이 안온다”…7월 최악의 변동성, 8월은 괜찮을까?",
+      "summary": "7월 들어 국내 주식시장은 최악의 한 달과 최고의 하루를 보냈다. 코스피 시장은 7월 내내 계속 급락을 맞다가 마지막 날 17% 급등을 하면서 일간 상승률 역대 1위를 찍었다. 또..",
+      "link": "https://www.mk.co.kr/news/stock/12114223",
+      "publishedAt": "2026-08-01T04:13:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "탐색비용과 슬러지, 복지의 숨은 문턱",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607305882i",
+      "publishedAt": "2026-08-01T04:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "7월 수출 988억 달러…반도체가 전체 수출 40% 이끌었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608019176i",
+      "publishedAt": "2026-08-01T03:14:21.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "美, 이례적 외환시장 개입…엔화약세 저지하려 대규모 매수",
+      "summary": "(서울=연합뉴스) 임화섭 기자 = 일본 엔화 약세를 저지하기 위해 미국 재무부가 개입한 정황이 장관 메모지를 촬영한 언론매체 사진에서 드러났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260801026600009",
+      "publishedAt": "2026-08-01T01:46:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "주유소 기름값 11주 연속 하락⋯휘발유·경유 1800원대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080191297",
+      "publishedAt": "2026-08-01T01:39:32.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "7월 수출 989억달러 역대 2위…반도체 두달째 400억달러대(종합)",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 한국의 지난달 수출액이 1천억달러에 육박하며 호조세를 이어갔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260801021152003",
+      "publishedAt": "2026-08-01T01:35:11.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[마이더스] 세무 리스크로 돌변하는 여름휴가비",
+      "summary": "여름 휴가철을 맞아 기업 대표들은 직원들의 사기 증진을 위해 다양한 휴가 지원 방안을 고민한다. 그러나 휴가 계획을 세우기 전 반드시 짚고 넘어...",
+      "link": "https://www.yna.co.kr/view/AKR20260730066200980",
+      "publishedAt": "2026-08-01T01:30:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "보완책 효과 있었나…단일종목 레버리지 거래량 '뚝' [노정동의 어쩌다 투자자]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026073184736",
+      "publishedAt": "2026-08-01T01:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[바이오사이언스] K제약·바이오, 중남미서 새 성장동력 찾는다",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 국내 제약·바이오 기업들이 성장 잠재력이 큰 중남미 시장 공략에 속도를 내고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20260731086700017",
+      "publishedAt": "2026-08-01T01:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "■ 아르헨서 내년부터 원유 수입…이중과세 방지협정 최종 타결",
+      "link": "https://www.yna.co.kr/view/AKR20260801026000011",
+      "publishedAt": "2026-08-01T01:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "日정부 엔화 환율 개입 규모 60조원 안팎 추정",
+      "summary": "(도쿄=연합뉴스) 조성미 특파원 = 최근 일본 정부와 일본은행이 외환시장에서 실시한 것으로 추정되는 엔화 매입·달러화 매도 개입 규모가 6조∼7...",
+      "link": "https://www.yna.co.kr/view/AKR20260801024000073",
+      "publishedAt": "2026-08-01T01:03:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"얼마나 빠졌나 묻지 마라\"…폭락장에서 봐야 할 '이것' [이주영의 시장을 꿰뚫는 기술]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607318004i",
+      "publishedAt": "2026-08-01T01:01:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "해군에 아이스크림, 참전용사엔 삼계탕…'맛있는 후원' 확산 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607304812i",
+      "publishedAt": "2026-08-01T01:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "7월 수출 989억달러로 전년比 62.8% 증가…역대 2위 [종합]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080190957",
+      "publishedAt": "2026-08-01T00:55:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“하락이 하락 불렀다, 이것 풀리면 주가 제자리”…삼전닉스 반토막의 진짜 원인 [여의도란도란]",
+      "summary": "윤제민 인테그랄투자자문 대표 단일 레버리지 ‘숏감마’ 연쇄반응이 시장하락 부추겨…반도체 문제없다 코스닥 침체로 공모주 직격탄 공모가 조정 거치며 기회 올 것최근 국내 증시가 급격한..",
+      "link": "https://www.mk.co.kr/news/stock/12114191",
+      "publishedAt": "2026-08-01T00:47:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "오픈AI, 활성 이용자 10억명 달성…챗GPT 출시 3년 8개월만",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080190777",
+      "publishedAt": "2026-08-01T00:33:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[속보] 7월 수출 989억달러로 62.8％↑…역대 2위",
+      "summary": "한국의 지난달 수출액이 1000억달러에 육박하며 사상 처음으로 월 1000억달러를 돌파한 6월(1022억5000만달러)에 이은 월 기준 역대 2위를 기록했다. 주력 품목인 반도체가..",
+      "link": "https://www.mk.co.kr/news/economy/12114181",
+      "publishedAt": "2026-08-01T00:04:18.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 저축은행 앱 켜서 KB 계좌 관리…오픈뱅킹 순가입자 4천만명 돌파 [알쓸금잡]",
+      "summary": "오픈뱅킹 전국민 시대 하나의 금융사 앱만 키면 은행·저축은행 증권까지 파킹통장 쪼개기 활성화 일일적금 확산에도 기여 점포 소멸 시대 대안 부상하나의 금융사 앱으로 은행·저축은행..",
+      "link": "https://www.mk.co.kr/news/economy/12114180",
+      "publishedAt": "2026-08-01T00:02:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피 20% 폭락장에…'이곳'에 투자한 개미들은 웃었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080190167",
+      "publishedAt": "2026-07-31T23:25:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "바닥 찍은 듯한데, 상승 가로막는 금리…FOMC 횟수 줄인다? [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608018950i",
+      "publishedAt": "2026-07-31T23:04:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "아마존 실적 훈풍에 상승 마감…나스닥 1%↑ [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080189767",
+      "publishedAt": "2026-07-31T22:42:45.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“나흘만에 되찾았다”…애플 폭락에 시가총액 1위 복귀한 이 회사",
+      "summary": "인공지능(AI) 반도체 선두 주자 엔비디아가 애플에 빼앗겼던 세계 시가총액 1위 기업 자리를 나흘 만에 되찾았다. 31일(현지시간) 미국 증권시장에 따르면 엔비디아 주가는 이날 2..",
+      "link": "https://www.mk.co.kr/news/stock/12114154",
+      "publishedAt": "2026-07-31T22:23:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "엔비디아, 나흘 만에 애플 제치고 '세계 시총 1위' 탈환",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080189627",
+      "publishedAt": "2026-07-31T22:14:11.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3466,182 +3650,6 @@
       "summary": "젠슨 황 엔비디아 최고경영자(CEO)가 미국 샌프란시스코에서 이재명 대통령을 만나 인공지능(AI) 데이터센터의 신속한 인허가 절차를 요청했다고 대통령실이 밝혔다. 24일(현지 시각..",
       "link": "https://www.mk.co.kr/news/business/12107271",
       "publishedAt": "2026-07-25T06:04:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] 삼성전자, 브로드컴 제품에 2nm 이하 첨단 파운드리 공정 적용",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072556167",
-      "publishedAt": "2026-07-25T05:18:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보]현대차, 엔비디아와 '로봇 레퍼런스 플랫폼' 구축…개방형 생태계 조성",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072556157",
-      "publishedAt": "2026-07-25T05:18:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] SK, 앤트로픽·AWS와 AI 데이터센터 구축 등 협력 확대",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072556147",
-      "publishedAt": "2026-07-25T05:17:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] SK, 마이크로소프트와 AI 메모리 장기 공급 협력",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072556137",
-      "publishedAt": "2026-07-25T05:17:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "머스크의 AI 승부수, 삼성에 달렸다…컨콜서 \"땡큐\" [강경주의 테크X]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072448346",
-      "publishedAt": "2026-07-25T05:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“여름 휴가, 카드만 잘 써도 돈 아낀다”…워터파크 입장료 반값에 즐기는 법은?",
-      "summary": "제휴카드·스마트예약 조합 시 입장권 반값 생활 특화 카드부터 테마파크 전용까지 전월실적·이용횟수 등 혜택 조건 살펴야본격적인 휴가철을 맞아 워터파크를 찾는 소비자들의 발걸음이 늘고..",
-      "link": "https://www.mk.co.kr/news/economy/12107252",
-      "publishedAt": "2026-07-25T04:47:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보] 삼성-브로드컴 '5년간 200억불' 첨단 메모리 반도체·파운드리 MOU 체결",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072555697",
-      "publishedAt": "2026-07-25T04:03:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이해진 \"엔비디아·브룩필드, 네이버에 14조6천억원 투자\"",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 이해진 네이버 창업자 겸 이사회 의장은 엔비디아와 글로벌 대체자산 운용사 브룩필드로부터 100억달러(약 14조...",
-      "link": "https://www.yna.co.kr/view/AKR20260725033600017",
-      "publishedAt": "2026-07-25T03:29:19.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'HBM 1위' 한국, AI 3강 노린다…샌프란 선언 현주소는",
-      "summary": "(서울=연합뉴스) 심재훈 기자 = 이재명 대통령의 24일(현지시간) &apos;샌프란시스코 AI 선언&apos;을 계기로 우리나라를 글로벌 인공지능(AI) 공급망...",
-      "link": "https://www.yna.co.kr/view/AKR20260725028900017",
-      "publishedAt": "2026-07-25T02:17:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'샌프란 AI 선언' 실행 시험대…GPU·전력·시장이 관건",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 이재명 대통령이 24일(현지시간) &apos;샌프란시스코 AI 선언&apos;을 통해 한국을 글로벌 인공지능(AI) 생산·활용 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260725028500017",
-      "publishedAt": "2026-07-25T02:03:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "공급망을 알아야 주식이 보인다 [조윤남의 사이클투자]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607204173i",
-      "publishedAt": "2026-07-25T02:00:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“국장 못 믿겠다” 해외로 쏠린 개미…이달 순매수 4배 폭증",
-      "summary": "‘빚투’ 줄고 ‘하락 베팅’ 늘어 미국 대표지수 ETF로 자금 유입미국 주식에 투자하는 ‘서학개미’의 이달 순매수액이 4배 급증한 것으로 나타났다. 국내 증시의 변동성이 커지며 약..",
-      "link": "https://www.mk.co.kr/news/economy/12107229",
-      "publishedAt": "2026-07-25T01:55:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "쿠팡 사태 진화 나선 정부…미국 정부·의회·업계 현지 설득전",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 미국 무역법 301조 관세 조치 등 주요 통상 현안에 대응하고 쿠팡 사태 등 국내 디지털 제도에 대한 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260725028600003",
-      "publishedAt": "2026-07-25T01:46:22.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "주가 30% 빠진 SK하이닉스…역대급 실적보다 ‘이것’에 쏠렸다",
-      "summary": "이달 들어 주가가 30% 넘게 급락한 SK하이닉스가 오는 29일 2분기 실적을 발표한다. 역대 최대 수준의 실적이 예상되는 가운데 투자자들의 관심은 고대역폭메모리(HBM) 가격과 ..",
-      "link": "https://www.mk.co.kr/news/stock/12107221",
-      "publishedAt": "2026-07-25T01:39:59.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "■ 李대통령 &apos;샌프란AI 선언&apos;…&quot;韓, 대체불가 공급망 핵심 국가로&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260725023800011",
-      "publishedAt": "2026-07-25T01:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "AI랠리 최대 수혜주라더니…'반토막' 이수페타시스, 반등은 언제쯤?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607243994i",
-      "publishedAt": "2026-07-25T01:00:07.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“전쟁 끝나는 줄 알았는데, 눈앞이 깜깜”…유가 100달러에 원유 곱버스 -83% [원자재로 살아남기]",
-      "summary": "미국-이란 전쟁이 다시 격화되고 홍해 바닷길도 막히자 국제유가가 다시 치솟았다. 에너지 시장이 다시 혼란에 빠졌고 유가 하락으로 수익을 내는 원유 곱버스 상품에 뭉칫돈을 넣은 투자..",
-      "link": "https://www.mk.co.kr/news/stock/12107201",
-      "publishedAt": "2026-07-25T00:14:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"국민연금, 이것부터 확인하세요\"…노후 성패 갈리는 5가지",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607245084i",
-      "publishedAt": "2026-07-25T00:00:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[IPO챗] 인제니아 청약 돌입…네오뷰 코스닥 재상장",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 7월 마지막 주(27~31일) 기업공개(IPO) 시장에서는 바이오기업 인제니아테라퓨틱스가 일반투자자 대상 공모...",
-      "link": "https://www.yna.co.kr/view/AKR20260724149200008",
-      "publishedAt": "2026-07-25T00:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "2분기 실적발표 반환점…지금까지 가장 주목받은 6개 기업",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607232562i",
-      "publishedAt": "2026-07-24T23:16:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'주식 계좌 녹는다더니'…폭락장에 개미들 '우르르' 몰린 곳 [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072441706",
-      "publishedAt": "2026-07-24T23:02:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한 달간 30% 밀린 삼전닉스…지금 시점 투자전략 물어보니",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607244467i",
-      "publishedAt": "2026-07-24T23:00:20.000Z"
     }
   ]
 }
