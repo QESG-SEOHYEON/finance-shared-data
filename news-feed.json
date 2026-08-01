@@ -1,8 +1,48 @@
 {
-  "updatedAt": "2026-08-01T05:46:47.491Z",
+  "updatedAt": "2026-08-01T11:11:22.889Z",
   "historyDays": 7,
-  "count": 456,
+  "count": 446,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"10초짜리 영상으로 상품 300만개 팔았다\"… '숏폼 마케팅'에 꽂힌 홈쇼핑업계 [류은혁의 유통기한]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607318312i",
+      "publishedAt": "2026-08-01T11:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"승진·성과급 여기 달렸다\"…삼성 임원들 10월 앞두고 '비상' [김대영의 노무스쿨]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202607318046g",
+      "publishedAt": "2026-08-01T09:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "농식품부, 남부 지역에 21억원 긴급 투입⋯농업용수 확보",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080192337",
+      "publishedAt": "2026-08-01T05:54:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼전닉스만 믿었다가 '눈물'…급락장서 뜨는 투자법 뭐길래 [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026073180536",
+      "publishedAt": "2026-08-01T05:47:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전자, SK하이닉스 추월하고 1위\"…파격 전망 나왔다 [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026073181776",
+      "publishedAt": "2026-08-01T05:00:04.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3530,126 +3570,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026072557777",
       "publishedAt": "2026-07-25T11:35:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"남자도 무조건 쉬어라\"…男 육아휴직 70% 찍은 기업 [류은혁의 유통기한]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607245038i",
-      "publishedAt": "2026-07-25T11:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "폭락장에 돈 번 개미들 있었다…이달에만 '40% 급등'한 종목 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072446326",
-      "publishedAt": "2026-07-25T09:52:37.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "0% vs 76%…ESG 공시 사각지대는 ‘오래된 제조기업’ [여의도란도란]",
-      "summary": "김윤희 국회예산정책처 분석관 자산크고 젊을수록 ESG공시 적극 하위기업 공시율 0%…양극화 심화 국민연금·탄소규제 공시이행 견인 탄소리스크 고려한 맞춤지원 필요국내 상장사 간 ES..",
-      "link": "https://www.mk.co.kr/news/stock/12107355",
-      "publishedAt": "2026-07-25T09:45:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "정의선 “AI팩토리·도시 통합...엔비디아와 로봇 플랫폼 구축”",
-      "summary": "‘샌프란시스코 AI서밋’서 그룹 피지컬AI 비전 선포 “국내 로봇 생태계도 조성”정의선 현대자동차그룹 회장이 자동차 기업을 넘어 피지컬 인공지능(AI) 솔루션 기업으로 변신하기 위..",
-      "link": "https://www.mk.co.kr/news/economy/12107347",
-      "publishedAt": "2026-07-25T09:14:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "최태원 \"메가 프로젝트, 韓 성장 위한 것\"…SK, 엔비디아와 AI 동맹",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607255728i",
-      "publishedAt": "2026-07-25T09:01:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "바닥까지 내려간 5개 주요 종목…저점 매수 해볼까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607255708i",
-      "publishedAt": "2026-07-25T09:00:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“보험금 청구 간편해졌네”…지급 속도 빨라지고 서류 절차도 축소",
-      "summary": "협회·신용정보원, 마이데이터 활용 정부, 실손24 병원 연계율 높이기로 손해보험사 보험금 신속 지급도↑최근 보험금 청구 절차를 줄이고 가입자에게 보험금을 신속하게 지급하는 등 소비..",
-      "link": "https://www.mk.co.kr/news/economy/12107329",
-      "publishedAt": "2026-07-25T08:18:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "정의선 \"빅테크와 피지컬 AI 혁신 생태계 구축\"…젠슨 황과 회동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607255694i",
-      "publishedAt": "2026-07-25T07:20:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "내수 침체 더이상 못버텨\"…라면 빅3 '글로벌 영토전쟁' [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607192943i",
-      "publishedAt": "2026-07-25T07:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼성·SK, 美 빅테크와 9500억달러 'AI 동맹'…메모리·파운드리 전방위 구축",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607255676i",
-      "publishedAt": "2026-07-25T06:52:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이재용·올트먼, 오픈AI 본사서 회동…'HBM·파운드리 협의' 관측",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072556727",
-      "publishedAt": "2026-07-25T06:34:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "李 대통령 “요즘 주가 조정” 말하자…젠슨 황 “곧 다시 오를 겁니다”",
-      "summary": "젠슨 황 엔비디아 최고경영자(CEO)가 한국 증시의 반등을 전망했다. 미국 샌프란시스코를 방문 중인 이재명 대통령은 24일(현지 시각) ‘샌프란시스코 AI 서밋’ 참석을 마친 뒤 ..",
-      "link": "https://www.mk.co.kr/news/economy/12107275",
-      "publishedAt": "2026-07-25T06:28:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "SK, 美 빅테크와 1100조원 'AI 동맹'…글로벌 생태계 주도권 잡는다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607255655i",
-      "publishedAt": "2026-07-25T06:17:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스 30% 빠질 때 웃었다…조용히 오른 '효자 종목' 정체 [이수의 ETF줌인]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072442996",
-      "publishedAt": "2026-07-25T06:14:15.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "젠슨 황 “AI데이터센터 인허가 빨리 해달라”…이 대통령 “신속한 처리 중요”",
-      "summary": "젠슨 황 엔비디아 최고경영자(CEO)가 미국 샌프란시스코에서 이재명 대통령을 만나 인공지능(AI) 데이터센터의 신속한 인허가 절차를 요청했다고 대통령실이 밝혔다. 24일(현지 시각..",
-      "link": "https://www.mk.co.kr/news/business/12107271",
-      "publishedAt": "2026-07-25T06:04:46.000Z"
     }
   ]
 }
