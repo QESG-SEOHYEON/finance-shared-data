@@ -1,8 +1,152 @@
 {
-  "updatedAt": "2026-08-03T12:51:01.383Z",
+  "updatedAt": "2026-08-03T21:59:06.443Z",
   "historyDays": 7,
-  "count": 479,
+  "count": 485,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“실탄도, 의욕도 더는 없습니다”…개미 거래대금 반년만에 증발",
+      "summary": "거래비중 7월 31%대로 급감 시장전체 거래대금도 줄어 외국인 증시 영향력만 커져개미들의 투자심리가 위축되며 코스피에서 개인의 영향력이 빠르게 줄고 있다. 올해 초만 해도 외국인 ..",
+      "link": "https://www.mk.co.kr/news/stock/12115881",
+      "publishedAt": "2026-08-03T21:46:40.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'스벅 사태' 뒤 커피시장 흔들…투썸, 석달째 결제액 앞서",
+      "summary": "(서울=연합뉴스) 한상용 기자 = 스타벅스의 이른바 &apos;탱크데이&apos; 논란 이후 국내 커피 프랜차이즈 시장의 결제액 판도에 변화가 나타나고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20260803147900017",
+      "publishedAt": "2026-08-03T21:33:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "폭염에 '냉기 사수' 작전…로만셰이드·도어커튼 검색 급증",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 폭염이 이어지면서 직사광선을 막는 로만셰이드와 냉기 유출을 줄이는 도어커튼 등 &apos;패브릭 차단&apos; 제품을 찾는 소...",
+      "link": "https://www.yna.co.kr/view/AKR20260803126800030",
+      "publishedAt": "2026-08-03T21:31:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "모건스탠리 \"AI 전력망에 기회\" vs 에버코어 \"AI 투자 맹신 안 돼\" [뉴욕 인사이트]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608042867i",
+      "publishedAt": "2026-08-03T21:00:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "상반기 기업 직접금융 조달 15% 감소…CP·단기사채 68%↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080319756",
+      "publishedAt": "2026-08-03T21:00:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "폭락 겪고도 \"코스피 9000 간다\"…모건스탠리 '낙관론' 왜?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080324011",
+      "publishedAt": "2026-08-03T21:00:13.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[반려동물] 맞춤형 펫 건강관리 뜬다…관절·눈·장 건강까지 세분화",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 반려동물의 건강 상태와 생애주기에 맞춰 건강기능식품을 선택하려는 수요가 늘면서 식품업계가 맞춤형 제품과 서비스...",
+      "link": "https://www.yna.co.kr/view/AKR20260803098800030",
+      "publishedAt": "2026-08-03T21:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "“술맛 떨어지네”…생맥주 세금 오른다 [김익환의 부처 핸즈업]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608032391i",
+      "publishedAt": "2026-08-03T21:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"불합리한 소상공인 규제 찾습니다\" 서울신보 캠페인 실시",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울신용보증재단은 내달 11일까지 &apos;소상공인 생생(生生) 규제혁신 제안&apos; 캠페인을 한다고 4일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260803134400004",
+      "publishedAt": "2026-08-03T21:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "롯데 노원점, 17개월 만에 전관 새단장…영업면적 80% 전면 개편",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 롯데백화점은 지난해 3월부터 약 17개월간의 전관 새단장을 마친 노원점이 4일 그랜드 오픈한다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260803138400030",
+      "publishedAt": "2026-08-03T21:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'더는 못 참겠다'…맘스터치, 태국서 철수한 '뜻밖의 이유' [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608031174i",
+      "publishedAt": "2026-08-03T21:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "상반기 단기사채 990조 발행 역대최대…기업 단기자금 수요 확대",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 올해 상반기 증권사 및 일반기업의 단기 자금 수요가 대폭 늘어나면서 단기사채 발행 규모가 990조원을 넘어 반...",
+      "link": "https://www.yna.co.kr/view/AKR20260803149900002",
+      "publishedAt": "2026-08-03T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "중동 긴장 완화에 안도 랠리…다우 사상 최고·나스닥 2%↑·유가 5% 급락 [월가월부]",
+      "summary": "뉴욕증시가 중동 지정학적 긴장 완화 기대에 일제히 상승했다. 국제유가는 호르무즈 해협 봉쇄 우려가 완화되면서 약 5% 급락했고, 국채금리도 하락하며 투자심리가 개선됐다. 3일(현지..",
+      "link": "https://www.mk.co.kr/news/stock/12115819",
+      "publishedAt": "2026-08-03T20:54:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“하이닉스가 스페이스X보다 낫다 … 반도체주 하락 베팅하지 않을 것”",
+      "summary": "샤이아라 살기니 본토벨 포트폴리오 매니저 인터뷰올 상반기 한국을 비롯한 글로벌 증시를 견인했던 인공지능(AI)발 열풍이 하반기엔 큰 변동성을 나타내고 있다. 특히 한국의 반도체주는..",
+      "link": "https://www.mk.co.kr/news/economy/12115165",
+      "publishedAt": "2026-08-03T19:10:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 7월제조업 경기,선주문과 AI투자로 4년여만에 최고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608032837i",
+      "publishedAt": "2026-08-03T15:06:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "아마존,AI와 클라우드 성장세에 시가총액 3조달러 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608032833i",
+      "publishedAt": "2026-08-03T14:41:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 증시, 유가 급락·실적 기대에 상승 …나스닥 1.3%↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608032820i",
+      "publishedAt": "2026-08-03T14:19:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "트럼프, 이란 공격 취소에 유가 6% 급락…美 국채금리도 내려",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608032771i",
+      "publishedAt": "2026-08-03T13:02:57.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3738,102 +3882,6 @@
       "summary": "제이미슨 그리어 미국무역대표부(USTR) 대표는 27일(현지시간) ‘10% 글로벌 관세’의 대체 수단으로 현재 부과를 추진하는 ‘무역법 301조 관세’가 미국 내 물가 상승에 영향..",
       "link": "https://www.mk.co.kr/news/economy/12109146",
       "publishedAt": "2026-07-28T01:04:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“머스크형 리딩 믿고 따라간 30조”…서학개미 ‘최애’ 두 종목, 풍비박산",
-      "summary": "테슬라·스페이스X 주가 부진 전기차 시장 경쟁 심해지고 미래먹거리 AI마저 불확실 테슬라 주가 올들어 30%↓ 스페이스X는 공모가 밑돌아스페이스X와 테슬라가 최근 동반 급락하면서 ..",
-      "link": "https://www.mk.co.kr/news/stock/12109008",
-      "publishedAt": "2026-07-27T21:06:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“기업·자영업 붕괴, 상환 쉽지 않다”…8조 규모 불어난 은행 요주의여신",
-      "summary": "석 달 새 7050억원 늘어나 총여신 증가 속도의 6배 고정이하여신도 11% 늘어 “하반기 건전성 관리 시험대”4대 시중은행(KB국민·신한·하나·우리)의 요주의여신이 8조원을 넘어..",
-      "link": "https://www.mk.co.kr/news/economy/12109004",
-      "publishedAt": "2026-07-27T21:04:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'일단 잘 먹고 갑니다'…삼전닉스 팔아치운 외국인 이유 있었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072789261",
-      "publishedAt": "2026-07-27T21:00:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황도 \"고맙다\"…'TSMC 추격은 착각'이라던 삼성의 반전 [테크로그]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607278722g",
-      "publishedAt": "2026-07-27T21:00:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“내년 2분기 반도체 공급 폭탄 카운트다운” … 삼전닉스 주가의 진짜 변수",
-      "summary": "김태홍의 반도체 집중분석 2편드디어 기다리던 구글(알파벳)의 클라우드 매출과 투자 규모가 발표됐다. 가장 중요한 클라우드 매출은 예상을 웃도는 82%의 놀라운 성장률을 보여줬으며,..",
-      "link": "https://www.mk.co.kr/news/stock/12108452",
-      "publishedAt": "2026-07-27T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607289209i",
-      "publishedAt": "2026-07-27T17:01:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 한화손보 \"여성 경제·펨테크 적극 지원\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072788941",
-      "publishedAt": "2026-07-27T16:28:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607289210i",
-      "publishedAt": "2026-07-27T16:07:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美증시, 반도체주식 급락에 나스닥 하락 전환",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607289204i",
-      "publishedAt": "2026-07-27T15:18:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "FOMC와 실적발표 몰린 주…美 증시, 국제유가 급락에 상승",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607279194i",
-      "publishedAt": "2026-07-27T14:11:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“단골 많은 사장님은 인정해줘야”…매출 적어도 소상공인 대출 OK",
-      "summary": "소상공인 신용평가 전면개편 8월 말부터 16개 은행 참여 사업자 사잇돌대출에도 활용오는 8월 말부터 업력이 길거나 단골손님이 많은 소상공인은 기존보다 더 많은 대출을 받거나 낮은 ..",
-      "link": "https://www.mk.co.kr/news/economy/12108876",
-      "publishedAt": "2026-07-27T13:53:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"1등 시간 문제\" 파격 전망까지…삼전닉스 위협하는 中 CXMT [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026072786316",
-      "publishedAt": "2026-07-27T13:00:01.000Z"
     }
   ]
 }
