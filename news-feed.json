@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-08-08T04:06:15.043Z",
+  "updatedAt": "2026-08-08T10:22:03.236Z",
   "historyDays": 7,
-  "count": 515,
+  "count": 522,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼전닉스 '성과급 공식' 흔들리나…'영업익 N%' 입법 전쟁 [김대영의 노무스쿨]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608069562g",
+      "publishedAt": "2026-08-08T09:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "2030 남성은 오히려 늘었는데…스타벅스에 생긴 '빈자리' [신현보의 딥데이터]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608070808H",
+      "publishedAt": "2026-08-08T08:58:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "노동장관, 폭염 김포공항 불시점검…\"옥외작업자 휴게시설 확충\"",
+      "summary": "(서울=연합뉴스) 한혜원 기자 = 김영훈 고용노동부 장관은 8일 오후 김포국제공항을 사전 예고 없이 방문해 지상 조업 현장에서 &apos;폭염 안전 5대...",
+      "link": "https://www.yna.co.kr/view/AKR20260808043100530",
+      "publishedAt": "2026-08-08T08:25:28.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[청주소식] 매월 10명 구직 청년 증명사진 지원",
+      "summary": "(청주=연합뉴스) 청주시는 구직 청년들의 경제적 부담을 덜기 위해 오는 12월까지 매월 10명의 무료 증명사진 촬영을 선착순 지원한다고 8일 밝...",
+      "link": "https://www.yna.co.kr/view/AKR20260808043300064",
+      "publishedAt": "2026-08-08T08:17:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "주가 40% 빠졌는데…'다시 올라타야 하나' 개미들 들썩 [한경우의 케이스스터디]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080709106",
+      "publishedAt": "2026-08-08T08:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "이래서 돈방석 앉았구나…1000원짜리 팔아 4000억 번 비결 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608029870i",
+      "publishedAt": "2026-08-08T07:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“진단비 15만원 지급”…폭염으로 피해 봤다면 보험이 보장한다는데",
+      "summary": "경기도, 온열질환 등 진단비 지급 위험 대비로 지수형 보험도 관심↑최근 40도를 넘는 기록적인 폭염이 연일 이어지는 가운데, 경기도가 기후로 인해 피해를 보면 진단비 등을 지급해 ..",
+      "link": "https://www.mk.co.kr/news/economy/12121727",
+      "publishedAt": "2026-08-08T06:40:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "CXMT가 턱밑까지?…삼전·하닉에 남은 '반전 카드' 있었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608071526i",
+      "publishedAt": "2026-08-08T06:28:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "與김보미, 황희 '버스 하우스' 제안에 \"내로남불·탁상공론\"",
+      "summary": "(서울=연합뉴스) 김정진 기자 = 더불어민주당 8·17 전당대회 당 대표 예비경선에 출마했다가 낙선한 김보미 전 강진군의장은 8일 자당 황희 의...",
+      "link": "https://www.yna.co.kr/view/AKR20260808037500001",
+      "publishedAt": "2026-08-08T06:27:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "황종우 장관, 포항 양식장 점검…경북 수온 작년보다 6도 높아",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 황종우 해양수산부 장관은 8일 경북 포항시의 강도다리 육상 수조식 양식장을 찾아 고수온 대응 상황과 피해 현황...",
+      "link": "https://www.yna.co.kr/view/AKR20260808034900030",
+      "publishedAt": "2026-08-08T05:38:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"반도체 근원 경쟁력 회복 신호탄\"…삼성, 3D HBM 승부수 [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026080710996",
+      "publishedAt": "2026-08-08T05:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "작정하고 만들었다…2030 외면받던 '국민 첫차'의 대반격 [최수진의 모빌리티톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608056094g",
+      "publishedAt": "2026-08-08T04:00:01.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -4082,46 +4178,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202607318312i",
       "publishedAt": "2026-08-01T11:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"승진·성과급 여기 달렸다\"…삼성 임원들 10월 앞두고 '비상' [김대영의 노무스쿨]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607318046g",
-      "publishedAt": "2026-08-01T09:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "농식품부, 남부 지역에 21억원 긴급 투입⋯농업용수 확보",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026080192337",
-      "publishedAt": "2026-08-01T05:54:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스만 믿었다가 '눈물'…급락장서 뜨는 투자법 뭐길래 [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026073180536",
-      "publishedAt": "2026-08-01T05:47:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성전자, SK하이닉스 추월하고 1위\"…파격 전망 나왔다 [강경주의 테크X]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026073181776",
-      "publishedAt": "2026-08-01T05:00:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“열대야도 아닌데 잠이 안온다”…7월 최악의 변동성, 8월은 괜찮을까?",
-      "summary": "7월 들어 국내 주식시장은 최악의 한 달과 최고의 하루를 보냈다. 코스피 시장은 7월 내내 계속 급락을 맞다가 마지막 날 17% 급등을 하면서 일간 상승률 역대 1위를 찍었다. 또..",
-      "link": "https://www.mk.co.kr/news/stock/12114223",
-      "publishedAt": "2026-08-01T04:13:17.000Z"
     }
   ]
 }
