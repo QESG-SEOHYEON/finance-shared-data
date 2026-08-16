@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-08-15T21:12:39.762Z",
+  "updatedAt": "2026-08-16T03:40:30.623Z",
   "historyDays": 7,
-  "count": 513,
+  "count": 516,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 지난 한 주간 코스피에서 외국인 투자자가 6조5천억원어치를 쓸어 담으며 이달 순매수로 지수 상승을 주로 견인한...",
+      "link": "https://www.yna.co.kr/view/AKR20260815041700008",
+      "publishedAt": "2026-08-16T03:27:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"건강하고 힙해요\"…미국인들 사로잡은 'K푸드' 이곳서 만든다 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608153046g",
+      "publishedAt": "2026-08-16T03:00:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"골프 치다 허리 휘겠다\"…110만원 드라이버에 골퍼들 결국 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608163879i",
+      "publishedAt": "2026-08-16T03:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 곽윤아(연합뉴스 증권부 기자)씨 조부상",
+      "summary": "▲ 곽기식(향년 90세)씨 별세, 곽윤아(연합뉴스 증권부 기자)씨 조부상, 김우보(서울경제신문 산업부 기자)씨 처조부상 = 15일 오후 7시, ...",
+      "link": "https://www.yna.co.kr/view/AKR20260816020100008",
+      "publishedAt": "2026-08-16T02:46:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“은행원이 삼전보다 더 법니다”…상반기 급여만 7150만원 챙겼다",
+      "summary": "4대은행, 젼년 동기 12.6% 급증 최대 실적에 13년만 최대 상승률 초호황 삼성전자 6300만원 상회 금융지주 평균급여는 첫 1억원대올 상반기 최대 실적을 기록한 주요 은행의 ..",
+      "link": "https://www.mk.co.kr/news/economy/12128889",
+      "publishedAt": "2026-08-16T02:18:20.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울시, 전기이륜차 배터리 화재 분석…6천여대 리콜",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시 소방재난본부는 전기 이륜자동차 배터리 화재 원인 분석 실험을 실시해 관계기관에 공유한 끝에 6천여대의 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260815020600004",
+      "publishedAt": "2026-08-16T02:15:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울시, 인도네시아 반둥시 공무원 200명에 디지털정책 공유",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 지난 13일 인도네시아 반둥시의 요청으로 반둥시 공무원 약 200명과 함께하는 온라인 정책 세미나를 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260815023500004",
+      "publishedAt": "2026-08-16T02:15:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“갚기 힘든 빚 적극 탕감해야”…한국식 ‘빚 탕감’ 정책에 해외 반응은",
+      "summary": "이재명 정부가 취약차주에 대한 적극적인 부채 탕감에 나선 가운데 해외 주요국에선 정부가 별도 기금을 만들어 주기적으로 개인 채무를 소각하는 사례는 드물다는 평가가 나왔다. 15일 ..",
+      "link": "https://www.mk.co.kr/news/economy/12128884",
+      "publishedAt": "2026-08-16T02:00:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"밥값 비싸서 편의점 갔는데\"…이번엔 '이것'마저 9% 올랐다 [박상경의 영수증 리뷰]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608137899g",
+      "publishedAt": "2026-08-16T02:00:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“수익률 너무 튄다고 상장폐지, 말이 돼?”…잘나가던 액티브ETF에 무슨 일",
+      "summary": "두달새 액티브ETF 5종 상장폐지 초과수익에 ‘상관계수 0.7’ 못맞춰 업계 “전세계 어디에도 없는 규제”타임폴리오자산운용의 ‘TIME 미국배당다우존스액티브’ ETF(상장지수펀드)..",
+      "link": "https://www.mk.co.kr/news/stock/12128877",
+      "publishedAt": "2026-08-16T01:44:33.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "■ 7.3만호+α 신규택지 이르면 내달 발표…서울 그린벨트 포함될까",
+      "link": "https://www.yna.co.kr/view/AKR20260816016700011",
+      "publishedAt": "2026-08-16T01:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"비거주 1주택자 전세대출 막힌다\"더니…'반전' 있었다 [금융당국 백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608163814i",
+      "publishedAt": "2026-08-16T01:28:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "공론화된 용산공원내 주택 건설…'20년 금지' 빗장 풀리나",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 정부가 지난 13일 발표한 공급대책에서 용산공원 내 어린이공원을 비롯한 공원 본체 부지 내 주택건설 추진 계획...",
+      "link": "https://www.yna.co.kr/view/AKR20260816016600003",
+      "publishedAt": "2026-08-16T01:27:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "교통사고 유족이 가해자에 손해배상해야 한다고? [어쩌다 세상이]",
+      "summary": "1차 사고 후 후속 조치 못한 운전자 이어진 2차 사고서 심장마비로 사망 가해 차량 “사고로 적재물 파손” 반소 법원 “사망자 과실도 인정”…손배서 상계교통사고로 가족을 잃으면 상..",
+      "link": "https://www.mk.co.kr/news/economy/12128872",
+      "publishedAt": "2026-08-16T01:14:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "과자값 그대로인데…\"더 잘 벌었다\" K식품 비결 알고보니 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608163786i",
+      "publishedAt": "2026-08-16T01:01:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "주식 시장의 계절을 읽으려면 실질금리를 보라 ﻿[김정남의 주식투자 프레임]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608103896i",
+      "publishedAt": "2026-08-16T01:00:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“돈 급하게 빌리려다 범죄자됐다”…신종 대출사기 피해 속출, 뭐길래",
+      "summary": "대출 빙자해 통장 양도받아 악용 “넘겨준 피해자도 형사 처벌 대상”# 급전이 필요했던 취업준비생 A씨는 최근 “상품권 구매 실적을 쌓으면 신용도가 올라가 즉시 대출이 가능하다”는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12128862",
+      "publishedAt": "2026-08-16T00:48:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼전닉스 안 팔고 버텼는데…\"300조 역대급 환원\" 희소식 예고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081636947",
+      "publishedAt": "2026-08-16T00:03:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"두 달 만에 1200억 됐다\"…개미들 퇴직연금 들고 몰려든 곳 [김연지의 연금빌드업]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081417826",
+      "publishedAt": "2026-08-16T00:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'죽은 빵도 살린다'던 발뮤다…60만원 탁상시계로 부활 노려",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608103639i",
+      "publishedAt": "2026-08-16T00:00:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "5만원 넘는데 줄서서 사먹는다…대박 난 '케이크' 뭐길래 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608141931g",
+      "publishedAt": "2026-08-16T00:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“아무래도 아직은 좀 불안하죠”…이달 상승장에도 개미는 ‘하락 베팅’",
+      "summary": "최근 국내 증시가 반등을 이어간 가운데 공매도 잔고도 다시 증가하고 있다. 단기간에 주가가 급반등하면서 시장의 경계감도 동시에 커지는 있다는 분석이 나온다. 16일 한국거래소에 따..",
+      "link": "https://www.mk.co.kr/news/stock/12128843",
+      "publishedAt": "2026-08-15T23:47:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“목표가 40% 올랐는데 주가는 80% 뛰었다”…AI 팩토리로 날아오른 NHN [이주의 bull기둥]",
+      "summary": "인공지능(AI) 인프라스트럭처 기업으로 거듭난 NHN이 분기 기준 역대 최대 실적에 이어 증권가의 잇단 목표가 상향까지 더해지며 이번주에만 80% 가까이 급등했다. AI시대 필수 ..",
+      "link": "https://www.mk.co.kr/news/stock/12128841",
+      "publishedAt": "2026-08-15T23:38:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "적자인데 목표가는 두 배…월가가 이 태양광주에 꽂힌 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608153333i",
+      "publishedAt": "2026-08-15T23:29:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미국 네트워크 투자 본격화에 '통신장비주' 뜬다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608142342i",
+      "publishedAt": "2026-08-15T23:21:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼전·하닉서 빠진 돈 어디 갔나 봤더니”…한달새 21% 뛴 ‘이곳’",
+      "summary": "반도체 위주 수급 쏠림에 저평가됐던 섹터에 ‘바람’ ETF 1개월 수익률 톱10에 5개 상품이 바이오·헬스 종목삼성전자와 SK하이닉스 등 국내 증시를 견인해온 인공지능(AI) 반도..",
+      "link": "https://www.mk.co.kr/news/stock/12128829",
+      "publishedAt": "2026-08-15T22:27:11.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3922,190 +4130,6 @@
       "summary": "(서울=연합뉴스) 임기창 기자 = 지난 5년간 건설기업들의 수익성과 안정성, 성장성, 활동성 등을 나타내는 모든 지표가 악화했다는 분석이 나왔다...",
       "link": "https://www.yna.co.kr/view/AKR20260809002100003",
       "publishedAt": "2026-08-09T04:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'특허가 강한 스타트업 육성 프로젝트' 추진…청년창업 지원",
-      "summary": "(대전=연합뉴스) 김준호 기자 = 지식재산처가 우리 기업이 개발한 혁신기술의 권리범위를 기술 가치에 맞게 설정하기 위한 &apos;적정 권리범위 제공을 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260807084800063",
-      "publishedAt": "2026-08-09T03:00:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "고향사랑기부 세제 혜택 강화…2천만원 기부시 341만→560만원",
-      "summary": "(서울=연합뉴스) 홍준석 기자 = 고향사랑기부제에 참여하면 받는 세제 혜택이 커진다.",
-      "link": "https://www.yna.co.kr/view/AKR20260808015200530",
-      "publishedAt": "2026-08-09T03:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "근로복지공단, 하반기 신입 274명 공채…19일까지 온라인 접수",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 근로복지공단은 올해 하반기 신입직원 274명을 공개 채용한다고 9일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260808021500530",
-      "publishedAt": "2026-08-09T03:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "신상품 아닌데도 판매장려금 챙긴 농협하나로…과징금 5억",
-      "summary": "(세종=연합뉴스) 김수현 기자 = 공정거래위원회는 신상품 입점 장려금을 부당하게 받은 혐의 등으로 ㈜농협하나로유통에 시정명령과 함께 과징금 4억...",
-      "link": "https://www.yna.co.kr/view/AKR20260807102600002",
-      "publishedAt": "2026-08-09T03:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "마트 상품권으로 보이스피싱 피해금 세탁…금감원 소비자경보",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 대형마트 무인 키오스크에서 상품권을 구매해 범죄 수익금을 세탁하는 신종 보이스피싱이 확산하자 금융감독원이 9일...",
-      "link": "https://www.yna.co.kr/view/AKR20260808028400002",
-      "publishedAt": "2026-08-09T03:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“폭염 속 힘내세요”…하나금융, 명동 소상공인에 ‘행복상자’ 전달",
-      "summary": "하나금융그룹은 지난 8일 명동상인협의회와 함께 ‘행복상자 나눔’ 봉사활동을 펼쳤다고 9일 밝혔다. 이번 봉사활동은 지역사회 전반에 따뜻한 나눔 문화를 확산하고 위기를 겪고 있는 소..",
-      "link": "https://www.mk.co.kr/news/economy/12121892",
-      "publishedAt": "2026-08-09T02:55:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“코스닥 PER 50배…프리미엄지수 도입 땐 옥석 가리기 본격화”",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608071093i",
-      "publishedAt": "2026-08-09T02:28:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI가 주문 예측하고 로봇이 상품 '척척'…신선식품 승부수 던진 롯데마트",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608092408i",
-      "publishedAt": "2026-08-09T02:00:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'1조 베팅' 승부수 띄운 롯데마트…영하 25도서 로봇이 '척척' [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608092368g",
-      "publishedAt": "2026-08-09T02:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"반찬 만들려 했는데\"…마트서 장 보던 워킹맘 '화들짝' [박상경의 영수증 리뷰]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608079891g",
-      "publishedAt": "2026-08-09T02:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"3시간 14만원이면 탄다\"…부자 전유물 벗은 中 요트 [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608092435i",
-      "publishedAt": "2026-08-09T01:58:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "파도에 호텔·카페·상점까지…하이난의 '서핑 경제학' [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608082047i",
-      "publishedAt": "2026-08-09T01:57:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'중국의 몰디브' 살려낸 두뇌…자유무역항 전초기지로 뜬 하이난대 [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608081908i",
-      "publishedAt": "2026-08-09T01:56:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스닥 불붙자 우주·바이오 ETF 날았다…개미는 美지수로 피신",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608092430i",
-      "publishedAt": "2026-08-09T01:41:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼전닉스 레버리지 막았더니 자금 몰려간 곳은…코스닥 레버리지 ‘날았다’",
-      "summary": "단일종목 레버리지 ETF 규제후 코스닥으로 자금 다시 유입돼 코스닥 ETF 수익률도 ‘훨훨’ “쏠림완화 긍정적…변동성 확대 주의”지난달 말부터 최근까지 코스닥 지수 레버리지 수익률..",
-      "link": "https://www.mk.co.kr/news/stock/12121863",
-      "publishedAt": "2026-08-09T01:01:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“중국 때려줘서 고맙습니다 트럼프”...시퍼런 장에 주가 30% 급등한 종목 [이주의 Bull기둥]",
-      "summary": "올해초 급등이후 지속적인 하락세를 탔던 한화솔루션이 이번주 30% 이상 급등했다. 미국이 중국 태양광 기업을 겨냥한 관세정책을 새롭게 내놨기 때문이다. 비중국으로 분류된 국내 태양..",
-      "link": "https://www.mk.co.kr/news/stock/12121857",
-      "publishedAt": "2026-08-09T00:55:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주가 1000원 못 넘으면 퇴출”…코스닥 상장사 ‘살얼음판’",
-      "summary": "정부의 국내 증시 밸류업 정책에 따른 제 강화 조치가 시행 한 달을 지나면서 코스닥 시장에 ‘퇴출 칼바람’이 불고 있다. 9일 한국거래소와 금융감독원 공시에 따르면 지난 7일 기준..",
-      "link": "https://www.mk.co.kr/news/stock/12121850",
-      "publishedAt": "2026-08-09T00:35:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "AI 서버 덕에 MLCC 수요 급증…주가 반토막에도 성장 기대",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608082093i",
-      "publishedAt": "2026-08-09T00:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한달여만에 주가 반토막 난 SK하이닉스…향후 관찰 포인트는",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608071043i",
-      "publishedAt": "2026-08-08T23:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "레버리지 완화에도 힘 못 쓰는 코스피…종목장세 대응 나서야 [주간전망]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026080710246",
-      "publishedAt": "2026-08-08T23:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“반도체 몰빵 투자 이젠 안통해”…절반 덜어내고 ‘바이오’ 담으라는데 [여의도란도란]",
-      "summary": "“상반기 주식시장을 끌어올린 반도체 종목에만 100% 올인하는 전략은 더이상 통하지 않습니다. 당분간 코스피와 대형 반도체주의 박스권 흐름이 예상되는 만큼, 하반기에는 코스닥 바이..",
-      "link": "https://www.mk.co.kr/news/stock/12121820",
-      "publishedAt": "2026-08-08T21:23:22.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[반려동물] \"버려지고 옥상·차량에 방치되고\"…폭염 속 신음하는 동물들",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 연일 이어지는 폭염과 휴가철이 맞물리면서 반려동물 유기·유실이 늘고, 야외나 차량 등에 방치되는 사례도 잇따르...",
-      "link": "https://www.yna.co.kr/view/AKR20260808028600030",
-      "publishedAt": "2026-08-08T21:15:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 국내 양대 플랫폼 기업 네이버와 카카오가 인공지능(AI) 경쟁력 확보를 위한 연구개발(R&amp;amp;D) 투자를 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260807119900017",
-      "publishedAt": "2026-08-08T21:13:01.000Z"
     }
   ]
 }
