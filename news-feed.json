@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-08-17T10:23:04.069Z",
+  "updatedAt": "2026-08-17T21:17:41.115Z",
   "historyDays": 7,
-  "count": 505,
+  "count": 501,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“월요일에 장이 열렸어야 했는데”…日·대만서 메모리株 급등",
+      "summary": "키옥시아 하루새 15% 껑충 하이닉스ADR·마이크론도 호조광복절 연휴를 맞아 국내증시가 휴장한 사이에 아시아 증시에서 메모리 반도체 관련 기업 주가가 일제히 급등했다. 이에 따라 ..",
+      "link": "https://www.mk.co.kr/news/stock/12129762",
+      "publishedAt": "2026-08-17T21:10:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
+      "summary": "17일(현지시간) 뉴욕증시 3대 지수는 일제히 하락 마감했다. 다우지수는 0.51% 내렸고 S&P500 지수도 0.52% 하락했다. 기술주 중심의 나스닥 지수는 0.32% 내려 다..",
+      "link": "https://www.mk.co.kr/news/stock/12129759",
+      "publishedAt": "2026-08-17T21:06:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“삽 뜰 때부터 돈 때문에 휘청”…부동산 PF대출 연체율 10년래 최고",
+      "summary": "건설 경기 침체 장기화에 금융권 1분기 연체율 4.65% 증권사 30.4%로 가장 높아 고정이하여신 비율도 상승건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱(PF) 대..",
+      "link": "https://www.mk.co.kr/news/economy/12129754",
+      "publishedAt": "2026-08-17T21:01:15.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 국내 주요 대기업의 신규 채용이 최근 2년 새 15% 넘게 감소한 가운데, 30세 이하 청년층 고용 비중은 줄...",
+      "link": "https://www.yna.co.kr/view/AKR20260817042600003",
+      "publishedAt": "2026-08-17T21:01:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"물놀이 끝나면 해변으로 배달\"…양양 서피비치 주문 2.5배",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 올해 여름 휴가철 국내 주요 해수욕장 인근의 음식 배달 주문이 대폭 늘어난 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260817028700030",
+      "publishedAt": "2026-08-17T21:01:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전국 도시재생 명소 52곳서 스탬프투어…4곳 방문하면 상품권",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 11월 15일까지 전국 도시재생사업지를 둘러보는 &apos;도시재생 스탬프투어&apos;를 진행한다고 18일 밝혔다...",
+      "link": "https://www.yna.co.kr/view/AKR20260816019700003",
+      "publishedAt": "2026-08-17T21:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "구직 청년 64% \"희망 직무 5년 내 AI로 대체·축소될 것\"",
+      "summary": "(서울=연합뉴스) 김윤구 기자 = 구직 청년 10명 중 6명 이상이 향후 5년 안에 자신이 희망하는 직무가 인공지능(AI)으로 대체되거나 축소될...",
+      "link": "https://www.yna.co.kr/view/AKR20260817033400003",
+      "publishedAt": "2026-08-17T21:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울시, 무주택 청년 이사비·중개보수 최대 40만원 지원",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 부동산 중개보수와 이사비로 최대 40만원을 지원하는 &apos;청년 부동산 중개보수 및 이사비 지원&apos; 대상자 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260817032600004",
+      "publishedAt": "2026-08-17T21:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "롯데百-SC제일은행, 우수 고객에 자산관리·라운지 상호 제공",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 롯데백화점은 SC제일은행과 함께 양사 우수 고객을 위한 제휴 서비스를 선보인다고 18일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260817053100030",
+      "publishedAt": "2026-08-17T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "일본 연말 시총 1위를 AI에게 물었더니 … 일본 경제 시나리오 3가지로 갈렸다",
+      "summary": "일본 1위 몸값 기업을 보는 관점최근 니혼게이자이신문(닛케이)에 재미난 기사가 실렸다. 챗GPT와 제미나이, 클로드 등 주요 생성형 인공지능(AI)에 ‘12월 1일 종가 기준 일본..",
+      "link": "https://www.mk.co.kr/news/stock/12129319",
+      "publishedAt": "2026-08-17T20:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성 D램 통째로 베꼈다” … 한국 위협하는 中 CXMT의 화려한 성공, 그 검은 뿌리",
+      "summary": "[한중일 톺아보기-187]“AI 붐이 일어나더라도 반도체 메모리 산업 고유의 시황 순환이 사라지는 것은 아니다. 수요를 낙관해 거액의 설비투자를 하면 공급 과잉으로 스스로 제품 가..",
+      "link": "https://www.mk.co.kr/news/stock/12129463",
+      "publishedAt": "2026-08-17T20:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“코스피 신호등 그린라이트” … 투자베테랑의 베팅은",
+      "summary": "한국 증시 매수 기회 4가지 요소 분석하니한여름 기록적인 폭염이 끝나가는 즈음의 한국 주식시장 역시 새로운 기록들을 남기며 가을을 맞이하고 있다. 상반기 역대 최대 상승이라는 기록..",
+      "link": "https://www.mk.co.kr/news/stock/12129284",
+      "publishedAt": "2026-08-17T19:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"청소년 중독 조장 혐의\"…메타, 천문학적 과징금 걸린 소송 시작",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608185653i",
+      "publishedAt": "2026-08-17T16:03:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "홍해 막히자…사우디, 호르무즈서 선박 직거래로 석유 판매",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608175629i",
+      "publishedAt": "2026-08-17T14:49:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'유가 영향' 美 증시 약세… AI 낙관에 반도체주는 상승",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608175622i",
+      "publishedAt": "2026-08-17T14:18:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "급락에서 반등한 '금'…중앙은행 달러 보완수요 회복",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608175605i",
+      "publishedAt": "2026-08-17T13:41:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 경제학자 80% \"올해 내 금리인상 없을 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608175594i",
+      "publishedAt": "2026-08-17T13:06:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "집중호우 이재민, 은행서 최대 5000만원 긴급생활자금 빌린다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608175567i",
+      "publishedAt": "2026-08-17T12:52:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "외국인이 돌아왔다…7000피 앞두고 '2조' 쓸어담은 종목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081754867",
+      "publishedAt": "2026-08-17T10:46:38.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -3858,190 +4010,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026081158756",
       "publishedAt": "2026-08-11T00:22:47.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "울산시, '일자리 창출 강소기업' 신청 접수…10개사 선정 예정",
-      "summary": "(울산=연합뉴스) 허광무 기자 = 울산시가 일자리 창출과 근로환경 개선에 앞장서는 유망 중소기업을 발굴해 지원하고자 &apos;2026년 일자리 창출 강...",
-      "link": "https://www.yna.co.kr/view/AKR20260810149300057",
-      "publishedAt": "2026-08-10T21:07:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "임금근로자 8명 중 1명은 '최저임금 미만'…임시직은 39%",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 국내 임금근로자 8명 중 1명가량은 시간당 임금이 최저임금에 미치지 못하는 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20260810104900530",
-      "publishedAt": "2026-08-10T21:01:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전닉스 주식 다시 오를까요?\" 전문가에 물었더니…",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081050241",
-      "publishedAt": "2026-08-10T21:00:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "킨텍스, 벤처기업부 '민관협력 개방 혁신 지원 사업' 3개 선정",
-      "summary": "(고양=연합뉴스) 노승혁 기자 = 킨텍스는 중소벤처기업부가 주관하는 &apos;2026년 민관협력 개방형 혁신(오픈이노베이션) 지원 사업&apos;의 하나로 유망...",
-      "link": "https://www.yna.co.kr/view/AKR20260810126600060",
-      "publishedAt": "2026-08-10T21:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "대전중수청, 세종시 내 대체 임시청사 확보…입지 논란 '종지부'",
-      "summary": "(세종=연합뉴스) 양영석 기자 = 임시 청사 위치 문제로 잡음이 일었던 대전중대범죄수사청(중수청)이 세종시 신도시 내 대체 사무실을 확보해 입주...",
-      "link": "https://www.yna.co.kr/view/AKR20260810131000063",
-      "publishedAt": "2026-08-10T21:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“반도체만 외치던 증시, 이젠 내 차례”…이달 38% 오른 이 종목",
-      "summary": "코스피 이달 들어 4.5% 내릴 때 삼성전기·LG엔솔 등 실적성장주 주가 평균 수익률 20%로 ‘눈길’ 한화솔루션 38% 올라 1위 기록지난달 증시 급락 과정에서 반도체주들과 함께..",
-      "link": "https://www.mk.co.kr/news/stock/12123534",
-      "publishedAt": "2026-08-10T20:57:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "그린벨트 해제 후보 다시 거론된 하남 감북…높아진 땅값 변수",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 정부가 수도권 주택 공급 확대를 위해 개발제한구역(그린벨트) 해제를 통한 신규 택지 확보를 검토하면서 과거 보...",
-      "link": "https://www.yna.co.kr/view/AKR20260810142700003",
-      "publishedAt": "2026-08-10T20:57:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국내서 더 저렴한 비트코인…'역 김치프리미엄' 장기화",
-      "summary": "(서울=연합뉴스) 유동현 기자 = 올해 들어 가상자산이 해외보다 국내에서 더 저렴하게 거래되는 이른바 &apos;역(逆) 김치프리미엄&apos; 현상이 뚜렷하게 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260810144300002",
-      "publishedAt": "2026-08-10T20:57:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“저 종목은 10%씩 뛰는데” … 조바심에 다들 무너집니다",
-      "summary": "‘주식시장의 심리학’ 편역자 김동선 KB증권 용산지점장“좋은 종목을 찾는 것보다 더 중요한 것은 흔들리지 않는 투자심리를 만드는 것입니다.” 100년 넘게 읽혀온 투자 고전 ‘주식..",
-      "link": "https://www.mk.co.kr/news/stock/12122887",
-      "publishedAt": "2026-08-10T19:15:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "20억대 아파트가 기대주로 … ‘보유에서 거주로’ 세제개편안이 가리키는 방향",
-      "summary": "세제개편안 부동산분야 총론지난 3일, 재정경제부는 2026 세제개편안을 발표하였다. 이전에 있었던 토론회에서 나왔던 주요 이슈가 거의 모두 나왔는데, 여러 가지 중요 사항이 있지만..",
-      "link": "https://www.mk.co.kr/news/economy/12122808",
-      "publishedAt": "2026-08-10T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"마이크로소프트,올가을 새로운 자체칩 공개\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608115353i",
-      "publishedAt": "2026-08-10T15:10:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "제프리스 \"애플, 올글래스폰 출시 취소… 매도하라\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608105342i",
-      "publishedAt": "2026-08-10T14:41:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "뉴욕증시, 국제 유가·국채금리 오르자 하락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608105327i",
-      "publishedAt": "2026-08-10T14:08:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "늘어나는 AI 컴퓨팅 수요에…인텔, 150억달러 유증 '승부수'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081053291",
-      "publishedAt": "2026-08-10T13:55:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "중국, 상반기 휴머노이드 로봇 출하량 97% 점유…미국 압도",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081053197",
-      "publishedAt": "2026-08-10T13:46:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "인텔, 150억달러 규모 보통주 발행…투자 자금 조달 목적",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608105318i",
-      "publishedAt": "2026-08-10T13:37:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'트럼프' 간판값 이 정도 였어?…1년 새 843억 '잭팟'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608105298i",
-      "publishedAt": "2026-08-10T13:21:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"지금 사라\" 보고서 써놓고 팔았다…개미들 등 돌린 까닭 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081046166",
-      "publishedAt": "2026-08-10T13:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "청년미래적금 138만5000명 최종 가입…9월 추가 모집 검토",
-      "summary": "“청년들 높은 가입수요 확인돼”청년미래적금 최초 가입 신청자 가운데 138만5000명이 최종 가입한 것으로 나타났다. 당초 신청자만 234만명을 넘어서면서 청년층의 높은 가입 수요..",
-      "link": "https://www.mk.co.kr/news/economy/12123312",
-      "publishedAt": "2026-08-10T12:05:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "인도서 'K간식' 불티나게 팔리더니…이틀 연속 주가 '들썩' [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081046986",
-      "publishedAt": "2026-08-10T11:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "운동화 아식스 OEM 업체 비즈코, 강남 '브이플렉스' 인수",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 신발 브랜드 아식스 운동화의 주문자상표부착생산(OEM) 업체 비즈코가 강남 테헤란로의 대형 오피스 빌딩 &apos;브이...",
-      "link": "https://www.yna.co.kr/view/AKR20260810145100008",
-      "publishedAt": "2026-08-10T10:47:55.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "청년미래적금, 138만5천명 최종가입…9월 추가모집 검토",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 청년미래적금 최초 모집기간 신청자 중 138만5천명이 최종 가입했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260810146800002",
-      "publishedAt": "2026-08-10T10:46:41.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "VIG파트너스, 8년 만에 본촌 매각…태국 마이너그룹이 인수",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 국내 사모펀드(PEF) 운용사 VIG파트너스가 글로벌 치킨 프랜차이즈 본촌(Bonchon)을 인수 8년 만에 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260810143900008",
-      "publishedAt": "2026-08-10T10:45:38.000Z"
     }
   ]
 }
