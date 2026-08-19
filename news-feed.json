@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-08-19T03:38:31.877Z",
+  "updatedAt": "2026-08-19T10:19:50.915Z",
   "historyDays": 7,
-  "count": 513,
+  "count": 505,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "70대 노인 전재산 노렸다…3억 5000만원 수표로 빼돌린 피싱범 ‘덜미’",
+      "summary": "검사와 금융감독원 직원을 사칭해 70대 여성으로부터 3억 원대 수표를 가로챈 보이스피싱 조직원들이 경찰에 붙잡혔다. 서울 강남경찰서는 통신사기피해환급법 위반 혐의로 현금 수거책 A..",
+      "link": "https://www.mk.co.kr/news/economy/12131568",
+      "publishedAt": "2026-08-19T10:17:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“버티다 바닥서 팔고, 반등 때 못 샀다”…20년간 딱 30일 놓치자 생긴 일 [데이터로 읽는 자산시장]",
+      "summary": "변동성 심화 장세 대응법올해 투자자들은 사상 유례없이 변동성이 큰 시장을 겪으며 투자에 어려움을 겪고 있다. 특히 지난 7월에는 1년에 한두 번 경험하기 어려운 서킷 브레이커가 연..",
+      "link": "https://www.mk.co.kr/news/stock/12131560",
+      "publishedAt": "2026-08-19T10:09:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "BB크림으로 뜨더니 이번엔 스킨케어 대박…코스메카코리아 이번엔 ‘코스피 이전’ 성공할까 [플러스 관심종목]",
+      "summary": "‘화장품 업계 하이닉스’ 코스메카코리아“외국에서도 선물용으로 한국 화장품이 최고에요.” K뷰티에 대한 관심이 여전히 뜨겁다. 국내는 물론 해외에서도 K화장품을 구해달라는 요청이 빗..",
+      "link": "https://www.mk.co.kr/news/stock/12131555",
+      "publishedAt": "2026-08-19T10:06:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "뉴턴도 물렸습니다…100년전 투자 바이블이 알려준 ‘개미의 마음가짐’",
+      "summary": "1912년 고전 ‘주식시장의 심리학’ 편역한 김동선 KB증권 용산지점장 “조바심이야말로 성투의 적이죠”“탐욕과 공포는 결국 남들보다 빨리, 더 많이 벌어야 한다는 조바심에서 시작..",
+      "link": "https://www.mk.co.kr/news/stock/12131549",
+      "publishedAt": "2026-08-19T10:01:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“연 1.5%로 5억 빌려준다”…삼성맨들 ‘들썩’ 은행서 100% 추가대출도 가능?",
+      "summary": "다음 달 삼성전자가 최대 5억원 규모의 사내 주택자금 대출을 시행할 예정인 가운데, 임직원들 사이에서는 이를 실제 주택 구매에 어떻게 활용할 수 있을지 관심이 커지고 있다. 최근 ..",
+      "link": "https://www.mk.co.kr/news/economy/12131544",
+      "publishedAt": "2026-08-19T09:42:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 김동재(삼성화재 홍보팀 부장)씨 부친상",
+      "summary": "▲ 김팔구씨 별세, 김동재(삼성화재 홍보팀 부장)씨 부친상 = 19일, 김천제일병원장례식장 특2호, 발인 21일 오전 6시 30분. ☎ 010-...",
+      "link": "https://www.yna.co.kr/view/AKR20260819164900002",
+      "publishedAt": "2026-08-19T09:38:39.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미래에셋운용, 상반기 순이익 '역대 최대' 1조원 육박",
+      "summary": "(서울=연합뉴스) 김태종 기자 = 미래에셋자산운용이 상반기 국내외 증시 호황에 힘입어 1조원에 가까운 당기순이익을 올린 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20260819152400008",
+      "publishedAt": "2026-08-19T09:33:15.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "나노씨엠에스, 10억원 유상증자…에스에이치에너지알이백에 제3자배정",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 나노씨엠에스[247660]는 운영자금 등 약 10억원을 조달하고자 제3자배정 유상증자를 결정했다고 19일 공시했...",
+      "link": "https://www.yna.co.kr/view/AKR20260819163500008",
+      "publishedAt": "2026-08-19T09:31:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"원이 고향 거제 도와주세요\"…리센느도, 삼성·LG도 나섰다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608190290g",
+      "publishedAt": "2026-08-19T09:27:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "일품에스피, 해외 뷰티기업과 손잡고 '들깨오일 기반 제품'으로 글로벌 시장 공략",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608190380g",
+      "publishedAt": "2026-08-19T09:27:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "SK하이닉스, 100조 주주환원 시동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904641",
+      "publishedAt": "2026-08-19T09:23:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "원·달러 환율, 한달 반만에 160원 급락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904651",
+      "publishedAt": "2026-08-19T09:23:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "반도체·조선 빼곤 사람 안 뽑아…'뉴 노멀' 된 고용 없는 성장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904391",
+      "publishedAt": "2026-08-19T09:22:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'영끌'에 '빚투'까지 몰려…가계 빚, 사상 첫 2000조 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904401",
+      "publishedAt": "2026-08-19T09:21:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "노동장관 \"HL만도 대표 중처법 위반 입건…불법파견문제도 검토\"",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 김영훈 고용노동부 장관이 HL만도의 경기 평택공장에서 발생한 작업자 끼임 사망사고와 관련해 &quot;HL만도 대표이사...",
+      "link": "https://www.yna.co.kr/view/AKR20260819161600530",
+      "publishedAt": "2026-08-19T09:14:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "韓총리 \"지역 스타트업 세계로 연결될 때 '국가창업시대' 시작\"",
+      "summary": "(서울=연합뉴스) 황윤기 기자 = 한성숙 국무총리는 19일 &quot;지역이 배출한 스타트업이 세계로 연결되고 선순환 구조가 마련될 때 &apos;국가창업 시대&apos;...",
+      "link": "https://www.yna.co.kr/view/AKR20260819160700001",
+      "publishedAt": "2026-08-19T09:11:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SK하닉, 40조 자사주 취득·소각…“주주가치 제고”",
+      "summary": "2027년까지 잉여현금 50% 이상 대규모 주주환원SK하이닉스가 40조원 규모의 자기주식을 취득해 전량 소각한다. 또 2027년까지 누적 잉여현금흐름(FCF)의 50% 이상을 환원..",
+      "link": "https://www.mk.co.kr/news/business/12131529",
+      "publishedAt": "2026-08-19T09:03:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[뉴스&분석] 금리패닉, 2020兆 가계빚 짓누른다",
+      "summary": "미국을 필두로 주요국 국채금리가 일제히 급등하자 기업과 가계가 공포에 휩싸이는 분위기다. 자금 조달 비용이 증가할 것이란 전망 속에 증시 투자심리도 빠르게 위축되면서 코스피 650..",
+      "link": "https://www.mk.co.kr/news/economy/12131518",
+      "publishedAt": "2026-08-19T09:02:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "2분기 매출 사상 첫 1000조 돌파 … 영업익 작년보다 4배 늘어 231조",
+      "summary": "올해 2분기 코스피 상장사들의 매출이 사상 처음으로 1000조원을 돌파했다. 영업이익도 230조원을 넘어서며 역대 최대치를 기록했다. 지난해 같은 기간에 비해 영업이익이 4배 이상..",
+      "link": "https://www.mk.co.kr/news/stock/12131505",
+      "publishedAt": "2026-08-19T09:01:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "철강株, 지역차등 전기료 수혜 기대",
+      "summary": "정부가 산업용 전기요금을 지역별로 차등화하는 방안을 구체화하면서 국내 철강업계가 최대 수혜 업종으로 떠오르고 있다. 지방에 제철소를 보유하고 있는 철강사들이 연간 수천억 원대 전기..",
+      "link": "https://www.mk.co.kr/news/stock/12131503",
+      "publishedAt": "2026-08-19T09:01:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "기술 발명보다 중요한 건 확산 … 'AI 네이티브 코리아' 전략 제시",
+      "summary": "장대환 매경미디어 회장(사진)이 19일 '제28회 한국경영학회 융합학술대회' 개막식 기조연설에서 \"인공지능(AI) 기술력에서 뒤처졌다고 좌절할 이유는 없다\"며 \"발명보다 확산을 잘..",
+      "link": "https://www.mk.co.kr/news/economy/12131500",
+      "publishedAt": "2026-08-19T09:00:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"AI가 뒤바꾼 경영학 … 질문하는 리더를 키워라\"",
+      "summary": "국제 경영 석학이 \"인공지능(AI)이 답을 내놓는 시대에는 경영학 교육도 정답을 가르치는 방식에서 벗어나 학생 스스로 문제를 발견하고 질문하는 능력을 기르는 방식으로 바뀌어야 한다..",
+      "link": "https://www.mk.co.kr/news/economy/12131498",
+      "publishedAt": "2026-08-19T09:00:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 원/달러 환율 1,300원대로…11개월 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260819152800011",
+      "publishedAt": "2026-08-19T09:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'7월 폭락장' 공포에 떨던 개미들…뜻밖의 전망 나왔다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904671",
+      "publishedAt": "2026-08-19T08:50:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금리의 습격…칠천피 문턱서 무너졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904711",
+      "publishedAt": "2026-08-19T08:46:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'메이드 인 차이나' 명품의 역습 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081904241",
+      "publishedAt": "2026-08-19T08:44:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "국채금리發 '트리플 약세' 재연되나…\"7월 같은 폭락장 없다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608199666i",
+      "publishedAt": "2026-08-19T08:43:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "中 유니트리, 상장 첫날 460% 급등…K로봇주 긴장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026081903951",
+      "publishedAt": "2026-08-19T08:42:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "장기채 금리의 습격…칠천피 문턱에서 무너졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608199698i",
+      "publishedAt": "2026-08-19T08:41:05.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3810,302 +4042,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202608127715i",
       "publishedAt": "2026-08-12T10:20:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“한 건인 줄 알았는데 또 터졌다”…은행권 대출사기 속출, 490억 달해",
-      "summary": "KB국민·신한·우리·IBK기업은행서 총 490억 금융사고주요 시중은행들이 수백억원대 금융사고에 휘말렸다. 대출 심사 과정에서 허위 서류나 거래를 걸러내지 못했다는 점에서 은행의 내..",
-      "link": "https://www.mk.co.kr/news/economy/12125653",
-      "publishedAt": "2026-08-12T10:00:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "김승연 회장, 사재 들여 全직원에 보양식",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081274561",
-      "publishedAt": "2026-08-12T09:34:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "정진완 우리은행장, 포용금융 캠페인 동참",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081274601",
-      "publishedAt": "2026-08-12T09:34:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "두나무, 부채·고립 청년 4122명 지원",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081274541",
-      "publishedAt": "2026-08-12T09:33:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "미국·일본 통화공조 시대…뜨는 투자처 있다는데 [지정학에서 찾는 투자기회]",
-      "summary": "미·일 통화 공조로 뜨는 투자 아이디어지난달 말 엔·달러 환율이 달러당 164엔에 육박하며 1986년 이후 약 40년 만의 최저 수준까지 떨어졌다. 이에 대응해 일본 재무성과 일본..",
-      "link": "https://www.mk.co.kr/news/economy/12125646",
-      "publishedAt": "2026-08-12T09:31:33.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "은행권 덮친 대출사기…추가 피해 드러나며 사고액 '눈덩이'(종합)",
-      "summary": "(서울=연합뉴스) 한지훈 임지우 기자 = 주요 시중은행이 대출 사기에 따른 대규모 금융사고로 몸살을 앓고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260812140651002",
-      "publishedAt": "2026-08-12T09:23:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "과학기술 창업경진대회 대상에 나노아쿠아쉴드·플로트바이오",
-      "summary": "(서울=연합뉴스) 조승한 기자 = 올해 과학기술 창업경진대회 대상에 나노아쿠아쉴드와 플로트바이오가 선정됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260812152400017",
-      "publishedAt": "2026-08-12T09:11:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한토신 종로보령빌딩 매각 주관사에 젠스타·대신증권",
-      "summary": "10월 경쟁입찰 실시 예정 보령홀딩스·교공 임차 중[본 기사는 08월 12일(18:05) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 한국토지신탁 ‘케이원..",
-      "link": "https://www.mk.co.kr/news/stock/12125638",
-      "publishedAt": "2026-08-12T09:08:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'메이드 인 EU' 노린 中, 유럽 車부품사 쓸어담는다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081275751",
-      "publishedAt": "2026-08-12T09:08:37.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "대동금속, 90억원 규모 유상증자 실시",
-      "summary": "코스닥 상장사 대동금속이 89억 9700만원 규모의 제3자배정증자를 실시한다고 2026년 8월 12일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 300만 주, 증자 ..",
-      "link": "https://www.mk.co.kr/news/stock/12125633",
-      "publishedAt": "2026-08-12T09:04:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "덴티스, 80억 원 규모 전환사채 발행",
-      "summary": "코스닥 상장사 덴티스가 제4회 80억 원 규모의 전환사채를 발행한다고 2026년 8월 12일 공시했다. 전환가액은 3102원이며, 전환 청구 기간은 2027년 8월 20일부터 20..",
-      "link": "https://www.mk.co.kr/news/stock/12125634",
-      "publishedAt": "2026-08-12T09:04:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "summary": "■ SMR·양자·우주…정부, 7대 미래성장동력 &apos;씨앗&apos; 뿌린다",
-      "link": "https://www.yna.co.kr/view/AKR20260812145800011",
-      "publishedAt": "2026-08-12T09:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "중동戰 장기화 여파에 한전 영업이익 17% '뚝'",
-      "summary": "중동 전쟁 장기화로 유연탄 가격이 오르면서 한국전력공사의 올해 상반기 영업이익이 전년 동기 대비 16.6% 감소했다. 액화천연가스(LNG) 가격 상승세가 아직 충분히 반영되지 않아..",
-      "link": "https://www.mk.co.kr/news/stock/12125592",
-      "publishedAt": "2026-08-12T09:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "스페이스X가 테슬라 인수하면 머스크 '1조달러 잭팟' 터질까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081274211",
-      "publishedAt": "2026-08-12T08:59:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "AI 날개 단 GS…\"만년 저평가 해소 기대\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081275771",
-      "publishedAt": "2026-08-12T08:58:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "英 하이닉스 3배 ETP 두달새 98% '뚝'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081275801",
-      "publishedAt": "2026-08-12T08:57:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "월가 \"AI 투자 안꺾일 것\"…코스피 '매수 사이드카'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081275831",
-      "publishedAt": "2026-08-12T08:56:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "콜마비앤에이치 \"계열사 콜마오랄스 주식 200억원에 추가취득\"",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 콜마비앤에이치[200130]는 구강케어 제품 ODM/OEM 제조 및 판매 계열사 콜마오랄스의 주식 200만주를 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260812152100008",
-      "publishedAt": "2026-08-12T08:53:54.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "1.6조 들인 공공AI데이터… 중복 판치고 오류도 방치",
-      "summary": "정부가 1조6000억원 이상을 투입한 공공 인공지능(AI) 학습용 데이터 구축 사업에서 중복 구축과 부실 검증, 오류 방치 등 총체적 난맥상이 적발됐다. 감사원은 12일 '인공지능..",
-      "link": "https://www.mk.co.kr/news/economy/12125623",
-      "publishedAt": "2026-08-12T08:53:46.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "동전주·시총미달 상장폐지 문 열렸다…36개 첫 관리종목 지정(종합)",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 한국 주식시장에서 부실기업을 솎아내기 위한 상장폐지 요건 강화 조처의 일환으로 &apos;동전주&apos; 및 &apos;시가총액 기준 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260812141652008",
-      "publishedAt": "2026-08-12T08:53:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "美로빈후드보다 더 번 미래에셋 …\"5년내 자기자본 40조\"",
-      "summary": "미래에셋증권(회장 박현주)이 미국 우주기업 스페이스X 상장에 따른 대규모 평가이익과 국내외 증시 호조에 힘입어 분기 순이익이 2조원에 육박하는 사상 최대 실적을 냈다. 증권 업계 ..",
-      "link": "https://www.mk.co.kr/news/stock/12125611",
-      "publishedAt": "2026-08-12T08:51:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "1000원 못넘겨 퇴출 위기 … 동전주 23개 관리종목行",
-      "summary": "코스닥시장 건전화를 겨냥해 지난달부터 강화된 상장폐지 제도가 시행 한 달여 만에 본격적으로 한계기업 선별에 나서고 있다. 주가 1000원 미만인 이른바 '동전주'를 상장폐지 요건에..",
-      "link": "https://www.mk.co.kr/news/stock/12125599",
-      "publishedAt": "2026-08-12T08:50:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "스페이스X 잭팟에 본업도 펄펄…'박현주의 미래' 금융판도 바꿨다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081275321",
-      "publishedAt": "2026-08-12T08:49:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미래에셋증권 이익, 5대은행 다 제쳤다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081275561",
-      "publishedAt": "2026-08-12T08:48:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "가업상속공제 40년 '족쇄'…\"남자옷 팔다 여자옷 팔면 탈락\"",
-      "summary": "정부의 가업상속공제제도 개편안을 놓고 제도 취지가 무색해졌다는 비판이 나온다. '빵 굽지 않는 베이커리 카페' 등 일부 업종의 허점은 정교한 핀셋 규제로 보완해야 마땅하나, 이를 ..",
-      "link": "https://www.mk.co.kr/news/economy/12125590",
-      "publishedAt": "2026-08-12T08:46:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "태양광 넣고 택시회사 빼고 … 공제업종 '고무줄' 논란",
-      "summary": "정부가 세제 개편안을 마련하는 과정에서 가업상속공제 적용 대상을 한국표준산업분류 대·중분류 기준에서 세세분류 기준으로 변경하며 논란이 일고 있다. 이 과정에서 대상 업종이 현행 1..",
-      "link": "https://www.mk.co.kr/news/economy/12125588",
-      "publishedAt": "2026-08-12T08:46:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "與 당권주자 송영길 \"부동산稅 손대지 마\"",
-      "summary": "더불어민주당 당권주자인 송영길 의원이 대통령 지지율 하락 원인에 대해 \"핵심은 부동산을 잘못 다루기 때문\"이라며 정부의 부동산 세제 및 규제 정책에 반대 의사를 내비쳤다. 송 의원..",
-      "link": "https://www.mk.co.kr/news/economy/12125580",
-      "publishedAt": "2026-08-12T08:44:52.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑",
-      "summary": "(서울=연합뉴스) 황철환 김유아 기자 = 글로벌 반도체 초강세에 힘입어 코스피가 한때 9,000선을 넘어섰던 올해 2분기 국내 대형 증권사들이 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260812145300008",
-      "publishedAt": "2026-08-12T08:40:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "외국인 보유 스테이블코인으로 국내가맹점서 결제…BC카드, 실증사업 완료",
-      "summary": "별도 환전·추가 장비 없이 원화 정산 블록체인 난제였던 취소·환불도 구현BC카드가 코인베이스, 웨이브릿지와 손잡고 해외 디지털자산 지갑을 국내 카드 결제망과 연결하는 기술 검증에 ..",
-      "link": "https://www.mk.co.kr/news/economy/12125242",
-      "publishedAt": "2026-08-12T04:36:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "한화손보 2분기 순익 1164억원…전년比 45.6% 쑥",
-      "summary": "신계약 CSM 3272억원 ‘분기 최대’한화손해보험이 올해 2분기 1164억원의 당기순이익을 거두며 전년 동기 대비 45.6% 성장했다. 장기보험 손해율 관련 예실차가 개선된 데다..",
-      "link": "https://www.mk.co.kr/news/economy/12125240",
-      "publishedAt": "2026-08-12T04:35:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "정책학회 “李정부 1년 경제정책 57점”...“반도체 호황 꺾이면 착시 드러날 수도”",
-      "summary": "경제산업 국정과제 “‘보통’ 조금 상회” 평가 전월세 부담 상승에 주택정책 체감은 낙제점 “반도체 호황…사이클 꺾이면 착시 드러날 수도”이재명 정부 출범 1년을 계기로 학계가 경제..",
-      "link": "https://www.mk.co.kr/news/economy/12125231",
-      "publishedAt": "2026-08-12T04:26:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "알리바바, 100일이면 데이터센터 완성…美와 인프라 속도전",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608126614i",
-      "publishedAt": "2026-08-12T04:21:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘최대 연 7%’ 우리아이 적금, 10개월 만에 80만명 몰렸다",
-      "summary": "카카오뱅크의 미성년 자녀 대상 금융상품인 ‘우리아이통장’과 ‘우리아이적금’ 누적 이용자 수가 출시 10개월 만에 80만명을 넘어섰다. 특히 올 상반기 신규 고객 약 100만명 가운..",
-      "link": "https://www.mk.co.kr/news/economy/12125229",
-      "publishedAt": "2026-08-12T04:18:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "노동장관 \"노란봉투법 쟁의기준 시행령·시행규칙 다각도 검토\"",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 김영훈 고용노동부 장관은 12일 노란봉투법(개정 노동조합법)의 &apos;쟁의대상&apos; 기준 마련을 위해 &quot;시행령이나 시행...",
-      "link": "https://www.yna.co.kr/view/AKR20260812081500530",
-      "publishedAt": "2026-08-12T04:13:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "640조 캠핑 시장에 올라 탄 中 자동차 신격전지",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607306682i",
-      "publishedAt": "2026-08-12T04:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "곡물은 남아도는데 왜 비싸지나…세계 식량시장 뒤흔든 '물류 병목'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608115285i",
-      "publishedAt": "2026-08-12T04:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스 '7%대 급등'…일주일만에 코스피 '매수 사이드카' 왜",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608126581i",
-      "publishedAt": "2026-08-12T03:41:59.000Z"
     }
   ]
 }
