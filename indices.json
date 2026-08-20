@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-20T10:20:40.249Z",
+  "updatedAt": "2026-08-20T21:19:12.099Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 6852.58,
-      "previous": 6471.17,
-      "dayChange": 381.41,
-      "dayChangePct": 5.89,
-      "monthChangePct": 5.16,
+      "current": 6471.17,
+      "previous": 6869.83,
+      "dayChange": -398.66,
+      "dayChangePct": -5.8,
+      "monthChangePct": -0.69,
       "lastUpdated": "2026-08-20T09:05:40.000Z",
       "candles": [
         {
@@ -88,10 +88,6 @@
         {
           "date": "2026-08-19",
           "close": 6471.17
-        },
-        {
-          "date": "2026-08-20",
-          "close": 6852.58
         }
       ]
     },
@@ -100,17 +96,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26331.09,
-      "previous": 26289.71,
-      "dayChange": 41.38,
-      "dayChangePct": 0.16,
-      "monthChangePct": 3.23,
-      "lastUpdated": "2026-08-19T21:15:59.000Z",
+      "current": 26067.17,
+      "previous": 26331.09,
+      "dayChange": -263.92,
+      "dayChangePct": -1,
+      "monthChangePct": 3.7,
+      "lastUpdated": "2026-08-20T21:15:59.000Z",
       "candles": [
-        {
-          "date": "2026-07-20",
-          "close": 25508.07
-        },
         {
           "date": "2026-07-23",
           "close": 25137.69
@@ -186,6 +178,10 @@
         {
           "date": "2026-08-19",
           "close": 26331.09
+        },
+        {
+          "date": "2026-08-20",
+          "close": 26067.17
         }
       ]
     },
@@ -194,17 +190,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7707.98,
-      "previous": 7691.76,
-      "dayChange": 16.22,
-      "dayChangePct": 0.21,
-      "monthChangePct": 3.56,
-      "lastUpdated": "2026-08-19T20:38:31.000Z",
+      "current": 7641.16,
+      "previous": 7707.98,
+      "dayChange": -66.82,
+      "dayChangePct": -0.87,
+      "monthChangePct": 3.14,
+      "lastUpdated": "2026-08-20T21:10:33.000Z",
       "candles": [
-        {
-          "date": "2026-07-20",
-          "close": 7443.28
-        },
         {
           "date": "2026-07-23",
           "close": 7408.3
@@ -280,6 +272,10 @@
         {
           "date": "2026-08-19",
           "close": 7707.98
+        },
+        {
+          "date": "2026-08-20",
+          "close": 7641.16
         }
       ]
     }
