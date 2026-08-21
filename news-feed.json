@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-08-20T21:19:11.632Z",
+  "updatedAt": "2026-08-21T03:42:43.982Z",
   "historyDays": 7,
-  "count": 500,
+  "count": 509,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[Q&A] 추가세수, 빚 상환 대신 미래 투자…\"국채 이자율 이상 운용\"(종합)",
+      "summary": "(세종=연합뉴스) 안채원 송정은 기자 = 정부가 반도체 호황 등으로 발생한 추가 국세 수입을 재원으로 하는 &apos;미래대응기금&apos;을 신설한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260820186951002",
+      "publishedAt": "2026-08-21T03:14:19.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "속도전 앞세운 '재정저수지' 미래기금…'국회 밖 곳간' 우려도(종합)",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 정부가 &apos;미래대응기금&apos;을 조성하기로 한 이유는 내년 크게 늘어날 것이 확실시되는 추가세수를 잠재성장률 반등을 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260821050351002",
+      "publishedAt": "2026-08-21T03:13:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“시장 하락할 때도 안 까먹는다” 강남 자산가들 사로잡은 PB 출신 펀드매니저",
+      "summary": "김우기 더블유자산운용 대표 1편지난 7월 국내 증시는 큰 폭의 조정을 겪었다. 개인 투자자 뿐만 아니라 대부분 자산운용사의 대표 펀드들도 큰 손실을 입었다. 시장이 하락할 때 오히..",
+      "link": "https://www.mk.co.kr/news/stock/12133089",
+      "publishedAt": "2026-08-21T03:11:58.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합)",
+      "summary": "(서울·세종=연합뉴스) 노재현 이세원 기자 = 반도체 호황에 급증한 세수를 떼어내 미래 성장의 종잣돈으로 삼을 수 있도록 새 기금을 만든다.",
+      "link": "https://www.yna.co.kr/view/AKR20260821070751002",
+      "publishedAt": "2026-08-21T03:10:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "200조 미래대응기금, 3대메가프로젝트·AI에 쏟는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214569i",
+      "publishedAt": "2026-08-21T03:04:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중국가전 드리미 \"정보보호·AS 강화해 한국소비자에 다가갈 것\"",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 글로벌 종합가전 브랜드 드리미가 로봇청소기 등 스마트홈 제품의 개인정보 보호와 애프터서비스(AS) 역량을 강화...",
+      "link": "https://www.yna.co.kr/view/AKR20260821067200003",
+      "publishedAt": "2026-08-21T03:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "하나은행, 국내은행 최초 RFI와 원화스와프 체결",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 하나은행은 지난 19일 국내은행 최초로 해외외국환업무취급기관(RFI)과 런던 현지에서 원화 스와프 거래를 체결...",
+      "link": "https://www.yna.co.kr/view/AKR20260821085700002",
+      "publishedAt": "2026-08-21T02:50:21.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 미국 국채 금리 재상승과 글로벌 소비둔화 우려, 중동 위기 등 악재 속에 21일 국내 주식시장에서는 삼성전자[...",
+      "link": "https://www.yna.co.kr/view/AKR20260821084800008",
+      "publishedAt": "2026-08-21T02:47:28.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반도체 ‘역대 최대’ 수출 달성… 8월1~20일 수출도 56% 급증",
+      "summary": "관세청 1일~20일 수출입 현황 총 수출 552억달러... 1년새 56% 증가 반도체 260억달러로 역대 최고치 車 수출은 전년 대비 45% 줄어반도체 호황에 힘입어 8월1일~20..",
+      "link": "https://www.mk.co.kr/news/economy/12133079",
+      "publishedAt": "2026-08-21T02:31:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "미국, 장기국채 금리 5%대…‘칠천피’ 문턱 코스피에 드리운 먹구름",
+      "summary": "미국 장기 국채금리가 20일(현지시간) 재무부의 바이백(재매입) 확대 발표 직후의 하락분을 하루 만에 대부분 반납했다. 10년 만기 미 국채금리는 재무부의 개입 발표 직전 수준을 ..",
+      "link": "https://www.mk.co.kr/news/stock/12133076",
+      "publishedAt": "2026-08-21T02:29:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "비트코인 이틀 새 10% 넘게 '급등'…두 달 만에 1억원 돌파 [한경 코알라]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608213998i",
+      "publishedAt": "2026-08-21T02:25:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "국민연금 CIO 후보 4인 압축… “장기 수익·조직관리 과제”",
+      "summary": "최종후보 이도윤·박천석·이규홍·김호진 이르면 이달 말~다음달 중 최종 윤곽 예상1800조원이 넘는 자금을 굴리는 국민연금 차기 투자 사령탑 인선 절차가 막바지에 접어들었다. 지난 ..",
+      "link": "https://www.mk.co.kr/news/stock/12133070",
+      "publishedAt": "2026-08-21T02:24:42.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘숏 스퀴즈’에 7만3천달러 뚫은 비트코인…진짜 상승장 오나",
+      "summary": "美 국채 바이백에 금리·달러 동반 약세 하루새 숏 포지션 31억달러 강제청산 현물 ETF 투자자 대부분 여전히 손실 구간비트코인이 이틀간 이어진 대규모 숏(공매도) 청산 물량에 힘..",
+      "link": "https://www.mk.co.kr/news/stock/12133069",
+      "publishedAt": "2026-08-21T02:24:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼성물산 배당 나누는 KCC…주주환원에 증권가 ‘환호’",
+      "summary": "삼성물산 특별배당 50% 재배당 시가배당률 최대 6.1%까지 기대 자사주 117만주 소각…PBR 1배 목표KCC가 삼성물산 보유지분에서 발생하는 배당금을 기반으로 한 특별배당 신설..",
+      "link": "https://www.mk.co.kr/news/stock/12133068",
+      "publishedAt": "2026-08-21T02:24:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "韓·日 여행객, 소도시·골목상권으로…비자 “가성비 넘어 취향 소비”",
+      "summary": "비자, 양국 여행객 결제 데이터 분석 소도시 결제액 40% 늘어 대도시 추월 방한 日관광객 해안·섬 소비 145% 급증한국과 일본을 오가는 여행객들이 대도시의 유명 관광지보다 소도..",
+      "link": "https://www.mk.co.kr/news/economy/12133067",
+      "publishedAt": "2026-08-21T02:23:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "교육교부금 내국세 연동제 폐지…내년 교부금 20조 감축할 듯",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214358i",
+      "publishedAt": "2026-08-21T02:18:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "수수료 ‘0원’에 고객 몰렸다…해외송금, 토스뱅크로 10억원 절감",
+      "summary": "기존 약 1만3000원 수수료 없애 이용자 4명 중 3명은 20·30대토스뱅크 해외송금 이용 고객들이 기존 해외송금 방식 대비 아낀 수수료가 약 10억원으로 집계됐다. 21일 토..",
+      "link": "https://www.mk.co.kr/news/economy/12133050",
+      "publishedAt": "2026-08-21T02:13:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214177i",
+      "publishedAt": "2026-08-21T02:13:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "교육교부금 ‘내국세 연동’ 55년만에 폐지한다…재정부담 20조 절감효과",
+      "summary": "경상성장률·학령인구 변화 반영 개편 후 내년 교부금 78.9조 전망 중기운용계획보다는 1.8조 늘어 마련된 재원, 미래대응기금에 귀속정부가 내국세에 자동 연동돼 온 지방교육재정교부..",
+      "link": "https://www.mk.co.kr/news/economy/12133047",
+      "publishedAt": "2026-08-21T02:11:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "미래대응기금 ‘65조+α’ 조성…메가프로젝트 투입",
+      "summary": "재정운용전략협의회 개최 10년 장기추세 웃도는 금액은 ‘추가세수’로 기금에 적립키로 법인세 합치면 100조 넘을듯 청년·성장동력·지방·교육 투자정부가 반도체 호황 등으로 장기 추세..",
+      "link": "https://www.mk.co.kr/news/economy/12133033",
+      "publishedAt": "2026-08-21T02:10:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'AI 지각생' 카카오 인적분할 승부수 던졌지만…11% 넘게 하락 중",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026082144106",
+      "publishedAt": "2026-08-21T02:04:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"장보러 '안' 나갑니다\"…폭염에 '집콕족' 늘더니 확 달라졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214047g",
+      "publishedAt": "2026-08-21T02:00:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"우즈 목숨 구한 車\" 입소문 나더니 대박…포르쉐도 제쳤다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608200792g",
+      "publishedAt": "2026-08-21T02:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"제품 아닌 스토리 판다\"…11살 제네시스가 꺼낸 'K 럭셔리' [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608213488g",
+      "publishedAt": "2026-08-21T02:00:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "급락한 LS·삼성전기 담고 SK하이닉스 팔았다[주식 초고수는 지금]",
+      "summary": "LS, 삼성전기, 현대차 순매수 몰려 하닉, 삼양, GS건설, OCI는 순매도주식 투자 수익률 상위 1% 초고수들이 21일 장 초반 LS를 가장 많이 사들이고, 상승세를 이어간 S..",
+      "link": "https://www.mk.co.kr/news/stock/12133017",
+      "publishedAt": "2026-08-21T01:42:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "하루 이자만 4조원…美 '악마와의 거래' 경고 쏟아진 이유 [박신영의 월가 아나토미]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214116i",
+      "publishedAt": "2026-08-21T01:39:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "RBW, 서울 광진구 신사옥 준공 완료…\"자산 건전성 확보\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214280H",
+      "publishedAt": "2026-08-21T01:38:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 카카오, 카카오 AI·카카오X로 인적분할 결의",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026082142167",
+      "publishedAt": "2026-08-21T01:14:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스닥 4%대 급락…매도 사이드카 발동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026082141836",
+      "publishedAt": "2026-08-21T01:09:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“5조 털어냈는데도 10년 만에 최고”…중기 연체율 1% 육박 ‘빚의 경고등’",
+      "summary": "6월 은행 대출 연체율 0.56% 전달에 비해서는 0.11%P 하락 “금리상승·전쟁 장기화 등 경계”국내 은행의 원화대출 연체율이 6월 말 기준 10년 만에 가장 높은 수준을 기록..",
+      "link": "https://www.mk.co.kr/news/economy/12132923",
+      "publishedAt": "2026-08-21T00:15:48.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3834,174 +4074,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202608139707i",
       "publishedAt": "2026-08-14T04:00:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "서울우유, 파주경찰서와 피싱 범죄 예방 캠페인",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608141042i",
-      "publishedAt": "2026-08-14T03:32:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "민형배 시장 \"SK, 전남 동부권에 100조원 투자 계획 곧 발표\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081415487",
-      "publishedAt": "2026-08-14T03:17:57.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국힘, '정부 세제개편안·공급 대책'에 쌍끌이 부동산 공세",
-      "summary": "(서울=연합뉴스) 류미나 이율립 기자 = 국민의힘이 14일 정부의 부동산 세제 개편안과 공급 대책을 놓고 쌍끌이 공세를 본격화하고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260814076000001",
-      "publishedAt": "2026-08-14T03:05:38.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "소비자원 \"유명브랜드 위조 향수서 메탄올 기준치 484배 검출\"",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 해외 유명 브랜드의 위조 향수에서 안전기준의 최대 484배에 달하는 메탄올이 검출돼 소비자들의 주의가 요구된다...",
-      "link": "https://www.yna.co.kr/view/AKR20260813125000030",
-      "publishedAt": "2026-08-14T03:00:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "6월 통화량 29.4조원↑…수출 호조에 반도체 등 기업 자금 증가",
-      "summary": "(서울=연합뉴스) 임지우 기자 = 지난 6월 통화량이 기업의 여유자금과 예적금 등이 늘면서 30조원 가까이 불어나며 8개월째 증가세를 이어갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260814051300002",
-      "publishedAt": "2026-08-14T03:00:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "이억원 “가계대출 총량목표, 실수요 지원 위한 것…투기수요 자극 신호 아냐”",
-      "summary": "정부가 가계대출 총량 목표를 두 배로 높여 금융권에 약 30조원의 추가 대출 여력을 열어준 가운데, 금융당국이 은행권에 실수요자 대출 공급을 주문했다. 다만 총량 확대가 부동산 투..",
-      "link": "https://www.mk.co.kr/news/economy/12127835",
-      "publishedAt": "2026-08-14T02:51:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] '뿌리고 짜고 누르고' 종류만 수백가지…뷰티 패키징 업체들 실적 '축포'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608141504i",
-      "publishedAt": "2026-08-14T02:50:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "KCGI운용 \"공모주식형 순자산 10위권 진입…사명 변경 3년 만\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081414976",
-      "publishedAt": "2026-08-14T02:38:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "웰크론한텍, 상반기 순이익 165억 ‘흑자전환’…PF 리스크 해소 효과 본격화",
-      "summary": "웰크론한텍은 시화멀티테크노밸리(MTV) 개발사업 관련 프로젝트파이낸싱(PF) 리스크 해소와 영업 정상화에 힘입어 올해 상반기 당기순이익 165억 원을 기록하며 흑자전환에 성공했다고..",
-      "link": "https://www.mk.co.kr/news/stock/12127800",
-      "publishedAt": "2026-08-14T02:20:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "포인트모바일, 상반기 매출 466억·영업이익 46억…아마존 공급 급증에 ‘어닝 서프라이즈’",
-      "summary": "산업용 모바일 기기 전문기업 포인트모바일이 올해 상반기 실적 반등에 성공하며 ‘어닝 서프라이즈’를 기록했다. 포인트모바일은 연결 기준 올해 상반기 매출액 466억 원, 영업이익 4..",
-      "link": "https://www.mk.co.kr/news/stock/12127793",
-      "publishedAt": "2026-08-14T02:16:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"주가 상승 이어지나?\"…1% 초고수들이 집중 매수한 주식",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608141336i",
-      "publishedAt": "2026-08-14T02:06:33.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "금융사 돌아가면서 속였나? 주요 은행 490억 사기에 발칵 [금융가 톺아보기]",
-      "summary": "국민 신한 우리 기업 등 주요은행서 사기 발견돼 시행사 허위분양자 공모KB국민은행, 신한은행, 우리은행, IBK기업은행 등 주요 은행 4곳이 외부인 사기에 따른 금융사고를 공시했다..",
-      "link": "https://www.mk.co.kr/news/economy/12127754",
-      "publishedAt": "2026-08-14T01:49:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "백종원 회사, 갑자기 무슨 일?…더본코리아, 주가 19% 뛰었다 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081412356",
-      "publishedAt": "2026-08-14T01:32:56.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "현대차그룹株, 저가매수세·피지컬 AI 재부각에 동반 급등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081410516",
-      "publishedAt": "2026-08-14T00:52:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "두산에너빌리티, 美 테라파워와 SMR 핵심 기자재 제작 계약 체결",
-      "summary": "두산에너빌리티는 미국 첨단 원자력 기술 선도기업 테라파워(TerraPower)의 나트륨 원자로용 핵심 기자재 제작 사업을 수주했다고 14일 밝혔다. 이번 계약에 따라 두산에너빌리티..",
-      "link": "https://www.mk.co.kr/news/business/12127692",
-      "publishedAt": "2026-08-14T00:51:31.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[MK시그널] DB하이텍, 8인치 파운드리 호황에 따른 전력반도체 가치 급등에 주가 상승세... MK시그널 추천 후 상승률 29.03% 기록",
-      "summary": "8월 14일 DB하이텍(000990)이 상승 중이다. 전 거래일 DB하이텍 주가는 종가기준 99,700원 상승으로 마감했다. 현재 100,400원으로 (9시 14분 기준) 전일 종..",
-      "link": "https://www.mk.co.kr/news/stock/12127681",
-      "publishedAt": "2026-08-14T00:41:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[MK 골든크로스 돌파종목 : 골드앤에스(035290) & 프럼파스트(035200)]",
-      "summary": "안녕하세요. 국내 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’ 입니다. MK시그널이 오늘 분석한 핫 이슈 골든크로스 종목은 골드앤에스 & 프럼파스트 입니다. - 골드앤에스..",
-      "link": "https://www.mk.co.kr/news/stock/12127678",
-      "publishedAt": "2026-08-14T00:38:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "LG전자, 구광모·젠슨 황 회동 앞두고 5%대 급등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081410026",
-      "publishedAt": "2026-08-14T00:33:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"땡큐 샌디스크!\"…美 물가 안도에 삼전닉스 등 반도체株 급등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081410096",
-      "publishedAt": "2026-08-14T00:27:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "솔리다임 나스닥 상장 논의에…거버넌스포럼 “중복상장 중단해야”",
-      "summary": "SK하이닉스가 설립한 미국 자회사 솔리다임 중복상장 추진 논의에 논평한국기업거버넌스포럼이 SK하이닉스의 미국 자회사 솔리다임 미국 나스닥 상장 추진 검토에 대해 전 세계에서도 유..",
-      "link": "https://www.mk.co.kr/news/stock/12127533",
-      "publishedAt": "2026-08-13T21:26:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"하루 이자만 1억3000만원\"…최태원, 노소영에 9440억원 줄까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081405177",
-      "publishedAt": "2026-08-13T21:23:23.000Z"
     }
   ]
 }
