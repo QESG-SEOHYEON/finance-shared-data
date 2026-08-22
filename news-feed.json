@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-08-21T21:15:04.789Z",
+  "updatedAt": "2026-08-22T03:34:46.874Z",
   "historyDays": 7,
-  "count": 501,
+  "count": 506,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "역대급 하락장을 버텨냈다면 반등장을 기대해보자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608201454i",
+      "publishedAt": "2026-08-22T03:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼전닉스 턱밑까지 쫓아온 中 YMTC…6.8조 실탄 마련 나선다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026082260327",
+      "publishedAt": "2026-08-22T02:40:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“유학비 부담 확 줄어 좋아요”…삼전닉스 주주환원 300조원의 ‘나비효과’",
+      "summary": "삼전닉스 주주환원 300조원 전망 기업 달러 공급에 원화 강세 기대 증권가 “환율 1388원→1325원” 해외 유학비 송금 부담 크게 줄듯‘삼전닉스’(삼성전자·SK하이닉스)의 주주..",
+      "link": "https://www.mk.co.kr/news/economy/12133765",
+      "publishedAt": "2026-08-22T02:37:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“AI 빚 내가 보증설께”…엔비디아 통큰 약속에 서학개미 DRAM에 1천억 베팅",
+      "summary": "엔비디아 GPU발 구제금융에 투자자 안도 AI 시장 초기 투자 단계 반도체에 뭉칫돈 서학개미도 글로벌 반도체 주식 ETF 올인미국 주식시장에 투자하는 개인 투자자인 ‘서학개미’가 ..",
+      "link": "https://www.mk.co.kr/news/business/12133760",
+      "publishedAt": "2026-08-22T02:03:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "유언 vs 유언대용신탁 무엇이 나은가요",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608199937i",
+      "publishedAt": "2026-08-22T02:00:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“같은 금인줄 알고 샀는데 수익률이 다르다고?”…골드뱅킹·골드바 뭐가 더 남을까",
+      "summary": "국제 금값이 한 달여 만에 12% 넘게 반등하면서 은행권 금 투자 수요도 다시 살아나고 있다. 주요 시중은행 3곳의 골드뱅킹 잔액은 지난 19일 기준 1조7822억원으로 약 7개월..",
+      "link": "https://www.mk.co.kr/news/stock/12133759",
+      "publishedAt": "2026-08-22T01:51:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"또 쪼개기냐?\" 카카오 개미들 '부글부글'…패닉셀 쏟아졌다 [노정동의 어쩌다 투자자]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026082151176",
+      "publishedAt": "2026-08-22T01:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260822023600011",
+      "publishedAt": "2026-08-22T01:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'170만원 하이닉스 주식' 비싸서 못 샀는데…개미들 설렌다 [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026082146506",
+      "publishedAt": "2026-08-22T01:18:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'숏 치다간 다친다'…美 으름장에도 금리는 더 뛰었다 [빈난새의 빈틈없이마켓]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608213815i",
+      "publishedAt": "2026-08-22T00:49:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“모더나의 ‘mRNA 암 백신’은 역사적 사건”…국내 증시 진짜 수혜주 2곳은 [여의도란도란]",
+      "summary": "이해진 임플바이오리서치 대표 인터뷰최근 미국 제약사 모더나와 머크(MSD)가 공동 개발 중인 개인 맞춤형 메신저 리보핵산(mRNA) 암 백신이 임상 3상에서 암 재발과 전이를 억제..",
+      "link": "https://www.mk.co.kr/news/stock/12133745",
+      "publishedAt": "2026-08-22T00:38:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "예금부터 TDF, 자산배분펀드까지…퇴직연금 상품의 모든 것",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608215119i",
+      "publishedAt": "2026-08-22T00:30:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표",
+      "summary": "(서울=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주(8월 24∼28일)에는 한국은행 금융통화위원회가 기준금리를 결정하고 수정 경제전망을 내...",
+      "link": "https://www.yna.co.kr/view/AKR20260822016400002",
+      "publishedAt": "2026-08-22T00:07:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "PC왕 레노버의 변신…AI 서버 타고 주가 200% 질주",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608142815i",
+      "publishedAt": "2026-08-22T00:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "케이크 자르는 순간 드러나는 '반전'…SNS가 바꾼 디저트",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214842i",
+      "publishedAt": "2026-08-22T00:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[IPO챗] 공모가 희비 갈린 니어스랩·해치텍, 코스닥 입성",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 다음 주(24∼28일) 기업공개(IPO) 시장에서는 인공지능(AI) 자율비행 드론 기업 니어스랩과 반도체 센서...",
+      "link": "https://www.yna.co.kr/view/AKR20260821045200008",
+      "publishedAt": "2026-08-22T00:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"처음부터 삼성 노렸다\"…드러난 '中 괴물' 실체에 발칵 [홍민성의 테토남]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608214787g",
+      "publishedAt": "2026-08-22T00:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"美日외환개입에 엔캐리 청산 우려…모니터링 필요\"",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 미·일 외환시장 개입으로 엔화 약세 기대가 약화되는 가운데 엔캐리 트레이드 청산 위험이 커질 수 있어 면밀한 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260821173700002",
+      "publishedAt": "2026-08-22T00:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'K-콘텐츠 미래 그린다'…전북 콘텐츠 포럼, 11월까지 개최",
+      "summary": "(전주=연합뉴스) 김동철 기자 = 전북특별자치도는 전북콘텐츠융합진흥원과 함께 오는 26일부터 11월까지 총 4회에 걸쳐 &apos;2026 전북 콘텐츠 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260822017500055",
+      "publishedAt": "2026-08-21T23:52:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"학원만 해선 돈 못 벌어요\"…'투잡' 뛰는 원장님들 곡소리 [벼랑 끝 사장님]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608203404H",
+      "publishedAt": "2026-08-21T23:51:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“조건없이 연 19.4%”…월 50만원 한도 ‘이 통장’, 9월에 또 나온다",
+      "summary": "월 50만원·3년 만기…우대형 정부기여금 12% “증시 변동성에 추가 가입 문의도 쇄도”최고 연 19.4% 수준의 수익 효과를 기대할 수 있는 ‘청년미래적금’이 다음 달 가입자를 ..",
+      "link": "https://www.mk.co.kr/news/economy/12133730",
+      "publishedAt": "2026-08-21T23:51:20.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 내주 상동역 롯데캐슬시그니처 등 5천430가구 분양",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 5천430가구가 분양에 나선다.",
+      "link": "https://www.yna.co.kr/view/AKR20260821165400003",
+      "publishedAt": "2026-08-21T23:05:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608225810i",
+      "publishedAt": "2026-08-21T23:04:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“일주일 새 17% 뛰었는데 아직 저평가”…한화생명 목표가 줄상향 이유는 [이주의 Bull기둥]",
+      "summary": "2분기 별도 순이익 2624억, 4배↑ 신계약 CSM 1조3000억원 돌파 해외 자회사 이익 기여도 11% 급등 일주일새 주가 4700→5510원 껑충국내 2위 생명보험사인 한화생..",
+      "link": "https://www.mk.co.kr/news/stock/12133720",
+      "publishedAt": "2026-08-21T22:42:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국제유가 불안한데 “물가가 더 불안”…석유 최고가 결국 9차 동결",
+      "summary": "석유제품 최고가 4주간 동결 산업통상부, 물가 부담 고려 휘발유 1784원·경유 1773원석유제품 국제가격이 오르고 있는 가운데 정부가 최고가격을 또 한 번 동결했다. 민생 물가..",
+      "link": "https://www.mk.co.kr/news/economy/12133701",
+      "publishedAt": "2026-08-21T21:18:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "개인도 기업도 “달러 쌀 때 쟁여놓자”…달러예금 15조원 줍줍했다",
+      "summary": "원화값 170원 역대급 상승에 “값내린 달러 이때 사두자” 달러예금 잔액 두달새 급증 일평균 환전액도 2배 늘어최근 달러당 원화값이 한 달 반 새 약 170원이 오르는 역대급 상승..",
+      "link": "https://www.mk.co.kr/news/economy/12133699",
+      "publishedAt": "2026-08-21T21:14:38.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3842,174 +4050,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202608138017g",
       "publishedAt": "2026-08-15T04:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"그때 대통령 말 들을걸\"…삼전 30배·서울 집 3배 '탄식'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608142023H",
-      "publishedAt": "2026-08-15T03:16:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "여한구 통상교섭본부장 직권면직…통상 사령탑 돌연 공석",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608153191i",
-      "publishedAt": "2026-08-15T02:51:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'통상 사령탑' 여한구 통상교섭본부장 전격 경질 [종합]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081531687",
-      "publishedAt": "2026-08-15T02:16:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "당신의 투자에는 위험관리 시스템이 있나요? [조윤남의 사이클투자]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608103932i",
-      "publishedAt": "2026-08-15T02:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질(종합)",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 지난해 한미 관세 협상 등 주요 통상 현안에서 실무 사령탑 역할을 해온 여한구 산업통상부 통상교섭본부장이 경질...",
-      "link": "https://www.yna.co.kr/view/AKR20260815020751003",
-      "publishedAt": "2026-08-15T01:44:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'한미 관세협상 수장' 여한구 통상교섭본부장 경질",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081531347",
-      "publishedAt": "2026-08-15T01:33:34.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "기술수출·신약이 끌었다…제약·바이오 2분기 '호실적'",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 국내 주요 제약·바이오기업들이 올해 2분기 기술수출 성과와 신약·바이오시밀러 판매 확대에 힘입어 일제히 외형 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260814115200017",
-      "publishedAt": "2026-08-15T01:30:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260815023800011",
-      "publishedAt": "2026-08-15T01:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "상반기 호실적에 하루 만에 6.1% 오른 DB손보",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608141821i",
-      "publishedAt": "2026-08-15T01:13:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"90세까지 연 1억씩 쓰고 싶다\"…대기업 임원의 은퇴 설계",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608139804i",
-      "publishedAt": "2026-08-15T01:13:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI에 잡아먹힌다더니...월가가 다시 베팅을 시작했다 [빈난새의 빈틈없이마켓]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608142436i",
-      "publishedAt": "2026-08-15T01:00:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "中, 장쩌민 탄생 100주년 기념주화 발행…금·은화 등 4종",
-      "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국이 장쩌민 전 국가주석의 탄생 100주년을 맞아 기념주화를 내놓는다.",
-      "link": "https://www.yna.co.kr/view/AKR20260815021000083",
-      "publishedAt": "2026-08-15T00:52:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 한미 관세 협상에 참여했던 여한구 산업통상부 통상교섭본부장이 경질됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260815020700003",
-      "publishedAt": "2026-08-15T00:48:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "국민주 맞지?…'삼전닉스 개미' 1100만명 넘었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026081530777",
-      "publishedAt": "2026-08-15T00:29:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "샤넬 대신 산 라오푸골드…'중국판 까르띠에' 안착할까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608020398i",
-      "publishedAt": "2026-08-15T00:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[IPO챗] 인제니아·기도산업, 다음주 코스닥 입성",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 다음 주(18~21일) 기업공개(IPO) 시장에서는 바이오기업 인제니아테라퓨틱스와 산업용 의류 제조업체 기도산...",
-      "link": "https://www.yna.co.kr/view/AKR20260814117900008",
-      "publishedAt": "2026-08-15T00:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“메모리 가격 상승, 경쟁사 따돌릴 기회”…레노버 주가 46% 급등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608141753i",
-      "publishedAt": "2026-08-14T23:30:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "이달 18% 뛰었는데도 \"더 간다\"…증권가가 꽂힌 이 종목",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608142135i",
-      "publishedAt": "2026-08-14T23:00:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "26일 '인베스터 데이' 여는 현대차…자사주 매입 발표 가능성은",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608142047i",
-      "publishedAt": "2026-08-14T23:00:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "국민연금이 콕 찍은 NHN, 이달 들어서만 주가 두 배로 뛴 사연",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608141703i",
-      "publishedAt": "2026-08-14T23:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“국민주 이름값 제대로 해냈다”…성인 5명 중 1명은 삼성전자 소액주주",
-      "summary": "삼성전자 주식을 보유한 소액주주가 올해 상반기 800만명에 육박하는 것으로 나타났다. 전례 없는 증권시장 활황과 반도체 기업 가치 상승 기대감에 개인투자자들이 우량주로 유입된 영향..",
-      "link": "https://www.mk.co.kr/news/business/12128638",
-      "publishedAt": "2026-08-14T21:30:18.000Z"
     }
   ]
 }
