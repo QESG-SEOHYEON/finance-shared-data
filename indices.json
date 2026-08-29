@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-29T09:35:42.805Z",
+  "updatedAt": "2026-08-29T14:49:59.323Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 6912.37,
-      "previous": 6808.21,
-      "dayChange": 104.16,
-      "dayChangePct": 1.53,
-      "monthChangePct": 14.75,
+      "current": 6788.88,
+      "previous": 6912.37,
+      "dayChange": -123.49,
+      "dayChangePct": -1.79,
+      "monthChangePct": 12.7,
       "lastUpdated": "2026-08-28T09:05:40.000Z",
       "candles": [
         {
@@ -100,6 +100,10 @@
         {
           "date": "2026-08-27",
           "close": 6912.37
+        },
+        {
+          "date": "2026-08-28",
+          "close": 6788.88
         }
       ]
     },
@@ -108,11 +112,11 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26541.35,
-      "previous": 26130.2,
-      "dayChange": 411.15,
-      "dayChangePct": 1.57,
-      "monthChangePct": 8.58,
+      "current": 26402.42,
+      "previous": 26541.35,
+      "dayChange": -138.93,
+      "dayChangePct": -0.52,
+      "monthChangePct": 8.02,
       "lastUpdated": "2026-08-28T21:15:59.000Z",
       "candles": [
         {
@@ -202,6 +206,10 @@
         {
           "date": "2026-08-27",
           "close": 26541.35
+        },
+        {
+          "date": "2026-08-28",
+          "close": 26402.42
         }
       ]
     },
@@ -210,11 +218,11 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7730.99,
-      "previous": 7675.7,
-      "dayChange": 55.29,
-      "dayChangePct": 0.72,
-      "monthChangePct": 5.67,
+      "current": 7711.76,
+      "previous": 7730.99,
+      "dayChange": -19.23,
+      "dayChangePct": -0.25,
+      "monthChangePct": 5.41,
       "lastUpdated": "2026-08-28T20:37:00.000Z",
       "candles": [
         {
@@ -304,6 +312,10 @@
         {
           "date": "2026-08-27",
           "close": 7730.99
+        },
+        {
+          "date": "2026-08-28",
+          "close": 7711.76
         }
       ]
     }
