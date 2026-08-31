@@ -1,8 +1,136 @@
 {
-  "updatedAt": "2026-08-31T09:07:01.831Z",
+  "updatedAt": "2026-08-31T17:18:55.105Z",
   "historyDays": 7,
-  "count": 426,
+  "count": 420,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "거물 앤트로픽 등판에…9월 이후 美공모기업들 초비상",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609014967i",
+      "publishedAt": "2026-08-31T15:28:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'워시는 매파'라는 착각...잭슨홀 연설의 진짜 뜻 [빈난새의 빈틈없이마켓]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608314319i",
+      "publishedAt": "2026-08-31T15:09:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "국제유가 상승에 인플레 부각…美 주식·채권 동반 하락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608314949i",
+      "publishedAt": "2026-08-31T14:40:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 10년물 국채 4.75% 돌파…작년 1월 이후 최고치",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608314942i",
+      "publishedAt": "2026-08-31T14:18:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "중노위 \"현대차, 대리점 영업사원과 교섭 의무 없다\"…초심 유지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026083149127",
+      "publishedAt": "2026-08-31T13:20:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "엔비디아, 대만 반도체업체 미디어텍에 4.8조원 투자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608314903i",
+      "publishedAt": "2026-08-31T13:19:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "화웨이, 상반기 순이익 36% 급감…\"R&D 투자·메모리 원가 부담\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026083149107",
+      "publishedAt": "2026-08-31T13:03:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"330만원→240만원\" 충격 리포트…SK하이닉스 주주 '패닉' [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026083143326",
+      "publishedAt": "2026-08-31T13:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "박홍근 \"개각으로 능력 검증된 분, 전문성 인정된 분 들어왔다\"",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 박홍근 기획예산처 장관은 이재명 대통령이 30일 단행한 개각으로 &quot;관료 중에서 실력·능력이 검증된 사람들이 들...",
+      "link": "https://www.yna.co.kr/view/AKR20260831175200002",
+      "publishedAt": "2026-08-31T11:47:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "케빈 워시의 첫 잭슨홀 연설…매파 발언 속에 숨은 진짜 메시지는 [불앤베어 플러스]",
+      "summary": "케빈 워시의 첫 잭슨홀 연설 의미지난 28일(현지시간) 미국 와이오밍주에서 열린 잭슨홀 경제 심포지엄(잭슨홀 회의)에서 나온 케빈 워시 미국 연방준비제도(Fed·연준) 의장 연설에..",
+      "link": "https://www.mk.co.kr/news/stock/12140768",
+      "publishedAt": "2026-08-31T11:22:53.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "북극항로 시범운항 선박, 출항 9일 만에 북극해 진입",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 국내 컨테이너선으로는 최초로 북극항로 시범 운항에 나선 팬스타 아크로호가 31일 북극 해역에 진입했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260831168500051",
+      "publishedAt": "2026-08-31T10:00:20.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "마더스제약·이나인페이, 코스닥 상장예비심사 신청",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소 코스닥시장본부는 마더스제약과 이나인페이, 총 2개사의 상장예비심사 신청서를 접수했다고 31일 밝혔다...",
+      "link": "https://www.yna.co.kr/view/AKR20260831167800008",
+      "publishedAt": "2026-08-31T09:52:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코나아이 \"종속회사 KONA에 303억원 출자\"",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 코나아이[052400]는 자회사 지분의 취득.보유.관리 및 경영자문업 등 종속회사(KONA America Hol...",
+      "link": "https://www.yna.co.kr/view/AKR20260831166900008",
+      "publishedAt": "2026-08-31T09:26:39.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "신테카바이오, 20억원 유상증자…이정훈 등에 3자 배정",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 신테카바이오[226330]는 운영자금 등 약 20억원을 조달하고자 제3자배정 유상증자를 결정했다고 31일 공시했...",
+      "link": "https://www.yna.co.kr/view/AKR20260831165200008",
+      "publishedAt": "2026-08-31T09:26:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "혼란한 증시…\"우량주 분할 매수\" [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026083145881",
+      "publishedAt": "2026-08-31T09:17:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "가족돌봄청년 자립 돕는다…미래에셋의 특별한 교육",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026083145291",
+      "publishedAt": "2026-08-31T09:08:00.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -186,6 +314,14 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026083145937",
       "publishedAt": "2026-08-31T08:50:37.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"韓 저성장 기로…전국민 아이디어등록제 도입을\"",
+      "summary": "성장률을 반등시키기 위해선 정부가 '아이디어'에 적극 투자해야 한다는 국책연구원장의 제언이 나왔다. 연구개발(R&D)에만 투자해오던 기존 방식으로는 혁신적인 아이디어에 기반한 경제..",
+      "link": "https://www.mk.co.kr/news/economy/12140615",
+      "publishedAt": "2026-08-31T08:48:00.000Z"
     },
     {
       "source": "한국경제",
@@ -3226,190 +3362,6 @@
       "summary": "달러 스테이블 코인이 바꾸는 문법2009년 스위스 최대 은행 UBS는 미국인 고객의 탈세를 조직적으로 도운 사실을 인정하고 벌금으로 7억8000만달러를 냈다. 고객 정보도 미국 정..",
       "link": "https://www.mk.co.kr/news/stock/12135174",
       "publishedAt": "2026-08-24T20:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[포토] 삼성, 광주서 히트펌프 생산 돌입",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082495661",
-      "publishedAt": "2026-08-24T15:35:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "팔란티어의 저주가 현실로?…위협받는 앤트로픽 [박신영의 개장전 요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608249858i",
-      "publishedAt": "2026-08-24T14:36:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "원전기업 웨스팅하우스 공동투자설, 미국이 제안 … 韓정부는 \"사실무근\"",
-      "summary": "정부가 미국 종합 원자력 발전 기업 웨스팅하우스에 미국 정부와 공동 투자하는 방안을 검토하고 있는 것으로 알려졌다. 24일 원전업계에 따르면 산업통상부와 한국전력공사는 미국 정부와..",
-      "link": "https://www.mk.co.kr/news/economy/12135279",
-      "publishedAt": "2026-08-24T13:59:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "아프리카서 K쌀 열풍…韓 농기계·종자 수출 교두보로",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082498401",
-      "publishedAt": "2026-08-24T13:49:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'대구 3위' 건설사도 결국 못 버텼다…지방 건설업계 '초긴장'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082498267",
-      "publishedAt": "2026-08-24T13:08:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "알리바바 손절하더니…'빅쇼트' 버리, '뭉칫돈' 베팅한 곳이",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082497947",
-      "publishedAt": "2026-08-24T12:08:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"남으면 제가 다 살게요\" 부탁했는데…편의점서 난리 난 빵 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608249307g",
-      "publishedAt": "2026-08-24T11:13:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "같은 노인인데 소득 3배 차이…노후 생계 공식 바뀌었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082497667",
-      "publishedAt": "2026-08-24T11:11:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "행안장관 \"내년 중수청 예산 4천500억원↑…과다 임대료 아냐\"(종합)",
-      "summary": "(서울=연합뉴스) 홍준석 기자 = 윤호중 행정안전부 장관은 24일 &quot;내년도 중대범죄수사청(중수청) 예산은 4천500억원 이상이 따로 편성돼 있다...",
-      "link": "https://www.yna.co.kr/view/AKR20260824120051530",
-      "publishedAt": "2026-08-24T10:04:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "5만원부터 300만원까지 천차만별…'프리미엄' 추석선물 사러가는 곳 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608247594g",
-      "publishedAt": "2026-08-24T10:03:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "매매·전월세 모두 뛴 서울…원인은 유동성 급증",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082494661",
-      "publishedAt": "2026-08-24T10:01:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성전자, IR 이렇게밖에 못하나\"…110조 푼다는데 폭락 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082492776",
-      "publishedAt": "2026-08-24T10:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "금융위원장 “이주비대출 LTV 산정 기준은 조합원 분양가”",
-      "summary": "이억원 금융위원장은 24일 이주비대출 주택담보대출비율(LTV) 산정방식 개편에 대해 ‘조합원 분양가’가 기준이 된다고 말했다. 이 위원장은 이날 오후 국회 정무위원회에서 이주비대출..",
-      "link": "https://www.mk.co.kr/news/economy/12135180",
-      "publishedAt": "2026-08-24T09:55:09.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "박홍근,'미래기금 쌈짓돈' 지적에 \"결코 아냐…국회 심의 존중\"(종합)",
-      "summary": "(서울=연합뉴스) 김남권 기자 = 박홍근 기획예산처 장관은 24일 내년 국세 수입이 정부가 당초 중기재정계획에서 잡은 전망치보다 100조원 이상...",
-      "link": "https://www.yna.co.kr/view/AKR20260824113551001",
-      "publishedAt": "2026-08-24T09:52:45.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이억원 \"잔금대출 기준 분양가·감정가, 은행 자율적 판단\"(종합)",
-      "summary": "(서울=연합뉴스) 배영경 김지연 기자 = 이억원 금융위원장은 24일 신축 아파트 잔금대출 한도를 정할 때 분양가·감정가 중 어떤 것을 기준으로 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260824139251002",
-      "publishedAt": "2026-08-24T09:45:19.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "현대차, 내년부터 2028년까지 기술직 500명 신규 채용 전망",
-      "summary": "(울산=연합뉴스) 김근주 기자 = 현대자동차가 내년 하반기부터 2028년까지 기술직(생산직) 신입사원 500명을 채용할 전망이다.",
-      "link": "https://www.yna.co.kr/view/AKR20260824157000057",
-      "publishedAt": "2026-08-24T09:40:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "현대해상, 경기 화성에 '아이마음 놀이터'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082496161",
-      "publishedAt": "2026-08-24T09:29:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "KB손보, 자립준비청년 후원금 전달",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082496141",
-      "publishedAt": "2026-08-24T09:28:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "다품종 소량 인쇄로 돌파구 찾은 프린피아",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082495111",
-      "publishedAt": "2026-08-24T09:16:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"가업 상속 어려운 中企, 임직원 인수시 금융 지원\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082495161",
-      "publishedAt": "2026-08-24T09:15:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“이 주식 있다고 하면 동정받았는데”...4.5조 실탄 기대에 2차전지株 랠리",
-      "summary": "삼성디스플레이 지분 매각에 ESS 투자 기대 속 동반 강세 삼성SDI 7%·앨앤에프 16%↑삼성SDI가 4조4500억원에 이르는 삼성디스플레이 지분을 매각한다고 발표한 뒤 북미 ..",
-      "link": "https://www.mk.co.kr/news/stock/12135156",
-      "publishedAt": "2026-08-24T09:11:38.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "넥사다이내믹스, 150억원 유증…시원이노텍 등에 3자 배정",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 넥사다이내믹스[351320]는 운영자금 등 약 130억원을 조달하고자 제3자배정 유상증자를 결정했다고 24일 공...",
-      "link": "https://www.yna.co.kr/view/AKR20260824153600008",
-      "publishedAt": "2026-08-24T09:09:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“종목과 사랑에 빠지지 말라”…88년생 펀드매니저의 원칙 [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082495371",
-      "publishedAt": "2026-08-24T09:07:31.000Z"
     }
   ]
 }
