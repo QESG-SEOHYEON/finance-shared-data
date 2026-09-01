@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T17:18:55.548Z",
+  "updatedAt": "2026-09-01T00:14:36.989Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -10,13 +10,9 @@
       "previous": 6912.37,
       "dayChange": -123.49,
       "dayChangePct": -1.79,
-      "monthChangePct": 2.93,
+      "monthChangePct": 8.49,
       "lastUpdated": "2026-08-31T09:05:40.000Z",
       "candles": [
-        {
-          "date": "2026-07-31",
-          "close": 6595.45
-        },
         {
           "date": "2026-08-03",
           "close": 6257.45
@@ -100,17 +96,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26305.15,
+      "current": 26370.89,
       "previous": 26402.42,
-      "dayChange": -97.27,
-      "dayChangePct": -0.37,
-      "monthChangePct": 3.67,
-      "lastUpdated": "2026-08-31T17:18:50.000Z",
+      "dayChange": -31.53,
+      "dayChangePct": -0.12,
+      "monthChangePct": 1.76,
+      "lastUpdated": "2026-08-31T21:15:59.000Z",
       "candles": [
-        {
-          "date": "2026-07-31",
-          "close": 25373.85
-        },
         {
           "date": "2026-08-03",
           "close": 25913.9
@@ -193,7 +185,7 @@
         },
         {
           "date": "2026-08-31",
-          "close": 26305.15
+          "close": 26370.89
         }
       ]
     },
@@ -202,17 +194,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7676.11,
+      "current": 7686.14,
       "previous": 7711.76,
-      "dayChange": -35.65,
-      "dayChangePct": -0.46,
-      "monthChangePct": 2.49,
-      "lastUpdated": "2026-08-31T17:18:54.000Z",
+      "dayChange": -25.62,
+      "dayChangePct": -0.33,
+      "monthChangePct": 1.13,
+      "lastUpdated": "2026-08-31T21:09:33.000Z",
       "candles": [
-        {
-          "date": "2026-07-31",
-          "close": 7489.72
-        },
         {
           "date": "2026-08-03",
           "close": 7600.5
@@ -295,7 +283,7 @@
         },
         {
           "date": "2026-08-31",
-          "close": 7676.11
+          "close": 7686.14
         }
       ]
     }
