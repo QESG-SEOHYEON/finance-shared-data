@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:27:50.868Z",
+  "updatedAt": "2026-09-02T13:58:23.304Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -11,7 +11,7 @@
       "dayChange": -273.08,
       "dayChangePct": -3.99,
       "monthChangePct": 4.88,
-      "lastUpdated": "2026-09-02T06:32:10.000Z",
+      "lastUpdated": "2026-09-02T09:05:40.000Z",
       "candles": [
         {
           "date": "2026-08-03",
@@ -86,6 +86,10 @@
           "close": 6912.37
         },
         {
+          "date": "2026-08-28",
+          "close": 6788.88
+        },
+        {
           "date": "2026-08-31",
           "close": 6820.02
         },
@@ -104,12 +108,12 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26099.77,
-      "previous": 26370.89,
-      "dayChange": -271.12,
-      "dayChangePct": -1.03,
-      "monthChangePct": 0.72,
-      "lastUpdated": "2026-09-01T21:15:59.000Z",
+      "current": 26089.81,
+      "previous": 26099.77,
+      "dayChange": -9.96,
+      "dayChangePct": -0.04,
+      "monthChangePct": 0.68,
+      "lastUpdated": "2026-09-02T13:58:16.000Z",
       "candles": [
         {
           "date": "2026-08-03",
@@ -188,12 +192,20 @@
           "close": 26541.35
         },
         {
+          "date": "2026-08-28",
+          "close": 26402.42
+        },
+        {
           "date": "2026-08-31",
           "close": 26370.89
         },
         {
           "date": "2026-09-01",
           "close": 26099.77
+        },
+        {
+          "date": "2026-09-02",
+          "close": 26089.81
         }
       ]
     },
@@ -202,12 +214,12 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7631.47,
-      "previous": 7686.14,
-      "dayChange": -54.67,
-      "dayChangePct": -0.71,
-      "monthChangePct": 0.41,
-      "lastUpdated": "2026-09-01T20:00:00.000Z",
+      "current": 7642.25,
+      "previous": 7631.47,
+      "dayChange": 10.78,
+      "dayChangePct": 0.14,
+      "monthChangePct": 0.55,
+      "lastUpdated": "2026-09-02T13:58:22.000Z",
       "candles": [
         {
           "date": "2026-08-03",
@@ -292,6 +304,10 @@
         {
           "date": "2026-09-01",
           "close": 7631.47
+        },
+        {
+          "date": "2026-09-02",
+          "close": 7642.25
         }
       ]
     }
