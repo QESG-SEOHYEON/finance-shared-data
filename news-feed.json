@@ -1,8 +1,136 @@
 {
-  "updatedAt": "2026-09-02T13:58:22.612Z",
+  "updatedAt": "2026-09-02T22:54:55.980Z",
   "historyDays": 7,
-  "count": 442,
+  "count": 455,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "■ 트럼프, 對이란 공격 재개에 &quot;너무 오래가지는 않을 것&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260903014300011",
+      "publishedAt": "2026-09-02T22:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 하이브, 콘텐츠 제작 교육 '하이, 하이' 입과식",
+      "summary": "▲ 하이브는 지난 2일 서울 용산 사옥에서 K팝 및 콘텐츠 산업 기반 청년 성장 지원 프로그램 &apos;하이, 하이&apos;(HI, HIGH) 입과식을 열고 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260903014100005",
+      "publishedAt": "2026-09-02T22:19:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "울주군, 55~64세 미취업 신중년 500명에 자격증 취득 지원",
+      "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 내년부터 미취업 신중년 군민을 대상으로 직업능력개발과 취업역량 강화를 위한 교육·훈련 및 자격증...",
+      "link": "https://www.yna.co.kr/view/AKR20260902149700057",
+      "publishedAt": "2026-09-02T22:07:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[우분투칼럼] 세우타의 파도에 잠긴 모로코 청년들의 미래",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+      "link": "https://www.yna.co.kr/view/AKR20260818029500898",
+      "publishedAt": "2026-09-02T22:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "외국인 북적이던 백화점, 주가 하반기 들어 반토막 난 이유 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090299696",
+      "publishedAt": "2026-09-02T21:30:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[반려동물] 반려묘 200만마리 넘었다…'습식·기능성' 펫푸드 시장 성장",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 국내 반려묘 개체 수가 200만마리를 넘어서며 시장 규모가 확대되자 펫푸드(반려동물식품) 업계가 고양이 전용 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260902147800030",
+      "publishedAt": "2026-09-02T21:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "임단협 부결 뒤 첫 메시지…SK하이닉스 \"불이익 없도록 할 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090307317",
+      "publishedAt": "2026-09-02T21:26:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "공공임대 1가구당 LH 빚 2.9억…임대확대에 재무부담 커지나",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)가 통합공공임대주택 1가구를 공급할 때 부담하는 부채가 2억9천만원에 달하는 것으로 나타...",
+      "link": "https://www.yna.co.kr/view/AKR20260902158500003",
+      "publishedAt": "2026-09-02T21:07:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"이젠 회도 못 먹겠네\"…폭염에 '국민 횟감' 금값됐다 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609020654i",
+      "publishedAt": "2026-09-02T21:01:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'국민 아빠차' 쏘렌토 턱밑까지 쫓아왔다…기아 '전기차 돌풍'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609029781g",
+      "publishedAt": "2026-09-02T21:00:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "사람 손 닿기 전에 포장까지 '척척'…고창 상하치즈 공장의 로봇 군단 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609029794i",
+      "publishedAt": "2026-09-02T21:00:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼성·LG 낳은 '전설의 바위' 입소문…165억 대박 난 '부자 성지'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090202011",
+      "publishedAt": "2026-09-02T21:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"2시간 만에 자격증 뚝딱\"…경찰 불신에 뜬 4000억 시장 [불신 청구서]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609029115H",
+      "publishedAt": "2026-09-02T20:49:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "유튜브 개국공신이 어쩌다…동전주 전락하더니 헐값매각 고프로",
+      "summary": "가성비 중국 액션캠에 밀려 결국 스타맨옵티컬에 합병돼 AI 광통신·방산 분야로 재편 새주인 소식에 주가 40% 급등한때 액션카메라 시장을 평정했던 고프로가 중국산 제품에 밀려 경영..",
+      "link": "https://www.mk.co.kr/news/stock/12142907",
+      "publishedAt": "2026-09-02T20:43:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“서민 대출은 칼같이 굴더니”…은행권 기업 부실채권, 19조 육박",
+      "summary": "8년만에 부실채권 규모 최대 기업대출이 부실의 80% 차지 3개월새 中企신규부실 4.5조 충당금 적립이 부실 못따라가 산은마저 부실대출 60% 늘어 일각선 “생산적금융 영향”경기 ..",
+      "link": "https://www.mk.co.kr/news/economy/12142904",
+      "publishedAt": "2026-09-02T20:42:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증선위, '회계기준 위반' 금양 檢고발",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090206081",
+      "publishedAt": "2026-09-02T13:52:34.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3514,30 +3642,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202608265220i",
       "publishedAt": "2026-08-26T23:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "GS간판 단 주유소에서 SK 휘발유를?…‘순정’ 석유 구매방식 바뀐다",
-      "summary": "공정위, 표준계약서 개정 타사석유 40%까지 구매허용 경쟁 촉진해 유가 인하 유도“○○ 간판을 단 주유소에서도 □□정유사의 석유를 공급받을 수 있는 길이 열린다.” 공정거래위원회는..",
-      "link": "https://www.mk.co.kr/news/economy/12137352",
-      "publishedAt": "2026-08-26T21:14:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“금리 14% 이거 맞아요?” 급전 썼다가 당혹…카드론에 무슨 일",
-      "summary": "카드사 조달금리 11개월째 상승 총량규제에 금리 경쟁도 실종서민들의 급전 창구인 카드론 평균 금리가 올 들어 처음 연 14%대로 올라섰다. 카드사들의 조달비용이 계속 커지는 데다 ..",
-      "link": "https://www.mk.co.kr/news/economy/12137348",
-      "publishedAt": "2026-08-26T21:04:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“할머니도 쌈짓돈 주식 단타” … 돈 굴리는 법 1년 만에 뒤집혔다",
-      "summary": "한국인은 번 돈 가운데 얼마를 저축하고 있을까요. 그렇게 모은 자산은 어디에 담고 있을까요. 한국은행의 국민계정과 자금순환 통계를 함께 보면 한국 가계의 돈이 들어오고 나가는 과정..",
-      "link": "https://www.mk.co.kr/news/economy/12136819",
-      "publishedAt": "2026-08-26T20:00:00.000Z"
     }
   ]
 }
