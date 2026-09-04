@@ -1,8 +1,128 @@
 {
-  "updatedAt": "2026-09-04T13:53:33.168Z",
+  "updatedAt": "2026-09-04T22:39:56.903Z",
   "historyDays": 7,
-  "count": 481,
+  "count": 488,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
+      "summary": "(인천=연합뉴스) 최은지 기자 = 재개발 구역 철거권을 주겠다고 속여 개발 업체로부터 5억원을 가로챈 일당이 항소심에서도 징역형의 집행유예를 선...",
+      "link": "https://www.yna.co.kr/view/AKR20260904057100065",
+      "publishedAt": "2026-09-04T22:17:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
+      "summary": "(대구=연합뉴스) 김용민 기자 = 대구본부세관은 추석 명절을 앞두고 수출입 통관 특별 지원에 나선다고 5일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260904093900053",
+      "publishedAt": "2026-09-04T22:11:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 국내 컨테이너선으로는 처음으로 북극항로 시범 운항에 나선 팬스타 아크로호의 귀환이 예정보다 늦춰질 전망이다.",
+      "link": "https://www.yna.co.kr/view/AKR20260904107200051",
+      "publishedAt": "2026-09-04T22:10:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "고용 호조에 9월 美금리 인상 가능성 58%…3대지수 하락 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090555447",
+      "publishedAt": "2026-09-04T22:03:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 전국 주유소 기름값이 지난주 대비 소폭 내리며 16주 연속 하락세를 이어갔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260904119500003",
+      "publishedAt": "2026-09-04T22:01:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[금주핫템] 후아유 '슬래커 인 폴 후드집업'·자주 '클라우드 파자마'",
+      "summary": "▲ 이랜드월드가 운영하는 후아유는 올해 가을·겨울철을 겨냥해 편안함을 강조한 아이템으로 구성한 &apos;슬래커 인 폴&apos; 컬렉션을 공개했다. 제품은 &apos;시...",
+      "link": "https://www.yna.co.kr/view/AKR20260903167500030",
+      "publishedAt": "2026-09-04T22:00:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[신상잇슈] 뚜레쥬르 '글로우 오브 시티'·면사랑 중식·양식 냉동소스",
+      "summary": "▲ CJ푸드빌이 운영하는 뚜레쥬르는 서울의 낮과 밤의 분위기를 케이크에 담은 신제품 &apos;글로우 오브 시티&apos;를 선보였다.",
+      "link": "https://www.yna.co.kr/view/AKR20260904058700030",
+      "publishedAt": "2026-09-04T22:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"60억짜리 집 살아도 현금 없는데…\" 복잡해진 1주택자 셈법 [고정삼의 절세GPT]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090446956",
+      "publishedAt": "2026-09-04T22:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609033212i",
+      "publishedAt": "2026-09-04T22:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“500만원 썼더니 이자만 95만원”…현금서비스 쓴 10명 중 8명 ‘금리 20%’",
+      "summary": "리볼빙도 이용자 절반 최고금리 근접급전이 필요한 금융소비자들이 주로 이용하는 현금서비스 금리가 법정 최고금리인 연 20%에 바짝 다가선 것으로 나타났다. 주요 카드사 대부분에서 현..",
+      "link": "https://www.mk.co.kr/news/economy/12144987",
+      "publishedAt": "2026-09-04T21:11:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"美서 쇳물 뽑는다\"…현대제철, HPLS 전기로 제철소 착공",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609055485i",
+      "publishedAt": "2026-09-04T21:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“먹던 어묵을 입고 닦는다”… 2030 홀린 70년 노포의 변신 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609045036i",
+      "publishedAt": "2026-09-04T21:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
+      "summary": "美금리동결 기대감 힘입어 가장자산 관련주 일제히 ↑ 비트코인 3개월 만에 최고가 스트레이티 주가 18% 급등 로빈후드·코인베이스도 강세비트코인이 3개월여 만에 최고 수준으로 올라..",
+      "link": "https://www.mk.co.kr/news/stock/12144978",
+      "publishedAt": "2026-09-04T20:59:24.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“갑자기 서울을 떠나라니요”…금융공기관 ‘지방이전 반대’ 3만명 거리로",
+      "summary": "광화문서 총파업 집회 “금융경쟁력 악화 불보듯” 2030 젊은 직원 대거 참여 금감원, 靑에 탄원서 제출전국금융산업노동조합(금융노조)이 국책은행 등 금융 공공기관의 지방 이전 추진..",
+      "link": "https://www.mk.co.kr/news/economy/12144977",
+      "publishedAt": "2026-09-04T20:59:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609055462i",
+      "publishedAt": "2026-09-04T16:04:40.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -3786,70 +3906,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202608289849i",
       "publishedAt": "2026-08-28T23:00:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“혹시 나도 깜빡한 돈이?”…휴면계좌 1553만개, 잔액만 1000억원",
-      "summary": "상반기 서금원 출연액 359억 반년 만에 작년 연간치 추월5대 시중은행에서 장기간 거래가 없어 잠든 휴면계좌가 1500만개를 넘어선 것으로 나타났다. 이들 계좌에 남아 있는 돈만 ..",
-      "link": "https://www.mk.co.kr/news/economy/12139289",
-      "publishedAt": "2026-08-28T22:30:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "워시 매파 발언에 3대 지수 하락…나스닥 0.52%↓ [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082905057",
-      "publishedAt": "2026-08-28T22:12:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"주가 급락한 날엔 ○○○ 따져봐야\"…32조 굴리는 30대 운용역 조언 보니",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608249322i",
-      "publishedAt": "2026-08-28T22:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "신현송 총재의 ‘매파본색’ 언제까지 이어질까 [BOK WATCHER]",
-      "summary": "시장 예상 깨고 금리 올린 금통위 향후 전망한국은행 신현송 총재의 ‘매파 본색’이 여지없이 드러났다. 그가 주도하는 금융통화위원회는 8월27일 기준금리를 0.25%포인트 올렸다. ..",
-      "link": "https://www.mk.co.kr/news/economy/12139274",
-      "publishedAt": "2026-08-28T21:03:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "아들 두 명 허위취업·횡령 방조한 경찰간부…법원 \"강등 정당\"",
-      "summary": "(서울=연합뉴스) 김빛나 기자 = 아들 두 명을 지인 회사에 각각 허위로 취업시키고 횡령을 방조한 경찰 간부의 강등 처분은 적법하다는 법원 판단...",
-      "link": "https://www.yna.co.kr/view/AKR20260828173300004",
-      "publishedAt": "2026-08-28T20:55:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "굴즈비 시카고연은 총재 \"美 국채금리 높지 않다\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026082904451",
-      "publishedAt": "2026-08-28T20:06:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“관세전쟁은 부자들만 배불릴뿐” … 200년전에 이미 증명했다",
-      "summary": "⑩분업과 비교우위론경제학의 아버지 애덤 스미스(A. Smith)는 1776년 《국부론》에서 국가의 부를 늘리는 원동력으로 ‘분업(Division of Labor)’을 꼽았습니다. ..",
-      "link": "https://www.mk.co.kr/news/economy/12138832",
-      "publishedAt": "2026-08-28T19:50:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'정면 돌파' 택한 워시, 트럼프도 뚫을 수 있나…시장에선 '합격점'[Fed 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608290452i",
-      "publishedAt": "2026-08-28T18:04:46.000Z"
     }
   ]
 }
