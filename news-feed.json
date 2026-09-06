@@ -1,8 +1,208 @@
 {
-  "updatedAt": "2026-09-05T22:30:44.527Z",
+  "updatedAt": "2026-09-06T07:26:56.060Z",
   "historyDays": 7,
-  "count": 488,
+  "count": 503,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "송미령 장관 \"추석 성수품 공급량 1.6배 확대\"…사과농장 점검",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 송미령 농림축산식품부 장관은 6일 오후 경북 안동시 대경사과원예농협 산지유통센터(APC)를 찾아 추석 성수기용...",
+      "link": "https://www.yna.co.kr/view/AKR20260906011800030",
+      "publishedAt": "2026-09-06T07:18:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주진우 \"김승원 자녀, 아내 원장인 복지기관 취업…정부에 빨대\"",
+      "summary": "(서울=연합뉴스) 박수윤 노선웅 기자 = 국민의힘 주진우 의원은 6일 김승원 법무부 장관 후보자의 배우자가 일하는 복지기관이 이들 부부의 자녀 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260906033500001",
+      "publishedAt": "2026-09-06T07:11:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "무디스 “9년 만에 재정흑자…미래대응기금, 국가신용에 우호적”",
+      "summary": "추가세수 중 12.5조원 규모 내년 국채발행 축소에 사용 무디스 “국가부채 억제 신호”국제신용평가사 무디스가 ‘미래대응기금’ 가운데 신규 국채 발행 축소에 배정된 12조5000억원..",
+      "link": "https://www.mk.co.kr/news/economy/12145366",
+      "publishedAt": "2026-09-06T06:58:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "세계 식량가격 2개월 연속 상승…2022년 11월 이후 최고 수준",
+      "summary": "이상기온·전쟁 여파 겹친 영향 FAO “식량시장 위험 재발 경고”세계 식량가격지수가 지난달에 이어 두 달 연속 오르며 2022년 말 이후 최고 수준을 기록했다. 유럽 지역의 폭염과..",
+      "link": "https://www.mk.co.kr/news/economy/12145363",
+      "publishedAt": "2026-09-06T06:57:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독] LG전자 자회사 베어로보틱스, 프리IPO 추진",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609066608i",
+      "publishedAt": "2026-09-06T06:29:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“당장 돈 빌릴 데가 카드·보험밖에”…5060 카드론 1년 새 1조 증가, 보험대출도 급증",
+      "summary": "카드론 연체율 20대가 최고 보험계약대출 잔액 4.9% 늘어서민들의 급전 창구로 꼽히는 카드론의 연체율이 전 연령대에서 상승한 것으로 나타났다. 20~40대는 카드론 잔액이 줄었는..",
+      "link": "https://www.mk.co.kr/news/economy/12145321",
+      "publishedAt": "2026-09-06T06:25:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "summary": "■ [네팔 대홍수] 캄캄한 터널서 &quot;찾았어&quot;…&apos;韓구호대 촬영&apos; 中생존자 발견순간",
+      "link": "https://www.yna.co.kr/view/AKR20260906029000011",
+      "publishedAt": "2026-09-06T06:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "수출 작년 실적 벌써 넘었다…사상 첫 '1조 달러' 코앞",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609066644i",
+      "publishedAt": "2026-09-06T05:47:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "중고차 수십만 대 훑어봤더니…테슬라·벤츠도 제친 '전기車' [최수진의 모빌리티톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609045199g",
+      "publishedAt": "2026-09-06T05:30:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“죽은 형 폰으로 3000만원 대출?”…고인 사망신고 다음날부터 싹 막힌다",
+      "summary": "고인 명의 예금 인출·대출 즉시 차단 금융위·행안부 등 11일부터 가동앞으로 사망신고 다음 날부터 고인 명의의 예금 인출과 대출, 신용카드 결제 등 금융거래가 즉시 차단된다. 금융..",
+      "link": "https://www.mk.co.kr/news/economy/12145292",
+      "publishedAt": "2026-09-06T05:14:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증시 활력 떨어지는데...고액자산가 쓸어담은 종목은",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609066472i",
+      "publishedAt": "2026-09-06T05:05:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "대한광통신, 올해 흑자전환 기대…실적 눈높이도 껑충",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609066367i",
+      "publishedAt": "2026-09-06T04:49:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] '전력기기 빅4' 일진전기 유상석 대표 “호황 10년 더 간다…2030년 매출 4조·시총 10조 시대 열 것”",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609066614i",
+      "publishedAt": "2026-09-06T04:17:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전남광주 청년정책 핵심가치 '삶의 질'…권역별 수요는 제각각",
+      "summary": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시 청년들이 향후 청년정책에서 가장 중요하게 고려해야 할 가치로 &apos;삶의 질&apos;을 꼽았지만, 지...",
+      "link": "https://www.yna.co.kr/view/AKR20260906026500054",
+      "publishedAt": "2026-09-06T04:10:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "사전증여, 세금 계산기만 두드렸다간 '가족 분쟁' 부른다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609020056i",
+      "publishedAt": "2026-09-06T04:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"국세청 해외계좌 미신고 제보포상 11년간 3건뿐\"(종합)",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 불법 재산 해외반출과 역외소득 탈루 억제 등을 촉진하기 위해 도입된 제보·포상 제도의 실적이 매우 저조하다는 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260905019151002",
+      "publishedAt": "2026-09-06T03:52:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[공모주 분석] '타입캐스트' 네오사피엔스, AI 음성 넘어 '대화형 AI'로 코스닥 도전",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609044536i",
+      "publishedAt": "2026-09-06T03:26:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "지식재산처, 한국 상표 심사 노하우 아세안 11개국에 전수",
+      "summary": "(대전=연합뉴스) 김준호 기자 = 지식재산처는 7∼10일 아세안 11개국의 상표 심사관과 관련 업무 종사자를 대상으로 &apos;2026 한-아세안 상표...",
+      "link": "https://www.yna.co.kr/view/AKR20260904073500063",
+      "publishedAt": "2026-09-06T03:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"수리비 유독 비싸다는데\" 오명 쓴 '이 車' 알고 보니… [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609044548g",
+      "publishedAt": "2026-09-06T03:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "룰루레몬 65% 떨어졌지만…마이클 버리 “물타기 할 것”",
+      "summary": "고점에서 5분의 1토막 난 ‘요가복계 샤넬’ ‘빅쇼트’ 버리 최초 매입가서 65% 추락 실적발표 전 “투매 없을 것” 예측에도 폭락 “장난꾸러기 종목…100달러 밑에서 더 살 것”..",
+      "link": "https://www.mk.co.kr/news/stock/12145249",
+      "publishedAt": "2026-09-06T02:03:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "年8.29% 적금 재미보더니…이번엔 아시안게임 특판 7.5% 적금 내놓은 은행",
+      "summary": "수신 경쟁 뛰어든 우리은행 ‘우리의소원’ 예금 완판되고 아시안게임 기념 특판 또 내놔은행을 떠났던 돈이 다시 돌아오는 ‘역(逆)머니무브’에 은행권이 수신 경쟁을 하고 있다. 특히 ..",
+      "link": "https://www.mk.co.kr/news/economy/12145242",
+      "publishedAt": "2026-09-06T01:43:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“달러·엔 나중에 쓰면 되니까, 쌀 때 일단 사둬”…환율 급락에 외화예금 역대 최대",
+      "summary": "원달러 환율 23개월 만에 최저 수출기업들 달러매도 늦추고 수입기업 적극적으로 분할 매입원·달러 환율이 1345원까지 떨어져 23개월 만에 최저 수준을 기록하면서 기업을 중심으로 ..",
+      "link": "https://www.mk.co.kr/news/economy/12145235",
+      "publishedAt": "2026-09-06T01:31:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "1000만원 넣으면 20년 뒤 2613만원…퇴직연금 개인국채 투자법",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609044421i",
+      "publishedAt": "2026-09-06T00:19:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "방산 호황 뒤 다음 승부수…가와사키중공업, 수소·피지컬AI에 베팅",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609044899i",
+      "publishedAt": "2026-09-06T00:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성전자, SK하이닉스 FCF 50% 주주환원이 던지는 질문 [이강연의 재무제표 일기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202608313342i",
+      "publishedAt": "2026-09-05T23:46:02.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3826,86 +4026,6 @@
       "summary": "(서울=연합뉴스) 김태종 기자 = 미래에셋자산운용이 최근 홍콩 시장에서 &apos;토큰화 커버드콜 ETF(상장지수펀드)&apos;를 출시한 것으로 파악됐다. 미래...",
       "link": "https://www.yna.co.kr/view/AKR20260830048000008",
       "publishedAt": "2026-08-30T07:36:33.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부고] 한종수(한국수출입은행 안전운영부장)씨 부친상",
-      "summary": "▲ 한고희(향년 82세)씨 별세, 한종수(한국수출입은행 안전운영부장)·한수옥(배정미래고 교사)씨 부친상 = 30일 오전 11시, 김해조은금강병원...",
-      "link": "https://www.yna.co.kr/view/AKR20260830046900002",
-      "publishedAt": "2026-08-30T07:26:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"돗자리만 깔아줘도 30만원\"…다음 주 앞두고 난리 난 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026083017957",
-      "publishedAt": "2026-08-30T07:17:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "한진그룹, '제5회 일우배 전국탁구대회' 개최…유소년 500명 참가",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608301767i",
-      "publishedAt": "2026-08-30T06:48:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "예탁금 3000만원의 벽…'삼전닉스 2배' 개미 1.7조원어치 순매도",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608301725i",
-      "publishedAt": "2026-08-30T06:39:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "남성 46% \"비행기 착륙 자신 있다\"더니…조종석 앉자 '멘붕' 왔다 [영상]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608288567g",
-      "publishedAt": "2026-08-30T06:37:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "신설되는 청와대 메가프로젝트 보좌관에 이원주 기후부 실장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608301766i",
-      "publishedAt": "2026-08-30T06:32:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "반도체 4% 뛸 동안 30% 가까이 상승한 건설주...데이터센터·원전 매력↑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608301665i",
-      "publishedAt": "2026-08-30T06:32:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "베네수 대통령 \"원유주권 유지\"…미국과 협정 논란에 대국민연설",
-      "summary": "(서울=연합뉴스) 임화섭 기자 = 델시 로드리게스 베네수엘라 임시 대통령(대통령 권한대행)이 29일(현지시간) TV 연설을 통해 미국과 맺은 에...",
-      "link": "https://www.yna.co.kr/view/AKR20260830037100009",
-      "publishedAt": "2026-08-30T06:00:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "■ 신임 법무장관 후보에 김승원 지명…재경 이형일·국방 강신철",
-      "link": "https://www.yna.co.kr/view/AKR20260830036900011",
-      "publishedAt": "2026-08-30T06:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "롯데카드 매각 ‘삼수’, 홈플러스 회생 마지막 기회…MBK에 쏠린 눈 [M&A복덕방]",
-      "summary": "9월 인수합병(M&A) 시장 최대 이슈는 롯데카드와 홈플러스가 될 전망이다. 양사 모두 MBK파트너스가 경영권을 쥐고 있는 만큼 매각과 회생의 향방이 MBK의 향후 국내 투자에도 ..",
-      "link": "https://www.mk.co.kr/news/stock/12139613",
-      "publishedAt": "2026-08-29T22:48:45.000Z"
     }
   ]
 }
