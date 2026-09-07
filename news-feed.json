@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-09-06T22:34:59.649Z",
+  "updatedAt": "2026-09-07T07:43:15.732Z",
   "historyDays": 7,
-  "count": 495,
+  "count": 524,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "카드론 조이자 현금서비스·리볼빙 늘어…63%는 50대 이상",
+      "summary": "금융당국이 카드론 증가를 억제하는 동안 현금서비스와 리볼빙 잔액이 늘어난 것으로 나타났다. 특히 현금서비스 잔액의 60% 이상을 50대 이상이 차지해 대출 규제가 중·고령층의 자금..",
+      "link": "https://www.mk.co.kr/news/economy/12146226",
+      "publishedAt": "2026-09-07T07:39:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "스타트업 발굴 '우리금융 디노랩', 맥주와 음악의 '카스쿨 페스티벌'…",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090779821",
+      "publishedAt": "2026-09-07T07:36:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "소비자 77만명 투표 참여…상위 1% '올해의 캠페인' 선정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090779831",
+      "publishedAt": "2026-09-07T07:34:19.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "강원농업기술원, 지역 농가공품 6종 서울 강남서 선보여",
+      "summary": "(춘천=연합뉴스) 양지웅 기자 = 강원특별자치도농업기술원은 서울 강남구 하 우스오브신세계 청담점에서 오는 10일까지 방문객을 대상으로 도내 5개...",
+      "link": "https://www.yna.co.kr/view/AKR20260907134000062",
+      "publishedAt": "2026-09-07T07:34:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "창원상의, 통영시에 수해 복구성금 5천만원 전달",
+      "summary": "(창원=연합뉴스) 이정훈 기자 = 경남 창원상공회의소는 지난달 극한호우로 큰 피해가 발생한 통영시에 수해 복구성금 5천만원을 전달했다고 7일 밝...",
+      "link": "https://www.yna.co.kr/view/AKR20260907133500052",
+      "publishedAt": "2026-09-07T07:33:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "넥슨 메이플 어택! 위드 롯데, 게임 속 세상이 롯데월드 곳곳에 펼쳐져",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090779931",
+      "publishedAt": "2026-09-07T07:31:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "디노랩, 10년간 스타트업 도약 이끈 든든한 동반자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090779921",
+      "publishedAt": "2026-09-07T07:30:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
+      "summary": "카카오뱅크는 저축 횟수에 따라 ‘MMA2026(멜론뮤직어워드)’ 관람권 응모 기회를 제공하는 ‘한달적금 with MMA2026’을 출시한다고 7일 밝혔다. 한달적금은 100원부터 ..",
+      "link": "https://www.mk.co.kr/news/economy/12146206",
+      "publishedAt": "2026-09-07T07:23:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "연천 구석기 축제, 전곡리유적 품은 구석기축제…해외로 발돋움",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090780041",
+      "publishedAt": "2026-09-07T07:22:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "CJ도너스캠프 문화동아리, 청소년 동아리 14년째 키워온 '문화 꿈지기'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090779941",
+      "publishedAt": "2026-09-07T07:21:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대신F&I, 회사채 수요예측서 모집액 10배 넘는 자금 몰려",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 대신에프앤아이(F&amp;amp;I)(A+)가 무보증사채 수요예측에서 모집 예정액의 10배가 넘는 자금을 모집했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260907130800008",
+      "publishedAt": "2026-09-07T07:20:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "소공연, 이형일 재경장관 후보 면담…세금 부담 완화 요청",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 소상공인연합회는 7일 이형일 경제부총리 겸 재정경제부 장관 후보자(현 재경부 1차관)를 만나 세금 부담 완화와...",
+      "link": "https://www.yna.co.kr/view/AKR20260907123200030",
+      "publishedAt": "2026-09-07T07:15:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "증시 거래대금 급감…증권사 3분기 실적 전망치 '뚝'",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 올해 8월부터 국내 증시 거래가 눈에 띄게 위축되면서 주요 증권사의 3분기(7월∼9월) 실적 눈높이도 낮아지고...",
+      "link": "https://www.yna.co.kr/view/AKR20260907126500008",
+      "publishedAt": "2026-09-07T07:07:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대구시, 청년·기술 모이는 창업생태계 본격 조성한다",
+      "summary": "(대구=연합뉴스) 박세진 기자 = 대구시가 청년과 기술이 모이는 대구 창업생태계 조성을 위해 국가대표 창업도시 프로젝트, 기업 성장 단계별 모험...",
+      "link": "https://www.yna.co.kr/view/AKR20260907124200053",
+      "publishedAt": "2026-09-07T07:05:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "이번주 '저PBR 기업 망신주기'案 확정...코스피 25%·코스닥 10%로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609078565i",
+      "publishedAt": "2026-09-07T07:01:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "다올투자증권, 미국 IBKR 손잡고 ‘양방향 글로벌 투자 플랫폼’ 띄운다",
+      "summary": "다올투자증권은 미국 인터랙티브 브로커스(IBKR)와 협력해 ‘DAOL Fi PRO(다올 파이 프로)’를 출시했다고 7일 밝혔다. DAOL Fi PRO는 고객 인증과 통합 로그인(S..",
+      "link": "https://www.mk.co.kr/news/stock/12146161",
+      "publishedAt": "2026-09-07T06:58:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609078951i",
+      "publishedAt": "2026-09-07T06:54:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "가전 넘어 로봇·AI까지…LG전자, 신사업 기대에 주가 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609078818i",
+      "publishedAt": "2026-09-07T06:54:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼전닉스 오르자 고수들도 추격매수…현대차·NAVER는 ‘팔자’ [주식 초고수는 지금]",
+      "summary": "주식 투자 수익률 상위 1% 초고수들은 7일 오후 삼성전자와 SK하이닉스를 가장 많이 사들인 것으로 나타났다. 이날 오후 미래에셋증권에 따르면 초고수들의 순매수 1위는 삼성전자였다..",
+      "link": "https://www.mk.co.kr/news/stock/12146147",
+      "publishedAt": "2026-09-07T06:50:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘7000피 코앞’ 코스피, 오픈AI발 훈풍에 강세 마감…코스닥도 1% 올라",
+      "summary": "7일 코스피가 오픈AI발 반도체 훈풍에 7000피를 눈 앞에 두며 강세 마감했다. 이날 코스피는 전일 대비 308.18포인트(4.61%) 오른 6995.39에 장을 마쳤다. 전일보..",
+      "link": "https://www.mk.co.kr/news/stock/12146136",
+      "publishedAt": "2026-09-07T06:46:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'커피 한 잔과 쇼핑을'...월마트, 던킨과 도넛·커피 배달 협력",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609078617i",
+      "publishedAt": "2026-09-07T06:46:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 주식관리 시대 열었다... 하나증권 신규 MTS '하나증권V' 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609079010i",
+      "publishedAt": "2026-09-07T06:46:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "중국 주춤한 사이 브라질 증시 '훨훨'…외국인이 돌아선 이유는",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609078785i",
+      "publishedAt": "2026-09-07T06:45:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”",
+      "summary": "KB증권 메모리 공급 부족 분석 “전례없어…내년엔 고갈 염려도” 삼전닉스 7일 5~8%대 급등 중KB증권이 7일 인공지능(AI) 투자로 향후 메모리 반도체 시장이 전례 없는 공급 ..",
+      "link": "https://www.mk.co.kr/news/stock/12146119",
+      "publishedAt": "2026-09-07T06:34:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "민원 분류부터 광고심의까지…생명보험협회 ‘AI 대전환’",
+      "summary": "생명보험협회가 민원 대응과 광고심의 등 반복·정형 업무에 인공지능(AI)을 본격 투입한다. 보험사들이 상품개발·영업·고객상담 등 업무 전반에 AI 적용을 확대하는 가운데 협회 차원..",
+      "link": "https://www.mk.co.kr/news/economy/12146105",
+      "publishedAt": "2026-09-07T06:19:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“설마 내 주식 전액이 0원 될 줄은”…5배 수익률 비상장 투자 ‘덫’ 피하려면",
+      "summary": "“비상장주식, 증권신고서 등 공시 확인해야” 금융사 인가 여부는 소비자정보포털에서#50대 A씨는 ‘지금 사두면 수익률 최소 5배 벌 수 있다’는 전화를 받고 1000만원을 송금했다..",
+      "link": "https://www.mk.co.kr/news/economy/12146094",
+      "publishedAt": "2026-09-07T06:11:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“추가 세수 늘어난 지금이 적기인데”…기초연금 앞에서 멈춘 ‘용두미완’ 재정개혁 [기자24시]",
+      "summary": "절반의 성공 그친 재정개혁“추가 세수가 들어왔으니 개혁이 가능했습니다.” 정부 고위 관계자는 최근 기자와 만나 지방교육재정교부금 개편을 이렇게 회고했다. 내국세와 연동돼 세수가 늘..",
+      "link": "https://www.mk.co.kr/news/economy/12146085",
+      "publishedAt": "2026-09-07T06:06:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼전닉스 자사주 취득 끝나면 코스피 와르르?”…걷어내고 계산해보니",
+      "summary": "기타법인 순매수 34조원 돌파 삼전·닉스에 102.7% 집중 코스피 ‘수급 안전판’ 역할 자사주 종료 후 외국인 수급 관건삼성전자와 SK하이닉스의 대규모 자사주 매입이 올해 국내 ..",
+      "link": "https://www.mk.co.kr/news/stock/12146078",
+      "publishedAt": "2026-09-07T05:59:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“당신, 이자 밀리면 가족까지 위험한 거 알지?”…‘영끌 가구’ 부실전이 확률 2배",
+      "summary": "금리 1%P 오르면 연체확률 0.81%P↑ 가구원 연체 땐 다른 가족 8.8% 연체 부채 가구 11% “빚 갚느라 소비 제약”주택을 살 때 소득에 비해 대출을 많이 받은 이른바 ‘..",
+      "link": "https://www.mk.co.kr/news/economy/12146067",
+      "publishedAt": "2026-09-07T05:53:27.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
