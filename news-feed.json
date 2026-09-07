@@ -1,8 +1,144 @@
 {
-  "updatedAt": "2026-09-07T15:24:18.807Z",
+  "updatedAt": "2026-09-07T23:11:27.314Z",
   "historyDays": 7,
-  "count": 508,
+  "count": 515,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나",
+      "summary": "(서울=연합뉴스) 임은진 기자 = 8일 코스피는 오픈AI발 반도체 훈풍과 차익 실현 물량 출회 등의 영향을 받으며 업종별 차별화 장세를 보일 것...",
+      "link": "https://www.yna.co.kr/view/AKR20260908016300008",
+      "publishedAt": "2026-09-07T23:04:32.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260908014500002",
+      "publishedAt": "2026-09-07T23:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "공사채 시장 최대 발행주체 부상한 LH…\"수급 좌우 전망\"",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 정부의 공공기관 중장기 재무관리계획이 발표된 가운데 한국토지주택공사(LH)가 향후 공사채 시장의 수급을 좌우할...",
+      "link": "https://www.yna.co.kr/view/AKR20260907121600008",
+      "publishedAt": "2026-09-07T23:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'2026년 젊은 건축가상'에 나종원·김민호·신성진·손경민",
+      "summary": "(서울=연합뉴스) 김기훈 기자 = 문화체육관광부는 &apos;2026년 젊은 건축가상&apos; 수상자로 나종원 오브 아키텍처 공동대표, 김민호 코드아키텍츠건축사...",
+      "link": "https://www.yna.co.kr/view/AKR20260908011200005",
+      "publishedAt": "2026-09-07T23:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부산 전통시장서 4만원 이상 구매하면 온누리상품권 1만원 환급",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 부산시상인연합회 주최로 오는 11일부터 이틀간 99개 전통시장에서 온누리상품권 환급 지원사업을 추진한...",
+      "link": "https://www.yna.co.kr/view/AKR20260908015300051",
+      "publishedAt": "2026-09-07T22:55:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“농심, 3분기도 해외 수익성 개선 이어질 전망”",
+      "summary": "하나증권은 8일 농심에 대해 해외 매출 레벨 업(Level up)을 기대한다며 목표주가를 기존 54만원으로 유지했다. 투자의견은 ‘매수’를 유지했다. 하나증권은 3분기도 해외 수익..",
+      "link": "https://www.mk.co.kr/news/stock/12146608",
+      "publishedAt": "2026-09-07T22:34:51.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "■ 李대통령, 김지용 중수청장 후보 지명키로…&quot;중수청 안착 적임&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260908010500011",
+      "publishedAt": "2026-09-07T22:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "대출 21% 늘 때 연체 120% 급증…무너지는 '영끌' 집주인들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609089917H",
+      "publishedAt": "2026-09-07T22:18:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "한 장에 4만원 '턱턱'…'K중고시장'에 외국인 500만명 몰리 이유 [장서우의 하입:hype]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609067105i",
+      "publishedAt": "2026-09-07T22:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "집값 폭등이 결혼시켰다?…2030 '자산 동맹' 맺는 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090793661",
+      "publishedAt": "2026-09-07T22:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "한 달 새 최대 39% 뛰었다…보험주, '8주 룰'에 더 달릴까 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090791456",
+      "publishedAt": "2026-09-07T21:30:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'오디세이' 보려고 웃돈까지…주가 24% 폭등한 '이 종목' [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090790926",
+      "publishedAt": "2026-09-07T21:30:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“이번달도 월급이 통장을 스치운다”…금리 1%P 오르면 연체율 무려",
+      "summary": "한은 ‘가계부채 리스크 평가’ DSR 46% 넘는 가구 11% 상환 부담커져 소비도 위축가계빚 부담이 소득의 절반에 가까워지면 소비가 줄어들기 시작한다는 연구 결과가 나왔다. 많은..",
+      "link": "https://www.mk.co.kr/news/economy/12146587",
+      "publishedAt": "2026-09-07T21:09:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"발망치 소리 들릴라\"…다이소서 불티나게 팔린 '이 제품' [권 기자의 장바구니]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609077936i",
+      "publishedAt": "2026-09-07T21:00:30.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"월급처럼 따박따박 꽂힌다\"…일주일 새 1200억 몰린 곳",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090794361",
+      "publishedAt": "2026-09-07T21:00:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "뷔페 대박나더니…\"인당 20만원\" 특급호텔 맞먹는 '랍스터 뷔페' 등장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609079071g",
+      "publishedAt": "2026-09-07T21:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI가 읽는 '탐욕과 공포'의 온도 [여기는 논설실]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609079699i",
+      "publishedAt": "2026-09-07T21:00:08.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3986,86 +4122,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202609015209g",
       "publishedAt": "2026-08-31T23:12:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"SK이노베이션, 미국 ESS 시장 진출 첫 걸음 고무적이지만…\"-iM",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090152106",
-      "publishedAt": "2026-08-31T23:09:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[외신 에스프레소] 美 정부, 세계 최대급 유전에 직접 투자…'석유 재벌' 노린다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609015153i",
-      "publishedAt": "2026-08-31T22:59:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "국민연금 가입하고도 장애연금을 못 받을 수 있나요?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608302192i",
-      "publishedAt": "2026-08-31T22:32:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "코스피서 발빼고 어디로 갔나 봤더니…다시 늘어난 빚투, 코스닥 향했다",
-      "summary": "신용잔고 33조…9일연속 증가세 유가증권 잔고 줄고 코스닥 늘어주식 투자를 위해 증권사에서 빌린 돈이 9거래일 연속 증가했다. 유가증권시장 신용거래융자 잔고는 줄었지만 코스닥시장에..",
-      "link": "https://www.mk.co.kr/news/stock/12140890",
-      "publishedAt": "2026-08-31T22:01:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "생산비 절감·기술 혁신…'좋은 독점'은 소비자에 이득",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026083145001",
-      "publishedAt": "2026-08-31T22:00:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "외국인들이 먹고 빠져나간 국장…개미들 ‘기도메타’는 이곳 향했다",
-      "summary": "개인·외국인 거래 줄어들자 사모펀드 매수세 크게 늘어 코스피 일평균 거래대금 비중 2월 1.1%서 8월 1.9%로 쑥 화장품·원전건설株 집중매수개인 투자자들이 주도하던 반도체 장세..",
-      "link": "https://www.mk.co.kr/news/stock/12140868",
-      "publishedAt": "2026-08-31T21:01:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "한일전 2배 점수차로 졌다…금융사 주가 저평가 이유 살펴보니",
-      "summary": "벌어지는 한일 금융 밸류업 韓 KB금융지주 PBR 1배 日 MUFG는 PBR 1.8배 5년 전엔 둘다 0.5배 수준 밸류업 日보다 더딘 이유 ① 이자이익에 편중된 구조 ② 일본보..",
-      "link": "https://www.mk.co.kr/news/economy/12140866",
-      "publishedAt": "2026-08-31T21:00:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "월가 여장부의 일갈 … “워시의 연설, 인플레 방치 자인한 셈”",
-      "summary": "린지 피에그자 스티펠 수석이코노미스트 인터뷰케빈 워시 연방준비제도(Fed) 의장의 잭슨홀 데뷔무대 연설이 시장에 불확실성을 줄여주는 동시에 또 다른 불확실성을 남기며 큰 변수로 작..",
-      "link": "https://www.mk.co.kr/news/economy/12140470",
-      "publishedAt": "2026-08-31T19:20:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“6000밑은 안 갈 것” … 전문가 7인 ‘비중 축소’ 없었다",
-      "summary": "머니닥터 9월 증시 전망기대와 우려가 교차했던 8월 증시가 마무리되고 9월을 맞았다. 국내 증시는 기업 실적 개선과 낮은 밸류에이션에도 미국 금리와 지정학적 불확실성에 발목이 잡히..",
-      "link": "https://www.mk.co.kr/news/stock/12140508",
-      "publishedAt": "2026-08-31T19:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "거물 앤트로픽 등판에…9월 이후 美공모기업들 초비상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609014967i",
-      "publishedAt": "2026-08-31T15:28:27.000Z"
     }
   ]
 }
