@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-09-08T14:00:47.381Z",
+  "updatedAt": "2026-09-08T23:04:36.664Z",
   "historyDays": 7,
-  "count": 500,
+  "count": 494,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[속보] 8월 취업자 수 18만4000명 늘어…5개월 만에 최대폭",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12147798",
+      "publishedAt": "2026-09-08T23:04:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[2보] 취업자 18만4천명↑·5개월만에 최대폭…청년 고용한파 지속",
+      "summary": "(세종=연합뉴스) 안채원 송정은 기자 = 8월 취업자 수가 20만명 가까이 늘어나며 회복 흐름을 보였다.",
+      "link": "https://www.yna.co.kr/view/AKR20260909020800002",
+      "publishedAt": "2026-09-08T23:00:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "AI시대 일자리·성과배분 어떻게…'새 사회계약' 녹서 논의체 출범",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 인공지능(AI) 혁신 성과의 활용 방안 등 우리 사회가 풀어야 할 핵심 질문을 담아낼 &apos;녹서(綠書)&apos; 발간 논...",
+      "link": "https://www.yna.co.kr/view/AKR20260908134000530",
+      "publishedAt": "2026-09-08T23:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[1보] 8월 취업자 수 18만4천명 늘어…5개월 만에 최대폭",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20260909017800002",
+      "publishedAt": "2026-09-08T23:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“레버리지때문에 한국 증시 바닥쳤다”…한달만에 39% 급락, 亞 곳곳서 문제",
+      "summary": "ETF 상품·빚투 연쇄작용 우려 반대매매 후 주가 급락 악순환 나라마다 레버리지 규제 나서국내 증시에서 ‘빚투(빚내서 투자)’ 현상이 여전한 가운데, 한국 등 아시아 주요국에서 ..",
+      "link": "https://www.mk.co.kr/news/stock/12147792",
+      "publishedAt": "2026-09-08T22:50:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "넥사다이내믹스, 300억원 유상증자…시원이노텍에 제3자배정",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 넥사다이내믹스[351320]는 운영자금 등 약 300억원을 조달하고자 제3자배정 유상증자를 결정했다고 9일 공시...",
+      "link": "https://www.yna.co.kr/view/AKR20260909019200008",
+      "publishedAt": "2026-09-08T22:44:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중동 확전 우려에 브렌트유 100달러 근접…IB들 전망 상향(종합)",
+      "summary": "(뉴욕=연합뉴스) 임수정 특파원 = 호르무즈 해협의 긴장에 더해 사우디아라비아 서쪽 홍해 연안의 에너지 시설까지 공격받으면서 국제 유가가 8일(...",
+      "link": "https://www.yna.co.kr/view/AKR20260909006151072",
+      "publishedAt": "2026-09-08T22:39:48.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "■ 靑 &quot;호르무즈 기여방안, 아직 검토중…국민 공감대 기반 구체화&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260909014300011",
+      "publishedAt": "2026-09-08T22:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "빵집 대신 '떡지순례'…트렌드 입은 떡에 MZ·외국인 줄섰다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609081769g",
+      "publishedAt": "2026-09-08T22:04:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "중동 충돌에 유가 100달러 육박…3대 지수 일제히 하락 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026090925166",
+      "publishedAt": "2026-09-08T22:02:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 돌려차기 피해자 \"내 돈 1800만원 썼다\"…또 '분통' [불신 청구서]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609080943H",
+      "publishedAt": "2026-09-08T22:02:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "고점서 내려온 HD현대중공업…국민연금, 지분 8.02%로 확대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609081826i",
+      "publishedAt": "2026-09-08T22:00:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "일본 15조엔·인도 150억달러…'환율 전쟁'이 글로벌 금융시장 흔든다 [김주완의 글로벌 머니 X파일]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609081439i",
+      "publishedAt": "2026-09-08T22:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“오를 줄 알고 신용으로 물 탔는데”…변수투성이 증시, 빚투만 급증했다",
+      "summary": "8월 빚투, 전월 대비 15% 급증 신용 잔고 4.3조 늘어 33.2조 중동 불안·美금리인상 변수 속 종시조정 땐 반대매매 우려 커져코스피가 7000선 탈환을 넘보는 가운데 ‘빚투..",
+      "link": "https://www.mk.co.kr/news/stock/12147775",
+      "publishedAt": "2026-09-08T21:57:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"급할 때 찾았는데\"…은행 이어 편의점 ATM까지 사라진다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609092486i",
+      "publishedAt": "2026-09-08T21:38:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“어릴 때 즐겨 마셨는데”…30살 요구르트의 화려한 귀환 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609080575i",
+      "publishedAt": "2026-09-08T21:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609081698g",
+      "publishedAt": "2026-09-08T21:00:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "브렌트유 100불 돌파 임박···코어위브 12% 급등[월가월부]",
+      "summary": "노동절이었던 월요일 휴장했던 뉴욕증시는 8일(현지시간) 일제히 하락 마감했다. 다우지수는 1.81%, S&P500 지수는 0.58%, 나스닥은 0.32% 각각 하락했다. 이란의 지..",
+      "link": "https://www.mk.co.kr/news/stock/12147748",
+      "publishedAt": "2026-09-08T20:47:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "내년 ‘820조 슈퍼예산’이 온다 … 우리 살림살이에 미칠 영향은",
+      "summary": "2027년 정부 예산안 물가부담 얼마나 늘릴까?정부가 사상 최초로 800조원을 넘는 ‘슈퍼 예산’을 내놨습니다. 2027년 총지출은 820조9000억원으로 올해보다 12.8% 늘어..",
+      "link": "https://www.mk.co.kr/news/economy/12147136",
+      "publishedAt": "2026-09-08T20:00:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3802,206 +3954,6 @@
       "summary": "금리까지 오르며 투자심리 위축 “8월초 반등해 1분기 수준 유지”국내 증시가 뚜렷한 방향성을 찾지 못한 채 박스권에 머물면서 지난달 주식시장 거래대금이 큰 폭으로 줄었다. 글로벌 ..",
       "link": "https://www.mk.co.kr/news/stock/12142296",
       "publishedAt": "2026-09-02T05:28:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"농심, 유럽 수출 확대 가속화 전망\"-KB",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090281646",
-      "publishedAt": "2026-09-01T22:36:18.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "채권시장 호재 없다…30년물 입찰 부진에 재정·물가 경계도",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 채권시장 투자심리가 좀처럼 살아나지 못하고 있다. 한국은행의 2연속 기준금리 인상 소화와 국고채 발행 물량 축...",
-      "link": "https://www.yna.co.kr/view/AKR20260901164600008",
-      "publishedAt": "2026-09-01T22:30:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "summary": "■ 글로벌 채권금리 동시다발 최고치…매도세 확산하며 연쇄쇼크",
-      "link": "https://www.yna.co.kr/view/AKR20260902015200011",
-      "publishedAt": "2026-09-01T22:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "중동 긴장 유가 급등에 채권 매도세까지…美 반도체주 하락 [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090281486",
-      "publishedAt": "2026-09-01T22:26:59.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "글로벌 21개 은행 컨소시엄, 내년 달러 스테이블코인 발행",
-      "summary": "(서울=연합뉴스) 정주호 기자 = 글로벌 대형은행들이 참여하는 달러 연동 스테이블코인 컨소시엄이 참여 기관을 두 배 이상으로 늘리고 내년 상반기...",
-      "link": "https://www.yna.co.kr/view/AKR20260902012300009",
-      "publishedAt": "2026-09-01T22:01:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'20년 글로벌 저축 과잉' 시대 끝…AI·방산 투자전쟁에 국채 금리도 뛴다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609016889i",
-      "publishedAt": "2026-09-01T22:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "납기 늘고 가격 오르고…MLCC 대호황 기대에 관련주 반등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609017022i",
-      "publishedAt": "2026-09-01T22:00:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"K뷰티는 왜 안 꺾이나\"…맥킨지 파트너가 짚은 '3가지 비밀'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608314819i",
-      "publishedAt": "2026-09-01T22:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"경찰 못 믿겠다\" 공포 확산…다이소 1000원짜리까지 '품절' [불신 청구서]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609015603H",
-      "publishedAt": "2026-09-01T21:43:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 국채금리 불붙자 진화 나선 베선트…이란 돈줄도 죈다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090280947",
-      "publishedAt": "2026-09-01T21:38:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"버는 돈보다 이자가 더 많다\"…'좀비기업' 문턱 선 제약사 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090165736",
-      "publishedAt": "2026-09-01T21:30:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"김용범 사퇴로 끝날 일 아냐\"…삼전닉스 레버리지 정조준 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090173606",
-      "publishedAt": "2026-09-01T21:30:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "홈플러스 '운명의 표결'…납품업체 동의가 변수",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090280867",
-      "publishedAt": "2026-09-01T21:22:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“갈아탈 정도로 금리 싼 곳 없다”…대출비교 서비스 실효성 논란",
-      "summary": "카카오페이 비교서비스 분석 수요 커진 대출비교 서비스 상반기 조회 1026만건 달해 실제 대환 실행은 3433건뿐 상품별 금리 차이 크지 않고 DSR·대출한도 등 문턱 높아금융소비..",
-      "link": "https://www.mk.co.kr/news/economy/12141893",
-      "publishedAt": "2026-09-01T21:01:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "고용허가제 외국인 28.7만명 '역대 최대'…80%는 제조업",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 외국인 고용허가제(E-9)로 국내에 머무는 외국 인력이 올해 28만7천424명으로 역대 최대 규모인 것으로 나...",
-      "link": "https://www.yna.co.kr/view/AKR20260901154800530",
-      "publishedAt": "2026-09-01T21:01:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "노인기초연금 눈치 세게 본 정부…저소득층에 월 3만원씩 더준다",
-      "summary": "정부가 여론 반발을 의식해 소득 하위 70% 노인에게 기초연금을 지급하는 ‘70% 룰’을 내년에도 유지하기로 했다. 또 ‘하후상박’을 강화하기 위해 소득 하위 30% 저소득층 노인..",
-      "link": "https://www.mk.co.kr/news/economy/12141892",
-      "publishedAt": "2026-09-01T21:00:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"끊으라면서 집 짓는 돈을 담뱃세로\"…1.5조 세금 전환 논란 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202608277752i",
-      "publishedAt": "2026-09-01T21:00:26.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“육아휴직자 월급주다가 곳간 텅텅”…고갈위기 고용보험 손본다",
-      "summary": "30년 만에 고용보험 대수술 매년 지출 불어나는 실업급여 9년 뒤엔 적립금 29조 부족 300만원 급여땐 3천원 더내고 구직급여 월 지급액도 줄어 육아휴직·출산휴가 계정 분리정부가..",
-      "link": "https://www.mk.co.kr/news/economy/12141891",
-      "publishedAt": "2026-09-01T21:00:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"ETF는 이제 지쳤다\"…두 달 만에 5.5조 몰린 '뜻밖의 상품'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090174231",
-      "publishedAt": "2026-09-01T21:00:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[OK제보] \"수개월 기다렸는데\"…경기 청년 응시료 지원 접수 첫날 '먹통'",
-      "summary": "(서울=연합뉴스) 정풍기 인턴기자 = 경기도가 미취업 청년의 자격시험 응시료 부담을 덜어주고자 추진 중인 지원사업이 하반기 접수 첫날 시스템 접...",
-      "link": "https://www.yna.co.kr/view/AKR20260901176900505",
-      "publishedAt": "2026-09-01T21:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국내은행 부실채권 18.9조, 8년만에 최대…기업여신 1조↑",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 올해 6월 말 기업여신 부실채권 증가 영향으로 국내은행의 부실채권비율이 상승했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260901191500002",
-      "publishedAt": "2026-09-01T21:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "WTI 90불 돌파, 국채금리 금융위기이후 최고[월가월부]",
-      "summary": "1일(현지시간) 뉴욕증시 3대 지수는 일제히 하락 마감했다. 이란이 호르무즈를 통과하는 유조선 2척에 대한 공격을 했고, 미국이 다시 이란에 대한 공습에 나서면서 서부텍사스산원유(..",
-      "link": "https://www.mk.co.kr/news/stock/12141889",
-      "publishedAt": "2026-09-01T20:57:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“비거주 종부세 9억 공제 철회됐다지만”…그래도 내 집 안살면 ‘속 터지는’ 이유",
-      "summary": "확정 정부안 ‘비거주 1주택자 세금 톺아보기이번 2026년 세제개편안을 보면서 가장 먼저 확인해야 할 사람 중 하나가 집은 한 채뿐이지만 그 집에 실제로 거주하지 않는 사람입니다...",
-      "link": "https://www.mk.co.kr/news/economy/12141572",
-      "publishedAt": "2026-09-01T20:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“국장은 배신하지 않는다” … 40년 투자고수가 내린 결론",
-      "summary": "이원기 전 KB자산운용 대표 인터뷰 (상)“주말과 연휴가 싫어요. 주식시장이 닫힌 날은 신문이 없는 날 아침 같아요.” 이원기 전 KB자산운용 대표는 쉰둘 무렵 회사를 그만뒀다. ..",
-      "link": "https://www.mk.co.kr/news/stock/12141270",
-      "publishedAt": "2026-09-01T19:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "AI 때문에 망한다 했는데 … 주가 미친듯이 오른 4대천왕",
-      "summary": "죽었다가 부활하는 美소프트웨어 4대장“인공지능(AI)이 미국 소프트웨어 회사들을 죽이는 게 아니라 살리고 있습니다.” 월스트리트와 여의도 증권가에서 이른바 ‘AI의 역설’​이 나타..",
-      "link": "https://www.mk.co.kr/news/stock/12141539",
-      "publishedAt": "2026-09-01T19:00:00.000Z"
     }
   ]
 }
