@@ -1,8 +1,120 @@
 {
-  "updatedAt": "2026-09-11T13:57:34.630Z",
+  "updatedAt": "2026-09-11T22:54:11.704Z",
   "historyDays": 7,
-  "count": 504,
+  "count": 503,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대",
+      "summary": "(서울=연합뉴스) 김민지 기자 = 국제 유가가 상승세를 이어간 가운데 전국 주유소 기름값은 정부의 최고가격제의 영향으로 전주 대비 소폭 내리며 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260911118000003",
+      "publishedAt": "2026-09-11T22:05:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[르포] 추석연휴 10여일 앞둔 대구 서문시장…상인들 \"예전 대목만 못해\"",
+      "summary": "(대구=연합뉴스) 박세진 기자 = 추석 연휴를 10여일 앞두고 대구지역 전통시장에도 조금씩 명절 분위기가 무르익고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20260911084500053",
+      "publishedAt": "2026-09-11T22:01:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
+      "summary": "▲ LG생활건강의 구강 관리 브랜드 유시몰은 1천450ppm의 고불소 처방에 영국의 차문화에서 영감을 얻은 향을 더한 &apos;오리지널 치약 티 에디션...",
+      "link": "https://www.yna.co.kr/view/AKR20260910107100030",
+      "publishedAt": "2026-09-11T22:00:11.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[신상잇슈] 해태제과 '와샤오롱'·서울우유 '비요뜨 초코링 당저감'",
+      "summary": "▲ 해태제과 고향만두는 와사비를 담아 빚은 딤섬 &apos;와샤오롱&apos;을 출시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260911068100030",
+      "publishedAt": "2026-09-11T22:00:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“월급 쪼개 넣었더니 세금을 또?”…국민연금 실수령액 매달 깎아먹는 ‘이것’",
+      "summary": "국민연금 과세 원칙 핵심은 ‘소득공제 여부’ 임의가입 등 국세청 확인서로 ‘이중 과세’ 방지 20~30년 받는 연금…적은 세금 차이도 눈덩이퇴직 후 통장에 들어오는 국민연금, 과연..",
+      "link": "https://www.mk.co.kr/news/economy/12150966",
+      "publishedAt": "2026-09-11T21:51:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[AI돋보기] AI도 '인간 인증' 통과…이제 사람은 어떻게 증명할까",
+      "summary": "(서울=연합뉴스) 심재훈 기자 = &quot;로봇이 아닙니다.&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20260910129700017",
+      "publishedAt": "2026-09-11T21:33:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부동산캘린더] 내주 천안아이파크시티 등 전국 1만1천521가구 분양",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 1만1천500여가구가 분양에 나선다.",
+      "link": "https://www.yna.co.kr/view/AKR20260911130200003",
+      "publishedAt": "2026-09-11T21:05:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"외동딸처럼 키웠다\"…2030도 지갑 연 '명품 복숭아' 정체 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609093982i",
+      "publishedAt": "2026-09-11T21:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'나이키 제국'은 왜 무너졌나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091196731",
+      "publishedAt": "2026-09-11T21:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609129938i",
+      "publishedAt": "2026-09-11T18:30:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609129941i",
+      "publishedAt": "2026-09-11T17:47:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609119935i",
+      "publishedAt": "2026-09-11T15:00:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "중동發 '물가 쇼크'…美 기준금리 인상 가능성 커졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091199201",
+      "publishedAt": "2026-09-11T14:04:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "뉴욕증시, 유가 하락에 상승 출발…CPI 발표 후 금리인상 가능성↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091199217",
+      "publishedAt": "2026-09-11T14:02:52.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -3914,126 +4026,6 @@
       "summary": "(서울=연합뉴스) 정준영 김준태 기자 = &quot;정동길에 가면 마치 100년 전쯤으로 돌아간 듯한 풍경이 펼쳐집니다. 사람들이 좋아하는 공간이죠. 지...",
       "link": "https://www.yna.co.kr/view/AKR20260904092200004",
       "publishedAt": "2026-09-05T00:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
-      "summary": "(인천=연합뉴스) 최은지 기자 = 재개발 구역 철거권을 주겠다고 속여 개발 업체로부터 5억원을 가로챈 일당이 항소심에서도 징역형의 집행유예를 선...",
-      "link": "https://www.yna.co.kr/view/AKR20260904057100065",
-      "publishedAt": "2026-09-04T22:17:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
-      "summary": "(대구=연합뉴스) 김용민 기자 = 대구본부세관은 추석 명절을 앞두고 수출입 통관 특별 지원에 나선다고 5일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260904093900053",
-      "publishedAt": "2026-09-04T22:11:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 국내 컨테이너선으로는 처음으로 북극항로 시범 운항에 나선 팬스타 아크로호의 귀환이 예정보다 늦춰질 전망이다.",
-      "link": "https://www.yna.co.kr/view/AKR20260904107200051",
-      "publishedAt": "2026-09-04T22:10:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "고용 호조에 9월 美금리 인상 가능성 58%…3대지수 하락 [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090555447",
-      "publishedAt": "2026-09-04T22:03:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
-      "summary": "(서울=연합뉴스) 임성호 기자 = 전국 주유소 기름값이 지난주 대비 소폭 내리며 16주 연속 하락세를 이어갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260904119500003",
-      "publishedAt": "2026-09-04T22:01:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[금주핫템] 후아유 '슬래커 인 폴 후드집업'·자주 '클라우드 파자마'",
-      "summary": "▲ 이랜드월드가 운영하는 후아유는 올해 가을·겨울철을 겨냥해 편안함을 강조한 아이템으로 구성한 &apos;슬래커 인 폴&apos; 컬렉션을 공개했다. 제품은 &apos;시...",
-      "link": "https://www.yna.co.kr/view/AKR20260903167500030",
-      "publishedAt": "2026-09-04T22:00:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[신상잇슈] 뚜레쥬르 '글로우 오브 시티'·면사랑 중식·양식 냉동소스",
-      "summary": "▲ CJ푸드빌이 운영하는 뚜레쥬르는 서울의 낮과 밤의 분위기를 케이크에 담은 신제품 &apos;글로우 오브 시티&apos;를 선보였다.",
-      "link": "https://www.yna.co.kr/view/AKR20260904058700030",
-      "publishedAt": "2026-09-04T22:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"60억짜리 집 살아도 현금 없는데…\" 복잡해진 1주택자 셈법 [고정삼의 절세GPT]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090446956",
-      "publishedAt": "2026-09-04T22:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609033212i",
-      "publishedAt": "2026-09-04T22:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“500만원 썼더니 이자만 95만원”…현금서비스 쓴 10명 중 8명 ‘금리 20%’",
-      "summary": "리볼빙도 이용자 절반 최고금리 근접급전이 필요한 금융소비자들이 주로 이용하는 현금서비스 금리가 법정 최고금리인 연 20%에 바짝 다가선 것으로 나타났다. 주요 카드사 대부분에서 현..",
-      "link": "https://www.mk.co.kr/news/economy/12144987",
-      "publishedAt": "2026-09-04T21:11:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"美서 쇳물 뽑는다\"…현대제철, HPLS 전기로 제철소 착공",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609055485i",
-      "publishedAt": "2026-09-04T21:00:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“먹던 어묵을 입고 닦는다”… 2030 홀린 70년 노포의 변신 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609045036i",
-      "publishedAt": "2026-09-04T21:00:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
-      "summary": "美금리동결 기대감 힘입어 가장자산 관련주 일제히 ↑ 비트코인 3개월 만에 최고가 스트레이티 주가 18% 급등 로빈후드·코인베이스도 강세비트코인이 3개월여 만에 최고 수준으로 올라..",
-      "link": "https://www.mk.co.kr/news/stock/12144978",
-      "publishedAt": "2026-09-04T20:59:24.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“갑자기 서울을 떠나라니요”…금융공기관 ‘지방이전 반대’ 3만명 거리로",
-      "summary": "광화문서 총파업 집회 “금융경쟁력 악화 불보듯” 2030 젊은 직원 대거 참여 금감원, 靑에 탄원서 제출전국금융산업노동조합(금융노조)이 국책은행 등 금융 공공기관의 지방 이전 추진..",
-      "link": "https://www.mk.co.kr/news/economy/12144977",
-      "publishedAt": "2026-09-04T20:59:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609055462i",
-      "publishedAt": "2026-09-04T16:04:40.000Z"
     }
   ]
 }
