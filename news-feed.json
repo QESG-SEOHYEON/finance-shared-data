@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-09-14T16:04:59.999Z",
+  "updatedAt": "2026-09-14T23:37:30.837Z",
   "historyDays": 7,
-  "count": 505,
+  "count": 514,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "DB증권, 임플란트 업체 디오 목표가↓…\"중국 구매정책 공백기\"",
+      "summary": "(서울=연합뉴스) 김유아 기자 = DB증권은 15일 임플란트 전문업체인 코스닥 상장사 디오[039840]가 중국에서 대량 구매 정책 공백기를 맞...",
+      "link": "https://www.yna.co.kr/view/AKR20260915026800008",
+      "publishedAt": "2026-09-14T23:31:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘퇴근 후 8시까지 주식거래’, 첫날부터 ‘어질어질’…29%급등 뒤 22% 급락",
+      "summary": "한국거래소(KRX)가 14일 정규장 종료 후 오후 4시부터 8시까지 주식을 실시간으로 매매할 수 있는 ‘애프터마켓’(After Market)에서 1조 8000억원이 넘는 거래가 이..",
+      "link": "https://www.mk.co.kr/news/stock/12152750",
+      "publishedAt": "2026-09-14T23:30:15.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "키움증권 \"LGD, 환율 등 압박↑…3분기 실적 전망치 하회 전망\"",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 키움증권은 15일 LG디스플레이[034220]의 3분기 실적이 시장 전망치를 하회할 것으로 예상된다며 목표주가...",
+      "link": "https://www.yna.co.kr/view/AKR20260915024300008",
+      "publishedAt": "2026-09-14T23:28:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "키움증권, 현대위아 목표가↓…\"방산사업 매각 우려\"",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 키움증권은 15일 현대위아[011210]에 대해 이익 기여도가 높은 방산 사업 매각에 대한 우려가 크다며 목표...",
+      "link": "https://www.yna.co.kr/view/AKR20260915026000008",
+      "publishedAt": "2026-09-14T23:26:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "IBK증권, 한화오션 기업분석 개시…\"원유운반선 수주확대 예상\"",
+      "summary": "(서울=연합뉴스) 황철환 기자 = IBK투자증권은 한화오션[042660]에 대해 투자의견 &apos;매수&apos;, 목표주가 12만원을 제시하며 커버리지(기업분...",
+      "link": "https://www.yna.co.kr/view/AKR20260915025100008",
+      "publishedAt": "2026-09-14T23:20:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "식약처, 우즈벡과 의료제품 규제협력…수출길 넓힌다",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 식품의약품안전처는 우즈베키스탄 보건부 의료제품안전센터와 &apos;의료제품 분야 규제 협력에 관한 양해각서(MOU)&apos;를...",
+      "link": "https://www.yna.co.kr/view/AKR20260915023400017",
+      "publishedAt": "2026-09-14T23:17:41.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "중화역세권을 '생활권 거점'으로…지구단위계획 재정비",
+      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 중랑구(구청장 류경기)는 중화역세권의 생활권 중심 기능을 강화하고 지역 여건 변화에 대응하고자 &apos;중화생활...",
+      "link": "https://www.yna.co.kr/view/AKR20260915021100004",
+      "publishedAt": "2026-09-14T23:14:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금리 5%는 호재? 저점에서 반등한 증시…\"신중하라, 기다려라\" [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609154524i",
+      "publishedAt": "2026-09-14T23:11:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[밤 사이 해외 뉴스] 미국 빚 '40조 달러'…재무장관이 제시한 '기적의 해법'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609154522i",
+      "publishedAt": "2026-09-14T23:03:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"200만원 패딩보다 낫다\"…한여름에도 대박 난 '사모님 패션'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091438651",
+      "publishedAt": "2026-09-14T23:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“HD현대중공업, LPG운반선이 끌고, 힘센엔진이 밀고” 목표가 ↑",
+      "summary": "IBK투자증권은 15일 HD현대중공업에 대해 “수주가 다 감당이 안 될 지경”이라며 목표주가를 기존 81만 6000원에서 84만원으로 상향 조정했다. IBK투자증권은 매수를 추천하..",
+      "link": "https://www.mk.co.kr/news/stock/12152731",
+      "publishedAt": "2026-09-14T22:37:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"SK이노베이션, 영업익 10조원 대비 저렴한 주가…목표가↑\"-유안타",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091544576",
+      "publishedAt": "2026-09-14T22:25:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "역대급 실적에도 반토막 난 엔터株…\"성장 서사 끝났다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609143709i",
+      "publishedAt": "2026-09-14T22:23:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피 급락에도 은행주는 상승한 네 가지 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144252i",
+      "publishedAt": "2026-09-14T22:22:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "거래소 애프터마켓 개설 첫날 1.8조 거래돼…개인 비중 93%",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091544426",
+      "publishedAt": "2026-09-14T22:10:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금리·유가 상승에 'AI 속도조절론'까지…SK하닉 ADR 7.6%↓ [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091544386",
+      "publishedAt": "2026-09-14T22:07:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"동학농민혁명 유족에 50만원\"…빚더미에도 돈 푸는 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091439081",
+      "publishedAt": "2026-09-14T22:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "브렌트유 105달러대…사우디 송유관 폐쇄에 국제유가 상승",
+      "summary": "사우디아라비아의 핵심 송유관이 폐쇄되면서 14일(현지시간) 국제유가가 상승했다. 이날 런던 ICE 선물거래소에서 11월 인도분 브렌트유 선물은 전장보다 1.02% 오른 배럴당 10..",
+      "link": "https://www.mk.co.kr/news/economy/12152718",
+      "publishedAt": "2026-09-14T21:35:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "그림·한우 넘어 채권·펀드로…토큰증권, 내년 2월부터 판 커진다 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091436246",
+      "publishedAt": "2026-09-14T21:30:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "트럼프 “AI 속도조절은 사기극” 맹공에도…반도체주 와르르 [월가월부]",
+      "summary": "지난 주말 다리오 아모데이 엔트로픽 창립자 겸 최고경영자(CEO)가 촉발한 ‘인공지능(AI) 개발 속도조절론’에 대해 도널드 트럼프 대통령이 공개 발언과 소셜미디어 글을 통해 맹공..",
+      "link": "https://www.mk.co.kr/news/stock/12152706",
+      "publishedAt": "2026-09-14T21:06:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"자율주행 최강자\"라더니…뒤통수 맞은 테슬라 차주들 [이슈+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609142445g",
+      "publishedAt": "2026-09-14T21:00:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"윤아 운동화 주세요\"…'효도템' 불티나더니 2년 만에 '대박' [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609143529i",
+      "publishedAt": "2026-09-14T21:00:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "나스닥 데뷔하는 앤트로픽…국민연금 참여하지만 국민은 못삽니다",
+      "summary": "2조달러 대어, 이르면 10월 상장 국민연금도 공모참여…펀드 전무 한국개미, 상장이후 거래가능할듯인공지능(AI) 모델 ‘클로드’ 개발사인 앤트로픽이 이르면 오는 10월 나스닥 상장..",
+      "link": "https://www.mk.co.kr/news/stock/12152699",
+      "publishedAt": "2026-09-14T20:52:36.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“여윳돈 9억뿐? 죄송한데요”…문턱높인 PB센터, 그래도 부자 넘쳐난다",
+      "summary": "4대은행 PB고객 13만명 육박 가입 기준 계속 상향조정해도 은행 관리고객 4년새 25%↑ KB·신한, 초고액 따로 분류 VVIP 기준 100억 달하기도은행권의 고액 자산가 유치 ..",
+      "link": "https://www.mk.co.kr/news/economy/12152696",
+      "publishedAt": "2026-09-14T20:51:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“집을 못 사게 해놨잖아요”…2030 무주택자 급증하는데 주거비는 폭등",
+      "summary": "39세 이하 유주택 비중 29%뿐 전월세·임대 거주비중은 늘어 이자는 7년만에 101.5% 급증 평균 주거면적마저 2.7%감소집값 상승과 고금리 여파로 청년층 가운데 전월세와 공공..",
+      "link": "https://www.mk.co.kr/news/economy/12152695",
+      "publishedAt": "2026-09-14T20:50:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“집은 있는데 쓸 돈이 없다, 그렇다면?” … 부동산 문제 뜻밖의 해법 ‘연금’",
+      "summary": "최근 정부가 부동산 문제를 놓고 대규모 국민 토론회를 열었다. 대통령이 직접 주재한 ‘부동산정책 국민 대토론회’에는 정부 관계자와 학계 전문가뿐 아니라 공인중개사, 금융기관 종사자..",
+      "link": "https://www.mk.co.kr/news/economy/12152237",
+      "publishedAt": "2026-09-14T19:45:00.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3906,142 +4114,6 @@
       "summary": "카카오뱅크는 8일 신차와 중고차 구매에 필요한 대출·할부 조건과 카드 캐시백 등을 비교할 수 있는 자동차 금융 서비스를 선보인다고 밝혔다. 중고차를 살 때는 카카오뱅크의 중고차 구..",
       "link": "https://www.mk.co.kr/news/economy/12147020",
       "publishedAt": "2026-09-08T05:20:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 8일 코스피는 오픈AI발 반도체 훈풍과 차익 실현 물량 출회 등의 영향을 받으며 업종별 차별화 장세를 보일 것...",
-      "link": "https://www.yna.co.kr/view/AKR20260908016300008",
-      "publishedAt": "2026-09-07T23:04:32.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260908014500002",
-      "publishedAt": "2026-09-07T23:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "공사채 시장 최대 발행주체 부상한 LH…\"수급 좌우 전망\"",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 정부의 공공기관 중장기 재무관리계획이 발표된 가운데 한국토지주택공사(LH)가 향후 공사채 시장의 수급을 좌우할...",
-      "link": "https://www.yna.co.kr/view/AKR20260907121600008",
-      "publishedAt": "2026-09-07T23:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'2026년 젊은 건축가상'에 나종원·김민호·신성진·손경민",
-      "summary": "(서울=연합뉴스) 김기훈 기자 = 문화체육관광부는 &apos;2026년 젊은 건축가상&apos; 수상자로 나종원 오브 아키텍처 공동대표, 김민호 코드아키텍츠건축사...",
-      "link": "https://www.yna.co.kr/view/AKR20260908011200005",
-      "publishedAt": "2026-09-07T23:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "부산 전통시장서 4만원 이상 구매하면 온누리상품권 1만원 환급",
-      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 부산시상인연합회 주최로 오는 11일부터 이틀간 99개 전통시장에서 온누리상품권 환급 지원사업을 추진한...",
-      "link": "https://www.yna.co.kr/view/AKR20260908015300051",
-      "publishedAt": "2026-09-07T22:55:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“농심, 3분기도 해외 수익성 개선 이어질 전망”",
-      "summary": "하나증권은 8일 농심에 대해 해외 매출 레벨 업(Level up)을 기대한다며 목표주가를 기존 54만원으로 유지했다. 투자의견은 ‘매수’를 유지했다. 하나증권은 3분기도 해외 수익..",
-      "link": "https://www.mk.co.kr/news/stock/12146608",
-      "publishedAt": "2026-09-07T22:34:51.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "summary": "■ 李대통령, 김지용 중수청장 후보 지명키로…&quot;중수청 안착 적임&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260908010500011",
-      "publishedAt": "2026-09-07T22:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "대출 21% 늘 때 연체 120% 급증…무너지는 '영끌' 집주인들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609089917H",
-      "publishedAt": "2026-09-07T22:18:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "한 장에 4만원 '턱턱'…'K중고시장'에 외국인 500만명 몰리 이유 [장서우의 하입:hype]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609067105i",
-      "publishedAt": "2026-09-07T22:00:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "집값 폭등이 결혼시켰다?…2030 '자산 동맹' 맺는 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090793661",
-      "publishedAt": "2026-09-07T22:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한 달 새 최대 39% 뛰었다…보험주, '8주 룰'에 더 달릴까 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090791456",
-      "publishedAt": "2026-09-07T21:30:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'오디세이' 보려고 웃돈까지…주가 24% 폭등한 '이 종목' [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090790926",
-      "publishedAt": "2026-09-07T21:30:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“이번달도 월급이 통장을 스치운다”…금리 1%P 오르면 연체율 무려",
-      "summary": "한은 ‘가계부채 리스크 평가’ DSR 46% 넘는 가구 11% 상환 부담커져 소비도 위축가계빚 부담이 소득의 절반에 가까워지면 소비가 줄어들기 시작한다는 연구 결과가 나왔다. 많은..",
-      "link": "https://www.mk.co.kr/news/economy/12146587",
-      "publishedAt": "2026-09-07T21:09:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"발망치 소리 들릴라\"…다이소서 불티나게 팔린 '이 제품' [권 기자의 장바구니]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609077936i",
-      "publishedAt": "2026-09-07T21:00:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"월급처럼 따박따박 꽂힌다\"…일주일 새 1200억 몰린 곳",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090794361",
-      "publishedAt": "2026-09-07T21:00:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "뷔페 대박나더니…\"인당 20만원\" 특급호텔 맞먹는 '랍스터 뷔페' 등장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609079071g",
-      "publishedAt": "2026-09-07T21:00:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "AI가 읽는 '탐욕과 공포'의 온도 [여기는 논설실]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609079699i",
-      "publishedAt": "2026-09-07T21:00:08.000Z"
     }
   ]
 }
