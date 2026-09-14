@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-09-14T08:21:49.143Z",
+  "updatedAt": "2026-09-14T16:04:59.999Z",
   "historyDays": 7,
   "count": 505,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 미국 국채 매도세가 이어지면서 10년 만기 국채 금리가 &apos;심리적 저항선&apos;인 5%를 넘어섰다...",
+      "link": "https://www.yna.co.kr/view/AKR20260914175352072",
+      "publishedAt": "2026-09-14T15:46:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "MS,AI 개발지침 발표\"사람이 AI보다 중요하다\"대원칙",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609154304i",
+      "publishedAt": "2026-09-14T15:46:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "월가에 몰아치는 3가지 폭풍[박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144293i",
+      "publishedAt": "2026-09-14T15:05:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "트럼프,\"AI속도조절 불필요.똑똑한 대통령이 안전장치\"주장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144296i",
+      "publishedAt": "2026-09-14T15:01:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 정부의 우주위험대비 기본계획 수립 주기가 10년에서 5년으로 줄어든다.",
+      "link": "https://www.yna.co.kr/view/AKR20260914104500017",
+      "publishedAt": "2026-09-14T15:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 미국 국채 매도세가 심화하면서 10년 만기 국채 금리가 심리적 저항선인 5.00%를 넘어섰...",
+      "link": "https://www.yna.co.kr/view/AKR20260914175351072",
+      "publishedAt": "2026-09-14T14:40:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보]10년물 미국채 수익률 5% 돌파…2023년10월이후 처음",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144289i",
+      "publishedAt": "2026-09-14T14:27:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 증시, AI 감속 우려에 유가 급등…반도체주 일제히 하락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144281i",
+      "publishedAt": "2026-09-14T14:18:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "사우디, 핵심송유관 폐쇄…브렌트유 108달러 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144265i",
+      "publishedAt": "2026-09-14T13:36:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "KRX vs NXT, 첫날 성적표 나왔다…애프터마켓 1.8조씩 '박빙'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091442517",
+      "publishedAt": "2026-09-14T13:13:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼전닉스 믿었는데\" 개미들 허탈…석 달 만에 무슨 일이? [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091437166",
+      "publishedAt": "2026-09-14T13:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "KRX 애프터마켓 첫선…개장 첫날 7천224만주·1조8천억원 거래",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 퇴근길에 자유롭게 주식을 거래할 수 있는 한국거래소(KRX) 애프터마켓이 14일 개장 첫날 거래를 성공적으로 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260914110500008",
+      "publishedAt": "2026-09-14T12:04:46.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "프리마켓서 대형 증권사 잇단 전산장애…\"SOR 시스템 오류\"(종합2보)",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 14일 아침 대체거래소 넥스트레이드(NXT)가 운영하는 프리마켓(8시∼8시 50분)과 관련, 국내 대형증권사들...",
+      "link": "https://www.yna.co.kr/view/AKR20260914027352008",
+      "publishedAt": "2026-09-14T12:00:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“위헌이라 막혔지만 끝까지 간다”…마크롱, 15세 미만 SNS 금지 재도전",
+      "summary": "프랑스 정부가 위헌 판단으로 제동이 걸렸던 ‘15세 미만 청소년의 사회관계망서비스(SNS) 이용 금지’를 다시 추진한다. 에마뉘엘 마크롱 프랑스 대통령은 “끝까지 가겠다”며 청소년..",
+      "link": "https://www.mk.co.kr/news/economy/12152505",
+      "publishedAt": "2026-09-14T10:30:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "넥스트증권, MTS 공식 출시 앞두고 오픈API로 거래서비스 검증",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 넥스트증권이 모바일트레이딩서비스(MTS)를 공식 출시하기 전 전문투자자를 대상으로 오픈API를 제공해 서비스 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260914162000008",
+      "publishedAt": "2026-09-14T09:29:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“美 금리인상 충격을 노리라고?”…9월 조정이 연말 랠리 잡을 기회라는데",
+      "summary": "현대차증권 “금리인상 속도가 중요” 금리 불확실성 해소 땐 증시 반등 가능현대차증권은 미국의 물가 상승 압력이 다시 높아지면서 연방준비제도(Fed·연준)의 9월 기준금리 인상이 기..",
+      "link": "https://www.mk.co.kr/news/stock/12152474",
+      "publishedAt": "2026-09-14T09:24:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "KRX 애프터마켓 첫날 일부 증권사 앱 '먹통'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091438961",
+      "publishedAt": "2026-09-14T09:10:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "영&리치 “부동산보다 주식”",
+      "summary": "3040세대 자산가들은 부동산보다 주식을 뚜렷하게 선호하는 것으로 나타났다. '부동산 불패 신화'에 익숙했던 선배 세대와 달리 금융자산 투자를 통해 부를 키워가는 젊은 부자들이 늘..",
+      "link": "https://www.mk.co.kr/news/stock/12152467",
+      "publishedAt": "2026-09-14T09:09:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "20代 평균 주담대 2억 첫 돌파 … 증가율은 30대 '최고'",
+      "summary": "2030세대의 주택담보대출 부담이 최근 4년 동안 전체 연령대 가운데 가장 빠르게 늘어난 것으로 나타났다. 주거 불안감이 커지면서 내 집 마련을 위해 큰 빚을 내는 20·30대가 ..",
+      "link": "https://www.mk.co.kr/news/economy/12152465",
+      "publishedAt": "2026-09-14T09:09:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "무신사, 장외 시장서 몸값 1.1조 '껑충'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091438941",
+      "publishedAt": "2026-09-14T09:09:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "개미는 美·기관은 韓 매수…ETF 수익률 희비",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091438951",
+      "publishedAt": "2026-09-14T09:08:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "김영환 \"박스피 장세…반도체주 비중 50% 지켜야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091438931",
+      "publishedAt": "2026-09-14T09:06:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“언제부턴지 주식창 안 켜는게 편하네요”...외국인, 하루 3.2조원 왜 던졌나",
+      "summary": "코스피 3.2% 급락 6684 현대차, 파업·수요위축 우려 주가 6월 고점 대비 반토막 나 삼닉에 전기료 선납 거절 악재 한전, 자금난 장기화 우려 하락중동 리스크에 따른 유가 ..",
+      "link": "https://www.mk.co.kr/news/stock/12152458",
+      "publishedAt": "2026-09-14T09:05:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“주주활동 점수 매겨 돈 맡기겠다” … 국민연금, 위탁운용사 평가에 메스",
+      "summary": "국민연금기금 수탁자 책임활동 설명회 수탁자 책임활동 ‘질적 평가’ 본격 도입 평가 결과 따라 자금 배정·회수 연계 스튜어드십 코드 2.0 내년 상반기 윤곽 이연임 위원장 “제재 ..",
+      "link": "https://www.mk.co.kr/news/economy/12152449",
+      "publishedAt": "2026-09-14T09:02:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "에너지위기에 '도로 석탄'1년새 발전량 15% 급증",
+      "summary": "정부가 2040년까지 석탄발전을 퇴출하겠다는 로드맵을 추진하고 있는 가운데 올해 실제 전력 시장에서는 석탄 의존도가 오히려 높아진 것으로 나타났다. 중동 전쟁으로 액화천연가스(LN..",
+      "link": "https://www.mk.co.kr/news/economy/12152446",
+      "publishedAt": "2026-09-14T09:01:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "수원역 ~ 청량리까지 30분대 … GTX-C 15일 착공",
+      "summary": "수도권 북부~서울 도심~경기 남부를 달리는 수도권광역급행철도(GTX)-C노선이 15일 착공한다고 국토교통부가 14일 밝혔다. GTX-C는 경기 양주 덕정에서 출발해 청량리와 삼성,..",
+      "link": "https://www.mk.co.kr/news/economy/12152445",
+      "publishedAt": "2026-09-14T09:01:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "내 집 더 멀어진 2030 … 무주택 64%→71%",
+      "summary": "집값 상승과 고금리 여파로 청년층 가운데 전월세와 공공임대로 거주하는 비중이 늘어나고 있는 것으로 나타났다. 또한 이들이 거주하는 면적은 줄어드는 추세인 반면 주거비와 이자 지출은..",
+      "link": "https://www.mk.co.kr/news/economy/12152444",
+      "publishedAt": "2026-09-14T09:01:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "투자에도 AI 활용하는 젊은부자 … \"그래도 결정은 사람이\" 76%",
+      "summary": "인공지능(AI)이 놀라운 속도로 발전하면서 투자 관련 챗봇 등 운영도 활발해지고 있지만, AI 사용에 익숙한 젊은 30·40대 부자들조차 AI가 최종 의사결정자 역할을 하기 어렵다..",
+      "link": "https://www.mk.co.kr/news/stock/12152401",
+      "publishedAt": "2026-09-14T08:55:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "3040부자 절반 '자수성가형' … \"주식 열공해 월급 수십배 불려\"",
+      "summary": "30대 후반에 총자산 40억원을 달성한 정 모씨는 국내 주식에 집중 투자해 '영&리치' 반열에 올랐다. 그는 가족과 함께 거주할 서울 지역 내 아파트 한 채만 두고 나머지 자산은 ..",
+      "link": "https://www.mk.co.kr/news/stock/12152400",
+      "publishedAt": "2026-09-14T08:55:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼성전자 4%·하이닉스 6% 급락 … 아시아 반도체 관련주에 '직격탄'",
+      "summary": "글로벌 빅테크들의 인공지능(AI) 개발 속도 조절론에 14일 아시아 주요 증시의 AI 밸류체인 관련주들이 된서리를 맞았다. AI 시설투자(CAPEX) 축소 우려에 반도체와 기판, ..",
+      "link": "https://www.mk.co.kr/news/stock/12152397",
+      "publishedAt": "2026-09-14T08:55:08.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3802,246 +4042,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202609079699i",
       "publishedAt": "2026-09-07T21:00:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609078679i",
-      "publishedAt": "2026-09-07T13:30:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "우리금융 외국인 지분율, 사상 첫 50% 돌파…꾸준히 사들이는 이유는",
-      "summary": "2021년 민영화 이후 첫 과반 임종룡 회장 해외 곳곳서 IR 외인들 “경영 자율성 확보돼”우리금융지주의 외국인 지분율이 최근 사상 처음으로 50%를 넘어섰다. 예금보험공사가 최대..",
-      "link": "https://www.mk.co.kr/news/economy/12146570",
-      "publishedAt": "2026-09-07T13:19:28.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“1억달러 들던 DNA 분석, 이젠 200달러”…시장 80% 장악한 DNA 대장주",
-      "summary": "DNA 염기서열 읽는 ‘일루미나’ 주가 66% 급등, S&P500 복귀데옥시리보핵산(DNA) 연구의 ‘곡괭이 기업’인 일루미나가 2024년 S&P500에서 편출됐던 아픔을 뒤로하고..",
-      "link": "https://www.mk.co.kr/news/stock/12146568",
-      "publishedAt": "2026-09-07T13:08:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "메모리 초호황인데…\"삼전 주가 상승 막는 MX·노조 리스크\" [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090791006",
-      "publishedAt": "2026-09-07T13:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "청약 흥행 참패했는데 상장 후 주가 대박…상한가 친 새내기주는",
-      "summary": "이틀만에 공모가 3배 올라 공모주 잔혹사 끊어내 주목새내기주 스카이랩스가 모처럼 상장 당일 ‘따블’(공모가 대비 2배)에 성공한 이후 다음 거래일에도 상한가를 기록했다. 앞서 기대..",
-      "link": "https://www.mk.co.kr/news/stock/12146562",
-      "publishedAt": "2026-09-07T12:52:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "美 '엔저 시정 압박' 통했나…6개월만에 달러당 154엔대로 하락(종합)",
-      "summary": "(도쿄=연합뉴스) 조성미 이도연 특파원 = 달러당 164엔대까지 치솟았던 엔/달러 환율이 안정세를 되찾으면서 150엔대 초반까지 떨어질 수 있다...",
-      "link": "https://www.yna.co.kr/view/AKR20260907072651073",
-      "publishedAt": "2026-09-07T12:17:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"금리 연 10% 준다\"…30만명 '우르르' 몰린 적금 정체",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090794611",
-      "publishedAt": "2026-09-07T12:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "술병 만드는 데만 1주일…요즘 日서 뜨는 '수백만원짜리 고급술'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609043451g",
-      "publishedAt": "2026-09-07T12:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"성과급 6억 받으면서 70만원까지?\"…삼성 '발칵' 뒤집혔다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090797077",
-      "publishedAt": "2026-09-07T11:49:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "대미투자 기대감에 12차 전기본까지…원전주 '들썩'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609079708i",
-      "publishedAt": "2026-09-07T11:42:31.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "젠슨황도 극찬한 챗GPT ASTRA…반도체 급등랠리 다시 오나 [불앤베어 플러스]",
-      "summary": "진화하는 AI서비스와 반도체 주가“AGI시대가 도래했다(AGI has arrived)” 지난 3일(현지시간) 오픈AI가 공개한 챗GPT 새 버전 ‘GPT-6 Astra’를 체험한 ..",
-      "link": "https://www.mk.co.kr/news/stock/12146541",
-      "publishedAt": "2026-09-07T11:39:07.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“7천피 구조대 왔네요, 전 이제 탈출합니다”…개미들 6.8조 던졌다",
-      "summary": "코스피 4.6% 올라 6995.39 외인·기관 5.2조 쌍끌이 매수 금·코인·M7 등 조정받았지만 AI수요 확인에 반도체는 강세 골드만 “코스피 1만2000 갈것” 오라클 실적·美..",
-      "link": "https://www.mk.co.kr/news/stock/12146533",
-      "publishedAt": "2026-09-07T11:05:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "수억짜리 차 샀더니…\"딱 6명 초청\" 프라이빗 와인클래스 열렸다 [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609078808g",
-      "publishedAt": "2026-09-07T11:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"작년 저점 깼다\"…1340원대로 하락한 환율, 단기 바닥은? [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090790556",
-      "publishedAt": "2026-09-07T11:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "한미 '원전동맹' 업그레이드 … 대미펀드 70% 발전사업 투자",
-      "summary": "한국이 2000억달러 규모로 조성하는 대미투자펀드의 70% 이상을 미국 내 복합화력발전, 대형 원전 등 에너지 분야에 투자하는 방안을 미국 측과 논의하고 있다. 미국 텍사스주 엔시..",
-      "link": "https://www.mk.co.kr/news/economy/12146530",
-      "publishedAt": "2026-09-07T10:55:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "경영권 분쟁 속 고려아연 주총 'D-2'…국민연금도 최윤범 회장 측 추천후보 '찬성'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609079647g",
-      "publishedAt": "2026-09-07T10:45:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "타이거리서치 \"버추얼 프로토콜, AI 에이전트·로봇 인프라로\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090796496",
-      "publishedAt": "2026-09-07T10:07:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'IPO 대어' 무신사, 코스피 상장예비심사 신청",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090796526",
-      "publishedAt": "2026-09-07T10:06:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "대미투자 1호 텍사스 가스발전소 유력…대형 원전 8기도 검토",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 한미 양국이 합의한 3천500억달러 규모 대미 투자의 첫 사업으로 미국 텍사스주 엔시날 가스복합화력발전소 건설...",
-      "link": "https://www.yna.co.kr/view/AKR20260907152200003",
-      "publishedAt": "2026-09-07T09:53:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국거래소 \"무신사, 유가증권시장 상장예심 신청\"(종합)",
-      "summary": "(서울=연합뉴스) 김유향 이상서 기자 = 한국거래소는 무신사 주권에 대한 유가증권시장 상장예비심사 신청서를 접수했다고 7일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260907147251008",
-      "publishedAt": "2026-09-07T09:27:49.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "오세훈, '친선결연 30주년' 하노이 인민위원장 면담…협력 논의",
-      "summary": "(서울=연합뉴스) 김준태 기자 = 오세훈 서울시장은 7일 서울시청 집무실에서 부 다이 탕 하노이 인민위원장과 만나 도시 간 교류·협력 방안을 논...",
-      "link": "https://www.yna.co.kr/view/AKR20260907148900004",
-      "publishedAt": "2026-09-07T09:13:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "'대미투자 1호' 텍사스 발전소… 원전 8기 건설도 논의",
-      "summary": "대미투자펀드 1호 프로젝트로 한미 양국이 미국 텍사스주 엔시날 가스복합화력발전 사업을 낙점했다. 전체 투자 규모는 223억달러(약 29조9200억원)로 결정된 것으로 전해졌다. ..",
-      "link": "https://www.mk.co.kr/news/economy/12146468",
-      "publishedAt": "2026-09-07T09:04:44.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "모처럼 힘쓴 코스피, 7000 턱밑",
-      "summary": "메모리 반도체 수요가 계속 늘어날 것이라는 기대감이 다시 퍼지면서 7일 코스피가 7000선 턱밑까지 올랐다. 이날 코스피는 전 거래일보다 308.18포인트(4.61%) 오른 69..",
-      "link": "https://www.mk.co.kr/news/stock/12146465",
-      "publishedAt": "2026-09-07T09:04:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "원화값 두 달새 200원 치솟자 … 국민연금 환헤지 중단",
-      "summary": "달러당 원화값이 23개월 만에 1330원대까지 오르며 가파른 상승세를 이어가고 있다. 한때는 지나친 원화 약세를 우려했지만 불과 두 달 만에 상황이 뒤집힌 것이다. 일각에서는 단기..",
-      "link": "https://www.mk.co.kr/news/economy/12146455",
-      "publishedAt": "2026-09-07T09:01:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한국회계기준원 “지속가능성 공시 이행지원 강화”…2028년 법정공시 논의",
-      "summary": "개원 27주년 기념 세미나 개최 자본시장법 개정·세이프하버 쟁점 “공시 투명성 제고, 기업가치 높이는 투자”한국회계기준원이 지속가능성 공시기준 제정을 넘어 기업의 실제 이행을 지원..",
-      "link": "https://www.mk.co.kr/news/stock/12146451",
-      "publishedAt": "2026-09-07T09:01:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "summary": "■ 초대 중수청장 최종 후보에 檢출신 김지용 변호사",
-      "link": "https://www.yna.co.kr/view/AKR20260907141500011",
-      "publishedAt": "2026-09-07T09:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "고용부·국세청 공무원, 내년 2500여명 증원",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026090795131",
-      "publishedAt": "2026-09-07T08:59:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "AI 데이터센터 신청 60%, 서울·경기 등 수도권에 몰려",
-      "summary": "인공지능(AI) 데이터센터 신청 건수 가운데 60%는 수도권에 쏠린 것으로 나타났다. 이에 송전망 여유가 있는 비수도권에 데이터센터를 지을 수 있도록 직접전력거래(PPA) 허용 범..",
-      "link": "https://www.mk.co.kr/news/economy/12146407",
-      "publishedAt": "2026-09-07T08:55:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 물가 점검하는 부총리 후보자",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12146405",
-      "publishedAt": "2026-09-07T08:55:51.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국거래소 \"무신사, 유가증권시장 상장예심 신청\"",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소는 무신사 주권에 대한 유가증권시장 상장예비심사 신청서를 접수했다고 7일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260907147200008",
-      "publishedAt": "2026-09-07T08:54:22.000Z"
     }
   ]
 }
