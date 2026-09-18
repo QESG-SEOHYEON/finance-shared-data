@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-09-18T13:59:42.145Z",
+  "updatedAt": "2026-09-18T22:55:34.117Z",
   "historyDays": 7,
-  "count": 511,
+  "count": 506,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1천800원대 지속",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 국제 유가가 상승세를 이어간 가운데 전국 주유소 기름값은 정부의 최고가격제 영향으로 전주 대비 소폭 내리며 1...",
+      "link": "https://www.yna.co.kr/view/AKR20260918152000003",
+      "publishedAt": "2026-09-18T22:01:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[신상잇슈] 오뚜기 '숙성크림 카레고로케'·파리바게뜨 '감자쫀떡'",
+      "summary": "▲ 오뚜기[007310]는 대구 베이커리 브랜드 &apos;삼송빵집&apos;과 손잡고 &apos;숙성크림 카레고로케&apos;, &apos;사라다샌드&apos;, &apos;함바그샌드&apos;, &apos;감자에그샌드&apos;,...",
+      "link": "https://www.yna.co.kr/view/AKR20260918040300030",
+      "publishedAt": "2026-09-18T22:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[금주핫템] 아이더 '슬림 블렌드 다운 재킷'·씰리침대 '자개 매트리스'",
+      "summary": "▲ 아이더는 무게를 줄이고 보온 성능을 강화한 &apos;써모락 슬림 블렌드 다운&apos;을 선보였다. 제품은 공기층을 극대화한 에어로겔 화이버와 구스 다운을 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260917184200030",
+      "publishedAt": "2026-09-18T22:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[AI돋보기] AI가 질문을 보완하는 시대…프롬프트 비법은 끝났나",
+      "summary": "(서울=연합뉴스) 심재훈 기자 = 생성형 인공지능(AI)이 사용자의 거친 지시를 스스로 보완하고 복잡한 문제를 단계적으로 풀어내는 수준으로 발전...",
+      "link": "https://www.yna.co.kr/view/AKR20260918121100017",
+      "publishedAt": "2026-09-18T21:33:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"우리들의 뽀통령이 어쩌다\"…테이프 '칭칭' 얼굴 가려진 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091844221",
+      "publishedAt": "2026-09-18T21:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“70만원 받던 배우였습니다”…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609078130i",
+      "publishedAt": "2026-09-18T21:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“호재는 모른 척, 악재엔 곱절로 반응하더니”…코스피, 요즘 달라졌습니다",
+      "summary": "코스피 2.6% 올라 6894 美기준금리 인상땐 약보합 내년 AI칩 매출 2배 전망에 삼전 3.4%·하닉 6.4% 급등 외국인도 순매수 태세전환 30일 마이크론 실적에 주목악재에 ..",
+      "link": "https://www.mk.co.kr/news/stock/12156945",
+      "publishedAt": "2026-09-18T20:42:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“나라안에서 해결되는데 왜 무역합니까” … 천재경제학자의 답변이",
+      "summary": "⑬특화와 무역이 만드는 이익■ 애덤 스미스의 통찰: 특화와 분업의 이익 1776년 애덤 스미스는 영국 스코틀랜드의 한 작은 핀 공장을 관찰하며 전율을 느꼈습니다. 혼자서 머리부터 ..",
+      "link": "https://www.mk.co.kr/news/economy/12156559",
+      "publishedAt": "2026-09-18T20:40:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "기뢰 한 발에 국제유가 ‘출렁’ … 열린듯 닫힌 호르무즈의 역설",
+      "summary": "봉쇄되지 않았으나 봉쇄된 해협2026년 2월 28일, 항상 ‘세계의 화약고’라 불리는 중동지역에 또 한 차례 불이 붙었다. 이미 이전 해인 2025년 말, 이란은 미사일과 드론으로..",
+      "link": "https://www.mk.co.kr/news/economy/12156610",
+      "publishedAt": "2026-09-18T20:00:00.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3978,118 +4050,6 @@
       "summary": "(서울=연합뉴스) 신창용 기자 = 김정관 산업통상부 장관이 대미 투자 프로젝트 최종 조율을 위해 지난 10일(현지시간) 사흘 일정으로 미국을 찾...",
       "link": "https://www.yna.co.kr/view/AKR20260911153000003",
       "publishedAt": "2026-09-11T23:15:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대",
-      "summary": "(서울=연합뉴스) 김민지 기자 = 국제 유가가 상승세를 이어간 가운데 전국 주유소 기름값은 정부의 최고가격제의 영향으로 전주 대비 소폭 내리며 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260911118000003",
-      "publishedAt": "2026-09-11T22:05:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[르포] 추석연휴 10여일 앞둔 대구 서문시장…상인들 \"예전 대목만 못해\"",
-      "summary": "(대구=연합뉴스) 박세진 기자 = 추석 연휴를 10여일 앞두고 대구지역 전통시장에도 조금씩 명절 분위기가 무르익고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260911084500053",
-      "publishedAt": "2026-09-11T22:01:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
-      "summary": "▲ LG생활건강의 구강 관리 브랜드 유시몰은 1천450ppm의 고불소 처방에 영국의 차문화에서 영감을 얻은 향을 더한 &apos;오리지널 치약 티 에디션...",
-      "link": "https://www.yna.co.kr/view/AKR20260910107100030",
-      "publishedAt": "2026-09-11T22:00:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[신상잇슈] 해태제과 '와샤오롱'·서울우유 '비요뜨 초코링 당저감'",
-      "summary": "▲ 해태제과 고향만두는 와사비를 담아 빚은 딤섬 &apos;와샤오롱&apos;을 출시했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260911068100030",
-      "publishedAt": "2026-09-11T22:00:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“월급 쪼개 넣었더니 세금을 또?”…국민연금 실수령액 매달 깎아먹는 ‘이것’",
-      "summary": "국민연금 과세 원칙 핵심은 ‘소득공제 여부’ 임의가입 등 국세청 확인서로 ‘이중 과세’ 방지 20~30년 받는 연금…적은 세금 차이도 눈덩이퇴직 후 통장에 들어오는 국민연금, 과연..",
-      "link": "https://www.mk.co.kr/news/economy/12150966",
-      "publishedAt": "2026-09-11T21:51:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[AI돋보기] AI도 '인간 인증' 통과…이제 사람은 어떻게 증명할까",
-      "summary": "(서울=연합뉴스) 심재훈 기자 = &quot;로봇이 아닙니다.&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260910129700017",
-      "publishedAt": "2026-09-11T21:33:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부동산캘린더] 내주 천안아이파크시티 등 전국 1만1천521가구 분양",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 1만1천500여가구가 분양에 나선다.",
-      "link": "https://www.yna.co.kr/view/AKR20260911130200003",
-      "publishedAt": "2026-09-11T21:05:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"외동딸처럼 키웠다\"…2030도 지갑 연 '명품 복숭아' 정체 [프라이스&]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609093982i",
-      "publishedAt": "2026-09-11T21:00:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'나이키 제국'은 왜 무너졌나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091196731",
-      "publishedAt": "2026-09-11T21:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609129938i",
-      "publishedAt": "2026-09-11T18:30:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609129941i",
-      "publishedAt": "2026-09-11T17:47:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609119935i",
-      "publishedAt": "2026-09-11T15:00:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "중동發 '물가 쇼크'…美 기준금리 인상 가능성 커졌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091199201",
-      "publishedAt": "2026-09-11T14:04:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "뉴욕증시, 유가 하락에 상승 출발…CPI 발표 후 금리인상 가능성↑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091199217",
-      "publishedAt": "2026-09-11T14:02:52.000Z"
     }
   ]
 }
