@@ -1,8 +1,192 @@
 {
-  "updatedAt": "2026-09-18T22:55:34.117Z",
+  "updatedAt": "2026-09-19T07:40:39.182Z",
   "historyDays": 7,
-  "count": 506,
+  "count": 503,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "“커피 마시려고 1시간 줄섰다” … 세븐일레븐 앞 '북적' [2026청춘커피페스티벌]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609195215i",
+      "publishedAt": "2026-09-19T07:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "보석 대신 에나멜·모래…명품이 '값싼 소재'에 꽂힌 이유 [안혜원의 명품의세계]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609195051i",
+      "publishedAt": "2026-09-19T07:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[동정] 농식품부 장관, 추석 앞두고 경기 이천 농촌체험휴양마을 점검",
+      "summary": "▲ 송미령 농림축산식품부 장관은 19일 경기 이천시 백사면 농촌체험휴양마을(산수유마을)을 찾아 농촌체험 프로그램과 숙박시설의 운영 현황, 안전관...",
+      "link": "https://www.yna.co.kr/view/AKR20260919035100030",
+      "publishedAt": "2026-09-19T06:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"빵이랑 찰떡이네\"… 파리바게뜨 부스에 관람객 몰린 이유 [2026청춘커피페스티벌]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609195239i",
+      "publishedAt": "2026-09-19T06:22:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "북적이는 축제속 고요한 커피머신 작동음…카누가 만든 홈카페 [2026청춘커피페스티벌]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609195237i",
+      "publishedAt": "2026-09-19T06:19:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "어른들 커피 축제인 줄 알았는데…애들 놀이터가 된 잠실 [2026청춘커피페스티벌]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609195217i",
+      "publishedAt": "2026-09-19T06:17:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"커피만 마시는 축제 아니었네\"…부모·아이 몰린 잠실 '이곳'[2026 청춘, 커피 페스티벌]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609195164i",
+      "publishedAt": "2026-09-19T06:16:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“주식은 무섭고 예금은 아쉬웠는데”…‘연 5.5%’ 파격 금리 준다는데",
+      "summary": "삼성증권, 1호 발행어음 출시 예정 금리 ‘연 5.5%’…21일부터 판매 지금까지 나온 상품 중 최고 수준고금리 환경과 국내 증시의 부진 속에 투자 심리가 얼어붙고 있다. 증시 자..",
+      "link": "https://www.mk.co.kr/news/stock/12157103",
+      "publishedAt": "2026-09-19T06:08:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"금리 올렸는데 왜 안 빠져\"…월가가 찜한 '금덩이' 종목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609184001i",
+      "publishedAt": "2026-09-19T06:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI·반도체 주도주 2개면 충분\"…압축형 상품 '봇물' [이수의 ETF줌인]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026091842676",
+      "publishedAt": "2026-09-19T06:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[여행소식] 비싼 하와이 외식비 낮춘다…와이키키서 첫 '레스토랑 위크'",
+      "summary": "(서울=연합뉴스) 성연재 기자 = 높은 외식비로 여행객들의 부담이 큰 하와이 와이키키에서 처음으로 &apos;레스토랑 위크&apos;가 열린다.",
+      "link": "https://www.yna.co.kr/view/AKR20260919040600542",
+      "publishedAt": "2026-09-19T05:27:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“증시 불붙으면 바로 베팅, 그전까지 잠깐 여기에”…최고 연 8% 파킹통장 활용법",
+      "summary": "수시입출 가능 운신 폭 장점 최고금리 적용 한도 제각각 여윳돈 맞춰 쪼개기 전략을 신한-올리브영, KB-쓱닷컴 해당 브랜드 결제 우대 혜택“6월에 포모(FOMO·소외되는 것에 대한..",
+      "link": "https://www.mk.co.kr/news/economy/12157091",
+      "publishedAt": "2026-09-19T05:22:28.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "건설업체 서한, 추석 앞두고 협력사 125곳에 공사대금 조기 지급",
+      "summary": "(대구=연합뉴스) 최수호 기자 = ㈜서한이 추석 명절을 앞두고 경기침체 등으로 경영활동에 어려움을 겪는 협력업체를 위해 공사 및 자재 대금을 조...",
+      "link": "https://www.yna.co.kr/view/AKR20260919039100053",
+      "publishedAt": "2026-09-19T05:00:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경",
+      "summary": "5대은행 16개 여신업무에 AI 기업대출 넘어 가계대출로 확산기업대출 분석보고서를 작성하던 인공지능(AI)이 주택담보대출과 전세대출 등 가계대출 영역으로 빠르게 파고들고 있다. 대..",
+      "link": "https://www.mk.co.kr/news/economy/12157082",
+      "publishedAt": "2026-09-19T04:33:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "강남 고액자산가가 꾸준히 찾는다…브라질 국채의 매력",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609183726i",
+      "publishedAt": "2026-09-19T03:28:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "인천 강화서 구제역 추가 발생…소 2마리 항원 양성",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 인천 강화군에서 구제역이 추가로 발생했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260919033700030",
+      "publishedAt": "2026-09-19T03:00:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“보험금 돌려주면 끝인 줄 알았는데”…보험사기 유죄, 보험계약까지 해지된다 [어쩌다 세상이]",
+      "summary": "보험사기 유죄 확정 뒤 일부 금액 공탁 법원 “보험계약은 높은 선의·신뢰 요구” 약관에 없어도 중대한 사유 땐 해지 가능보험사기로 유죄를 받으면 편취한 보험금을 돌려주고 형사처벌을..",
+      "link": "https://www.mk.co.kr/news/economy/12157058",
+      "publishedAt": "2026-09-19T02:26:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "순창 동계 밤, 12년 연속 중국 수출…올해 총 150ｔ 선적",
+      "summary": "(순창=연합뉴스) 백도인 기자 = 전북농협과 동계농협은 올해 순창 동계에서 생산된 밤 150여ｔ을 중국에 수출한다고 19일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260919027900055",
+      "publishedAt": "2026-09-19T01:53:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260919026200011",
+      "publishedAt": "2026-09-19T01:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "한동훈 “지금 가상자산 과세 안돼…민주당, 밀어붙이지 말고 토론하자”",
+      "summary": "정부가 내년 1월 가상자산 과세 시행을 예고한 가운데 한동훈 무소속 의원이 “지금 가상자산 과세는 안 된다”며 “다시 유예해야 한다”고 19일 촉구했다. 한 의원은 이날 사회관계망..",
+      "link": "https://www.mk.co.kr/news/economy/12157039",
+      "publishedAt": "2026-09-19T01:25:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"향후 2년이 기회\"…증권가가 콕 찍은 AI 수혜주들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609184177i",
+      "publishedAt": "2026-09-19T00:00:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "워시는 언제, 얼마나 더 올릴까…모멘텀 되살아나는 반도체? [월가 백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609194944i",
+      "publishedAt": "2026-09-18T23:26:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "막판 10분 뛴 반도체, 아셴브레너가 돌아왔다…21~23일은 '나쁜 사흘' [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609194909i",
+      "publishedAt": "2026-09-18T23:02:50.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3842,214 +4026,6 @@
       "summary": "(서울=연합뉴스) 박현수 기자 = 국내 거주 동포 청소년의 한국 사회 정착과 미래인재 육성 지원 방안을 논의하는 &apos;2026년 제3차 다(多)가치...",
       "link": "https://www.yna.co.kr/view/AKR20260912036500371",
       "publishedAt": "2026-09-12T08:15:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
-      "summary": "(서울=연합뉴스) 홍국기 기자 = 송미령 농림축산식품부 장관은 12일 경기도 안성시 과수 거점 산지유통센터(APC)와 롯데마트 안성점을 방문해 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260912036000030",
-      "publishedAt": "2026-09-12T07:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "미국은 왜 '엔화 약세'를 막으려 할까…월가가 엔화를 두려워하는 진짜 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609106701i",
-      "publishedAt": "2026-09-12T06:49:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"배우 이정재가 화장품을?\"…흑자사업 50억에 팔고 '승부수' [인터뷰+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091069016",
-      "publishedAt": "2026-09-12T06:38:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"한 달만에 수익률 10%\"…발 빠른 개미들 돈 번 '비결' 있었다 [이수의 ETF줌인]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091189066",
-      "publishedAt": "2026-09-12T06:00:03.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]",
-      "summary": "中 AI데이터센터·로봇 반도체 수요 구형 반도체도 품귀, 연내 값 올릴듯 9월 주가 20%대↑...목표가 21만원DB하이텍이 중국 인공지능(AI) 데이터센터와 로봇 시장의 성장에..",
-      "link": "https://www.mk.co.kr/news/stock/12151057",
-      "publishedAt": "2026-09-12T05:40:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "반품 전자기기 971대 사라졌다…9억 빼돌린 범인 정체가",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091202657",
-      "publishedAt": "2026-09-12T05:31:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "HS화성 반려동물 특화상품, '굿 디자인 코리아'에 선정",
-      "summary": "(대구=연합뉴스) 김용민 기자 = 중견 건설사인 HS화성은 반려동물 특화상품인 &apos;FIT WITH PET&apos;이 &apos;굿 디자인 코리아 2026&apos;에 선정...",
-      "link": "https://www.yna.co.kr/view/AKR20260912029600053",
-      "publishedAt": "2026-09-12T05:19:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'요즘 소맥 안 마신다' 20일 만에 완판…MZ 푹 빠진 '술' [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609119876i",
-      "publishedAt": "2026-09-12T05:00:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "손흥민·뷔 썼더니 대박?…\"아메리카노 50잔 더 팔아야\" [김소연의 얼굴전략]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609119173g",
-      "publishedAt": "2026-09-12T04:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "안전벨트 매고 레버리지로 가속페달…‘양면 베팅’으로 갈아탄 서학개미들",
-      "summary": "SGOV에 열흘 새 1746억원 몰려 엔비디아 제치고 해외주식 1위 SOXL·QLD엔 반등 베팅 지속미국 증시 변동성이 커지자 서학개미들의 투자 전략에도 변화가 나타나고 있다. 안..",
-      "link": "https://www.mk.co.kr/news/stock/12151044",
-      "publishedAt": "2026-09-12T03:56:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "코리아에셋투자증권, 아동복지시설에 ‘희망의 계단’ 선물",
-      "summary": "자매결연 ‘이삭의 집’서 벽화 나눔활동 임직원·아동복지시설 아동 공동 작업 2017년부터 이어온 ESG 경영 이어가코리아에셋투자증권(회장 기동호)이 12일 자매결연을 맺은 아동복지..",
-      "link": "https://www.mk.co.kr/news/stock/12151042",
-      "publishedAt": "2026-09-12T03:52:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "북극항로 시범운항 선박, 부산 출항 21일 만에 영국 도착",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 국내 컨테이너선으로는 처음으로 북극항로 시범 운항에 나선 팬스타 아크로호가 북극해를 통과해 12일 영국에 도착...",
-      "link": "https://www.yna.co.kr/view/AKR20260912026900051",
-      "publishedAt": "2026-09-12T03:38:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "벌금 260억도 못 막았다…의사까지 투잡 뛰는 '대리모 공장'  [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609107630i",
-      "publishedAt": "2026-09-12T02:30:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "기본소득당 대변인부터 하이닉스 파혼녀까지…한국인 '믿거문' [신현보의 딥데이터]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609118895H",
-      "publishedAt": "2026-09-12T02:13:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "CPI도 뜨거웠다…'빅위크'의 시작 [다음주 주요 변수 미리 보기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609120138i",
-      "publishedAt": "2026-09-12T02:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "주유소 휘발유값 17주 연속 하락…서울만 1900원대",
-      "summary": "국제유가가 큰 폭으로 올랐지만 정부의 석유제품 최고가격제 영향으로 국내 주유소 휘발유와 경유 가격은 17주 연속 하락했다. 12일 한국석유공사 유가정보시스템 오피넷에 따르면 9월 ..",
-      "link": "https://www.mk.co.kr/news/economy/12151024",
-      "publishedAt": "2026-09-12T01:38:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260912021000011",
-      "publishedAt": "2026-09-12T01:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "뉴욕증시, 닷새만에 반등…다우 1%↑",
-      "summary": "국제유가 하락 CPI 예상치 부합11일(현지시간) 뉴욕증시가 5일 만에 반등했다. 국제유가 하락과 예상치를 벗어나지 않은 소비자물가지수(CPI) 발표 영향으로 분석된다. 이날 다우..",
-      "link": "https://www.mk.co.kr/news/stock/12151023",
-      "publishedAt": "2026-09-12T01:26:47.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“이런 장세에선 내 돈 지켜야죠”…불안한 투자자들, 파킹형 ETF ‘성큼’",
-      "summary": "파킹형ETF에 1주새 1.5조원 몰려파킹형 ETF(상장지수펀드)에 돈이 몰리고 있다. 투자처를 정하지 못한 대기자금이 늘어난 영향으로 분석된다. 파킹형 ETF는 일시적으로 자금을 ..",
-      "link": "https://www.mk.co.kr/news/stock/12151017",
-      "publishedAt": "2026-09-12T01:08:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'열흘 만에 -20%' 개미들 비명…\"줍줍 기회\" 증권가 콕 집었다 [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091194266",
-      "publishedAt": "2026-09-12T00:57:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“나랏빚 106조 늘었는데 재정 좋아졌다?”…국가채무비율에 숨은 ‘GDP 착시’",
-      "summary": "올해 채무비율엔 작년 GDP 전망 반도체 호황 반영땐 51.6→46.9% 내년엔 되레 48.3%로 1.4%P 상승 “호황기엔 기금보다 국채상환 우선”정부가 160조원대 미래대응기금..",
-      "link": "https://www.mk.co.kr/news/economy/12151012",
-      "publishedAt": "2026-09-12T00:53:36.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "LG·LX의 희비…무엇이 두 형제회사 주가 갈랐나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609120109i",
-      "publishedAt": "2026-09-11T23:56:38.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국기술교육대 \"수시 경쟁률 비수도권 국·사립대 중 1위\"",
-      "summary": "(천안=연합뉴스) 유의주 기자 = 고용노동부가 설립한 국책대학인 충남 천안 한국기술교육대(KOREATECH)는 2027학년도 수시모집 경쟁률에서...",
-      "link": "https://www.yna.co.kr/view/AKR20260912017400063",
-      "publishedAt": "2026-09-11T23:53:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[다음주 경제] 수출입·생산자물가 변화는…이형일 후보자 인사청문회",
-      "summary": "(서울·세종=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주(14∼18일)에는 대외 경제의 변동성이 확대하는 가운데 향후 물가를 가늠할 수 있...",
-      "link": "https://www.yna.co.kr/view/AKR20260912016600002",
-      "publishedAt": "2026-09-11T23:30:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "높은 CPI, 확정된 인상…뉴욕 증시 뛴 이유는 \"비둘기파적 인상(한두 번)\" [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609129994i",
-      "publishedAt": "2026-09-11T23:15:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "공교롭게도 또 9·11에 뉴욕으로 간 산업장관…러트닉 설득할까",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 김정관 산업통상부 장관이 대미 투자 프로젝트 최종 조율을 위해 지난 10일(현지시간) 사흘 일정으로 미국을 찾...",
-      "link": "https://www.yna.co.kr/view/AKR20260911153000003",
-      "publishedAt": "2026-09-11T23:15:01.000Z"
     }
   ]
 }
