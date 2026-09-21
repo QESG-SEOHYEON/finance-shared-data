@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-09-21T08:23:52.846Z",
+  "updatedAt": "2026-09-21T16:06:26.730Z",
   "historyDays": 7,
   "count": 508,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609229353i",
+      "publishedAt": "2026-09-21T15:12:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI주 올라도 지금 맞서면 안되는 3가지 [박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609219323i",
+      "publishedAt": "2026-09-21T14:41:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609219335i",
+      "publishedAt": "2026-09-21T14:26:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609219320i",
+      "publishedAt": "2026-09-21T14:14:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "오픈AI에 올인한 이 회사, 또 15조원 정크본드 발행 추진",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609219285i",
+      "publishedAt": "2026-09-21T13:06:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"또 사이드카 쏟아지나\"…한숨 돌리던 개미들 떨게 한 '경고' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092181966",
+      "publishedAt": "2026-09-21T13:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "일학개미, 글로벌X 닛케이ETF에 몰렸다…‘버핏 픽’ 종합상사도 줍줍",
+      "summary": "‘상승세’ 닛케이255 기업에 투자일학개미(일본 증시에 투자하는 국내 투자자)들이 이달 미래에셋자산운용의 자회사 글로벌X가 일본 증시에 새로 상장한 닛케이225 상장지수펀드(ETF..",
+      "link": "https://www.mk.co.kr/news/stock/12158719",
+      "publishedAt": "2026-09-21T12:50:48.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "생보사, '700 종신보험' 못 판다…금감원 감독행정 제동",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 앞으로 생명보험사들이 가입 후 7년이 지나면 해약환급금을 100% 받을 수 있는 이른바 &apos;700 종신보험&apos; 상...",
+      "link": "https://www.yna.co.kr/view/AKR20260921178400002",
+      "publishedAt": "2026-09-21T12:37:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“절반이 900점대, 변별력 있나요?”…무늬만 고신용자 걸러내는 은행",
+      "summary": "고신용자 5명중 1명 대출거절 총량규제 등 가계대출 조이며 고신용자 심사도 엄격해져 중저신용자는 대출난민 전락 제2금융권서 고신용자와 경쟁 일부 차주 부담이자 20% 육박정부의 강..",
+      "link": "https://www.mk.co.kr/news/economy/12158688",
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "메가특구 사회적 대화, 내일 실무회의…의제 선정 본격화(종합)",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 노사정이 메가특구특별법 내 노동 특례 논의를 위한 &apos;원 포인트 사회적 대화&apos;의 첫 만남을 한 데 이어 이번 주...",
+      "link": "https://www.yna.co.kr/view/AKR20260921089451530",
+      "publishedAt": "2026-09-21T11:26:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"너무 뜨거운 것도 문제\"…한국 증시에 날아든 '뜻밖의 경고'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092192177",
+      "publishedAt": "2026-09-21T11:05:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“1000주에 최대 460만원 예상”…‘27만 전자’ 배당 받으려면 이날까지",
+      "summary": "삼성전자가 21일 4% 넘게 상승하며 27만원대를 회복했다. 외국인이 1조원 넘게 순매수한 가운데 약 30조원 규모의 3분기 현금배당을 받을 수 있는 마지막 매수일도 다가오고 있다..",
+      "link": "https://www.mk.co.kr/news/stock/12158645",
+      "publishedAt": "2026-09-21T11:01:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[단독] 글로벌세아·OK금융… 중앙일보 인수전 참전",
+      "summary": "중앙일보 인수전에 글로벌세아그룹, OK금융, 삼프로TV, 남부cc 등 총 6곳이 참전한 것으로 파악됐다. 일단 매각 흥행에는 성공했다는 평가다. 관심을 모았던 중앙일보 기존 주주인..",
+      "link": "https://www.mk.co.kr/news/stock/12158641",
+      "publishedAt": "2026-09-21T10:57:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "미중 정상회담 결과따라 시장 출렁일 듯…섣부른 행동 자제해야 [동여의도 위클리]",
+      "summary": "이번주 빅 이벤트 점검 ... AI속도조절론·미국 국채금리 동향등 주목글로벌 정치와 경제에 큰 영향을 미칠 빅 이벤트인 미중 정상회담이 9월24일 워싱턴에서 열립니다. 회담 결과에..",
+      "link": "https://www.mk.co.kr/news/stock/12158624",
+      "publishedAt": "2026-09-21T10:33:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "웨스팅하우스 지분율 등 상업적 합리성 암초…대미투자 '위태'(종합)",
+      "summary": "(서울=연합뉴스) 신창용 조다운 기자 = 미국이 한국과 대미 투자 협상에서 원전 건설, 알래스카 액화천연가스(LNG) 개발 사업 등 주요 프로젝...",
+      "link": "https://www.yna.co.kr/view/AKR20260921126051003",
+      "publishedAt": "2026-09-21T10:20:53.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "셀리드, 100억원 유상증자…휴니버스글로벌에 제3자배정",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 셀리드[299660]는 운영자금 등 약 100억원을 조달하고자 제3자배정 유상증자를 결정했다고 21일 공시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260921171600008",
+      "publishedAt": "2026-09-21T09:48:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“월급 꼬박꼬박 들어왔는데 대출금리 왜 안깎였죠?”…급여이체 인정 안 된 까닭",
+      "summary": "금감원은 21일 ‘주요 민원 사례로 알아보는 은행 이용 시 소비자 유의사항’을 통해 최근 접수된 민원 사례를 소개하며 소비자들에게 주의를 당부했다. 대출 금리 감면 조건으로 급여 ..",
+      "link": "https://www.mk.co.kr/news/economy/12158603",
+      "publishedAt": "2026-09-21T09:48:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "제논·옵토닉스 등 2개사 코스닥 상장예심 통과",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소 코스닥시장본부는 제논과 옵토닉스 총 2개사의 코스닥 시장 상장예비심사를 승인했다고 21일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260921169900008",
+      "publishedAt": "2026-09-21T09:43:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "차기 신한은행장 후보, 지주 아닌 은행서도 추천한다…“공정성 강화 차원”",
+      "summary": "신한금융, 은행·카드·증권 등 12개 자회사 CEO 승계절차 개시신한금융그룹이 신한은행과 신한카드, 신한투자증권 등 자회사 최고경영자(CEO) 선임 작업에 돌입했다. 신한금융은 은..",
+      "link": "https://www.mk.co.kr/news/economy/12158600",
+      "publishedAt": "2026-09-21T09:40:20.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘7천피 탈환’ 구원투수 나선 삼전…수출 호조·배당 기대에 5% 급등",
+      "summary": "이달 반도체 수출 사상최대 삼전 배당 노린 매수세 몰려 삼전 5%·우선주 6%급등세 하락종목 552개,상승 310개 외국인 매수세 유입이 관건삼성전자 관련주들이 일제히 급등하며 코..",
+      "link": "https://www.mk.co.kr/news/stock/12158596",
+      "publishedAt": "2026-09-21T09:30:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[단독] 중앙일보 인수전에 글로벌세아·OK금융 등 6곳 안팎 참전",
+      "summary": "21일 인수의향서 제출 마감 유력 SI 등 다수 원매자 몰려 9월 숏리스트 선정 목표[본 기사는 09월 21일(18:23) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된..",
+      "link": "https://www.mk.co.kr/news/stock/12158594",
+      "publishedAt": "2026-09-21T09:23:23.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "신한금융, 신한은행장 등 자회사 대표이사 승계절차 개시",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 신한금융그룹이 21일 신한은행장을 비롯한 자회사 대표이사 승계 절차를 개시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260921168400002",
+      "publishedAt": "2026-09-21T09:22:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스콤, 전사 AX 추진단 출범…AI로 '장애 제로' 도전",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609219028i",
+      "publishedAt": "2026-09-21T08:50:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[포토] 청년 금융정책 설명 나선 금융위",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12158534",
+      "publishedAt": "2026-09-21T08:48:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 외국환율고시표",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12158535",
+      "publishedAt": "2026-09-21T08:48:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "정기예금 금리 0.1%P 인상 … KB국민銀, 1주만에 또 올려",
+      "summary": "KB국민은행이 대표 정기예금 금리를 일주일 만에 다시 올렸다. 시장금리 상승에 맞춰 시중은행들이 예금 금리를 연 3%대 중반 수준으로 맞추며 수신 경쟁에 나서는 모습이다. 국민은행..",
+      "link": "https://www.mk.co.kr/news/economy/12158532",
+      "publishedAt": "2026-09-21T08:48:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 속도조절은 사이클 종료 아냐\" [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092189921",
+      "publishedAt": "2026-09-21T08:41:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "MLCC 슈퍼사이클…다시 뛰는 삼성전기·삼화콘덴서",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092189851",
+      "publishedAt": "2026-09-21T08:40:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "눈높이 하락한 현대차, 신차 효과로 '반등의 시간' 오나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092189821",
+      "publishedAt": "2026-09-21T08:38:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"원금 손실 위기 딛고 1조 수익\"…국민연금 토론토 오피스 완공",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092189031",
+      "publishedAt": "2026-09-21T08:28:45.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3826,246 +4066,6 @@
       "summary": "최근 정부가 부동산 문제를 놓고 대규모 국민 토론회를 열었다. 대통령이 직접 주재한 ‘부동산정책 국민 대토론회’에는 정부 관계자와 학계 전문가뿐 아니라 공인중개사, 금융기관 종사자..",
       "link": "https://www.mk.co.kr/news/economy/12152237",
       "publishedAt": "2026-09-14T19:45:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 미국 국채 매도세가 이어지면서 10년 만기 국채 금리가 &apos;심리적 저항선&apos;인 5%를 넘어섰다...",
-      "link": "https://www.yna.co.kr/view/AKR20260914175352072",
-      "publishedAt": "2026-09-14T15:46:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "MS,AI 개발지침 발표\"사람이 AI보다 중요하다\"대원칙",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609154304i",
-      "publishedAt": "2026-09-14T15:46:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "월가에 몰아치는 3가지 폭풍[박신영의 개장전 요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609144293i",
-      "publishedAt": "2026-09-14T15:05:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "트럼프,\"AI속도조절 불필요.똑똑한 대통령이 안전장치\"주장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609144296i",
-      "publishedAt": "2026-09-14T15:01:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 정부의 우주위험대비 기본계획 수립 주기가 10년에서 5년으로 줄어든다.",
-      "link": "https://www.yna.co.kr/view/AKR20260914104500017",
-      "publishedAt": "2026-09-14T15:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 미국 국채 매도세가 심화하면서 10년 만기 국채 금리가 심리적 저항선인 5.00%를 넘어섰...",
-      "link": "https://www.yna.co.kr/view/AKR20260914175351072",
-      "publishedAt": "2026-09-14T14:40:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[속보]10년물 미국채 수익률 5% 돌파…2023년10월이후 처음",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609144289i",
-      "publishedAt": "2026-09-14T14:27:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 증시, AI 감속 우려에 유가 급등…반도체주 일제히 하락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609144281i",
-      "publishedAt": "2026-09-14T14:18:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "사우디, 핵심송유관 폐쇄…브렌트유 108달러 돌파",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609144265i",
-      "publishedAt": "2026-09-14T13:36:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "KRX vs NXT, 첫날 성적표 나왔다…애프터마켓 1.8조씩 '박빙'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091442517",
-      "publishedAt": "2026-09-14T13:13:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전닉스 믿었는데\" 개미들 허탈…석 달 만에 무슨 일이? [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091437166",
-      "publishedAt": "2026-09-14T13:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "KRX 애프터마켓 첫선…개장 첫날 7천224만주·1조8천억원 거래",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 퇴근길에 자유롭게 주식을 거래할 수 있는 한국거래소(KRX) 애프터마켓이 14일 개장 첫날 거래를 성공적으로 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260914110500008",
-      "publishedAt": "2026-09-14T12:04:46.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "프리마켓서 대형 증권사 잇단 전산장애…\"SOR 시스템 오류\"(종합2보)",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 14일 아침 대체거래소 넥스트레이드(NXT)가 운영하는 프리마켓(8시∼8시 50분)과 관련, 국내 대형증권사들...",
-      "link": "https://www.yna.co.kr/view/AKR20260914027352008",
-      "publishedAt": "2026-09-14T12:00:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“위헌이라 막혔지만 끝까지 간다”…마크롱, 15세 미만 SNS 금지 재도전",
-      "summary": "프랑스 정부가 위헌 판단으로 제동이 걸렸던 ‘15세 미만 청소년의 사회관계망서비스(SNS) 이용 금지’를 다시 추진한다. 에마뉘엘 마크롱 프랑스 대통령은 “끝까지 가겠다”며 청소년..",
-      "link": "https://www.mk.co.kr/news/economy/12152505",
-      "publishedAt": "2026-09-14T10:30:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "넥스트증권, MTS 공식 출시 앞두고 오픈API로 거래서비스 검증",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 넥스트증권이 모바일트레이딩서비스(MTS)를 공식 출시하기 전 전문투자자를 대상으로 오픈API를 제공해 서비스 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260914162000008",
-      "publishedAt": "2026-09-14T09:29:48.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“美 금리인상 충격을 노리라고?”…9월 조정이 연말 랠리 잡을 기회라는데",
-      "summary": "현대차증권 “금리인상 속도가 중요” 금리 불확실성 해소 땐 증시 반등 가능현대차증권은 미국의 물가 상승 압력이 다시 높아지면서 연방준비제도(Fed·연준)의 9월 기준금리 인상이 기..",
-      "link": "https://www.mk.co.kr/news/stock/12152474",
-      "publishedAt": "2026-09-14T09:24:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "KRX 애프터마켓 첫날 일부 증권사 앱 '먹통'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091438961",
-      "publishedAt": "2026-09-14T09:10:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "영&리치 “부동산보다 주식”",
-      "summary": "3040세대 자산가들은 부동산보다 주식을 뚜렷하게 선호하는 것으로 나타났다. '부동산 불패 신화'에 익숙했던 선배 세대와 달리 금융자산 투자를 통해 부를 키워가는 젊은 부자들이 늘..",
-      "link": "https://www.mk.co.kr/news/stock/12152467",
-      "publishedAt": "2026-09-14T09:09:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "20代 평균 주담대 2억 첫 돌파 … 증가율은 30대 '최고'",
-      "summary": "2030세대의 주택담보대출 부담이 최근 4년 동안 전체 연령대 가운데 가장 빠르게 늘어난 것으로 나타났다. 주거 불안감이 커지면서 내 집 마련을 위해 큰 빚을 내는 20·30대가 ..",
-      "link": "https://www.mk.co.kr/news/economy/12152465",
-      "publishedAt": "2026-09-14T09:09:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "무신사, 장외 시장서 몸값 1.1조 '껑충'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091438941",
-      "publishedAt": "2026-09-14T09:09:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "개미는 美·기관은 韓 매수…ETF 수익률 희비",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091438951",
-      "publishedAt": "2026-09-14T09:08:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "김영환 \"박스피 장세…반도체주 비중 50% 지켜야\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091438931",
-      "publishedAt": "2026-09-14T09:06:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“언제부턴지 주식창 안 켜는게 편하네요”...외국인, 하루 3.2조원 왜 던졌나",
-      "summary": "코스피 3.2% 급락 6684 현대차, 파업·수요위축 우려 주가 6월 고점 대비 반토막 나 삼닉에 전기료 선납 거절 악재 한전, 자금난 장기화 우려 하락중동 리스크에 따른 유가 ..",
-      "link": "https://www.mk.co.kr/news/stock/12152458",
-      "publishedAt": "2026-09-14T09:05:35.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“주주활동 점수 매겨 돈 맡기겠다” … 국민연금, 위탁운용사 평가에 메스",
-      "summary": "국민연금기금 수탁자 책임활동 설명회 수탁자 책임활동 ‘질적 평가’ 본격 도입 평가 결과 따라 자금 배정·회수 연계 스튜어드십 코드 2.0 내년 상반기 윤곽 이연임 위원장 “제재 ..",
-      "link": "https://www.mk.co.kr/news/economy/12152449",
-      "publishedAt": "2026-09-14T09:02:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "에너지위기에 '도로 석탄'1년새 발전량 15% 급증",
-      "summary": "정부가 2040년까지 석탄발전을 퇴출하겠다는 로드맵을 추진하고 있는 가운데 올해 실제 전력 시장에서는 석탄 의존도가 오히려 높아진 것으로 나타났다. 중동 전쟁으로 액화천연가스(LN..",
-      "link": "https://www.mk.co.kr/news/economy/12152446",
-      "publishedAt": "2026-09-14T09:01:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "수원역 ~ 청량리까지 30분대 … GTX-C 15일 착공",
-      "summary": "수도권 북부~서울 도심~경기 남부를 달리는 수도권광역급행철도(GTX)-C노선이 15일 착공한다고 국토교통부가 14일 밝혔다. GTX-C는 경기 양주 덕정에서 출발해 청량리와 삼성,..",
-      "link": "https://www.mk.co.kr/news/economy/12152445",
-      "publishedAt": "2026-09-14T09:01:10.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "내 집 더 멀어진 2030 … 무주택 64%→71%",
-      "summary": "집값 상승과 고금리 여파로 청년층 가운데 전월세와 공공임대로 거주하는 비중이 늘어나고 있는 것으로 나타났다. 또한 이들이 거주하는 면적은 줄어드는 추세인 반면 주거비와 이자 지출은..",
-      "link": "https://www.mk.co.kr/news/economy/12152444",
-      "publishedAt": "2026-09-14T09:01:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "투자에도 AI 활용하는 젊은부자 … \"그래도 결정은 사람이\" 76%",
-      "summary": "인공지능(AI)이 놀라운 속도로 발전하면서 투자 관련 챗봇 등 운영도 활발해지고 있지만, AI 사용에 익숙한 젊은 30·40대 부자들조차 AI가 최종 의사결정자 역할을 하기 어렵다..",
-      "link": "https://www.mk.co.kr/news/stock/12152401",
-      "publishedAt": "2026-09-14T08:55:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "3040부자 절반 '자수성가형' … \"주식 열공해 월급 수십배 불려\"",
-      "summary": "30대 후반에 총자산 40억원을 달성한 정 모씨는 국내 주식에 집중 투자해 '영&리치' 반열에 올랐다. 그는 가족과 함께 거주할 서울 지역 내 아파트 한 채만 두고 나머지 자산은 ..",
-      "link": "https://www.mk.co.kr/news/stock/12152400",
-      "publishedAt": "2026-09-14T08:55:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼성전자 4%·하이닉스 6% 급락 … 아시아 반도체 관련주에 '직격탄'",
-      "summary": "글로벌 빅테크들의 인공지능(AI) 개발 속도 조절론에 14일 아시아 주요 증시의 AI 밸류체인 관련주들이 된서리를 맞았다. AI 시설투자(CAPEX) 축소 우려에 반도체와 기판, ..",
-      "link": "https://www.mk.co.kr/news/stock/12152397",
-      "publishedAt": "2026-09-14T08:55:08.000Z"
     }
   ]
 }
