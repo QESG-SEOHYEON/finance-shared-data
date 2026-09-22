@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-22T14:16:12.086Z",
+  "updatedAt": "2026-09-22T23:23:25.190Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 7017.91,
-      "previous": 7007.72,
-      "dayChange": 10.19,
-      "dayChangePct": 0.15,
-      "monthChangePct": 4.79,
+      "current": 7007.72,
+      "previous": 6894.23,
+      "dayChange": 113.49,
+      "dayChangePct": 1.65,
+      "monthChangePct": 4.64,
       "lastUpdated": "2026-09-22T11:05:40.000Z",
       "candles": [
         {
@@ -96,10 +96,6 @@
         {
           "date": "2026-09-21",
           "close": 7007.72
-        },
-        {
-          "date": "2026-09-22",
-          "close": 7017.91
         }
       ]
     },
@@ -108,12 +104,12 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 27264.55,
+      "current": 27244.28,
       "previous": 27122.09,
-      "dayChange": 142.46,
-      "dayChangePct": 0.53,
-      "monthChangePct": 4.94,
-      "lastUpdated": "2026-09-22T14:16:10.000Z",
+      "dayChange": 122.19,
+      "dayChangePct": 0.45,
+      "monthChangePct": 4.87,
+      "lastUpdated": "2026-09-22T21:15:59.000Z",
       "candles": [
         {
           "date": "2026-08-24",
@@ -197,7 +193,7 @@
         },
         {
           "date": "2026-09-22",
-          "close": 27264.55
+          "close": 27244.28
         }
       ]
     },
@@ -206,12 +202,12 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7773.55,
+      "current": 7764.64,
       "previous": 7764.7,
-      "dayChange": 8.85,
-      "dayChangePct": 0.11,
-      "monthChangePct": 1.58,
-      "lastUpdated": "2026-09-22T14:16:11.000Z",
+      "dayChange": -0.06,
+      "dayChangePct": 0,
+      "monthChangePct": 1.46,
+      "lastUpdated": "2026-09-22T20:36:35.000Z",
       "candles": [
         {
           "date": "2026-08-24",
@@ -295,7 +291,7 @@
         },
         {
           "date": "2026-09-22",
-          "close": 7773.55
+          "close": 7764.64
         }
       ]
     }

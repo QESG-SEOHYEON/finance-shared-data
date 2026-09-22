@@ -1,8 +1,176 @@
 {
-  "updatedAt": "2026-09-22T14:16:11.710Z",
+  "updatedAt": "2026-09-22T23:23:24.810Z",
   "historyDays": 7,
-  "count": 518,
+  "count": 520,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "장 마감 뒤에도 개미들 ‘폭풍 매매’…애프터마켓 첫 주부터 하루 1조원 돌파",
+      "summary": "지난 14일 문을 연 한국거래소 애프터마켓이 개설 후 첫 일주일간 하루 평균 1조원 넘는 거래대금이 오간 것으로 나타났다. 특히, 거래소는 애프터마켓 도입 초기 발생할 수 있는 불..",
+      "link": "https://www.mk.co.kr/news/stock/12159964",
+      "publishedAt": "2026-09-22T23:22:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“대한항공, 여객 운임 상승에 아시아나 비용 마무리까지”…목표가↑",
+      "summary": "KB증권은 23일 대한항공에 대해 여객 운임의 구조적 상승과 아시아나항공 영업손익 개선 등을 고려해 목표주가를 기존 4만원에서 4만2000원으로 상향 조정했다. KB증권은 대한항공..",
+      "link": "https://www.mk.co.kr/news/stock/12159960",
+      "publishedAt": "2026-09-22T23:19:25.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "DS증권 \"포스코퓨처엠, LFP 첫 공식수주…추가수주 기대 유효\"",
+      "summary": "(서울=연합뉴스) 황철환 기자 = DS투자증권은 포스코퓨처엠[003670]이 리튬인산철(LFP) 양극재와 관련한 첫 공식 수주공시를 냈다며 &quot;추...",
+      "link": "https://www.yna.co.kr/view/AKR20260923026700008",
+      "publishedAt": "2026-09-22T23:17:58.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부산소식] 전재수 시장, 추석 앞두고 민생 현장 방문",
+      "summary": "(부산=연합뉴스) ▲ 전재수 시장, 추석 앞두고 민생 현장 방문 = 부산시는 추석을 앞둔 23일 전재수 시장이 민생 현장을 방문한다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260923023200051",
+      "publishedAt": "2026-09-22T23:03:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "이란 혁명수비대도 협상 문 열어놔? 막스 “여전히 미국이 최고 투자처”",
+      "summary": "불앤베어 플러스미국과 이란 대표단이 미국 뉴욕에서 3시간의 회담을 마쳤습니다. 도널드 트럼프 대통령이 “매우 생산적인 회담이었다”고 표현했는데요. 과연 이번에는 합의가 나올 수 있..",
+      "link": "https://www.mk.co.kr/news/stock/12159952",
+      "publishedAt": "2026-09-22T23:02:58.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "부산시 우리동네 ESG 센터, 국제환경상 2년 연속 수상",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 자원의 선순환과 노인 일자리 창출을 결합한 &apos;우리동네 사회가치경영(ESG) 센터&apos; 조성사업이 2026...",
+      "link": "https://www.yna.co.kr/view/AKR20260923022800051",
+      "publishedAt": "2026-09-22T22:53:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "은행장 선임 앞두고…이찬진 \"금융사 CEO 선정 특정계파 매몰 안돼\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092215246",
+      "publishedAt": "2026-09-22T22:30:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "타지키스탄 AI 부위원장 \"韓 ODA로 IT 파크 조성…무관세 추진\"",
+      "summary": "(서울=연합뉴스) 성도현 기자 = &quot;소버린 AI(인공지능 주권)의 핵심은 자국 영토 내에 인프라를 구축하고, 그 안에서 생산된 데이터를 철저히 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260922157900371",
+      "publishedAt": "2026-09-22T22:30:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "이찬진, 5대 은행장 인사 앞두고 \"계파나 친소관계 매몰되지 말라\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609222063i",
+      "publishedAt": "2026-09-22T22:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이찬진 \"금융 자회사 CEO 선임절차 개시 전 미흡한점 보완해라\"",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 이찬진 금융감독원장이 23일 은행지주회장을 소집해 금융회사 자회사 최고경영자(CEO) 선임과정의 공정·투명성을...",
+      "link": "https://www.yna.co.kr/view/AKR20260922185300002",
+      "publishedAt": "2026-09-22T22:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260923016400011",
+      "publishedAt": "2026-09-22T22:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미·이란 주시하며 혼조 마감…나스닥 사상 최고치 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092323296",
+      "publishedAt": "2026-09-22T22:16:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'챗GPT 제쳤다' 하루 만에 11% 급등…'이 종목' 담은 ETF는?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221309i",
+      "publishedAt": "2026-09-22T22:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"햄버거에 '이것' 넣는다고?\"…맥도날드가 꽂힌 '한국의 맛' [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609206166i",
+      "publishedAt": "2026-09-22T22:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI가 대신 쇼핑하는 시대…쇼피파이는 열고 아마존은 막았다 [김주완의 글로벌머니 X파일]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221263i",
+      "publishedAt": "2026-09-22T22:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AMD·인텔 폭등하더니…한국서 25% '불기둥' 뿜은 종목 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092213686",
+      "publishedAt": "2026-09-22T21:30:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "은행대출 2.7조 늘렸는데 한달도 못갔다…연말 ‘통곡의 벽’ 불보듯",
+      "summary": "가계대출 증가속도 가팔라 올들어 7조 늘며 한도 넘겨 8·13 대책때 총량 늘렸지만 한달새 늘어난 금액 모두 소진 “집단대출 예외로 숨통” 분석도금융당국이 실수요자 대출 절벽을 해..",
+      "link": "https://www.mk.co.kr/news/economy/12159927",
+      "publishedAt": "2026-09-22T21:21:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'BTS·임영웅' 옷 만든 남성복 거장…이번엔 '엄마 옷' 만든다 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609222024i",
+      "publishedAt": "2026-09-22T21:00:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"1000주 사면 460만원 받는다\"…역대급 배당에 두근두근",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092217601",
+      "publishedAt": "2026-09-22T21:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"집에 TV 놓기 싫었는데…\" 30대 새댁 마음 돌린 이유 [텔레비전(戰) ③]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609183258g",
+      "publishedAt": "2026-09-22T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "美주식 주문도 ‘프로처럼’…현지 온라인증권사<IBKR> 플랫폼 담은 다올 Fi PRO",
+      "summary": "글로벌 주문집행 인프라 연결 중간가 주문 등 8종 주문 지원 뉴스 80곳·애널평가 5500개 글로벌 정보·기능 풍부 강점다올투자증권이 미국 온라인 증권사 인터랙티브브로커스(IBKR..",
+      "link": "https://www.mk.co.kr/news/stock/12159873",
+      "publishedAt": "2026-09-22T14:27:31.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -18,6 +186,14 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026092221051",
       "publishedAt": "2026-09-22T13:52:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 나스닥 장중 ‘사상 최고치’ 찍었다…미·이란 회담 기대에 4개월만",
+      "summary": "미국 뉴욕증시가 22일(현지시간) 상승세로 출발했다. 기술주 중심의 나스닥지수는 장중 사상 최고치를 갈아치웠다. 투자자들은 6개월째 이어진 미국과 이란 간 전쟁을 끝낼 돌파구가 마..",
+      "link": "https://www.mk.co.kr/news/stock/12159859",
+      "publishedAt": "2026-09-22T13:39:24.000Z"
     },
     {
       "source": "한국경제",
@@ -3986,166 +4162,6 @@
       "summary": "삼성, 미수거래 대상 종목 변경없이 유지 한투, 담보로 부적절한 종목 포함…쏠림 관리도 미흡 “해외 중개사 관리·금융소비자보호 KPI도 개선필요”삼성증권과 한국투자증권이 해외주식 ..",
       "link": "https://www.mk.co.kr/news/stock/12154219",
       "publishedAt": "2026-09-16T05:26:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "BGF리테일 부산물류센터 준공…2천600억원 투자 항만 연계 거점",
-      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 16일 오후 강서구 구랑동에서 BGF리테일 부산물류센터 준공식이 열린다고 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260916018000051",
-      "publishedAt": "2026-09-15T23:09:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한투증권 \"초고압 변압기 수요 계속 증가할 것\"",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 16일 초고압 변압기 업체의 수주 성장 국면은 지속될 것이라면서 전력기기 업종에 대한 투자 의견...",
-      "link": "https://www.yna.co.kr/view/AKR20260916022000008",
-      "publishedAt": "2026-09-15T23:08:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "DB증권 \"엔화 제한적 강세 예상…자동차 주가 반등 동력\"",
-      "summary": "(서울=연합뉴스) 김유아 기자 = DB증권[016610]은 이번 주 일본은행(BOJ)의 기준금리 인상 가능성이 높아지는 가운데 엔화 강세가 국내...",
-      "link": "https://www.yna.co.kr/view/AKR20260916021500008",
-      "publishedAt": "2026-09-15T23:06:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "단통법 폐지 후 저소득층 단말기 구입비 줄고 이용료 늘어",
-      "summary": "(서울=연합뉴스) 박형빈 기자 = 지난해 7월 단말기유통구조개선법(단통법) 폐지 이후 소득 하위 가구의 단말기 구입 지출은 크게 줄었지만, 통신...",
-      "link": "https://www.yna.co.kr/view/AKR20260914142700017",
-      "publishedAt": "2026-09-15T23:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "부산시, 추석 명절 앞두고 전통시장 현장 점검",
-      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 16일 오전 전재수 부산시장이 사상구 부산새벽시장을 방문해 물가와 소비 동향을 살피고 현장 의견을 듣...",
-      "link": "https://www.yna.co.kr/view/AKR20260916017900051",
-      "publishedAt": "2026-09-15T22:53:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[밤 사이 해외 뉴스] \"기름값 또 뛴다\"…사우디 핵심 송유관 피격에 유가 109달러 폭주",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609167142i",
-      "publishedAt": "2026-09-15T22:50:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "안전자산이라더니…강달러·고금리에 밀린 금값",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609167118i",
-      "publishedAt": "2026-09-15T22:38:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "상반기 영업익 43% 줄었는데…포스코 노조 \"120시간 부분파업\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091671047",
-      "publishedAt": "2026-09-15T22:34:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "summary": "■ 서울 버스노사 임금 3.2% 인상 합의…파업 예고 철회",
-      "link": "https://www.yna.co.kr/view/AKR20260916012900011",
-      "publishedAt": "2026-09-15T22:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美 국채 금리·국제 유가 급등에 일제 하락…나스닥 0.78%↓ [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091671016",
-      "publishedAt": "2026-09-15T22:10:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"30% 상승 여력\"…실적·주주환원 기대되는 'BGF리테일'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156240i",
-      "publishedAt": "2026-09-15T22:00:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"AI에 돈 얼마나 들길래\"…빅테크가 앞다퉈 '빚' 늘리는 이유 [김주완의 글로벌 머니 X파일]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156867i",
-      "publishedAt": "2026-09-15T22:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"30만원으론 어림없네요\"…추석 앞두고 장보기 겁나는 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091670527",
-      "publishedAt": "2026-09-15T21:34:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'AI 충돌' 아모데이·젠슨 황…\"속도 조절\" vs \"시장에 맡겨라\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091670437",
-      "publishedAt": "2026-09-15T21:20:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“9월중엔 주식창 안볼랍니다”…美긴축공포에 코스피 대형주 피눈물",
-      "summary": "미국채 10년물 금리 5% 재돌파 조선·방산·전력 중후장대株 타격 FOMC·연휴 앞두고 수급 관망세 외국인은 한달새 20조원 순매도강해진 원화값 부담에 장기 금리 급등에 따른 수..",
-      "link": "https://www.mk.co.kr/news/stock/12153825",
-      "publishedAt": "2026-09-15T21:12:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'박스피'에 개미들 피말리는데…'뭉칫돈' 몰린 뜻밖의 종목",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091566361",
-      "publishedAt": "2026-09-15T21:00:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한달째 '6000 박스피' 갇힌 증시…호재에 목마르다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091566451",
-      "publishedAt": "2026-09-15T21:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스피 상장 신청한 에스텍시스템…\"인력경비에서 AI 보안으로 진화\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609130896i",
-      "publishedAt": "2026-09-15T21:00:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "종부세 완화된걸까 … 안심하기에는 이르다",
-      "summary": "9월 1일 정부안 ‘세금 인하’보다 ‘급격한 인상 속도 조절’에 가깝다지난 8월 3일 세제개편안이 발표된 이후 주택시장에서는 적지 않은 혼란이 있었다. 특히 종합부동산세 개편안은 ..",
-      "link": "https://www.mk.co.kr/news/economy/12153076",
-      "publishedAt": "2026-09-15T19:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "일본시장 눈독 들이는 한국 톱 증권사 … ‘3000만 절세계좌’에 담긴 기회",
-      "summary": "[한중일 톺아보기-189]“우리의 성장 기반과 경쟁력은 한국 시장에만 머물지 않는다.” 일본 증권사 인수를 검토 중인 미래에셋의 박현주 회장이 언제부턴가 공공연히 강조하고 있는 말..",
-      "link": "https://www.mk.co.kr/news/stock/12153152",
-      "publishedAt": "2026-09-15T19:20:00.000Z"
     }
   ]
 }
