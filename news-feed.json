@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-09-21T23:44:18.955Z",
+  "updatedAt": "2026-09-22T08:06:26.864Z",
   "historyDays": 7,
-  "count": 507,
+  "count": 514,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "HS화성, 용인세브란스병원 교수연구동·암센터 증축공사 수주",
+      "summary": "(대구=연합뉴스) 최수호 기자 = HS화성은 경기도 용인세브란스병원 교수연구동·암센터 증축 공사를 수주했다고 22일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260922169600053",
+      "publishedAt": "2026-09-22T08:00:17.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "인천경제청, 경제자유구역 지정 지연된 강화 남단 일대 점검",
+      "summary": "(인천=연합뉴스) 홍현기 기자 = 인천경제자유구역청은 올해 12월 강화도 남단 일대를 경제자유구역으로 지정하는 방안을 적극적으로 추진하고 있다고...",
+      "link": "https://www.yna.co.kr/view/AKR20260922165100065",
+      "publishedAt": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국고채 금리 혼조세…3년물 연 4.040%",
+      "summary": "(서울=연합뉴스) 22일 국고채 금리가 혼조세를 보였다.",
+      "link": "https://www.yna.co.kr/view/AKR20260922168600008",
+      "publishedAt": "2026-09-22T07:57:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "강진군의회, '반값여행' 추경 예산 20억 삭감 논란",
+      "summary": "(강진=연합뉴스) 조근영 기자 = 전남광주통합특별시 강진군의회가 &apos;반값여행&apos; 사업비 20억 원을 삭감해 논란이 되고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20260922163500054",
+      "publishedAt": "2026-09-22T07:41:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "밀양나노산단 분양률 50％ 돌파…나노·수소 첨단산업 육성 속도",
+      "summary": "(밀양=연합뉴스) 이준영 기자 = 경남 밀양나노융합국가산업단지(이하 나노산단) 산업시설용지 분양률이 50％를 넘기면서 밀양시가 나노·수소 등 미...",
+      "link": "https://www.yna.co.kr/view/AKR20260922151300052",
+      "publishedAt": "2026-09-22T07:40:58.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"AI발 수요에 전력기기 호황 지속…빅테크 투자 수익화는 과제\"",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 인공지능(AI) 확산에 따른 전력 수요 증가로 전력기기 산업의 호황이 이어질 것이라는 전망이 나왔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260922162400008",
+      "publishedAt": "2026-09-22T07:39:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "미래에셋증권, CIIS 선정 ‘플래티넘 정보제공사 어워드’ 수상",
+      "summary": "미래에셋증권은 중국투자정보유한공사(CIIS)가 주최한 2026년 글로벌 정보제공사 콘퍼런스(Global Information Vendor Conference 2026)에서 ‘플래티..",
+      "link": "https://www.mk.co.kr/news/stock/12159491",
+      "publishedAt": "2026-09-22T07:29:42.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "교보생명, 광화문서 ‘지구하다 페스티벌’…기후행동 확산 나서",
+      "summary": "교보생명이 시민 참여형 환경교육을 통해 일상 속 기후행동 확산에 나섰다. 교보생명은 지난 21일 서울 광화문광장에서 ‘제4회 지구하다 페스티벌’을 열었다고 밝혔다. 교보생명이 주최..",
+      "link": "https://www.mk.co.kr/news/economy/12159477",
+      "publishedAt": "2026-09-22T07:12:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미 반도체주 급등에도 개인은 삼전닉스 매도…코스피, 7천피 간신히 지켰다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221317i",
+      "publishedAt": "2026-09-22T07:11:20.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "AI 훈풍에도 ‘팔자’에 뒷심 떨어진 코스피…SK하이닉스 하락 마감",
+      "summary": "미국발 인공지능(AI) 훈풍에 장 초반 동반 상승했던 삼성전자와 SK하이닉스가 22일 엇갈린 성적으로 거래를 마쳤다. 삼성전자는 상승세를 지켰지만 SK하이닉스는 하락 전환했다. 코..",
+      "link": "https://www.mk.co.kr/news/stock/12159472",
+      "publishedAt": "2026-09-22T07:10:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "교대운전 땐 자동차보험 미리 확인…현금 뽑으려면 휴게소로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092200701",
+      "publishedAt": "2026-09-22T07:06:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "몰에서 풍물놀이 보고, 호텔선 윷놀이…가족과 도심 나들이 떠나요",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092200711",
+      "publishedAt": "2026-09-22T07:04:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "칠천피 넘어도 불안…'파킹형' ETF에 한 달 새 1.2조 뭉칫돈",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221280i",
+      "publishedAt": "2026-09-22T07:04:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092200761",
+      "publishedAt": "2026-09-22T07:00:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "이형일 부총리, 임명 직후 첫 간부회의…“경제 리스크 원점 재점검”",
+      "summary": "李, 별도 취임식 없이 업무 연속성 당부 “민생 안정의 기본은 물가 안정” 재강조 “경제팀, 양극화 완화 컨트롤타워 역할” 실물·부동산·금융·외환시장 전반 점검 대미투자 등 현안..",
+      "link": "https://www.mk.co.kr/news/economy/12159408",
+      "publishedAt": "2026-09-22T06:56:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[포토] 코스피 7000선 사수",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221376i",
+      "publishedAt": "2026-09-22T06:56:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "이형일 \"부동산·금융·외환 리스크 원점 재점검…부처협업 강화해야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221333i",
+      "publishedAt": "2026-09-22T06:50:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“185만원 긁었다 취소했는데 175만원 환불”…해외 카드결제 취소의 함정",
+      "summary": "해외에서 신용카드로 결제했다가 취소했는데 돈이 덜 돌아왔다면 어떻게 해야 할까. 결제와 취소 사이 환율이 움직이면서 발생한 ‘환차손’일 가능성이 있다. 문제는 소비자가 이 같은 사..",
+      "link": "https://www.mk.co.kr/news/economy/12159396",
+      "publishedAt": "2026-09-22T06:47:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피, 2%대 상승분 반납…7000선 가까스로 지켜",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092212936",
+      "publishedAt": "2026-09-22T06:40:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "글로벌세아 아이티 세아학교, 대입 국가고시 북동부 1위 기록",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221315i",
+      "publishedAt": "2026-09-22T06:38:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "미 금리 인상에도 7000선 고지 회복한 국장…“변동성 줄고 기초체력 양호”",
+      "summary": "AI 이익 모멘텀 강하다고 분석 VKOSPI도 95→44%로 하락 “유가·금리 불안은 변수 요인”지난주 미국 연방준비제도의 금리 인상에도 불구하고 국내 증시가 큰 영향 없이 700..",
+      "link": "https://www.mk.co.kr/news/stock/12159387",
+      "publishedAt": "2026-09-22T06:35:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "주가 급락했는데 '배당수익률 7%'…이 종목의 역발상 투자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609220999i",
+      "publishedAt": "2026-09-22T06:35:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "청년·고령층 일자리 놓고 충돌? ... 김지형 경사노위위원장 “300인 숙의서 직무 재설계에 공감”",
+      "summary": "김지형 경사노위위원장 인터뷰 2017년 이후 시민 참여단 토의 첫 시민공론화에 277명 참여 세대갈등보다 이중구조에 주목 연공급 개편·직무 재설계 공감 “입법이행 안되면 무용지물..",
+      "link": "https://www.mk.co.kr/news/economy/12159385",
+      "publishedAt": "2026-09-22T06:33:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "세종시장 방문한 임기근 국조실장…\"물가 안정 힘쓸 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221282i",
+      "publishedAt": "2026-09-22T06:33:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"950만원인데 벌써 동났다\"…5시간 만에 완판된 편의점 상품",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221278g",
+      "publishedAt": "2026-09-22T06:29:38.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "하닉 던지고 삼성전기 담았다…초고수, 급등한 기판주는 엇갈린 매매[주식 초고수는 지금]",
+      "summary": "삼성전기, 삼전, 두에빌 순매수 하닉, 롯데에너지머티리얼은 순매도주식 투자 수익률 상위 1% 초고수들이 22일 오후 삼성전기를 가장 많이 사들이고 SK하이닉스를 가장 많이 팔아치운..",
+      "link": "https://www.mk.co.kr/news/stock/12159373",
+      "publishedAt": "2026-09-22T06:22:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "휠체어 이동길 넓힌 신협·SK·위즈온…대전시 공공서비스로",
+      "summary": "저상버스 탑승예약 서비스 휠체어 이용자 이동편의 제고 민간 사회공헌의 성공사례 주목신협사회공헌재단과 SK행복나눔재단, 위즈온협동조합이 2022년부터 대전시와 추진해온 휠체어 이용자..",
+      "link": "https://www.mk.co.kr/news/economy/12159369",
+      "publishedAt": "2026-09-22T06:18:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "금융위원장 앞에서 아이돌 춤춘 로봇…“피지컬 AI 지역거점 지원”",
+      "summary": "정부, 지자체·정책금융·지방은행 협력로보티즈가 만든 휴머노이드 로봇이 아이돌 코르티스가 부른 ‘레드 레드’ 노래에 맞춰 격렬한 안무를 추기 시작했다. 22일 한국산업은행에 마련된 ..",
+      "link": "https://www.mk.co.kr/news/economy/12159367",
+      "publishedAt": "2026-09-22T06:18:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘당신이 잠든 사이’ 19조원짜리 대박 나왔다 … 메타의 ‘뮤즈’가 코스피도 깨울까",
+      "summary": "메타 11% 불기둥, 코스피에 던진 메시지2026년 9월 22일 새벽 미국 월스트리트에 세 개의 불기둥이 솟아올랐다. 그 기둥은 ARM·인텔·메타플랫폼(메타) 주가다. 이날 ‘반도..",
+      "link": "https://www.mk.co.kr/news/business/12159358",
+      "publishedAt": "2026-09-22T06:08:37.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "디에스엠 ‘9.81파크 제주’, 누적 레이싱 550만회 돌파… 지구 212바퀴 달렸다",
+      "summary": "차세대 레저 플랫폼 기업 디에스엠(DSM)은 ‘9.81파크 제주’의 그래비티 레이싱 누적 주행거리가 849만km를 돌파했다고 22일 밝혔다. 회사 측에 따르면 2019년 가오픈 이..",
+      "link": "https://www.mk.co.kr/news/stock/12159356",
+      "publishedAt": "2026-09-22T06:07:56.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3874,190 +4114,6 @@
       "summary": "AI인프라株, 비관 해석 필요없어 반도체 쏠림·독주 속도는 덜해져 “은행·보험 등 비중 분산투자를”이달 들어 코스피가 7000선을 넘긴 뒤 하락과 상승을 반복하며 6600선~680..",
       "link": "https://www.mk.co.kr/news/stock/12153332",
       "publishedAt": "2026-09-15T08:07:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“거래소 대주주 지분 규제는 추후 보완…디지털기본법 서둘러 시행해야”",
-      "summary": "정무위 강준현 민주당 의원 인터뷰 “원화 스테이블코인 발행·유통 쟁점 정리돼” 은행 50%+1주 컨소시엄서 핀테크 대주주 논의 “두나무·네이버 합치면 구글과 글로벌 경쟁” 내년 코..",
-      "link": "https://www.mk.co.kr/news/stock/12153124",
-      "publishedAt": "2026-09-15T08:01:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“수십만원 웃돈도 줬는데, 이젠 안신어요”…주가 79% 폭락한 나이키의 굴욕",
-      "summary": "S&P100서 18년 만에 제외 글로벌 매출 2년 새 9.7%↓ 나이키코리아도 3년 연속 감소한때 발매일이면 매장 앞에 긴 줄이 늘어섰고, 인기 운동화에는 수십만원의 웃돈이 붙었다..",
-      "link": "https://www.mk.co.kr/news/business/12153265",
-      "publishedAt": "2026-09-15T07:23:42.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "10돌 맞은 마을세무사 … 전국 누비며 무료 세무상담",
-      "summary": "세무사회·행안부 돈암시장 현장 방문 구재이 회장 “행안부·지방정부와 협력” 시장 상인과 주민 세금 고민 현장 해결 2016년 도입 이후 지방행정 조력자 역할한국세무사회(회장 구재..",
-      "link": "https://www.mk.co.kr/news/economy/12153243",
-      "publishedAt": "2026-09-15T07:14:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금리·AI 쌍악재, 주식 정리할까 … “쫄지마” 외친 전문가들",
-      "summary": "美 금리· AI 속도조절 논란 진단미국 금리와 인공지능(AI)이라는 두 개의 축이 동시에 흔들리면서 국내 증시 투자자들의 고민이 깊어지고 있다. 5%를 넘어선 미국 10년물 국채금..",
-      "link": "https://www.mk.co.kr/news/stock/12153239",
-      "publishedAt": "2026-09-15T07:14:28.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“AI가 일자리 양극화 키웠다” … 에이전틱 AI 일자리 88% 서울·경기로",
-      "summary": "한은, BOK 이슈노트 생성형 AI 일자리 19.9만명 수도권행 비수도권 실질임금 정체 또는 소폭 하락 사람 대체할 피지컬 AI 경북·전남서 높아 “전문 인력 육성시 수도권 쏠림..",
-      "link": "https://www.mk.co.kr/news/economy/12153236",
-      "publishedAt": "2026-09-15T07:12:18.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "JC파트너스, 굿리치 투자 4년 만에 4000억원 회수",
-      "summary": "한승표 창업자, 콜옵션 행사 JC, 2022년 1850억원에 인수 국내 PE GA 투자 성공 첫 사례[본 기사는 09월 15일(16:11) 매일경제 자본시장 전문 유료매체인 ‘레이..",
-      "link": "https://www.mk.co.kr/news/stock/12153235",
-      "publishedAt": "2026-09-15T07:11:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"명절 과일도 이색 과일이 대세\"…스미후루, 과일세트 '반값'에",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156258g",
-      "publishedAt": "2026-09-15T07:09:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "초고수, 하락 전환한 삼성전자 계속 담았다…하이닉스는 팔아 [주식 초고수는 지금]",
-      "summary": "수익률 상위 1% 투자자 15일 오후 2시30분 거래동향 삼성전자 오전 이어 순매수 1위 두산에너빌리티 2위·PSK홀딩스 3위 SK하이닉스는 순매도 3위주식 투자 수익률 상위 1%..",
-      "link": "https://www.mk.co.kr/news/stock/12153228",
-      "publishedAt": "2026-09-15T07:08:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "연준의 금리인상, 쉽게 생각하면 안된다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609155865i",
-      "publishedAt": "2026-09-15T07:08:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "메가특구 ‘주52시간 예외’...정부 ‘원포인트 대화’ 제안",
-      "summary": "메가특구 노동특례 대화 제안 화이트칼라 이그젬션 등 핵심 쟁점 노동계 “주 4일제 맞불”·반도체 “환영” 민주노총, 대화 참여 유보적 태도 고수 김영훈 장관 “개인적으론 특례 부정..",
-      "link": "https://www.mk.co.kr/news/economy/12153224",
-      "publishedAt": "2026-09-15T07:07:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "탈모株 한 달간 고공행진…신약·건보·AI '삼박자'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609155797i",
-      "publishedAt": "2026-09-15T07:04:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스 또 반등 못했는데…주가 15%씩 뛴 소부장 종목들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156145i",
-      "publishedAt": "2026-09-15T07:03:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미래에셋, 4천억 손실 vs 8천억 이익…너무 다른 실적 전망",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609155800i",
-      "publishedAt": "2026-09-15T07:03:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "블루어드, '2026 대한민국 일자리 으뜸기업' 선정",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156214i",
-      "publishedAt": "2026-09-15T07:02:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[장관 인사청문회] 이형일 “경제팀 원팀 이끌겠다”...이소영 “‘국가창업시대 열겠다’",
-      "summary": "이형일 경제부총리 후보자 “올 3% 성장, 소득 4만달러” 자신감 우주항공 등 7대 첨단기술 기반 마련 아파트 17년 보유, 4개월 거주 지적 증인 채택 불발 청문회서 여야 신경..",
-      "link": "https://www.mk.co.kr/news/economy/12153212",
-      "publishedAt": "2026-09-15T07:00:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "K자본시장 매력 전 세계에 알린다…'코리아 프리미엄 위크 2026' 개최",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156087i",
-      "publishedAt": "2026-09-15T06:57:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美 국채금리 상승에 3조 던진 외국인…코스피 하락 마감",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091561476",
-      "publishedAt": "2026-09-15T06:43:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] 환율 급락에…기업들 사업전략 다시 짠다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609155954i",
-      "publishedAt": "2026-09-15T06:43:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "재생에너지용 금융 상품 나왔다…H에너지, 연 9% 태양광 투자 상품 출시",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156127i",
-      "publishedAt": "2026-09-15T06:41:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "주담대 변동금리 ‘숨고르기’…넉 달 연속 오르던 코픽스 동결",
-      "summary": "8월 신규취급액 코픽스 3.18% 유지 변동형 상품 몰린 차주들 ‘일단 안도’ 5대銀 주담대 금리 상단은 7.29%로은행권 주택담보대출 변동금리 기준이 되는 코픽스(COFIX·자금..",
-      "link": "https://www.mk.co.kr/news/economy/12153166",
-      "publishedAt": "2026-09-15T06:36:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "기업은행, 변동형 주담대 재개…대출제한 조치 속속 풀린다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609155955i",
-      "publishedAt": "2026-09-15T06:33:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "SK인텔릭스 '나무엑스', 말레이시아 진출…글로벌 웰니스 로봇 시장 공략 본격화",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156102i",
-      "publishedAt": "2026-09-15T06:33:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 코레일 계약문건 보니…전동차 계약해지·디젤차는 가격상승 왜",
-      "summary": "2021년후 현대로템 계약액 비중 68.5% 노후차 대체발주한 타사 전동차 계약해지 디젤전기기관차 가격 3년만에 25% 급등 김미애 의원 “계약해지건, 국감서 물을것”한국철도공사..",
-      "link": "https://www.mk.co.kr/news/economy/12153114",
-      "publishedAt": "2026-09-15T05:57:51.000Z"
     }
   ]
 }
