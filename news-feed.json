@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-09-23T14:34:06.554Z",
+  "updatedAt": "2026-09-23T23:21:46.860Z",
   "historyDays": 7,
-  "count": 510,
+  "count": 507,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "우수관 공사 굴착기 작업 중 사망사고…공사 관계자들 집유",
+      "summary": "(제주=연합뉴스) 전지혜 기자 = 우수관로 공사 현장에서 굴착기 작업 중 발생한 사망사고 관련해 공사 관계자들이 징역형·금고형 집행유예를 선고받...",
+      "link": "https://www.yna.co.kr/view/AKR20260923109200056",
+      "publishedAt": "2026-09-23T23:10:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"이렇게 비싸지 않은데\"…집값 과하게 오르는 이유 '담합'",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 최근 5년간 집값 담합 관련 신고가 600건 넘게 접수된 것으로 집계됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260923084000003",
+      "publishedAt": "2026-09-23T23:05:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "10년물 5.1% 돌파…금리 주시하는 트럼프 [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609244545i",
+      "publishedAt": "2026-09-23T23:01:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "저가커피 공세 속에…본사 매출 464% 뛸 때 점주는 10% 늘어",
+      "summary": "(세종=연합뉴스) 송정은 기자 = 국내 커피 프랜차이즈 시장에서 출점 경쟁이 격화하며 주요 브랜드 가맹점 수가 최근 3년 새 40% 넘게 급증했...",
+      "link": "https://www.yna.co.kr/view/AKR20260923193600002",
+      "publishedAt": "2026-09-23T23:01:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "관세·반도체 협상 어떻게 되나…미중 정상회담 투자자 관전 포인트",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233801i",
+      "publishedAt": "2026-09-23T23:00:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "훈풍 부는 가상자산 시장…핵심 이슈와 투자전략 살펴보니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233719i",
+      "publishedAt": "2026-09-23T23:00:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "군산시, 착한가격업소 신규 모집…맞춤형 혜택 제공",
+      "summary": "(군산=연합뉴스) 김진방 기자 = 전북 군산시는 오는 28일부터 다음 달 8일까지 하반기 착한가격업소를 신규 모집한다고 24일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260923051400055",
+      "publishedAt": "2026-09-23T23:00:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "흔들리는 글로벌 증시…연내 꼭 확인해야 할 3가지 이벤트",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233810i",
+      "publishedAt": "2026-09-23T23:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'운용 경력 25년' 베테랑 조언…\"이 때 되면 과감히 매도해야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233708i",
+      "publishedAt": "2026-09-23T23:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“과세 없이 연 19% 더 얹어드립니다”…화제의 적금, 내달 또 나온다",
+      "summary": "청년미래적금, 내달 7일부터 가입신청 청년도약계좌 가입자, 갈아탈 수 있어청년이라면 눈여겨볼 만한 ‘고금리 통장’이 다음달 다시 나온다. 정부가 납입액에 일정 비율의 기여금을 얹어..",
+      "link": "https://www.mk.co.kr/news/economy/12160791",
+      "publishedAt": "2026-09-23T22:52:40.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[부고] 문찬걸(IBK투자증권 금융소비자보호본부장)씨 모친상",
+      "summary": "▲ 박부강씨 별세, 문희봉씨 배우자상, 문찬걸(IBK투자증권 금융소비자보호본부장)·문인걸·문혜경(전북서부보훈지청 보훈과장)씨 모친상, 김지혜·최...",
+      "link": "https://www.yna.co.kr/view/AKR20260924014800008",
+      "publishedAt": "2026-09-23T22:44:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "국채 금리 급등·중동 정세 불안에 하락 마감…나스닥 1%대↓ [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092446887",
+      "publishedAt": "2026-09-23T22:43:39.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "추석 연휴 앞두고 '올빼미 공시' 줄줄이…매각 무산·상폐 우려",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 추석 연휴를 하루 앞두고 증시 마감 후 투자자들이 주목할 만한 상장사 공시가 나오는 이른바 &apos;올빼미 공시&apos;가 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260924013300008",
+      "publishedAt": "2026-09-23T22:38:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“국장 닷새 쉴 동안 내 돈은 안 쉰다”…추석 연휴 서학개미가 주목할 일정은",
+      "summary": "美 경기 가늠할 지표 줄줄이 ‘코스트코’ 실적도 주요 변수 연휴 뒤 변동성 확대 가능성추석을 맞아 국내 증시가 잠시 쉬어가지만 서학개미들의 긴장감은 여전하다. 연휴 기간 미국 증시..",
+      "link": "https://www.mk.co.kr/news/stock/12160780",
+      "publishedAt": "2026-09-23T22:02:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"GPU를 원유처럼 거래\"…CME, 엔비디아 H100·B200 선물 출시 임박 [김주완의 글로벌머니 X파일]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609221656i",
+      "publishedAt": "2026-09-23T22:00:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“추석때 주식 얘기 꺼내도 되겠죠?”…일단 7000은 지킨 코스피",
+      "summary": "7080.92 마감…두달새 최고치 외인·기관 매수에 장초반 상승 개인 1조 매도하며 상승분 반납 추석 이후 반도체 대형 이벤트 개인 투자자 차익실현 나서코스피가 연휴 휴장을 앞둔 ..",
+      "link": "https://www.mk.co.kr/news/stock/12160772",
+      "publishedAt": "2026-09-23T21:22:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "유가↑·금리↑ 3대지수 하락···하워드막스 “미국주식 팔지마라”[월가월부]",
+      "summary": "23일(현지시간) 마감한 뉴욕증시는 국채금리와 국제유가가 치솟으면서 일제히 하락했다. 이날 뉴욕증시에서 다우지수는 전날보다 0.68% 하락했다. S&P500지수와 나스닥 지수도 각..",
+      "link": "https://www.mk.co.kr/news/stock/12160770",
+      "publishedAt": "2026-09-23T21:13:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'한국 드라마서 봤어요' 외국인 몰리는 곳이…'대박' 터졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092339561",
+      "publishedAt": "2026-09-23T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "갭투자 꿈도 못꿨는데 … 토허제 지역인데 가능하다고?",
+      "summary": "실거주 유예 1년 연장의 파급 효과는지난 17일, 정부는 보도자료를 통해 토지거래허가구역 내 실거주 유예를 1년 더 연장한다고 밝혔다. 이를 통해 실거주 원칙은 유지하면서 임대 중..",
+      "link": "https://www.mk.co.kr/news/economy/12159633",
+      "publishedAt": "2026-09-23T20:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“월급은 올랐는데 왜 더 가난해졌지?” … 하위 20%에 벌어진 ‘자산의 역설’",
+      "summary": "소득이 늘면 자산도 함께 늘어날까요. 당연해 보이지만 실제 데이터는 그렇게 단순하지 않습니다. 같은 기간 소득이 늘더라도 어떤 가구는 자산과 순자산이 더 빠르게 불어나고, 어떤 가..",
+      "link": "https://www.mk.co.kr/news/economy/12160347",
+      "publishedAt": "2026-09-23T19:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "덥석 샀다가 20년 물렸다고?…“금값 20% 빠진 지금, 1년간 나눠 사라”",
+      "summary": "美 금리 인상 이후 금 투자 주목해야 할 이유지난주 미 연방준비제도가 2023년 이후 처음으로 기준금리를 인상하며 지정학적 불안과 에너지 가격 반등이 촉발한 ‘끈적한 인플레이션’에..",
+      "link": "https://www.mk.co.kr/news/stock/12160305",
+      "publishedAt": "2026-09-23T19:30:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609244510i",
+      "publishedAt": "2026-09-23T15:56:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 공급압박속 9월 기업활동 PMI 58.4 …5년만에 최고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609244494i",
+      "publishedAt": "2026-09-23T15:18:48.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "자동매매로 코인 시세조종…거래량 90% 이상 부풀린 운영사도 덜미",
+      "summary": "금융위, 불공정거래 4건 고발·수사기관 통보 친형제 각각 시세조종…타인 계정 동원 사례도자동매매 프로그램으로 가상자산 거래가 활발한 것처럼 꾸며 투자자를 유인하고, 가격을 끌어올린..",
+      "link": "https://www.mk.co.kr/news/stock/12160717",
+      "publishedAt": "2026-09-23T15:09:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "메타 '뮤즈AI'가 스테이블코인 키운다 [박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609234485i",
+      "publishedAt": "2026-09-23T14:59:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美'경유수출중단' 자충수 될수도…에너지장관,석유업계 반발",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609234483i",
+      "publishedAt": "2026-09-23T14:45:39.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3850,238 +4058,6 @@
       "summary": "두산에너빌리티·산일전기 등 전력인프라株 삼성전자·삼성전자우·성호전자 차익실현국내 증시에서 수익률 상위 1%에 해당하는 ‘주식 초고수’들이 17일 오후 SK하이닉스와 원전·전력 인프..",
       "link": "https://www.mk.co.kr/news/stock/12155428",
       "publishedAt": "2026-09-17T06:15:49.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한투증권 \"미 금리인상 후 환율 상승했으나 추세 전환은 아냐\"",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 17일 원/달러 환율이 미국 연방공개시장위원회(FOMC) 이후 상승했으나 추세 전환은 아니라고 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260917028600008",
-      "publishedAt": "2026-09-16T23:21:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "식약처, '부당광고·불법유통' 치약·화장품·의료기 308건 적발",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 식품의약품안전처는 추석을 앞두고 수요가 증가할 것으로 예상되는 온라인몰 판매 제품을 점검한 결과 부당 광고와 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260917028700017",
-      "publishedAt": "2026-09-16T23:19:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI 개발 늦추자더니…오픈AI·앤트로픽 내부 갈등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609179994i",
-      "publishedAt": "2026-09-16T23:17:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"롯데에너지머티리얼즈, 모든 전방산업 수요 증가 중…목표가↑\"-NH",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091799906",
-      "publishedAt": "2026-09-16T23:16:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“NAVER, 디지털자산 규제화 지연에 주가 휘청…지금이 매수 기회”",
-      "summary": "대신증권은 17일 NAVER에 대해 사업 가시화 지연에 따른 하방 압력을 고려한 투자전략을 적용할 때라며 투자의견 ‘매수’, 목표주가 32만원을 유지했다. 대신증권은 더디게 진행되..",
-      "link": "https://www.mk.co.kr/news/stock/12154985",
-      "publishedAt": "2026-09-16T23:11:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"제일기획, 올해 실적 추정치 하향…목표가↓\"-신한",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091799846",
-      "publishedAt": "2026-09-16T23:10:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "데이터센터는 2년, 전력 연결은 7년…유럽 AI 병목",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609179933i",
-      "publishedAt": "2026-09-16T23:07:41.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[마켓뷰] 코스피, 美 매파적 금리인상에 변동성 확대 전망",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 코스피는 17일 미국 연방준비제도(Fed·연준)의 기준금리 인상과 매파적 메시지에 하방 압력을 받을 것으로 보...",
-      "link": "https://www.yna.co.kr/view/AKR20260917025000008",
-      "publishedAt": "2026-09-16T23:05:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[밤 사이 해외뉴스 영상] 호르무즈 해협 장기 봉쇄…WTI 106달러 돌파",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609179938i",
-      "publishedAt": "2026-09-16T23:03:25.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“LG디스플레이, 환율·수요 부담…3분기 수익성 체질은 개선” 목표가↓",
-      "summary": "대신증권은 17일 LG디스플레이에 대해 “3분기 수익성 체질은 개선했으나 환율 및 수요는 부담”이라며 목표주가를 기존 1만7000원에서 1만2000원으로 29.4% 하향 조정했다...",
-      "link": "https://www.mk.co.kr/news/stock/12154979",
-      "publishedAt": "2026-09-16T23:02:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "윤종신 노래 하나 두고 '돈 문제'…같은 곡인데 무슨 일이",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091692771",
-      "publishedAt": "2026-09-16T23:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "바닥론 솔솔 나오는 철강주…향후 이벤트 및 추천종목은?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609168910i",
-      "publishedAt": "2026-09-16T23:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "부산, 국제금융센터지수 세계 22위…역대 최고 순위",
-      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 세계 주요 도시의 금융 경쟁력을 측정하는 대표 지수인 &apos;국제금융센터지수(GFCI)&apos; 평가에서 전 세계...",
-      "link": "https://www.yna.co.kr/view/AKR20260917023700051",
-      "publishedAt": "2026-09-16T22:58:37.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[밤 사이 해외뉴스] 미 Fed, 트럼프 요구 물리치고 3년 만에 금리 인상 결정",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609179909i",
-      "publishedAt": "2026-09-16T22:49:36.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "서울 강서구 30일 '취업박람회'…29개 기업 참여",
-      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 강서구(구청장 진교훈)는 오는 30일 오전 10시부터 오후 4시까지 서울창업허브M+(마곡중앙8로 14)에...",
-      "link": "https://www.yna.co.kr/view/AKR20260917022100004",
-      "publishedAt": "2026-09-16T22:43:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI 시장 HBM 독주 계속될 듯…\"CXL로 대체할 수 없어\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091798777",
-      "publishedAt": "2026-09-16T22:43:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "3년 만에 금리인상·워시 매파 발언에 하락 마감…다우 1.2%↓[뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091798786",
-      "publishedAt": "2026-09-16T22:33:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "BNK금융, 회장·자회사 대표 승계 절차 개선…\"공정성 강화\"",
-      "summary": "(부산=연합뉴스) 오수희 기자 = BNK금융그룹이 지주 회장을 비롯한 자회사 대표 선임 절차에 공정성과 투명성을 크게 강화하는 등 경영 승계 절...",
-      "link": "https://www.yna.co.kr/view/AKR20260916166000051",
-      "publishedAt": "2026-09-16T22:30:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'피크아웃' 우려 덜어낸 초고압 변압기…전력기기 3사 중 뭘 사야할까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609168828i",
-      "publishedAt": "2026-09-16T22:22:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"같은 삼성전자 협력사인데\" … 수익률 47% VS -19% 갈린 이유는 [대기업 협력사 전수분석]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609179699i",
-      "publishedAt": "2026-09-16T22:22:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금리인상에 평온했던 증시, 왜 워시 기자회견에 하락했나",
-      "summary": "불앤베어 플러스시장이 숨을 죽이며 지켜봤던 9월 FOMC가 끝났습니다. 예상대로 25bp 금리인상이었습니다. 그런데 시장이 보여준 모습이 흥미롭습니다. 금리인상 결과를 담담하게 해..",
-      "link": "https://www.mk.co.kr/news/stock/12154963",
-      "publishedAt": "2026-09-16T21:35:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "트럼프, 금리 올린 워시에 분노…“美 금리 1% 이하여야, 빨리 낮춰라”",
-      "summary": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트..",
-      "link": "https://www.mk.co.kr/news/world/12154948",
-      "publishedAt": "2026-09-16T21:02:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“달러는 이제 재미없네요”…환테크 고수들 몰리는 ‘엔화예금’",
-      "summary": "5대銀 엔화예금 1.1조엔 이달에만 478억엔 급증 달러예금은 72억弗 감소 엔화값 ‘850원대’ 진입에 “쌀 때 사두자” 수요 몰려엇갈린 환율 전망에 ‘환테크’ 수요의 무게중심이..",
-      "link": "https://www.mk.co.kr/news/economy/12154934",
-      "publishedAt": "2026-09-16T20:39:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "피터 린치도 빌었다 … 87년 폭락 장에 찾았던 아일랜드 ‘소원 명당’ 정체?",
-      "summary": "딩동. 여행컬리 새벽배송 왔습니다. 이번 주 신선한 여행 소식, 산지직송으로 보내드립니다. 1. 모닝 ‘여행 혈당’ 체크 : 여행 혈당 스파이크 주의보 ㅇ 네팔 여행…4개 주 특별..",
-      "link": "https://www.mk.co.kr/news/stock/12153521",
-      "publishedAt": "2026-09-16T20:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "워시 “인플레 너무 높아” 추가 인상 예고…美증시·채권 약세",
-      "summary": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해..",
-      "link": "https://www.mk.co.kr/news/world/12154906",
-      "publishedAt": "2026-09-16T20:07:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“대미 투자하느라 달러빚 냈는데”…금리발작에 떨고있는 업종은",
-      "summary": "美금리 고공행진에 재계 비상 달러 빚내서 현지투자 확늘린 배터리업계, 이자비용 부담↑ 항공·석유화학도 예의주시고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급..",
-      "link": "https://www.mk.co.kr/news/economy/12154900",
-      "publishedAt": "2026-09-16T19:54:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "코스닥 시총 상위 10곳 중 7곳이었는데…바이오 기업, 이제 한 곳만 남았다",
-      "summary": "제약·바이오株 주가 급락세 ETF 6개월 수익률 ‘반토막’ 코스닥 톱10에 알테오젠뿐 고금리 충격에 자금 빠져나가 개별기업 악재까지 겹쳐 발목반도체·빅테크와 함께 대표적인 성장 ..",
-      "link": "https://www.mk.co.kr/news/stock/12154897",
-      "publishedAt": "2026-09-16T19:51:22.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "9월엔 미장 신경꺼라? … ‘선거 7주전’부터는 다릅니다",
-      "summary": "증시 계절성 분석과 대응법주식시장에서는 특정 시기에 주가가 반복적으로 강하거나 약한 흐름을 보이는 경우가 많다. 투자업계에서는 이를 계절 효과(Seasonality)라고 부른다. ..",
-      "link": "https://www.mk.co.kr/news/stock/12154403",
-      "publishedAt": "2026-09-16T19:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "3년만에 금리 올린 연준…연내 추가 인상 예고",
-      "summary": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 16명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격..",
-      "link": "https://www.mk.co.kr/news/world/12154882",
-      "publishedAt": "2026-09-16T18:09:36.000Z"
     }
   ]
 }
