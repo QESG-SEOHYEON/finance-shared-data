@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-09-24T07:59:21.824Z",
+  "updatedAt": "2026-09-24T14:32:21.922Z",
   "historyDays": 7,
-  "count": 501,
+  "count": 479,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "유가 뛰자 채권·주식 동반 충격…개장 전 밀린 나스닥 선물[뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609245297i",
+      "publishedAt": "2026-09-24T13:24:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“추석연휴 급증하는 추돌사고”…사고건수는 줄지만 피해 인원은 증가",
+      "summary": "졸음운전과 안전거리 미확보 등 원인 중앙선 침범과 음주운전 사고도 증가 차량 점검·긴급출동 서비스 활용 가능보험업계는 추석 연휴 기간 졸음 운전 등으로 추돌사고가 늘어나는 만큼 사..",
+      "link": "https://www.mk.co.kr/news/economy/12161078",
+      "publishedAt": "2026-09-24T12:52:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609245261i",
+      "publishedAt": "2026-09-24T11:53:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "카드 소비로 본 병원 이용…내과 최다·성형외과 급증",
+      "summary": "의료비 지출 2년 새 16.9% 늘어 성형외과 방문은 22.4% 증가 저출생 여파에 소아청소년과는 25% 감소 수도권 대형병원 이용객 절반은 지방 거주자지난해 국내 소비자들의 병원..",
+      "link": "https://www.mk.co.kr/news/economy/12161000",
+      "publishedAt": "2026-09-24T10:45:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609245190i",
+      "publishedAt": "2026-09-24T10:13:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
+      "summary": "(베이징=연합뉴스) 정성조 특파원 = 중동 정세 긴장이 지속되면서 다소 떨어졌던 중국의 국내 유가가 이란 전쟁 발발 직후 수준으로 다시 상승했다...",
+      "link": "https://www.yna.co.kr/view/AKR20260924045200083",
+      "publishedAt": "2026-09-24T09:09:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"AI 속도 조절론은 기우 … 반도체 중심 상승세 계속\"",
+      "summary": "추석 연휴 이후 국내외 증시가 단기 불확실성을 소화한 뒤 4분기 반등을 시도할 것이라는 주요 증권사 리서치센터장들의 전망이 나왔다. 고금리 장기화 우려와 중동 지정학적 리스크가 증..",
+      "link": "https://www.mk.co.kr/news/stock/12160968",
+      "publishedAt": "2026-09-24T09:03:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092184316",
+      "publishedAt": "2026-09-24T08:26:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성전자 내년 63만원 vs 27만원”…증권가 전망 극과 극, 누구 말이 맞나",
+      "summary": "영업익 전망 내년부터 차이 확대 유안타 590조 vs 키움 346조 HBM發 공급부족 장기화 여부 관건삼성전자의 내년 실적을 놓고 증권가 전망이 크게 엇갈리고 있다. 올해 영업이..",
+      "link": "https://www.mk.co.kr/news/stock/12160935",
+      "publishedAt": "2026-09-24T08:19:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233010H",
+      "publishedAt": "2026-09-24T07:53:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609245131i",
+      "publishedAt": "2026-09-24T07:53:09.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3746,270 +3834,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202609172437i",
       "publishedAt": "2026-09-17T14:45:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한동안 코스피 잠잠했는데\"…美 금리 인상에 개미 '초긴장' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091718256",
-      "publishedAt": "2026-09-17T13:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "단종된 '추억의 라면'도 뚝딱…1만 권 '스프 처방전'의 비밀 [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609179876g",
-      "publishedAt": "2026-09-17T13:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "삼표그룹, 서울국제어린이영화제 후원…영유아 상영관에 1100명 몰려",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609172394i",
-      "publishedAt": "2026-09-17T12:47:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "카니 \"EU와 동맹 긍정적\"…트럼프와의 전쟁서 우군 얻어",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609172362i",
-      "publishedAt": "2026-09-17T12:47:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "한솔제지, 美 라벨시장 공략…접착제 덜 쓰는 '백배리어' 기술 공개",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609172385i",
-      "publishedAt": "2026-09-17T12:35:21.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "영국 금리 동결했지만…BOE 총재 \"금리 인상 가능성\" 시사(종합)",
-      "summary": "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 17일(현지시간) 기준금리를 연 3.75%로 동결했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260917195852085",
-      "publishedAt": "2026-09-17T12:29:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한국형 공포지수, 두달반새 반토막…패닉 걷혔지만 여전히 높아",
-      "summary": "6월말 96 에서 17일 43으로 뚝 그래도 작년 연중 최고치와 비슷 금감원 “거래시간 연장·美 금리인상에 변동성 재확대 가능...관리강화”‘한국판 공포지수’로 불리는 코스피20..",
-      "link": "https://www.mk.co.kr/news/stock/12155850",
-      "publishedAt": "2026-09-17T12:00:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"18년 만에 쫓겨나는 신세\"…잘 나가던 나이키, 무슨 일이? [갓신상]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171641g",
-      "publishedAt": "2026-09-17T12:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "민주노총, 메가특구 사회적 대화 참여키로…코로나19 이후 6년만",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 전국민주노동조합총연맹(민주노총)이 정부가 제안한 메가특구특별법 노동 특례 논의를 위한 &apos;원 포인트 사회적 대화...",
-      "link": "https://www.yna.co.kr/view/AKR20260917102700530",
-      "publishedAt": "2026-09-17T11:56:44.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[2보] 영국, 금리 3.75%로 동결…BOE 총재 \"금리 인상 가능성\"",
-      "summary": "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 17일(현지시간) 기준금리를 연 3.75%로 동결했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260917195851085",
-      "publishedAt": "2026-09-17T11:14:53.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "신한은행 인천시 1금고 수성…\"지역 발전에 최선\"(종합)",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 내년부터 4년간 인천시의 자금을 관리할 1금고 우선협상대상자로 신한은행이 선정됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260917192151002",
-      "publishedAt": "2026-09-17T10:54:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "네오사피엔스, 코스닥 시장 신규상장",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소는 네오사피엔스의 코스닥시장 신규상장을 승인했다고 17일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260917192000008",
-      "publishedAt": "2026-09-17T10:39:47.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "가짜 근로자 모집해 실업급여 5억8천만원 부정수급 사업주 구속",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 고용노동부 대구지방고용노동청은 브로커를 통해 허위로 근로자 57명을 모집하고 이들이 실업급여 등을 부정 수급하...",
-      "link": "https://www.yna.co.kr/view/AKR20260917191100530",
-      "publishedAt": "2026-09-17T10:20:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "中 틱톡 운영사의 AI 신약개발사, 2억9000만달러 투자유치",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609172087i",
-      "publishedAt": "2026-09-17T09:57:31.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금감원, 금투사 개인투자자 권익침해 ‘상시점검’…수수료·대출금리 들여다본다",
-      "summary": "17일 ‘금융소비자 보호 성과 보고대회’서 제시 원가·업무연관성 없는 수수료·예탁금 이용료 등 점검 미성년자 고위험상품 권유·온라인 투자광고도 대상금융감독원이 금융투자회사의 개인투..",
-      "link": "https://www.mk.co.kr/news/stock/12155769",
-      "publishedAt": "2026-09-17T09:37:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스피 전망 '1만2600→8400' 확 낮춘 삼성증권…\"조정땐 매수\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609172236i",
-      "publishedAt": "2026-09-17T09:36:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[단독] “돈 잘벌면 형님이죠”…3000조 日공룡, 한국에 SOS 친 이유",
-      "summary": "3000조원 굴리는 日공적연금 GPIF 韓국민연금에 대체투자 노하우 문의 보수적 자산운용에 운용수익률 낮아 국민연금 측 “향후 교류채널 늘릴것”일본 공적연금을 운용하는 연금적립금관..",
-      "link": "https://www.mk.co.kr/news/world/12155760",
-      "publishedAt": "2026-09-17T09:13:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "농식품 창업 대통령상 받은 '로봇 수직농장'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091721511",
-      "publishedAt": "2026-09-17T09:12:36.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "금리 상승기엔 은행주 주목 [한경 프리미엄9 TODAY]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091721741",
-      "publishedAt": "2026-09-17T09:12:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[인기검색TOP5] 미투온, 한화시스템, 한화엔진, 하나마이크론, 현대약품",
-      "summary": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 미투온 +10.55%, 한화시스템 +10.17%, 한화엔..",
-      "link": "https://www.mk.co.kr/news/stock/12155757",
-      "publishedAt": "2026-09-17T09:03:26.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "랩·신탁 위법거래 159조 중개…금융위, 증권사 2곳 ‘철퇴’",
-      "summary": "다올 141조·BNK 17조 중개 각각 기관경고·기관주의 과태료 12억·10억원 부과 유안타도 채권영업 위반으로 과태료 11억700만원채권형 랩어카운트·특정금전신탁 관련 위법 거래..",
-      "link": "https://www.mk.co.kr/news/stock/12155754",
-      "publishedAt": "2026-09-17T09:00:44.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "9월엔 미장 신경꺼라?…‘선거 7주전’부터는 다릅니다 [데이터로 읽는 자산시장]",
-      "summary": "증시 계절성 분석과 대응법주식시장에서는 특정 시기에 주가가 반복적으로 강하거나 약한 흐름을 보이는 경우가 많다. 투자업계에서는 이를 계절 효과(Seasonality)라고 부른다. ..",
-      "link": "https://www.mk.co.kr/news/stock/12155748",
-      "publishedAt": "2026-09-17T08:56:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 올해 1% 밖에 안 쓴 남북협력기금...내년에도 1조원 편성한다는데",
-      "summary": "남북관계 경색에 쓸곳 없는데 李정부 들어 예산은 계속 늘어남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. ..",
-      "link": "https://www.mk.co.kr/news/economy/12155747",
-      "publishedAt": "2026-09-17T08:55:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12155733",
-      "publishedAt": "2026-09-17T08:50:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[표] 외국환율고시표",
-      "summary": "",
-      "link": "https://www.mk.co.kr/news/economy/12155734",
-      "publishedAt": "2026-09-17T08:50:41.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "우리금융, 생산적금융 속도…8월에 올해 목표 25조 달성",
-      "summary": "우리금융그룹이 올해 1~8월 생산적 금융 부문에 25조3000억원을 공급했다고 17일 밝혔다. 투자자금으로 1조5000억원, 융자자금으로 23조8000억원을 지원했다는 것이다. 이..",
-      "link": "https://www.mk.co.kr/news/economy/12155731",
-      "publishedAt": "2026-09-17T08:50:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "남북협력기금 1% 썼는데 … 내년 예산 1조로 쑥",
-      "summary": "남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. 17일 김상훈 국민의힘 의원이 확보한 한국수출입은행 자료에..",
-      "link": "https://www.mk.co.kr/news/economy/12155732",
-      "publishedAt": "2026-09-17T08:50:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "K은행 영토확장…신한·하나 우즈베크에 깃발",
-      "summary": "국내 금융권이 베트남 등 전통적 강세 시장과 미국·영국 등 선진 시장을 넘어 '미지'의 영역에 속하는 중앙아시아로 보폭을 넓히고 있다. 아직까지 성장 여지가 있는 데다 선진국 대비..",
-      "link": "https://www.mk.co.kr/news/economy/12155729",
-      "publishedAt": "2026-09-17T08:50:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "중소형 증권사의 반격…회사채로 '실탄' 마련",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091721361",
-      "publishedAt": "2026-09-17T08:50:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "아로마티카 '뜀박질'…K뷰티주 상승률 1위",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091720811",
-      "publishedAt": "2026-09-17T08:37:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“당장 10% 빠질 수 있는데, 던질까 담을까?”…금리 인상 1년 뒤 웃었던 美 증시",
-      "summary": "“S&P500 12월 추가 하락 가능성” 금리인상 6주 후 -4%, 1년 뒤 9%↑미국 연방준비제도(Fed)가 3년 2개월 만에 기준금리를 올리면서 증시 조정 가능성에 투자자들의 ..",
-      "link": "https://www.mk.co.kr/news/stock/12155552",
-      "publishedAt": "2026-09-17T08:02:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "원주 노사민정, 지역기업 구인난·청년 유출 해법 모색",
-      "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주시 노사민정협의회는 17일 &apos;원주형 강소기업과 함께하는 원주일자리 대토론회&apos;를 열고 지역기업 구인난 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260917172600062",
-      "publishedAt": "2026-09-17T08:01:52.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "추석맞이 시장 찾은 박홍근 \"변화 체감하도록 예산안 챙길 것\"",
-      "summary": "(세종=연합뉴스) 김수현 기자 = 박홍근 기획예산처 장관은 추석 명절을 맞아 중소벤처기업부, 소상공인시장진흥공단과 함께 17일 충남 천안 중앙시...",
-      "link": "https://www.yna.co.kr/view/AKR20260917126600002",
-      "publishedAt": "2026-09-17T08:00:01.000Z"
     }
   ]
 }
