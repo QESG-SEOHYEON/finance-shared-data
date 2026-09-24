@@ -1,8 +1,176 @@
 {
-  "updatedAt": "2026-09-23T23:21:46.860Z",
+  "updatedAt": "2026-09-24T07:59:21.824Z",
   "historyDays": 7,
-  "count": 507,
+  "count": 501,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"하루만 맡겨도 이자 준대\" 들썩…'103조원' 출혈 경쟁 터졌다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092336926",
+      "publishedAt": "2026-09-24T07:37:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"카니발 독주에 도전장\"…테슬라까지 뛰어든 3열 패밀리카 전쟁 [맞짱대결]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609220758g",
+      "publishedAt": "2026-09-24T07:33:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"월급 꼬박 이체했는데\"…금리 우대 못 받은 황당한 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609229909i",
+      "publishedAt": "2026-09-24T07:10:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "서울 집값 85주째 올랐다…文정부 때 세운 ‘최장 기록’ 따라잡아",
+      "summary": "최근 85주간 17.5% 상승 다음 주도 오르면 역대 최장 경신서울 아파트 매매가격이 85주 연속 오르며 문재인 정부 당시 세운 역대 최장 상승 기록과 동률을 이뤘다. 다음 주에도..",
+      "link": "https://www.mk.co.kr/news/economy/12160908",
+      "publishedAt": "2026-09-24T06:45:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
+      "summary": "(",
+      "link": "https://www.yna.co.kr/view/AKR20260924038600002",
+      "publishedAt": "2026-09-24T06:32:38.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260924035700011",
+      "publishedAt": "2026-09-24T06:00:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
+      "summary": "(서울=연합뉴스) 박재하 기자 = 전국 세무서에 설치된 납세자보호위원회가 지방 소도시 및 도시 외 지역 등에 있는 &apos;2급지&apos; 세무서에서 연 1회...",
+      "link": "https://www.yna.co.kr/view/AKR20260922168451001",
+      "publishedAt": "2026-09-24T05:15:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"65만전자 간다?\"…심상찮은 증권가 전망에 개미들 '들썩' [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092450146",
+      "publishedAt": "2026-09-24T05:00:58.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 서울 아파트 매매가격이 85주째 올라 역대 최장 상승 기간과 동률을 기록했다.",
+      "link": "https://www.yna.co.kr/view/AKR20260924028000003",
+      "publishedAt": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"주식 너무 올라도 걱정\"…지금은 즐겨야 할 때 [이주영의 시장을 꿰뚫는 기술]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233446i",
+      "publishedAt": "2026-09-24T04:52:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"시세보다 40% 싸게 전세 줬는데\"…60대 집주인 '날벼락' [고정삼의 절세GPT]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092334526",
+      "publishedAt": "2026-09-24T04:10:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손(종합)",
+      "summary": "(안동=연합뉴스) 황수빈 기자 = 경북도가 지역 제조기업의 글로벌 양자산업 진출을 위해 글로벌 양자 기업, 미국 메릴랜드주와 협력한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260924027951053",
+      "publishedAt": "2026-09-24T03:41:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609106359g",
+      "publishedAt": "2026-09-24T03:13:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "대미투자 새 축으로 떠오른 원전…'K원전' 美진출 넓어지나",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609234053i",
+      "publishedAt": "2026-09-24T03:08:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손",
+      "summary": "(안동=연합뉴스) 황수빈 기자 = 경북도가 지역 제조기업의 글로벌 양자산업 진출을 위해 글로벌 양자 기업, 미국 메릴랜드주와 협력한다.",
+      "link": "https://www.yna.co.kr/view/AKR20260924027900053",
+      "publishedAt": "2026-09-24T02:31:20.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼성제약, PSP 치료제 ‘GV1001’ 3상 임상계획 자진 취하…“보완 후 재신청”",
+      "summary": "삼성제약이 진행성핵상마비(PSP) 치료제 ‘GV1001’의 국내 제3상 임상시험계획(IND)을 자진 취하하고 조만간 재신청하기로 했다. 삼성제약은 PSP 치료제 GV1001의 국내..",
+      "link": "https://www.mk.co.kr/news/stock/12160842",
+      "publishedAt": "2026-09-24T01:33:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "막 오른 미중정상회담... 국채금리 발작 잠재울까",
+      "summary": "불앤베어 플러스미국 국채금리가 큰 폭으로 상승하며 증시 밸류에이션을 압박했습니다. 막 시작한 미중정상회담에서 희망적인 메시지가 나올 수 있을지 주목해 봅니다. ◆ 유의사항 : 본 ..",
+      "link": "https://www.mk.co.kr/news/stock/12160835",
+      "publishedAt": "2026-09-24T01:19:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "연휴 끝나면 무슨 종목 사야 할까…증권사들 추천주 살펴보니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233877i",
+      "publishedAt": "2026-09-24T01:00:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "백화점 넘어 디벨로퍼로 나아가는 한화갤러리아",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609233816i",
+      "publishedAt": "2026-09-24T01:00:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“이번 추석 부모님 용돈 얼마 드리지?” 고민하면서 매달 받는 연금 액수는 모른다는데",
+      "summary": "추석을 앞두고 부모님 용돈을 얼마나 드릴지 고민하는 자녀들이 많다. 부모 세대의 주요 노후 소득인 국민연금은 얼마나 될까. 노령연금 수급자 10명 중 6명은 매달 받는 금액이 60..",
+      "link": "https://www.mk.co.kr/news/economy/12160816",
+      "publishedAt": "2026-09-24T00:06:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“‘어른이’ 빠지자 반토막 났네”…어린이보험 신규 가입 2년 새 급감",
+      "summary": "20~30대 빠지며 시장 재편 올 상반기 계약 25% 감소한때 20~30대까지 가입하며 이른바 ‘어른이(어른+어린이)보험’으로 불렸던 어린이보험의 신규 판매가 빠르게 줄고 있다. ..",
+      "link": "https://www.mk.co.kr/news/economy/12160802",
+      "publishedAt": "2026-09-23T23:22:48.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3842,222 +4010,6 @@
       "summary": "(세종=연합뉴스) 김수현 기자 = 박홍근 기획예산처 장관은 추석 명절을 맞아 중소벤처기업부, 소상공인시장진흥공단과 함께 17일 충남 천안 중앙시...",
       "link": "https://www.yna.co.kr/view/AKR20260917126600002",
       "publishedAt": "2026-09-17T08:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "매파 FOMC에도 국채 단기물 중심 제한적 약세…3년물 4.063%(종합)",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 17일 국고채 금리는 단기물 금리가 소폭 상승하고, 장기물 금리는 하락하며 혼조세를 나타냈다.",
-      "link": "https://www.yna.co.kr/view/AKR20260917167851008",
-      "publishedAt": "2026-09-17T07:57:29.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "해수부, 고수온 재난 예·경보 단계 심각→경계 하향(종합)",
-      "summary": "(서울=연합뉴스) 홍국기 한주홍 기자 = 해양수산부는 17일 오후 4시부터 고수온 예·경보 단계를 &apos;심각&apos;에서 &apos;경계&apos;로 하향 조정했다고 밝혔다...",
-      "link": "https://www.yna.co.kr/view/AKR20260917140451030",
-      "publishedAt": "2026-09-17T07:56:36.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "포천시, 군·대학과 '교육혁신 선도지역' 조성 협약",
-      "summary": "(포천=연합뉴스) 노승혁 기자 = 경기 포천시는 17일 육군 제5군단과 경기도포천교육지원청, 지역 대학, 포천상공회의소 등 지역 주요 기관과 교...",
-      "link": "https://www.yna.co.kr/view/AKR20260917167700060",
-      "publishedAt": "2026-09-17T07:47:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "‘가상송전선’으로 혼잡 완화…기후부·한전, 전력산업 성과발표회 개최",
-      "summary": "산·학·연 전문가 116명 참여 가상송전선로 내년 예산 확보 민간 ESS 활성화 실증도 추진한국전력공사(한전)가 기후에너지환경부와 ‘전력산업 산·학·연 전문포럼 성과발표회’를 열고..",
-      "link": "https://www.mk.co.kr/news/economy/12155537",
-      "publishedAt": "2026-09-17T07:43:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국고채 금리 대체로 하락…3년물 연 4.063%",
-      "summary": "(서울=연합뉴스) 17일 국고채 금리가 대체로 하락했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260917167800008",
-      "publishedAt": "2026-09-17T07:42:32.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "꾸준한 사회공헌…저축은행중앙회 임직원, 한강공원서 환경정화 활동",
-      "summary": "사회공헌활동의날·창립기념일 맞아저축은행중앙는 창립 53주년을 맞아 최근 서울 여의도 한강공원에서 임직원 45명이 참여하는 환경정화 봉사활동을 실시했다고 17일 밝혔다. 이번 활동은..",
-      "link": "https://www.mk.co.kr/news/economy/12155536",
-      "publishedAt": "2026-09-17T07:41:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "거래소, 내달 1일 '2026 건전증시포럼' 개최",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091718426",
-      "publishedAt": "2026-09-17T07:32:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "국민성장펀드, 화신에 250억 지원…전기차 부품라인 증설",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171819i",
-      "publishedAt": "2026-09-17T07:31:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'아이폰 듀오' 보더니 '갤Z폴드8' 샀다…삼성, 폴더블 독주 채비",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171821i",
-      "publishedAt": "2026-09-17T07:30:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'107조 메가프로젝트' 속도전…영남권 제조업의 미래를 연다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091703461",
-      "publishedAt": "2026-09-17T07:24:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "촘촘한 제조 현장 데이터로…'피지컬 AI' 글로벌 최강 전략 짠다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091703511",
-      "publishedAt": "2026-09-17T07:22:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "밤마다 포장마차 붐비더니…종로3가, 세계 '쿨한 동네' 1위",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171767H",
-      "publishedAt": "2026-09-17T07:21:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "메리츠증권, 발행어음 '9부 능선' 넘었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171779i",
-      "publishedAt": "2026-09-17T07:21:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“금융 부담 완화”…새마을금고, 제주 소상공인·기업에 150억원 보증",
-      "summary": "새마을금고중앙회는 제주특별자치도·제주신용보증재단과 함께 제주지역 소상공인 등을 대상으로 ‘제주 소상공인 희망전환 특별보증’ 사업을 한다고 17일 밝혔다. 이를 위해 새마을금고중앙회..",
-      "link": "https://www.mk.co.kr/news/economy/12155527",
-      "publishedAt": "2026-09-17T07:18:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "제조업 메카 창원, 인공지능·방산·소형원전으로 성장판 넓힌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091703281",
-      "publishedAt": "2026-09-17T07:17:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미 Fed 금리 0.25%p 올렸지만…코스피 6800선 턱밑 지켰다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091717366",
-      "publishedAt": "2026-09-17T07:16:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“내 보험료 올리는 주범 잡아주세요”…금융당국, 年1조원대 보험사기 근절 나서",
-      "summary": "보험사기 적발금액 해마다 1조원 자동차·실손보험 과잉 진료 등 원인 전체 가입자 보험료 부담 인상 우려최근 금융당국과 보험업계가 보험사기 방지·적발을 통해 보험금 누수를 막기 위한..",
-      "link": "https://www.mk.co.kr/news/economy/12155516",
-      "publishedAt": "2026-09-17T07:13:20.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“기업 5곳에 48조 투자했습니다”…투자의 신과 제자, 한 업종 골랐다",
-      "summary": "버핏 2019년 일본 5대 상사 첫 투자 후임 아벨도 日찾아 “지분확대 검토” 미쓰비시상사등 지분 10%이상 보유 버크셔, 상사의 ‘경제적 해자’ 고평가워런 버핏이 이끌던 미국 투..",
-      "link": "https://www.mk.co.kr/news/stock/12155504",
-      "publishedAt": "2026-09-17T07:03:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "서프 “기관 온체인 시대 시장 이해하려면 AI 필수”",
-      "summary": ";=\"\">“AI는 디지털자산 시장을 이해하고 판단하는 데 필요한 인텔리전스를 제공할 수 있다.”;=\"\"> ;=\"\">17일 라이언 리 서프 최고경영자(CEO)는 ;=\"\">서울 소피텔..",
-      "link": "https://www.mk.co.kr/news/stock/12155500",
-      "publishedAt": "2026-09-17T07:02:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"드디어 지구 궤도 비행\"…스페이스X 도전에 우주항공주 '불기둥'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171426i",
-      "publishedAt": "2026-09-17T06:50:56.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "카카오뱅크 개인사업자 신용대출, 네이버페이서 비교·조회한다",
-      "summary": "카카오뱅크는 ‘개인사업자 신용대출’을 네이버페이(Npay)의 ‘Npay 대출비교’에 입점했다고 17일 밝혔다. 지난 6월 개인사업자 부동산담보대출에 이어 신용대출로 제휴 범위를 넓..",
-      "link": "https://www.mk.co.kr/news/economy/12155481",
-      "publishedAt": "2026-09-17T06:49:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "韓·美 금리 격차 1%p로 확대 ... 기준금리 11월 인상에 무게",
-      "summary": "한국 3%·미국 4%로 금리 1%p차 유가 충격·원화 약세 물가 압력으로 추가 금리 인상 시점, 11월에 무게 정부, 국채시장 변동성 확대 주시미국 연방준비제도(Fed)가 금리 인..",
-      "link": "https://www.mk.co.kr/news/economy/12155455",
-      "publishedAt": "2026-09-17T06:40:52.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스피 0.04% 내린 6715…코스닥 0.76% 오른 822 마감",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091716176",
-      "publishedAt": "2026-09-17T06:36:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "금리 상승기에 은행주를 주목해야 하는 이유 [이강연의 재무제표 읽기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609156125i",
-      "publishedAt": "2026-09-17T06:33:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“반도체 너무 올랐나”…삼전닉스 9조 판 외국인, 돈 옮겨간 곳 보니",
-      "summary": "삼전·닉스에 순매도 9조 집중 우리금융·항공·에너지株 담아 외국인 증시 전체 보유비중은 그대로 “증시 이탈보단 포트폴리오 조정”올해 국내 증시 상승을 이끌었던 외국인 투자자들이 ..",
-      "link": "https://www.mk.co.kr/news/stock/12155444",
-      "publishedAt": "2026-09-17T06:32:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "내달 총회 갖는 PEF협의회...초대 협회 회장은 ‘60대 시니어 PE 리더’",
-      "summary": "임시총회서 초대 협회장 추대 올해 들어 10개사 신규 가입 회원사 인센티브 등 논의 중사모펀드 운용사(PEF) 협의회가 다음달 28일 총회를 열고 협회 전환을 위한 마지막 논의에 ..",
-      "link": "https://www.mk.co.kr/news/stock/12155436",
-      "publishedAt": "2026-09-17T06:25:23.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금리인상·워시 매파 발언 여파…전력인프라株 담고 삼전은 판다 [주식 초고수는 지금]",
-      "summary": "두산에너빌리티·산일전기 등 전력인프라株 삼성전자·삼성전자우·성호전자 차익실현국내 증시에서 수익률 상위 1%에 해당하는 ‘주식 초고수’들이 17일 오후 SK하이닉스와 원전·전력 인프..",
-      "link": "https://www.mk.co.kr/news/stock/12155428",
-      "publishedAt": "2026-09-17T06:15:49.000Z"
     }
   ]
 }
