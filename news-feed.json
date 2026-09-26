@@ -1,8 +1,88 @@
 {
-  "updatedAt": "2026-09-26T08:09:42.035Z",
+  "updatedAt": "2026-09-26T13:58:39.985Z",
   "historyDays": 7,
-  "count": 458,
+  "count": 460,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"中에 빼앗기기 전에…\" 삼전닉스 동시에 눈독 들인 '이곳'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609217576i",
+      "publishedAt": "2026-09-26T13:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"한 달 만에 성적표 갈렸다\"…나 홀로 26% 솟구친 '반전 정체' [이수의 ETF줌인]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092340046",
+      "publishedAt": "2026-09-26T12:30:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“NYSE·나스닥 러브콜 받아도 한국 먼저”…딥엑스, 내년 IPO 준비 검토",
+      "summary": "김녹원 딥엑스 대표 “피지컬AI 반도체 글로벌 수주 승부” ‘DX-M1’ 1300만달러 구매주문 확보글로벌 증권거래소들의 러브콜을 받아온 피지컬 인공지능(AI) 반도체 기업 딥엑..",
+      "link": "https://www.mk.co.kr/news/stock/12161712",
+      "publishedAt": "2026-09-26T12:27:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
+      "summary": "카뱅, 내달 외화통장 통화 18개로 예금 등 다양한 외환 서비스 내세워최근 ‘환테크’의 중심이 달러 일변도에서 벗어나 다양한 통화로 분산되면서, 모바일 편의성을 앞세운 인터넷전문은..",
+      "link": "https://www.mk.co.kr/news/economy/12161701",
+      "publishedAt": "2026-09-26T11:27:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
+      "summary": "저축은행 금리 연 4.07% ‘최고’ 주식에서 예금으로 현금 이동 가속화 시중 은행 금리 경쟁…연 3.4% 수준민족 대명절인 추석을 맞아 회사에서 받은 상여금과 용돈 등 목돈을 어..",
+      "link": "https://www.mk.co.kr/news/economy/12161691",
+      "publishedAt": "2026-09-26T10:21:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"수익률 1위 덜컥 샀다간…\" 노후자금 굴리다 멘붕 온 개미들 [김연지의 연금빌드업]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092336196",
+      "publishedAt": "2026-09-26T10:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "19년 만의 금리 쇼크…오를수록 웃는 주식 따로 있다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609266650i",
+      "publishedAt": "2026-09-26T09:00:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "인도·골목길서 ‘쌩쌩’ 위험천만…배달종사자 보험료 최대 11% 할인, 요건 있다는데?",
+      "summary": "교통안전교육 이수 등 조건 충족시 기존 5%에서 11%로 혜택 확대안전운전하는 배달 종사자의 보험료 할인 혜택이 본격 시작됐다. 교육안전교육을 이수하거나 디지털 운행 기록장치를 장..",
+      "link": "https://www.mk.co.kr/news/economy/12161674",
+      "publishedAt": "2026-09-26T08:58:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
+      "summary": "추석 전후 주가추이 살펴보니 ‘명절 화두된 종목은 상투’ 속설도 실적개선 종목은 외려 상승하기도“명절 밥상에서 주식 얘기 나오기 시작하면 꼭지다.” 평소 주식에 관심이 없던 가족들..",
+      "link": "https://www.mk.co.kr/news/stock/12161670",
+      "publishedAt": "2026-09-26T08:44:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092180476",
+      "publishedAt": "2026-09-26T08:29:08.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3602,70 +3682,6 @@
       "summary": "노동소득분배율 하락 ‘경고’인공지능(AI)이 경제를 크게 성장시키는데 정작 노동자의 몫은 줄어들 수 있다는 경고가 나왔습니다. 미국 AI 모델 ‘클로드’ 개발사 앤트로픽 산하 앤트..",
       "link": "https://www.mk.co.kr/news/economy/12156627",
       "publishedAt": "2026-09-19T20:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "69만원 한우 세트 사러 백화점 갔다가…'이럴 수가' 화들짝 [류은혁의 유통기한]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609184253i",
-      "publishedAt": "2026-09-19T11:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“연휴는 무슨, 물밑 협상은 더 치열”…롯데손보·해태htb, 9월말 M&A 분수령 [M&A복덕방]",
-      "summary": "추석연휴를 낀 다음주 인수합병(M&A) 시장은 한 주간 본격적인 입찰 없이 한 주 쉬어간다. 다만, 9월 말 분기점을 맞는 대형 매물들이 있어 물밑협상을 치열하게 벌어질 것으로 보..",
-      "link": "https://www.mk.co.kr/news/stock/12157182",
-      "publishedAt": "2026-09-19T10:21:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"안 오른 게 없네\" 개미들 꽂혔다…1.2조 '뭉칫돈' 몰린 곳 [투자톡]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026091842066",
-      "publishedAt": "2026-09-19T09:54:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"우리 둘만의 비밀을\"…잔나비 초근접 공연에 잠실이 '뭉클' [2026청춘커피페스티벌]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609195320i",
-      "publishedAt": "2026-09-19T09:07:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "헤드폰 쓰고 100명이 '멍'…커피 축제 한복판에서 '싱잉볼 명상' [2026청춘커피페스티벌]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609195243i",
-      "publishedAt": "2026-09-19T09:04:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'건물 사이에 피어난 장미' 울려 퍼지자…잠실 달군 하이키 [2026청춘커피페스티벌]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609195303i",
-      "publishedAt": "2026-09-19T09:00:53.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "주춤했던 ‘스타벅스 마케팅’ 다시 시동…제휴통장·카드 잇따라",
-      "summary": "금융권, 제휴마케팅 다시 확대스타벅스 ‘탱크데이’ 마케팅 논란 이후 주춤했던 금융권의 스타벅스 제휴 마케팅이 다시 확대되고 있다. KB국민은행은 제휴통장 후속 상품의 판매 한도를 ..",
-      "link": "https://www.mk.co.kr/news/economy/12157143",
-      "publishedAt": "2026-09-19T08:47:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "하반기 나스닥 데뷔 목표 앤트로픽…몸값 2700조원 넘본다",
-      "summary": "오픈AI가 기업공개(IPO) 시점을 늦추는 사이 경쟁사이자 인공지능(AI) 모델 ‘클로드’ 개발사인 앤트로픽이 상장 준비에 속도를 내고 있다. 시장에선 앤트로픽이 이르면 10월에서..",
-      "link": "https://www.mk.co.kr/news/stock/12157141",
-      "publishedAt": "2026-09-19T08:34:12.000Z"
     }
   ]
 }
