@@ -1,8 +1,168 @@
 {
-  "updatedAt": "2026-09-29T09:19:20.445Z",
+  "updatedAt": "2026-09-29T16:16:08.684Z",
   "historyDays": 7,
-  "count": 450,
+  "count": 454,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "8개월 만에 3300억어치 긁었다…2030 중국인들 몰려간 곳",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092926881",
+      "publishedAt": "2026-09-29T15:09:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI '안전'과 '확장' 사이…앤트로픽과 메타의 다른 승부수 [박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609293089i",
+      "publishedAt": "2026-09-29T14:50:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 8월 구인공고 710만건…예상치 밑돌아",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609293097i",
+      "publishedAt": "2026-09-29T14:34:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609293066i",
+      "publishedAt": "2026-09-29T13:47:19.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
+      "summary": "(서울=연합뉴스) 윤민혁 기자 = 서울 서초구 아파트 건설 현장에서 작업자가 무너진 천장 파편에 맞고 숨져 당국이 조사에 나섰다.",
+      "link": "https://www.yna.co.kr/view/AKR20260929185700004",
+      "publishedAt": "2026-09-29T13:08:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"90% 더 오른다\" 월가 파격 전망에…삼전닉스 개미들 '두근' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092921426",
+      "publishedAt": "2026-09-29T13:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"떡볶이 하나로 매출 2700억\"…루저 김대리의 '인생 역전' [씬메이커]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609292186g",
+      "publishedAt": "2026-09-29T13:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"HBM 판매가 내년 121% 오른다\"…삼전·닉스 메모리 호황 2027년에도",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609293035i",
+      "publishedAt": "2026-09-29T12:51:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "젠슨황 밴플리트상 받을때 통역은?...K동시통역 스콘챗 활약",
+      "summary": "코리아소사이어티 연례만찬 밴플리트상 시상식 스콘에이아이·인터컴 K 동시통역 선보여 글로벌MICE 인터컴과 글로벌 진출 가속28일(현지시간) 뉴욕 맨해튼 치프리아니에서 열린 코리아소..",
+      "link": "https://www.mk.co.kr/news/economy/12164184",
+      "publishedAt": "2026-09-29T11:59:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“증권사 8.6조 쓸어담을 때 투자자는 손실”…금감원장, CEO들 불렀다",
+      "summary": "금감원장-증권사 CEO 간담회 “사회공헌 500억, 은행은 2.2조 커진 규모만큼 사회 기여를” 지적 신용융자·유동성 관리도 주문이찬진 금융감독원장이 증권사 최고경영자(CEO)들을..",
+      "link": "https://www.mk.co.kr/news/stock/12164181",
+      "publishedAt": "2026-09-29T11:57:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"하이닉스 목표가 왜 낮췄지?\" 겁먹었는데…'반전' [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092923636",
+      "publishedAt": "2026-09-29T11:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[동정] 이억원, 美나스닥·DTCC·홍콩거래소 고위급 면담",
+      "summary": "▲ 이억원 금융위원장은 29일 오후 더그랜드롯데 서울에서 밥 맥쿠이 미국 나스닥 부회장, 티모시 커디히 미국 증권예탁결제원(DTCC) 최고위험관...",
+      "link": "https://www.yna.co.kr/view/AKR20260929180200002",
+      "publishedAt": "2026-09-29T10:49:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원",
+      "summary": "(서울=연합뉴스) 김지헌 기자 = 외교부와 주리비아한국대사관은 리비아 외교국제협력부와 공동으로 지난 27∼28일 리비아 트리폴리에서 &apos;2026 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260929177100504",
+      "publishedAt": "2026-09-29T10:30:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "7월 국내증시 급락 후폭풍 … 국민연금, 182조원 줄었다",
+      "summary": "코스피가 22%나 폭락했던 지난 7월 국민연금의 국내주식 투자액이 한 달 전보다 124조원 감소한 것으로 집계됐다. 국내주식 외에도 전 자산군이 약세를 보여 기금 전체 규모는 한 ..",
+      "link": "https://www.mk.co.kr/news/stock/12164137",
+      "publishedAt": "2026-09-29T10:22:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "앤스로픽, 매출 6조인데 손실은 10조…적자에도 몸값 '폭등'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609292955i",
+      "publishedAt": "2026-09-29T10:22:33.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“반도체 고마워유” 충북 고속성장…“워메 어짜쓰까” 호남은 뒷걸음",
+      "summary": "2분기 지역내총생산 전국 3.7%…충북 11.9%로 1위 전남 -2.8%로 6분기째 역성장반도체가 올해 2분기 지역내총생산(GRDP) 성장률을 가른 것으로 나타났다. 삼성전자·SK..",
+      "link": "https://www.mk.co.kr/news/economy/12164131",
+      "publishedAt": "2026-09-29T10:18:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“미국이 예전 같지 않다”…美 국채금리 5% 돌파가 보내는 섬뜩한 신호 [BOK WATCHER]",
+      "summary": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 ..",
+      "link": "https://www.mk.co.kr/news/economy/12164121",
+      "publishedAt": "2026-09-29T10:08:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“요즘 주식창 보면 흐뭇합니다”…횡보장에 나홀로 웃는 상품 있다는데",
+      "summary": "커버드콜 ETF 순자산 30조 육박 높은 분배율만 보고 투자는 금물증시 변동성이 이어지면서 옵션 프리미엄을 활용해 분배금을 지급하는 커버드콜 상장지수펀드(ETF)에 자금이 몰리고 ..",
+      "link": "https://www.mk.co.kr/news/stock/12164096",
+      "publishedAt": "2026-09-29T09:54:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "미국 의약품 관세 발효…한국산 ADC·유전자치료제는 0%",
+      "summary": "(서울=연합뉴스) 박상현 기자 = 미국 정부가 29일(현지시간)부터 무역확장법 232조에 근거해 의약품·원료에 본격적으로 관세를 부과하는 가운데...",
+      "link": "https://www.yna.co.kr/view/AKR20260929168800017",
+      "publishedAt": "2026-09-29T09:24:23.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "쟁글, 아부다비 법인 '오리엔트' 설립…내년 서비스 출시 목표",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 가상자산 데이터 인프라 기업 쟁글이 아랍에미리트(UAE) 아부다비에 신규 법인 &apos;오리엔트&apos;(orynt)를 설립...",
+      "link": "https://www.yna.co.kr/view/AKR20260929171700002",
+      "publishedAt": "2026-09-29T09:18:11.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -132,6 +292,14 @@
       "publishedAt": "2026-09-29T08:47:36.000Z"
     },
     {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"앱토스, 실물경제로 활용처 확대\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092928286",
+      "publishedAt": "2026-09-29T08:47:33.000Z"
+    },
+    {
       "source": "매일경제",
       "category": "증권",
       "title": "자사주 거의 다 샀고 … 삼전닉스 주가는요?",
@@ -157,11 +325,27 @@
     },
     {
       "source": "한국경제",
+      "category": "증권",
+      "title": "서학개미 1조 산 '美메모리 ETF' 한국판 출격",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092927881",
+      "publishedAt": "2026-09-29T08:45:10.000Z"
+    },
+    {
+      "source": "한국경제",
       "category": "경제",
       "title": "대기업 채용문 넓어진다…51% \"대졸 뽑을 것\"",
       "summary": "",
       "link": "https://www.hankyung.com/article/2026092927491",
       "publishedAt": "2026-09-29T08:44:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'범LG家' 구미현 인수 효과…씨싸이트, 한주새 150% 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026092927901",
+      "publishedAt": "2026-09-29T08:43:45.000Z"
     },
     {
       "source": "매일경제",
@@ -3450,158 +3634,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202609183258g",
       "publishedAt": "2026-09-22T21:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "美주식 주문도 ‘프로처럼’…현지 온라인증권사<IBKR> 플랫폼 담은 다올 Fi PRO",
-      "summary": "글로벌 주문집행 인프라 연결 중간가 주문 등 8종 주문 지원 뉴스 80곳·애널평가 5500개 글로벌 정보·기능 풍부 강점다올투자증권이 미국 온라인 증권사 인터랙티브브로커스(IBKR..",
-      "link": "https://www.mk.co.kr/news/stock/12159873",
-      "publishedAt": "2026-09-22T14:27:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609222117i",
-      "publishedAt": "2026-09-22T14:08:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "호르무즈 재개방 기대…국제유가 2주 만에 '뚝'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092221051",
-      "publishedAt": "2026-09-22T13:52:51.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[속보] 나스닥 장중 ‘사상 최고치’ 찍었다…미·이란 회담 기대에 4개월만",
-      "summary": "미국 뉴욕증시가 22일(현지시간) 상승세로 출발했다. 기술주 중심의 나스닥지수는 장중 사상 최고치를 갈아치웠다. 투자자들은 6개월째 이어진 미국과 이란 간 전쟁을 끝낼 돌파구가 마..",
-      "link": "https://www.mk.co.kr/news/stock/12159859",
-      "publishedAt": "2026-09-22T13:39:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "미·중 정상회담 앞두고 트럼프 보란 듯…中, 최강 AI 칩 공개 [강경주의 테크X]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092220826",
-      "publishedAt": "2026-09-22T13:26:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "유가 80불대로 떨어지나?…사우디 송유관 재가동에 이란도 깜짝 제안",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609222069i",
-      "publishedAt": "2026-09-22T13:10:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "엔비디아·MS가 날개 달았다…한풀 꺾였던 LG그룹주 '들썩' [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092214766",
-      "publishedAt": "2026-09-22T13:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“아침에 분명 다 빨간색이었잖아”…메타에 웃고 유가에 발목잡힌 코스피",
-      "summary": "메타 AI에이전트 뮤즈 열풍에 장초반 반도체株 중심 급등세 7100 돌파 후 유가급등에 주춤 추석연휴 앞두고 개인 매도세 5거래일새 9조 넘게 주식 팔아메타의 인공지능(AI)에이전..",
-      "link": "https://www.mk.co.kr/news/stock/12159838",
-      "publishedAt": "2026-09-22T12:58:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "유가 하락에 8.8% 오른 대한항공...증권가 \"3분기 실적 개선 기대\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609222044i",
-      "publishedAt": "2026-09-22T12:12:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "메타, 뮤즈 AI 인기 폭발에도 '신뢰' 문제…아마존, 접속 차단",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609222022i",
-      "publishedAt": "2026-09-22T11:57:42.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "메가특구 사회적 대화 본격화…주 1∼2회 실무협의체 개최",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 노사정이 메가특구특별법 내 노동 특례 논의를 위한 &apos;원 포인트 사회적 대화&apos; 첫 실무협의체를 열어 운영 일정 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260922191700530",
-      "publishedAt": "2026-09-22T11:21:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'1만원→10만원'…도수치료 막았더니 '어떻게 이럴 수가'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092217451",
-      "publishedAt": "2026-09-22T11:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "[단독] '워크아웃' 중앙일보 인수전…다우키움·오리온 등 6곳 참전",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092219581",
-      "publishedAt": "2026-09-22T10:52:49.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'회생절차' 제이알글로벌리츠, 감사의견 '거절'…상폐 사유 발생",
-      "summary": "(서울=연합뉴스) 정회인 기자 = 회생절차를 밟고 있는 제이알글로벌리츠[348950]가 외부감사인으로부터 감사의견 &apos;거절&apos;을 받으면서 상장폐지 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260922188400008",
-      "publishedAt": "2026-09-22T10:23:53.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“5%대 금리에 증시 무너질까?”…60년 데이터 뜯어보니 의외의 결과 [김태홍의 투자 포트폴리오]",
-      "summary": "시장 예상대로 지난 16일 미국 연방준비제도(Fed)는 FOMC에서 정책금리를 25bp 인상하였다. 2025년 12월 마지막 금리 인하 이후 일 년 만에 다시 인상에 들어간 것이다..",
-      "link": "https://www.mk.co.kr/news/stock/12159748",
-      "publishedAt": "2026-09-22T10:21:10.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이형일 \"국부펀드 차질 없이 준비…성과는 국민께 돌아가도록\"(종합2보)",
-      "summary": "(세종=연합뉴스) 안채원 송정은 기자 = 이형일 신임 부총리 겸 재정경제부 장관은 22일 &quot;한국판 전략형 국부펀드를 차질 없이 준비해나가겠다&quot;고...",
-      "link": "https://www.yna.co.kr/view/AKR20260922073652002",
-      "publishedAt": "2026-09-22T10:12:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "9번째로 돈 많이 내는데…\"韓, 국제 회계·ESG 기준 발언권 약해질라\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609221918i",
-      "publishedAt": "2026-09-22T09:48:22.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "셀리드, 30억원 유상증자…센트러스트투자조합 등에 3자 배정",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 셀리드[299660]는 운영자금 등 약 30억원을 조달하고자 제3자배정 유상증자를 결정했다고 22일 공시했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260922182600008",
-      "publishedAt": "2026-09-22T09:29:50.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
-      "summary": "백석현 신한은행 이코노미스트 인터뷰최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두 달여 만에 15% 가까이 뛰며..",
-      "link": "https://www.mk.co.kr/news/world/12159721",
-      "publishedAt": "2026-09-22T09:27:17.000Z"
     }
   ]
 }
