@@ -1,8 +1,112 @@
 {
-  "updatedAt": "2026-10-01T09:37:28.441Z",
+  "updatedAt": "2026-10-01T16:48:42.095Z",
   "historyDays": 7,
-  "count": 472,
+  "count": 477,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610028887i",
+      "publishedAt": "2026-10-01T15:40:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 9월 제조업지수 54.5 확장 지속…비용 상승에 속도는 둔화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610018877i",
+      "publishedAt": "2026-10-01T14:27:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "구글 AI칩 TPU, 스페이스X 로켓타고 우주로…우주데이터센터 첫걸음",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610018869i",
+      "publishedAt": "2026-10-01T14:00:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"美 추가 금리 인상 없을 수도\"…'파격 전망' 나온 이유 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100188347",
+      "publishedAt": "2026-10-01T13:29:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "밀·옥수수·대두가격 3분기에 13%↑…4분기 식탁물가 비상",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610018832i",
+      "publishedAt": "2026-10-01T13:00:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼전닉스 오른다내린다 보고서만 쓰나요?”…중소형주 의무화한다",
+      "summary": "금융위, 대형주 쏠림구조 손질 “리포트의 25% 스몰캡다뤄야” 정책 기대감에 코스닥 치솟아대형주에 편중된 증권사 리서치 관행을 개선하기 위해 종합금융투자사업자(종투사)에 중소형주 ..",
+      "link": "https://www.mk.co.kr/news/stock/12166550",
+      "publishedAt": "2026-10-01T12:53:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "오픈AI \"中문샷이 추론정보 추출시도\"…美·中 AI \"탈취 VS 수성 전쟁\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610018799i",
+      "publishedAt": "2026-10-01T11:57:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'AI 에이전트'에 당했다…신한은행 보안 허점 노출(종합2보)",
+      "summary": "(서울=연합뉴스) 한지훈 강수련 기자 = 신한은행이 고객 개인정보를 탈취당하는 과정에 고도의 인공지능(AI) 에이전트가 활용된 것으로 전해졌다.",
+      "link": "https://www.yna.co.kr/view/AKR20261001145452002",
+      "publishedAt": "2026-10-01T11:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"새로 나온 것도 아닌데 왜 이래\"…스마트폰 바꾸려다 '당황'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100187447",
+      "publishedAt": "2026-10-01T10:57:23.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "울산 동구 환경미화원 노사, 구청 중재로 대화 물꼬",
+      "summary": "(울산=연합뉴스) 장지현 기자 = 임금 문제로 갈등을 빚어온 울산 동구 환경미화원 노사가 동구청 중재로 만나 대화의 물꼬를 텄다.",
+      "link": "https://www.yna.co.kr/view/AKR20261001190700057",
+      "publishedAt": "2026-10-01T10:52:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "제주 5성급 호텔서 59명 염소가스 흡입…조선호텔 \"깊이 사과\"(종합2보)",
+      "summary": "(서울=연합뉴스) 고성식 이상서 기자 = 조선호텔앤리조트가 운영하는 제주 서귀포시의 5성급 호텔 그랜드 조선 제주에서 염소가스가 발생해 투숙객과...",
+      "link": "https://www.yna.co.kr/view/AKR20261001114152030",
+      "publishedAt": "2026-10-01T10:19:26.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "IMA 어디로 가요?…안정 원하면 한투·NH, 고수익은 ‘여기’ [이슈 플러스]",
+      "summary": "종합투자계좌(IMA) 개인 투자전략 [IMA 2편]기대와 우려 속에 등장했던 종합투자계좌(IMA)의 현재까지 성적표는 ‘우수’란 평가가 지배적이다. 가장 주목되는 지표는 4조원대를..",
+      "link": "https://www.mk.co.kr/news/stock/12166455",
+      "publishedAt": "2026-10-01T10:02:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "진승욱 대표 \"대신증권, 주주환원 투자 최고 조력자 될 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185011",
+      "publishedAt": "2026-10-01T09:35:23.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -214,6 +318,14 @@
     {
       "source": "매일경제",
       "category": "경제",
+      "title": "주식·부동산투자부터 절세까지",
+      "summary": "\"시중은행 예금 금리가 3%대인데 인플레이션(물가 상승)이 다 갉아먹으니 도대체 어디에 투자해야 할까요.\" 은행 예금 이자로 간신히 물가 상승률을 방어하는 시대다. 미국이 기준금리..",
+      "link": "https://www.mk.co.kr/news/economy/12166351",
+      "publishedAt": "2026-10-01T08:37:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
       "title": "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화",
       "summary": "한화생명이 글로벌 투자 기능을 강화하기 위한 새로운 조직을 신설하고, 자산관리(WM)와 신사업 조직을 재편하는 등 작업에 착수했다. 국내 보험시장이 저출생·고령화와 시장 포화로 성..",
       "link": "https://www.mk.co.kr/news/economy/12166346",
@@ -233,6 +345,14 @@
       "title": "고령 인구 1100만명 … 10명 중 4명 일해",
       "summary": "우리나라 65세 이상 인구가 올해 처음으로 1100만명을 넘어섰다. 지난해 1000만명을 돌파한 지 1년 만이다. 고령층의 경제활동도 활발해지면서 노인 10명 중 4명은 일하는 것..",
       "link": "https://www.mk.co.kr/news/economy/12166343",
+      "publishedAt": "2026-10-01T08:37:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "반도체가 이끈 韓 수출 … 1200억달러 사상 최대",
+      "summary": "반도체 월간 수출액이 600억달러를 돌파했다. 이에 힘입어 한국의 월간 수출액 역시 처음으로 1200억달러를 넘어섰다. 추석 연휴로 조업일수가 줄어든 가운데 총수출과 일평균 수출이..",
+      "link": "https://www.mk.co.kr/news/economy/12166344",
       "publishedAt": "2026-10-01T08:37:14.000Z"
     },
     {
@@ -3698,86 +3818,6 @@
       "summary": "좀더 안정적 배당으로…커버드콜 갈아타기 유행중김모씨(47)는 ‘JP모건 나스닥 주식 프리미엄 인컴 ETF’(JEPQ)를 1년 넘게 보유하다가 최근 전량 매도했다. 1년전 유튜브에서..",
       "link": "https://www.mk.co.kr/news/economy/12159601",
       "publishedAt": "2026-09-24T19:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "5.45%까지 오른 美 30년 국채…왜 이렇게 빠르게 상승하나 [Fed 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609255349i",
-      "publishedAt": "2026-09-24T15:57:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"오라클, 뉴멕시코 데이터센터 '불가항력' 선언\" [블룸버그]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245339i",
-      "publishedAt": "2026-09-24T15:11:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245338i",
-      "publishedAt": "2026-09-24T15:08:28.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
-      "summary": "도수치료, 지난 7월 관리급여화 전환 횟수 제한·선행 물리치료 조건 생겨 신장분사치료 등 유사한 치료 증가# 최근 어깨가 아파 병원을 찾은 A씨는 주사를 맞고 물리치료를 받았다. ..",
-      "link": "https://www.mk.co.kr/news/economy/12161157",
-      "publishedAt": "2026-09-24T14:42:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245306i",
-      "publishedAt": "2026-09-24T14:12:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "유가 뛰자 채권·주식 동반 충격…개장 전 밀린 나스닥 선물[뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245297i",
-      "publishedAt": "2026-09-24T13:24:05.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“추석연휴 급증하는 추돌사고”…사고건수는 줄지만 피해 인원은 증가",
-      "summary": "졸음운전과 안전거리 미확보 등 원인 중앙선 침범과 음주운전 사고도 증가 차량 점검·긴급출동 서비스 활용 가능보험업계는 추석 연휴 기간 졸음 운전 등으로 추돌사고가 늘어나는 만큼 사..",
-      "link": "https://www.mk.co.kr/news/economy/12161078",
-      "publishedAt": "2026-09-24T12:52:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245261i",
-      "publishedAt": "2026-09-24T11:53:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "카드 소비로 본 병원 이용…내과 최다·성형외과 급증",
-      "summary": "의료비 지출 2년 새 16.9% 늘어 성형외과 방문은 22.4% 증가 저출생 여파에 소아청소년과는 25% 감소 수도권 대형병원 이용객 절반은 지방 거주자지난해 국내 소비자들의 병원..",
-      "link": "https://www.mk.co.kr/news/economy/12161000",
-      "publishedAt": "2026-09-24T10:45:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245190i",
-      "publishedAt": "2026-09-24T10:13:31.000Z"
     }
   ]
 }
