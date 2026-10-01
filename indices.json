@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:10:56.561Z",
+  "updatedAt": "2026-10-01T00:16:55.018Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -10,13 +10,9 @@
       "previous": 6889.74,
       "dayChange": -18.93,
       "dayChangePct": -0.27,
-      "monthChangePct": 0.74,
+      "monthChangePct": 0.51,
       "lastUpdated": "2026-09-30T11:05:40.000Z",
       "candles": [
-        {
-          "date": "2026-08-31",
-          "close": 6820.02
-        },
         {
           "date": "2026-09-01",
           "close": 6835.8
@@ -100,17 +96,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 27085.76,
+      "current": 26861.06,
       "previous": 26797.54,
-      "dayChange": 288.22,
-      "dayChangePct": 1.08,
-      "monthChangePct": 2.71,
-      "lastUpdated": "2026-09-30T16:10:53.000Z",
+      "dayChange": 63.52,
+      "dayChangePct": 0.24,
+      "monthChangePct": 2.92,
+      "lastUpdated": "2026-09-30T21:15:59.000Z",
       "candles": [
-        {
-          "date": "2026-08-31",
-          "close": 26370.89
-        },
         {
           "date": "2026-09-01",
           "close": 26099.77
@@ -193,7 +185,7 @@
         },
         {
           "date": "2026-09-30",
-          "close": 27085.76
+          "close": 26861.06
         }
       ]
     },
@@ -202,17 +194,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7716.78,
+      "current": 7651.54,
       "previous": 7670.84,
-      "dayChange": 45.94,
-      "dayChangePct": 0.6,
-      "monthChangePct": 0.4,
-      "lastUpdated": "2026-09-30T16:10:50.000Z",
+      "dayChange": -19.3,
+      "dayChangePct": -0.25,
+      "monthChangePct": 0.26,
+      "lastUpdated": "2026-09-30T20:38:12.000Z",
       "candles": [
-        {
-          "date": "2026-08-31",
-          "close": 7686.14
-        },
         {
           "date": "2026-09-01",
           "close": 7631.47
@@ -295,7 +283,7 @@
         },
         {
           "date": "2026-09-30",
-          "close": 7716.78
+          "close": 7651.54
         }
       ]
     }
