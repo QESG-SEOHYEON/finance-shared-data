@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-10-01T00:16:54.632Z",
+  "updatedAt": "2026-10-01T09:37:28.441Z",
   "historyDays": 7,
-  "count": 467,
+  "count": 472,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "엔비디아 투자 생태계 올라탄 韓 VC",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100184961",
+      "publishedAt": "2026-10-01T09:32:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "마이크론 호실적에…코스피 10월 쾌조의 출발",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185301",
+      "publishedAt": "2026-10-01T09:30:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증권사 중소형주 리서치 확대…年 25% 이상 발행의무 생긴다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185251",
+      "publishedAt": "2026-10-01T09:27:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미래에셋證 MTS 'MAPS'로 새단장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185241",
+      "publishedAt": "2026-10-01T09:26:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "대미투자 수혜…제강·원전주 들썩",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185281",
+      "publishedAt": "2026-10-01T09:25:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "강은호 전 방사청장 “K방산 골든타임 3년뿐…지금 세계시장 뚫어야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610018344i",
+      "publishedAt": "2026-10-01T09:24:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"'영세 납세자 보루' 국선대리인 지원 2년새 18%↓\"(종합)",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 어려운 납세자의 세금 불복 절차를 돕는 국세청 국선대리인의 지원 실적이 2년 연속 감소한 것으로 집계됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20260930161151002",
+      "publishedAt": "2026-10-01T09:24:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "커버드콜 ETF 껑충…횡보장서 안정적 수익",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185261",
+      "publishedAt": "2026-10-01T09:22:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"K방산, 3년이 골든타임…美공급망 선점·초격차 신무기 개발해야\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185561",
+      "publishedAt": "2026-10-01T09:20:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "엘로이 두란 \"韓 방산 경쟁력은 현지화…페루, 남미 진출 전진기지 될 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185531",
+      "publishedAt": "2026-10-01T09:17:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "韓이 고른 '투자 1호' 텍사스 AI용 발전소",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185781",
+      "publishedAt": "2026-10-01T09:10:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'한국형 원전' 종주국 첫 수출…웨스팅하우스 지분 5~10% 인수",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185791",
+      "publishedAt": "2026-10-01T09:10:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "전기차 공장 전환 인허가 3년 → 1년 단축",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100185091",
+      "publishedAt": "2026-10-01T09:09:41.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 靑 &quot;중수청장 후보자 금명간 국회 청문요청&quot;…李대통령 임명수순",
+      "link": "https://www.yna.co.kr/view/AKR20261001173100011",
+      "publishedAt": "2026-10-01T09:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[인사] 한화저축은행",
+      "summary": "◇ 신규 임원 승진",
+      "link": "https://www.yna.co.kr/view/AKR20261001180500002",
+      "publishedAt": "2026-10-01T08:53:12.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대출모집인 전용 서비스 뚫렸다…신한은행 보안 허점 노출(종합)",
+      "summary": "(서울=연합뉴스) 한지훈 강수련 기자 = 신한은행 고객 정보 유출 사고는 대출모집인들이 이용하는 신한 모바일 홈페이지 서비스를 통해 이뤄진 것으...",
+      "link": "https://www.yna.co.kr/view/AKR20261001145451002",
+      "publishedAt": "2026-10-01T08:53:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "외교부, 대미투자 공식발표에 \"안보협의 등 현안 진전 기대\"(종합)",
+      "summary": "(서울=연합뉴스) 김지헌 민선희 기자 = 외교부는 1일 도널드 트럼프 미국 대통령이 한국의 대미투자 계획을 발표한 것을 계기로 여타 한미 관계 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261001147451504",
+      "publishedAt": "2026-10-01T08:52:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "엔시스, 80억 원 규모 전환사채 발행",
+      "summary": "코스닥 상장사 엔시스가 제4회 80억 원 규모의 전환사채를 발행한다고 2026년 10월 1일 공시했다. 전환가액은 5390원이며, 전환 청구 기간은 2027년 10월 12일부터 2..",
+      "link": "https://www.mk.co.kr/news/stock/12166417",
+      "publishedAt": "2026-10-01T08:51:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "다보링크, 17억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 다보링크가 17억 2827만 2000원 규모의 일반공모증자를 실시한다고 2026년 10월 1일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 237만 40..",
+      "link": "https://www.mk.co.kr/news/stock/12166416",
+      "publishedAt": "2026-10-01T08:51:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "청보, 10억 원 규모 전환사채 발행",
+      "summary": "코스닥 상장사 청보가 제16회 10억 원 규모의 전환사채를 발행한다고 2026년 9월 30일 공시했다. 전환가액은 2204원이며, 전환 청구 기간은 2027년 10월 8일부터 20..",
+      "link": "https://www.mk.co.kr/news/stock/12166418",
+      "publishedAt": "2026-10-01T08:51:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "\"종투사 리포트 25% … 스몰캡 주식 다뤄라\"",
+      "summary": "대형주에 편중된 증권사 리서치 관행을 개선하기 위해 종합금융투자사업자(종투사)에 중소형주 리포트 최소 발간 비율이 도입된다. 벤처기업 지분 투자처럼 위험도가 높은 투자에 나설 때는..",
+      "link": "https://www.mk.co.kr/news/stock/12166398",
+      "publishedAt": "2026-10-01T08:41:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "'괴물 실적' 예고한 삼전닉스 … 문제는 수급",
+      "summary": "메모리 반도체 업체 중 3위인 미국 마이크론이 가장 먼저 실적 시즌 스타트를 순조롭게 끊은 가운데 1·2위인 삼성전자와 SK하이닉스가 바통을 이어받을 채비를 하고 있다. 삼성전자는..",
+      "link": "https://www.mk.co.kr/news/stock/12166399",
+      "publishedAt": "2026-10-01T08:41:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "하나증권, 국내 증권사 최초로 美 달러화 신종자본증권 발행",
+      "summary": "하나증권이 국내 증권사 최초로 미 달러화 표시 신종자본증권을 발행했다. 1일 하나증권은 지난달 30일 총 3억달러(약 4000억원) 규모 미 달러화 표시 외화 신종자본증권을 발행했..",
+      "link": "https://www.mk.co.kr/news/stock/12166396",
+      "publishedAt": "2026-10-01T08:41:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "특별사법경찰 기소율 극과극… 법무부 95% vs 문체부 16%",
+      "summary": "특별사법경찰(특사경)이 검찰에 송치한 피의자 가운데 실제 재판에 넘겨진 비율인 '기소율'이 중앙행정기관별로 천차만별인 것으로 나타났다. 문화체육관광부 특사경의 기소율은 16%에 불..",
+      "link": "https://www.mk.co.kr/news/economy/12166387",
+      "publishedAt": "2026-10-01T08:40:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "'금융·경제통' 권대영 재경부 1차관에… '교통 전문가' 정의경 국토 2차관 승진",
+      "summary": "이형일 부총리 겸 재정경제부 장관과 홍지선 국토교통부 장관 취임으로 공석이던 재경부 제1차관과 국토부 제2차관 인선이 1일 발표됐다. 이날 이재명 대통령은 재경부 1차관에 권대영 ..",
+      "link": "https://www.mk.co.kr/news/economy/12166356",
+      "publishedAt": "2026-10-01T08:38:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[포토] 역대 기획예산처 수장들 한자리에",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12166349",
+      "publishedAt": "2026-10-01T08:37:16.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화",
+      "summary": "한화생명이 글로벌 투자 기능을 강화하기 위한 새로운 조직을 신설하고, 자산관리(WM)와 신사업 조직을 재편하는 등 작업에 착수했다. 국내 보험시장이 저출생·고령화와 시장 포화로 성..",
+      "link": "https://www.mk.co.kr/news/economy/12166346",
+      "publishedAt": "2026-10-01T08:37:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"태양광 발전설비 매년 10GW 이상 늘어날 것\"",
+      "summary": "기후에너지환경부가 내년부터 태양광 발전설비가 10GW 이상 늘어날 것으로 전망했다. 재생에너지 보급 확대를 위해 속도를 내겠다는 메시지다. 인공지능(AI) 데이터센터와 관련해선 별..",
+      "link": "https://www.mk.co.kr/news/economy/12166347",
+      "publishedAt": "2026-10-01T08:37:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "고령 인구 1100만명 … 10명 중 4명 일해",
+      "summary": "우리나라 65세 이상 인구가 올해 처음으로 1100만명을 넘어섰다. 지난해 1000만명을 돌파한 지 1년 만이다. 고령층의 경제활동도 활발해지면서 노인 10명 중 4명은 일하는 것..",
+      "link": "https://www.mk.co.kr/news/economy/12166343",
+      "publishedAt": "2026-10-01T08:37:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "10월 국채 총발행 계획대비 5조원 축소…\"필요시 더 줄여\"",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 정부가 고공행진을 벌이고 있는 국고채 금리 안정을 위해 이달 국고채 총발행 물량을 초과세수를 활용해 계획보다 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261001176300002",
+      "publishedAt": "2026-10-01T08:35:46.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3538,206 +3778,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202609245190i",
       "publishedAt": "2026-09-24T10:13:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
-      "summary": "(베이징=연합뉴스) 정성조 특파원 = 중동 정세 긴장이 지속되면서 다소 떨어졌던 중국의 국내 유가가 이란 전쟁 발발 직후 수준으로 다시 상승했다...",
-      "link": "https://www.yna.co.kr/view/AKR20260924045200083",
-      "publishedAt": "2026-09-24T09:09:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "\"AI 속도 조절론은 기우 … 반도체 중심 상승세 계속\"",
-      "summary": "추석 연휴 이후 국내외 증시가 단기 불확실성을 소화한 뒤 4분기 반등을 시도할 것이라는 주요 증권사 리서치센터장들의 전망이 나왔다. 고금리 장기화 우려와 중동 지정학적 리스크가 증..",
-      "link": "https://www.mk.co.kr/news/stock/12160968",
-      "publishedAt": "2026-09-24T09:03:47.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092184316",
-      "publishedAt": "2026-09-24T08:26:55.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“삼성전자 내년 63만원 vs 27만원”…증권가 전망 극과 극, 누구 말이 맞나",
-      "summary": "영업익 전망 내년부터 차이 확대 유안타 590조 vs 키움 346조 HBM發 공급부족 장기화 여부 관건삼성전자의 내년 실적을 놓고 증권가 전망이 크게 엇갈리고 있다. 올해 영업이..",
-      "link": "https://www.mk.co.kr/news/stock/12160935",
-      "publishedAt": "2026-09-24T08:19:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609233010H",
-      "publishedAt": "2026-09-24T07:53:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245131i",
-      "publishedAt": "2026-09-24T07:53:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"하루만 맡겨도 이자 준대\" 들썩…'103조원' 출혈 경쟁 터졌다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092336926",
-      "publishedAt": "2026-09-24T07:37:17.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"카니발 독주에 도전장\"…테슬라까지 뛰어든 3열 패밀리카 전쟁 [맞짱대결]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609220758g",
-      "publishedAt": "2026-09-24T07:33:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"월급 꼬박 이체했는데\"…금리 우대 못 받은 황당한 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609229909i",
-      "publishedAt": "2026-09-24T07:10:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "서울 집값 85주째 올랐다…文정부 때 세운 ‘최장 기록’ 따라잡아",
-      "summary": "최근 85주간 17.5% 상승 다음 주도 오르면 역대 최장 경신서울 아파트 매매가격이 85주 연속 오르며 문재인 정부 당시 세운 역대 최장 상승 기록과 동률을 이뤘다. 다음 주에도..",
-      "link": "https://www.mk.co.kr/news/economy/12160908",
-      "publishedAt": "2026-09-24T06:45:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20260924038600002",
-      "publishedAt": "2026-09-24T06:32:38.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260924035700011",
-      "publishedAt": "2026-09-24T06:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
-      "summary": "(서울=연합뉴스) 박재하 기자 = 전국 세무서에 설치된 납세자보호위원회가 지방 소도시 및 도시 외 지역 등에 있는 &apos;2급지&apos; 세무서에서 연 1회...",
-      "link": "https://www.yna.co.kr/view/AKR20260922168451001",
-      "publishedAt": "2026-09-24T05:15:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"65만전자 간다?\"…심상찮은 증권가 전망에 개미들 '들썩' [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092450146",
-      "publishedAt": "2026-09-24T05:00:58.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 서울 아파트 매매가격이 85주째 올라 역대 최장 상승 기간과 동률을 기록했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260924028000003",
-      "publishedAt": "2026-09-24T05:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"주식 너무 올라도 걱정\"…지금은 즐겨야 할 때 [이주영의 시장을 꿰뚫는 기술]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609233446i",
-      "publishedAt": "2026-09-24T04:52:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"시세보다 40% 싸게 전세 줬는데\"…60대 집주인 '날벼락' [고정삼의 절세GPT]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092334526",
-      "publishedAt": "2026-09-24T04:10:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손(종합)",
-      "summary": "(안동=연합뉴스) 황수빈 기자 = 경북도가 지역 제조기업의 글로벌 양자산업 진출을 위해 글로벌 양자 기업, 미국 메릴랜드주와 협력한다.",
-      "link": "https://www.yna.co.kr/view/AKR20260924027951053",
-      "publishedAt": "2026-09-24T03:41:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609106359g",
-      "publishedAt": "2026-09-24T03:13:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "대미투자 새 축으로 떠오른 원전…'K원전' 美진출 넓어지나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609234053i",
-      "publishedAt": "2026-09-24T03:08:35.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손",
-      "summary": "(안동=연합뉴스) 황수빈 기자 = 경북도가 지역 제조기업의 글로벌 양자산업 진출을 위해 글로벌 양자 기업, 미국 메릴랜드주와 협력한다.",
-      "link": "https://www.yna.co.kr/view/AKR20260924027900053",
-      "publishedAt": "2026-09-24T02:31:20.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "삼성제약, PSP 치료제 ‘GV1001’ 3상 임상계획 자진 취하…“보완 후 재신청”",
-      "summary": "삼성제약이 진행성핵상마비(PSP) 치료제 ‘GV1001’의 국내 제3상 임상시험계획(IND)을 자진 취하하고 조만간 재신청하기로 했다. 삼성제약은 PSP 치료제 GV1001의 국내..",
-      "link": "https://www.mk.co.kr/news/stock/12160842",
-      "publishedAt": "2026-09-24T01:33:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "막 오른 미중정상회담... 국채금리 발작 잠재울까",
-      "summary": "불앤베어 플러스미국 국채금리가 큰 폭으로 상승하며 증시 밸류에이션을 압박했습니다. 막 시작한 미중정상회담에서 희망적인 메시지가 나올 수 있을지 주목해 봅니다. ◆ 유의사항 : 본 ..",
-      "link": "https://www.mk.co.kr/news/stock/12160835",
-      "publishedAt": "2026-09-24T01:19:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "연휴 끝나면 무슨 종목 사야 할까…증권사들 추천주 살펴보니",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609233877i",
-      "publishedAt": "2026-09-24T01:00:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "백화점 넘어 디벨로퍼로 나아가는 한화갤러리아",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609233816i",
-      "publishedAt": "2026-09-24T01:00:07.000Z"
     }
   ]
 }
