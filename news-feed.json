@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-10-01T16:48:42.095Z",
+  "updatedAt": "2026-10-02T00:21:38.788Z",
   "historyDays": 7,
-  "count": 477,
+  "count": 486,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "2700조 몸값 통할까...앤트로픽 IPO, AI 기업가치 시험대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100293927",
+      "publishedAt": "2026-10-02T00:17:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"10% 급등했는데\"…'○○○' 팔고 하이닉스 '풀베팅'한 초고수들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029306i",
+      "publishedAt": "2026-10-02T00:16:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "미국, 중동에 세 번째 항공모함 파견 소식에…정유주 '들썩'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100294316",
+      "publishedAt": "2026-10-02T00:16:21.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한은 \"10월 물가상승률 3% 내외 높은 수준 예상\"",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행은 9월 소비자물가 상승률이 2%대로 낮아졌지만, 오히려 물가 오름세가 확대된 것이라고 2일 평가했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002036500002",
+      "publishedAt": "2026-10-02T00:13:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "군산시, '맞춤형 다국어 안내'로 외국인 주민세 납부율 4.7%p↑",
+      "summary": "(군산=연합뉴스) 김진방 기자 = 전북 군산시는 외국인 주민의 지방세 납부 편의를 개선하기 위해 다국어 안내문을 제작·발송해 외국인 주민세 납부...",
+      "link": "https://www.yna.co.kr/view/AKR20261002036800055",
+      "publishedAt": "2026-10-02T00:13:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이랜드월드 \"걸음마 신발 '뉴비퍼스트', 매출 2.5배 증가\"",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 이랜드월드는 뉴발란스 키즈의 걸음마 신발 &apos;뉴비퍼스트&apos; 올해 1∼9월 매출이 전년 동기보다 150%(약 2.5...",
+      "link": "https://www.yna.co.kr/view/AKR20261002036700030",
+      "publishedAt": "2026-10-02T00:12:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피, 하락 출발해 6930선 후퇴…코스닥은 장중 900선 회복",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100293226",
+      "publishedAt": "2026-10-02T00:10:53.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "누빈, 슈로더 인수 완료…운용자산 4천조원 글로벌 운용사 출범",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 미국 교직원연금기금(TIAA) 계열의 글로벌 자산운용사 누빈(Nuveen)이 전일(현지시각) 슈로더자산운용(S...",
+      "link": "https://www.yna.co.kr/view/AKR20261002036100008",
+      "publishedAt": "2026-10-02T00:10:43.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "젭바운드보다 더 빠졌다…릴리 차세대 비만약, 체중 23.3% 감량",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029388i",
+      "publishedAt": "2026-10-02T00:10:33.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "CJ제일제당, 퀴진케이 열 번째 팝업 '빌롱' 선보여",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = CJ제일제당[097950]은 한식 셰프 발굴·육성 프로젝트 &apos;퀴진케이&apos;의 열 번째 팝업 레스토랑 &apos;빌롱&apos;을 오...",
+      "link": "https://www.yna.co.kr/view/AKR20261002032800030",
+      "publishedAt": "2026-10-02T00:10:21.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "충남도, 청년정책보좌관 공모…성별·학력 등 제한 없어",
+      "summary": "(홍성=연합뉴스) 정윤덕 기자 = 충남도는 청년정책보좌관(지방별정직 5급 상당) 1명을 공개 모집한다고 2일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002036400063",
+      "publishedAt": "2026-10-02T00:09:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "게이머 인증서 로봇 학습 데이터로…KGeN “한국 투자 확대”",
+      "summary": "마니쉬 아가르왈 KGeN 공동창업자 개도국 회원이 AI·로봇 학습 데이터 생산 올해 한국어 음성·행동 데이터 확보 시작게이머 인증으로 출발한 웹3 데이터 기업 KGeN(케이젠)이 ..",
+      "link": "https://www.mk.co.kr/news/stock/12166806",
+      "publishedAt": "2026-10-02T00:07:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성E&A, 3분기 호실적 전망…내년은 더 좋아진다”",
+      "summary": "키움증권은 2일 삼성E&A에 대해 3분기 영업이익이 시장 전망치를 웃돌 것으로 예상된다며 투자의견 ‘매수’와 목표주가 7만3000원을 유지했다. 신대현 키움증권 연구원은 삼성E&A..",
+      "link": "https://www.mk.co.kr/news/stock/12166784",
+      "publishedAt": "2026-10-02T00:00:25.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“삼성전자 현저한 저평가 상태…목표주가 46만원 유지” 증권사 전망",
+      "summary": "IBK투자증권은 2일 삼성전자에 대해 메모리 공급 부족 상황이 장기화될 것이라며 투자의견 ‘매수’, 목표주가 46만원을 유지했다. IBK투자증권은 삼성전자의 올해 3분기 실적은 이..",
+      "link": "https://www.mk.co.kr/news/stock/12166783",
+      "publishedAt": "2026-10-02T00:00:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美서 수주 쏟아지는데 주가는 반토막…HD현대일렉트릭, 회복 가능성은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610016614i",
+      "publishedAt": "2026-10-01T23:56:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'은행·증권사 못 믿어'…직접 '가문 투자사' 차리는 슈퍼리치들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029264i",
+      "publishedAt": "2026-10-01T23:50:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스피 팔아치운 외국인…9개월 내내 담은 종목도 있다는데",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610016722i",
+      "publishedAt": "2026-10-01T23:48:41.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"색깔별로 다 주세요\"…외국인들 명동서 싹쓸이한 제품",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029096g",
+      "publishedAt": "2026-10-01T23:41:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'10만원→14만5000원' 마법…직장인 몰리는 '세테크'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029223g",
+      "publishedAt": "2026-10-01T23:40:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] “채무조정 못 해줍니다”…절반 넘게 이유 모호한 ‘퇴짜’",
+      "summary": "개인채무자보호법 시행됐는데 여신금융 채무조정 거절 8888건 거절 사유 모호한 ‘기타’ 53.6% 안철수 “제도 실효성 점검 어려워”#. 경기도에 사는 70대 여성 A씨는 고아였던..",
+      "link": "https://www.mk.co.kr/news/economy/12166747",
+      "publishedAt": "2026-10-01T23:29:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI가 컨설턴트 밥줄 끊는다더니…오히려 주가 16% 급등",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029183i",
+      "publishedAt": "2026-10-01T23:23:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "초과세수에 국채 5조 덜 찍는다",
+      "summary": "10월 국고채 경쟁입찰 12조원 3조5000억원 규모 조기상환도 시장상황에 따라 추가 축소 검토정부가 63조원에 달하는 초과세수를 활용해 이달 국고채 발행 물량을 당초 계획보다 5..",
+      "link": "https://www.mk.co.kr/news/economy/12166744",
+      "publishedAt": "2026-10-01T23:21:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "고금리에도 미국 경제가 버티는 충격적인 이유",
+      "summary": "불앤베어 플러스미국을 비롯해 전세계에 휘몰아치고 있는 장기물 금리 상승에 대한 부담은 더해지고 있습니다. 향후 금리전망과 4분기 증시를 바라보는 월가 전망을 함께 묶어봤습니다. ◆..",
+      "link": "https://www.mk.co.kr/news/economy/12166743",
+      "publishedAt": "2026-10-01T23:17:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“NAVER, 우려는 이미 주가에 반영됐다…지금이 매수 타이밍?”",
+      "summary": "하나증권은 2일 NAVER에 대해 시장의 각종 우려가 주가에 이미 선반영됐다며 목표주가를 기존 35만원에서 40만원으로 상향 조정했다. 하나증권은 NAVER의 3분기 연결 기준 영..",
+      "link": "https://www.mk.co.kr/news/stock/12166742",
+      "publishedAt": "2026-10-01T23:15:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "미 국채 덮친 '매도 악순환'…10년물 금리 5.3%",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029156i",
+      "publishedAt": "2026-10-01T23:15:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[속보] 9월 소비자물가 상승률 2.9%…2%대로 내려와",
+      "summary": "농산물 4% 내렸지만 석유류 14.8% 올라지난달 소비자물가 상승률이 2.9%를 기록하며 한 달 만에 다시 2%대로 내려왔다. 추석을 앞두고 출하 물량이 늘어난 데다 할인 지원 등..",
+      "link": "https://www.mk.co.kr/news/economy/12166740",
+      "publishedAt": "2026-10-01T23:03:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "신한은행 2.5만명 고객정보 털렸다…주민번호·연소득·대출정보까지 포함",
+      "summary": "금융당국 긴급 조사 착수 이름·연소득·대출한도는 물론 일부 고객 주민번호까지 포함 해커, 대출모집인용 서비스서 15시간 넘도록 개인 신상 탈취 신한은행장 “피해 전액 보상”국내 1..",
+      "link": "https://www.mk.co.kr/news/economy/12166718",
+      "publishedAt": "2026-10-01T21:50:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“이재용·최태원이 개미 살리러 온다”…300조 실적으로 박스권 뚫나",
+      "summary": "마이크론 이어 삼전닉스도 호실적 예고 싸늘한 투자심리에 온기 보태줄지 주목 주주환원·美선거·앤트로픽IPO 등 변수 증권가 “삼성, 3년간 주주환원 600조원”메모리 반도체 업체 중..",
+      "link": "https://www.mk.co.kr/news/stock/12166681",
+      "publishedAt": "2026-10-01T20:51:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“긴축의 시대 투자로 정면돌파” … 서울머니쇼+에 초대합니다",
+      "summary": "코엑스 마곡서 29~31일 개최 ‘2026 서울머니쇼+’불확실성이 일상이 된 시대다. 금리는 오르고 집값은 흔들리며 인공지능(AI)은 투자 지형을 바꾸고 있다. 미국 10년물 국채..",
+      "link": "https://www.mk.co.kr/news/economy/12166434",
+      "publishedAt": "2026-10-01T20:00:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3658,166 +3890,6 @@
       "summary": "불앤베어 플러스페제시키안 이란 대통령이 미국 언론과의 인터뷰를 통해 중간선거 이전 협상 타결을 바란다는 취지의 발언을 했습니다. 자세한 내용 영상과 함께 살펴보겠습니다. ◆ 유의사..",
       "link": "https://www.mk.co.kr/news/stock/12161273",
       "publishedAt": "2026-09-25T00:47:44.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"12년 만에 터졌다\"…'제우스' 흥행에 컴투스 주가도 들썩",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609233485i",
-      "publishedAt": "2026-09-25T00:00:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 최근 6년간 전국 아파트 분양 시장에서 착오에 따른 가점 계산 실수나 자격 미달 등으로 당첨이 취소된 부적격자...",
-      "link": "https://www.yna.co.kr/view/AKR20260923162900003",
-      "publishedAt": "2026-09-24T23:31:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "손절매 쏟아지는 채권, 10년 금리 5.2%…메타, 인텔 폭등 지속 [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609255572i",
-      "publishedAt": "2026-09-24T23:30:35.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
-      "summary": "(남해=연합뉴스) 박정헌 기자 = 경남에서 유일하게 농어촌 기본소득 시범사업을 도입한 남해군이 추석 연휴를 맞아 이러한 기본소득이 지역 경기 부...",
-      "link": "https://www.yna.co.kr/view/AKR20260923073400052",
-      "publishedAt": "2026-09-24T23:20:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“악역도 피하지 말아요”…이형일 부총리 향한 쓴소리 [김익환의 부처 핸즈업]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245017i",
-      "publishedAt": "2026-09-24T23:18:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
-      "summary": "(서울=연합뉴스) 김연정 기자 = 국책은행인 기업은행과 산업은행이 총 14개의 골프장 회원권(취득 금액이 146억원)을 보유하고 있으나 누가 어...",
-      "link": "https://www.yna.co.kr/view/AKR20260923176600001",
-      "publishedAt": "2026-09-24T23:12:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
-      "summary": "(서울=연합뉴스) 류미나 기자 = 외부인 접촉 사실을 누락해 적발된 공정거래위원회 직원이 최근 5년간 50명에 달하는 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20260922163000001",
-      "publishedAt": "2026-09-24T23:04:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "점유율 23% 쥔 쏘렌토·싼타페, 수입 중형SUV에 안방 흔들",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609234356i",
-      "publishedAt": "2026-09-24T23:00:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"채권의 시대 끝났다…자산배분 새 공식은 '주식·원자재·에너지'\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609255381i",
-      "publishedAt": "2026-09-24T23:00:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[4만달러 눈 앞] ③ K자 양극화 심화…반도체는 잔치, 서민·청년은 시름",
-      "summary": "(세종=연합뉴스) 김수현 기자 = 한국의 1인당 국민총소득(GNI)이 올해 사상 처음으로 4만 달러를 넘어설 것으로 보이지만 성장의 온기는 고르...",
-      "link": "https://www.yna.co.kr/view/AKR20260922159900002",
-      "publishedAt": "2026-09-24T23:00:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "물 대신 단백질·에너지젤…식품업계 '러닝족' 잡기 경쟁 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609220334i",
-      "publishedAt": "2026-09-24T23:00:12.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[4만달러 눈 앞] ① 3%대 성장에 국민소득 도약…12년 만에 새 문턱",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 올해 우리나라 1인당 국민소득이 사상 처음 4만달러를 넘어설 가능성이 커지고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260923045600002",
-      "publishedAt": "2026-09-24T23:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미래에셋 실적 '나비효과' 된 2022년 스페이스X 회계처리",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609245315i",
-      "publishedAt": "2026-09-24T23:00:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'약국 2만4000곳 품은' 바로팜, 11월 상장 추진",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609221840i",
-      "publishedAt": "2026-09-24T22:57:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
-      "summary": "30년물 5.5%·10년물 5.2% 돌파 日 30년·獨 17년 만에 최고 수준 고유가·지정학적 긴장·재정 우려 겹쳐 연준 추가 긴축 전망 내달 금리 인상 전망 70%대미국 연방준..",
-      "link": "https://www.mk.co.kr/news/economy/12161243",
-      "publishedAt": "2026-09-24T22:55:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "네타냐후 유엔연설에 집단퇴장...“이란전쟁 정당” 주장",
-      "summary": "유엔총회 연설에 각국 반발 “겁쟁이는 떠나라” 직격 트럼프에 “위대한 동반자” 감사베냐민 네타냐후 이스라엘 총리가 24일(현지시간) 연설을 시작하기도 전에 유엔총회장은 아수라장이 ..",
-      "link": "https://www.mk.co.kr/news/economy/12161230",
-      "publishedAt": "2026-09-24T21:44:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "10년물 5.2% 돌파…美 증시 덮친 '고금리 장기화' [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609255458i",
-      "publishedAt": "2026-09-24T21:31:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "전세대출 대신 갚아준 돈 7283억…3년 새 138.6% 급증",
-      "summary": "전세자금 대출을 제때 갚지 못해 한국주택금융공사(HF)가 금융기관에 대신 갚아준 대위변제액이 3년 새 2배 넘게 늘어난 것으로 나타났다. 특히 20대 이하와 30대 등 청년층의 보..",
-      "link": "https://www.mk.co.kr/news/economy/12161229",
-      "publishedAt": "2026-09-24T21:31:19.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“이자 19% 적금, 안들면 바보 아니에요?”…청년층, 76% 더 부었다",
-      "summary": "5대은행 적금 분석해보니 5년간 중장년 20% 줄때 30대 연령대서 약 2배 ↑ 정부, 청년겨냥 적금 내놔 우대형 실질 수익 연 19% 일각서 세대 차별 논란도은행 적금이 ‘티끌 ..",
-      "link": "https://www.mk.co.kr/news/economy/12161214",
-      "publishedAt": "2026-09-24T21:02:36.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "주가상승 13%에 배당 10% … 파이어족 갈아타는 ‘혜자 GPIQ’ 뭐길래",
-      "summary": "좀더 안정적 배당으로…커버드콜 갈아타기 유행중김모씨(47)는 ‘JP모건 나스닥 주식 프리미엄 인컴 ETF’(JEPQ)를 1년 넘게 보유하다가 최근 전량 매도했다. 1년전 유튜브에서..",
-      "link": "https://www.mk.co.kr/news/economy/12159601",
-      "publishedAt": "2026-09-24T19:30:00.000Z"
     }
   ]
 }
