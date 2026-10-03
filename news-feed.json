@@ -1,8 +1,224 @@
 {
-  "updatedAt": "2026-10-03T00:04:16.158Z",
+  "updatedAt": "2026-10-03T08:44:33.355Z",
   "historyDays": 7,
-  "count": 512,
+  "count": 520,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출(종합)",
+      "summary": "(서울=연합뉴스) 배영경 강류나 기자 = 현대캐피탈도 인공지능(AI) 활용 해킹으로 추정되는 공격을 받아 주택대출 모집인 관련 정보가 유출된 것...",
+      "link": "https://www.yna.co.kr/view/AKR20261003038151002",
+      "publishedAt": "2026-10-03T08:19:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“평생 월급 500만원, 꿈이 아닙니다”…연금박사가 공개한 노후 설계법",
+      "summary": "은퇴 후에도 매달 500만원의 소득을 확보할 수 있을까. 연금 전문가인 이영주 연금박사 대표는 국민연금과 퇴직연금, 개인연금을 적절히 조합하면 충분히 도전해볼 수 있는 목표라고 강..",
+      "link": "https://www.mk.co.kr/news/stock/12167807",
+      "publishedAt": "2026-10-03T08:14:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘금융권 AI 해킹’ 현대캐피탈도 털렸다…대출모집인 정보 유출",
+      "summary": "이름·휴대전화번호·주민번호 등 유출 “일반 고객정보 유출 없어”현대캐피탈도 인공지능(AI) 활용 해킹공격을 받아 주택대출 모집인 관련 정보가 유출된 것으로 확인됐다. 현대캐피탈은 ..",
+      "link": "https://www.mk.co.kr/news/economy/12167805",
+      "publishedAt": "2026-10-03T08:09:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "모기 물릴 걱정 없겠네…133만원 퇴치기 등장에 '난리'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100318187",
+      "publishedAt": "2026-10-03T07:59:21.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "원전 파운드리, 반도체 신화 이을까…K기업, 美 심장부 뚫는다 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100179916",
+      "publishedAt": "2026-10-03T07:43:51.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정(종합)",
+      "summary": "(서울=연합뉴스) 김지연 강류나 기자 = 예가람저축은행에서도 해킹 피해로 고객 개인정보가 유출된 것으로 3일 파악됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20261003035051002",
+      "publishedAt": "2026-10-03T07:36:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출",
+      "summary": "(서울=연합뉴스) 배영경 강류나 기자 = 현대캐피탈도 인공지능(AI) 활용 해킹으로 추정되는 공격을 받아 주택대출 모집인 관련 정보가 유출된 것...",
+      "link": "https://www.yna.co.kr/view/AKR20261003038100002",
+      "publishedAt": "2026-10-03T07:27:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“AI에 시중은행 또 털렸다” …이번에는 예가람저축은행, 4만명 정보 털려",
+      "summary": "예가람저축은행에서도 해킹으로 고객 개인정보가 유출된 것으로 확인됐다. 국내 주요 시중은행에 이어 저축은행에서도 개인정보 유출 사고가 발생하면서 금융권의 보안 우려가 커지고 있다. ..",
+      "link": "https://www.mk.co.kr/news/economy/12167792",
+      "publishedAt": "2026-10-03T06:58:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'암살자(들)' 300억대 투자에 외부개입?…산은·기업은행 입 열었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100317647",
+      "publishedAt": "2026-10-03T06:32:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정",
+      "summary": "(서울=연합뉴스) 김지연 강류나 기자 = 예가람저축은행에서도 해킹 피해로 고객 개인정보가 유출된 것으로 3일 파악됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20261003035000002",
+      "publishedAt": "2026-10-03T06:12:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "모두 삼전닉스만 볼 때…\"이걸로 돈 벌었어요\" 웃는 개미들 [이수의 ETF줌인]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100202146",
+      "publishedAt": "2026-10-03T06:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"떨어지는 칼날 잡지 마라\"…美국채 5% 시대 돈 몰릴 곳은",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100317407",
+      "publishedAt": "2026-10-03T05:55:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“큰 돈 벌고도 보안은 뒷전”…대형증권사, 전산사고 배상 70억",
+      "summary": "키움, 3년간 38억원 배상금 최다 한투, 올해만 11.8억원 배상 ‘프로그램 오류’가 절반최근 3년 간 10개 대형 증권사에서 전산사고로 고객에게 배상한 금액이 70억원에 달하는..",
+      "link": "https://www.mk.co.kr/news/stock/12167780",
+      "publishedAt": "2026-10-03T05:55:44.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전남대병원 금융부채 273억원…연간 이자만 12억원",
+      "summary": "(전남광주=연합뉴스) 정회성 기자 = 전남대학교병원의 누적 금융부채가 273억원에 달하는 것으로 집계됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20261003032600054",
+      "publishedAt": "2026-10-03T05:40:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "100세 시대, 은퇴설계의 질문이 달라져야 한다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609280082i",
+      "publishedAt": "2026-10-03T05:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"우리 또 만났네요\" 2500만 터졌다…고윤정·허남준에 난리 [김소연의 얼굴전략]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610020253g",
+      "publishedAt": "2026-10-03T04:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"화장품·양주 다 제쳤다\"…외국인들 공항서 싹쓸이한 '이것'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100315947",
+      "publishedAt": "2026-10-03T03:07:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "기업은행·산업은행 \"영화 암살자(들) 투자 외부 요청 없었다\"",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 한국산업은행과 IBK기업은행은 3일 영화 &apos;암살자(들)&apos; 투자시 외부 요청은 없었다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261003026100002",
+      "publishedAt": "2026-10-03T03:07:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI 붐과 한국경제, 이번에는 다를까?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609220337i",
+      "publishedAt": "2026-10-03T03:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금리 더 오르겠어?…'지금이 기회' 2900억 뭉칫돈 몰린 곳 [투자톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100204936",
+      "publishedAt": "2026-10-03T02:51:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 2막 열린다…성장과 인컴으로 설계하는 포트폴리오",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609289305i",
+      "publishedAt": "2026-10-03T02:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅데이터로 본 재테크]",
+      "summary": "범용 D램 공급 부족 심화되고 HBM 신제품까지 성장 견인 보고서·종목 검색서 1위 차지지난 한 주 동안 투자자들의 관심이 삼성전자에 대거 몰린 것으로 나타났다. 30조원에 달하는..",
+      "link": "https://www.mk.co.kr/news/stock/12167737",
+      "publishedAt": "2026-10-03T01:38:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까",
+      "summary": "미국 뉴욕증시가 고용 둔화에 따른 금리 인상 우려 완화와 주요 7개국(G7)의 에너지 비축분 방출 계획에 힘입어 상승 마감했다. 특히 반도체주가 강세를 보이면서 국내 증시에도 긍정..",
+      "link": "https://www.mk.co.kr/news/stock/12167729",
+      "publishedAt": "2026-10-03T01:05:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“여행·취미 다 포기”…소득 절반 대출 갚아야 서울 국평 아파트 마련",
+      "summary": "서울 주택구입부담지수 185.3 3년 6개월 내 최고치 전국 평균 지수 61.8 3분기 연속 올라서울에서 중간 가격의 주택을 구입하면 가계 소득의 절반을 주택담보대출 원리금 갚는..",
+      "link": "https://www.mk.co.kr/news/economy/12167726",
+      "publishedAt": "2026-10-03T00:57:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
+      "summary": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 ..",
+      "link": "https://www.mk.co.kr/news/economy/12167722",
+      "publishedAt": "2026-10-03T00:41:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[속보] 트럼프 “韓 알래스카 투자 안한대도 괜찮다…돈 더 청구하면 돼”",
+      "summary": "韓 ‘알래스카 LNG 미확정’ 반박엔 트럼프 “성급한 발표 아니었다”도널드 트럼프 미국 대통령이 한국의 알래스카 액화천연가스(LNG) 프로젝트 투자를 확정된 것처럼 발표한 것이 ..",
+      "link": "https://www.mk.co.kr/news/economy/12167720",
+      "publishedAt": "2026-10-03T00:35:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하루에만 10% 오른 정유주…증권사들 \"내년 실적도 예상 웃돌 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610031573i",
+      "publishedAt": "2026-10-03T00:31:58.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3946,158 +4162,6 @@
       "summary": "교통안전교육 이수 등 조건 충족시 기존 5%에서 11%로 혜택 확대안전운전하는 배달 종사자의 보험료 할인 혜택이 본격 시작됐다. 교육안전교육을 이수하거나 디지털 운행 기록장치를 장..",
       "link": "https://www.mk.co.kr/news/economy/12161674",
       "publishedAt": "2026-09-26T08:58:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
-      "summary": "추석 전후 주가추이 살펴보니 ‘명절 화두된 종목은 상투’ 속설도 실적개선 종목은 외려 상승하기도“명절 밥상에서 주식 얘기 나오기 시작하면 꼭지다.” 평소 주식에 관심이 없던 가족들..",
-      "link": "https://www.mk.co.kr/news/stock/12161670",
-      "publishedAt": "2026-09-26T08:44:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092180476",
-      "publishedAt": "2026-09-26T08:29:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"SUV가 왜 이렇게 조용해?\"…운전자 놀라게 한 '반전 비밀'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609182599g",
-      "publishedAt": "2026-09-26T07:18:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
-      "summary": "미중 협상, AI투자 향방에 환율 출렁일 듯 한미금리차·대미투자 부담에 약세 압력도추석 연휴에도 서울외환거래시장은 24시간 돌아간다. 하지만 거래량이 급격히 줄었다가 연휴 이후 정..",
-      "link": "https://www.mk.co.kr/news/economy/12161632",
-      "publishedAt": "2026-09-26T06:36:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI 시대 보험사 경쟁력, 특허에 달렸다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609221940i",
-      "publishedAt": "2026-09-26T06:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "20대부터 80대까지, 한눈에 보는 은퇴 자산관리",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609171357i",
-      "publishedAt": "2026-09-26T06:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한국이란 나라는 몰라도…\" 네덜란드 마트 싹쓸이한 '이것' [현장+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609168429g",
-      "publishedAt": "2026-09-26T05:59:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"10년 전 1억 주고 샀다면 지금쯤…\" 압도적 수익률 1위는",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092665447",
-      "publishedAt": "2026-09-26T05:03:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "농지 전수조사가 던진 숙제, 세제도 함께 점검해야 [고인선의 택스인사이트]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609266328i",
-      "publishedAt": "2026-09-26T05:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“증시 방향 잡히면 바로 빼서 들어가요”…일주일 새 1.8조 몰린 ‘대기실 ETF’",
-      "summary": "불확실성커지자 파킹형 ETF로 자금유입 상위 10종 중 6종 차지 투자 대기자금 운용하며 수익 확보국내 증시를 둘러싼 불확실성이 커지면서 변동성 장세의 대피처로 꼽히는 ‘파킹형 상..",
-      "link": "https://www.mk.co.kr/news/stock/12161603",
-      "publishedAt": "2026-09-26T04:15:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'내 주식 어쩌나' 떨던 개미들…삼성전자 다시 보니 '깜짝' [한경우의 케이스스터디]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092325796",
-      "publishedAt": "2026-09-26T02:55:53.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국제품 수입규제 상반기 241건…작년 하반기보다 11건 늘어",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 보호무역주의가 확산하는 흐름 속에서 올해 상반기 한국 제품에 대한 수입규제 조치도 지난해 하반기보다 증가한 것...",
-      "link": "https://www.yna.co.kr/view/AKR20260923164700003",
-      "publishedAt": "2026-09-26T02:31:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "외평채·한미투자채 150억弗 조달…대미투자 실탄 쌓는다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609266492i",
-      "publishedAt": "2026-09-26T02:23:27.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'2주 황금연휴' 중국인들이 몰려온다…'중추절 특수주'는 어디?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609266258i",
-      "publishedAt": "2026-09-26T02:01:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "UAE와 방산협력에 수혜 기대…\"방산주 추세전환 동력 전망\"",
-      "summary": "(서울=연합뉴스) 김유아 기자 = 한화가 아랍에미리트(UAE)와 통합방공망 구축을 추진한다는 소식이 알려지며 국내 방산업계를 바라보는 증권가 시...",
-      "link": "https://www.yna.co.kr/view/AKR20260923166300008",
-      "publishedAt": "2026-09-26T02:00:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260926022700011",
-      "publishedAt": "2026-09-26T01:30:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[바이오사이언스] 신약 찾고 스타트업 키우고…협력 넓히는 K바이오",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 국내 제약·바이오기업들이 신약 후보물질을 외부에서 도입하고 국내외 바이오 스타트업 및 연구기관과 협력을 넓히고...",
-      "link": "https://www.yna.co.kr/view/AKR20260923099000017",
-      "publishedAt": "2026-09-26T01:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "환율 하락에 항공주는 웃고 해운주 울고…식음료는 딜레마",
-      "summary": "(서울=연합뉴스) 김유아 기자 = 달러 대비 원화 가격이 1,350원대로 내려오며 본격적인 하락세 진입 관측이 나오는 가운데, 국내 증시에선 환...",
-      "link": "https://www.yna.co.kr/view/AKR20260923156800008",
-      "publishedAt": "2026-09-26T01:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "전세사기 막을 공인중개사 설명의무 위반 3년 새 4.6배↑",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 전세사기 피해 방지 등을 위해 공인중개사가 중개 대상 물건의 선순위 권리관계 등 정보를 고객에게 설명하도록 법...",
-      "link": "https://www.yna.co.kr/view/AKR20260923181000003",
-      "publishedAt": "2026-09-26T00:31:00.000Z"
     }
   ]
 }
