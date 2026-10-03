@@ -1,8 +1,120 @@
 {
-  "updatedAt": "2026-10-03T14:28:35.676Z",
+  "updatedAt": "2026-10-03T23:26:38.444Z",
   "historyDays": 7,
-  "count": 522,
+  "count": 523,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "5년간 국내 어선 사고 사망·실종자 478명…지난해만 110명",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 지난 5년간 국내 어선 사고에 따른 사망자와 실종자가 478명에 달하는 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002068500051",
+      "publishedAt": "2026-10-03T23:01:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"화장품 90% 싸게 팝니다\"…올리브영 위협하는 '이곳' [장서우의 하입:hype]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610031362i",
+      "publishedAt": "2026-10-03T23:00:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "지루한 박스권 장세…삼성전자 3분기 실적에 쏠리는 눈 [주간전망]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100206306",
+      "publishedAt": "2026-10-03T23:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "애증의 알테오젠…주가 50만원 돌파의 관건은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610020638i",
+      "publishedAt": "2026-10-03T23:00:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"남들따라 샀다가 은퇴자산 날린다\"…연금투자 세가지 원칙",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029701i",
+      "publishedAt": "2026-10-03T23:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 국토교통부의 내년도 싱크홀 예방 지반탐사 지원사업이 전국 수요의 절반도 충족하지 못하는 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002157900003",
+      "publishedAt": "2026-10-03T22:11:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "가공식품 26개 중 24개 1년 새 가격 상승…국·탕·컵밥 올라",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 가공식품 가격이 전반적으로 오름세를 보이면서 소비자들의 장바구니 부담이 커지고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002175300030",
+      "publishedAt": "2026-10-03T22:10:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "민간아파트 부정청약 적발 5년간 1천699건…83%가 위장전입",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 최근 5년간 전국 민간아파트 분양 현장에서 1천700건 가까운 부정청약이 적발된 것으로 나타났다. 부양가족을 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261004004000003",
+      "publishedAt": "2026-10-03T22:03:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'세계경주포럼' 8∼9일 개최…경주를 '문화의 다보스'로 키운다",
+      "summary": "(안동=연합뉴스) 이승형 기자 = 지난해 경주 아시아태평양경제협력체(APEC) 정상회의에서 논의된 문화창조산업과 국제협력의 성과를 이어갈 &apos;세계...",
+      "link": "https://www.yna.co.kr/view/AKR20261001144900053",
+      "publishedAt": "2026-10-03T22:02:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "GV80 하이브리드, 7천만원대 중후반에 나온다…흥행에 방점",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 제네시스의 첫 하이브리드 모델인 GV80 하이브리드의 최저 판매가격(엔트리 가격)이 7천만원대 중후반으로 결정...",
+      "link": "https://www.yna.co.kr/view/AKR20261002150200003",
+      "publishedAt": "2026-10-03T22:01:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“사라 해서 샀는데, 내 주식 왜 이래?”…증권사 ‘매수’ 리포트만 내놓는 이유",
+      "summary": "100% 매수 리포트만 낸 증권사도 4곳 DS, 미래에셋, 키움만 매도 의견 내증권사에서는 분명 ‘매수’하라고 했는데 막상 사니 떨어지는 주가에 한숨짓는 투자자들이 많다. 그런데 ..",
+      "link": "https://www.mk.co.kr/news/stock/12167872",
+      "publishedAt": "2026-10-03T21:09:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'사과빵'으로 대박 나더니…3040에 인기 폭발한 빵집 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610020192i",
+      "publishedAt": "2026-10-03T21:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "주요 IB, 엔비디아 HPE 등 'AI 인프라' 다시 주목 [월가 업&다운]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610042009i",
+      "publishedAt": "2026-10-03T21:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"한국인 없는데 한글 간판?\"…中 젊은 층 몰려드는 동네 [차이나 워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610031968i",
+      "publishedAt": "2026-10-03T20:57:01.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -4074,110 +4186,6 @@
       "summary": "(서울=연합뉴스) 옥성구 기자 = 고용노동부는 오는 28일부터 다음 달 2일까지 &apos;제21회 중장년고용 강조 주간&apos;을 맞아 지역맞춤형 중장년 경력...",
       "link": "https://www.yna.co.kr/view/AKR20260926044400530",
       "publishedAt": "2026-09-27T03:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "소비자 분쟁조정 3년 새 3.3배 증가…조정 성립률은 10%P 하락",
-      "summary": "(서울=연합뉴스) 정수연 기자 = 각종 피해를 구제해달라는 소비자 분쟁조정 신청은 해마다 늘고 있지만, 실제로 조정이 성립된 비율은 오히려 낮아...",
-      "link": "https://www.yna.co.kr/view/AKR20260923188000030",
-      "publishedAt": "2026-09-26T23:13:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'고품질 공공임대' 시즌2…물량·재원 등 제약 극복할까",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 정부가 최근 중산층까지 수요층으로 삼는 고품질 공공임대주택 공급 계획을 발표하면서 이전 정부에서 내놓은 공공임...",
-      "link": "https://www.yna.co.kr/view/AKR20260927007200003",
-      "publishedAt": "2026-09-26T23:10:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
-      "summary": "(서울=연합뉴스) 류미나 기자 = 대학생·취업준비생 등을 위한 소액금융 상품 &apos;햇살론유스&apos; 신청자 5명 중 1명 이상이 대출 심사의 문턱을 넘지...",
-      "link": "https://www.yna.co.kr/view/AKR20260922165200001",
-      "publishedAt": "2026-09-26T23:05:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
-      "summary": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 지역화폐 발행을 확대하는 등 내년 민생회복을 위한 각종 대책을 마련해 추진한다고 27일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260923077200061",
-      "publishedAt": "2026-09-26T23:02:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "제주 양식 고등어 일본 간다…스타트업 메가플랜, 수출 협약",
-      "summary": "(제주=연합뉴스) 김호천 기자 = 제주의 육상 양식장에서 키운 고등어가 일본으로 수출된다.",
-      "link": "https://www.yna.co.kr/view/AKR20260922155600056",
-      "publishedAt": "2026-09-26T23:00:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "원주시, 10월 3일 '사회적경제컴퍼니'…ESG·민관협력 확대",
-      "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주시가 사회적경제기업과 공공기관, 시민이 함께 사회적경제의 가치와 성과를 나누는 참여형 축제를 마련한다...",
-      "link": "https://www.yna.co.kr/view/AKR20260923043500062",
-      "publishedAt": "2026-09-26T23:00:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "1200조 AI반도체 시장, 엔비디아 천하에 도전장 낸 K-AI칩",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092769927",
-      "publishedAt": "2026-09-26T22:56:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "1만원 목욕탕 놔두고 9만원 낸다…'예약 전쟁' 벌어진 이곳 [박수림의 요즘 여기]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609220866g",
-      "publishedAt": "2026-09-26T22:45:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092769727",
-      "publishedAt": "2026-09-26T22:39:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"AI 전기 너무 먹네\" 골치였는데…삼성도 꽂힌 신기술 나왔다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609276925i",
-      "publishedAt": "2026-09-26T22:00:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "스테이블코인도 '은행업'처럼…Fed, 2영업일 환매·100% 준비금 추진 [김주완의 글로벌머니 X파일]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609266710i",
-      "publishedAt": "2026-09-26T22:00:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"농기계 회사가 자율주행 한다고?\"…75년 기업의 '대변신'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609229954i",
-      "publishedAt": "2026-09-26T22:00:11.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“월세 200만원 받는 6억 집, 비싼걸까?” … AI가 찾아낸 적정가격의 비밀",
-      "summary": "AI로 주식·부동산의 적정 가치 산출하기주식이나 집을 살 때 투자자들의 머릿속을 가장 강하게 지배하는 질문은 “지금 이 가격이 과연 적정한가?”입니다. 가격이 단기간에 급등했다는 ..",
-      "link": "https://www.mk.co.kr/news/economy/12159700",
-      "publishedAt": "2026-09-26T19:30:00.000Z"
     }
   ]
 }
