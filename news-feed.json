@@ -1,8 +1,184 @@
 {
-  "updatedAt": "2026-10-02T16:01:58.690Z",
+  "updatedAt": "2026-10-03T00:04:16.158Z",
   "historyDays": 7,
-  "count": 509,
+  "count": 512,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전남광주, 투자·펀드 기능 한데 묶는다…투자 기관 설립 추진",
+      "summary": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 반도체·인공지능(AI)·에너지 등 전략산업에 직접 투자하고 민간·정책금융을 끌어들여 투...",
+      "link": "https://www.yna.co.kr/view/AKR20261002064300054",
+      "publishedAt": "2026-10-03T00:00:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“보험금 다툼 끊이질 않네”…민원·분쟁신청 꾸준한데 5세대 실손 앞날은",
+      "summary": "올해 국감서도 5세대 실손보험 안건 실손 비롯해 보장성 보험 민원 꾸준 약관해석과 보험금 지급 사유 때문다음 주부터 국정감사가 시작되는 가운데, 올해 보험 부문은 5세대 실손보험 ..",
+      "link": "https://www.mk.co.kr/news/economy/12167710",
+      "publishedAt": "2026-10-02T23:58:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100315297",
+      "publishedAt": "2026-10-02T23:34:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"'부캉이' 뜨자 8억원 몰렸다\"…화제만 되면 코인부터 만들어",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100315197",
+      "publishedAt": "2026-10-02T23:17:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "부진한 9월 고용에도 금리 상승 반전…그런데 5.5%가 한계? [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610031476i",
+      "publishedAt": "2026-10-02T23:00:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "“다시 대세 상승기?” 꿈틀대는 비트코인의 현 시점 투자전략",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610020535i",
+      "publishedAt": "2026-10-02T23:00:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
+      "summary": "(서울=연합뉴스) 고은지 기자 = 최근 미국 등 주요국 국채금리 급등세가 이어지면서 금리나 채권 수익률을 따르는 금융상품이 인기를 끌고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002136000008",
+      "publishedAt": "2026-10-02T23:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "현대차 주가 70만→30만 '뚝'…한달만에 30% 뛴 협력사 있다는데 [대기업 협력사 전수분석]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610020826i",
+      "publishedAt": "2026-10-02T23:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100314707",
+      "publishedAt": "2026-10-02T22:33:20.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美 고용 급속 냉각에 월가 환호…빅테크 '껑충' [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100314597",
+      "publishedAt": "2026-10-02T22:18:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100314527",
+      "publishedAt": "2026-10-02T22:10:37.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002168300003",
+      "publishedAt": "2026-10-02T22:01:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"나흘간 2900명\"…뉴욕 뒤흔든 'K뷰티 자판기' 정체 [장서우의 하입:hype]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610021316i",
+      "publishedAt": "2026-10-02T22:00:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[금주핫템] 에뛰드 '님프 듀이 젤리 프렙'·네파 '에어써밋 시리즈'",
+      "summary": "▲ 에뛰드는 스킨케어와 자외선 차단, 메이크업 프렙 기능을 하나로 담은 신제품 &apos;님프 듀이 젤리 프렙&apos;을 출시했다고 3일 밝혔다. 이 제품은 호...",
+      "link": "https://www.yna.co.kr/view/AKR20261002073900030",
+      "publishedAt": "2026-10-02T22:00:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "19년간 못판 상업용지…LH 미매각 토지 규모 21.9조원 기록",
+      "summary": "(서울=연합뉴스) 박재하 기자 = 한국토지주택공사(LH)가 가진 사업용 토지 가운데 민간에 팔지 못한 미매각 토지의 규모가 4년 만에 약 2.5...",
+      "link": "https://www.yna.co.kr/view/AKR20261002152800001",
+      "publishedAt": "2026-10-02T22:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "돈 빌려주고 월급에서 까달라던 직원…퇴직 날 '뒤통수' [사장님 고충백서]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610021347i",
+      "publishedAt": "2026-10-02T22:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[신상잇슈] 농심 '너구링'·롯데칠성 '칠성사이다 리치'",
+      "summary": "▲ 농심[004370]은 라면 &apos;너구리&apos;와 스낵 &apos;양파링&apos;을 결합한 스낵 신제품 &apos;너구링&apos;을 출시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261002075900030",
+      "publishedAt": "2026-10-02T22:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
+      "summary": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 ..",
+      "link": "https://www.mk.co.kr/news/economy/12167675",
+      "publishedAt": "2026-10-02T21:30:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“손절 엄두 안 나서 가지고 있었는데”…코스닥, 반도체 소부장 타고 랠리",
+      "summary": "AI 반도체·HBM 비싼 몸값에 표본 대신 전수검사 수요 늘어 후공정 기업 주가 한달새 두배삼성전자와 SK하이닉스 등 반도체 대장주가 숨 고르기에 들어간 사이 반도체 소재·부품·장..",
+      "link": "https://www.mk.co.kr/news/stock/12167670",
+      "publishedAt": "2026-10-02T21:15:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "270조 투자 호재에도 원전주는 시큰둥…먼저 돈 되는 곳 따로 있다고?",
+      "summary": "대미투자 수혜株 분석 큰 폭으로 뛰었던 원전·건설 주가 선반영 발표 후엔 주춤 수주 규모·세부조건 불확실 美 AI인프라 재건 수요 탄탄 민간 부문의 수주도 잡아야한미 양국 정부가..",
+      "link": "https://www.mk.co.kr/news/stock/12167669",
+      "publishedAt": "2026-10-02T21:03:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "日총리도 감탄…명동 빌딩 팔고 한옥 지은 60대의 15년 '땀방울' [권용훈의 직업불만족(族)]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029307i",
+      "publishedAt": "2026-10-02T21:00:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"고양이 이빨 3개 뽑았는데\"…카드 결제내역 보고 '깜짝'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100209761",
+      "publishedAt": "2026-10-02T21:00:01.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3922,158 +4098,6 @@
       "summary": "(서울=연합뉴스) 임기창 기자 = 전세사기 피해 방지 등을 위해 공인중개사가 중개 대상 물건의 선순위 권리관계 등 정보를 고객에게 설명하도록 법...",
       "link": "https://www.yna.co.kr/view/AKR20260923181000003",
       "publishedAt": "2026-09-26T00:31:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美서 하이브리드 잘 팔리는데…기아 주가 12% 빠진 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609255795i",
-      "publishedAt": "2026-09-26T00:00:05.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
-      "summary": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(9월 28일∼10월 2일)에는 국내 산업·경제 동향을 보여주는 통계와 물가·금리 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260926014400002",
-      "publishedAt": "2026-09-25T23:23:49.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "이란 협상 진전? 9월 계절성 무너뜨린 뉴욕 증시 [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609266153i",
-      "publishedAt": "2026-09-25T23:11:41.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "치솟은 유류할증료 동남아 직격…일본·중국 항공여객은 20%대↑",
-      "summary": "(서울=연합뉴스) 김윤구 기자 = 올해 들어 고유가로 여행심리가 위축됐는데도 국제선 항공 여객이 지난해보다 약 10% 증가한 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20260923162000003",
-      "publishedAt": "2026-09-25T23:05:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"고기 사기 겁나네\"…추석 연휴 축산물 가격 줄줄이 상승",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092662657",
-      "publishedAt": "2026-09-25T23:04:34.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "5년간 어선원 사상자 1천74명…76% 안전조업교육 의무 없어",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 2021년 이후 조업 중 사고로 숨지거나 다친 어선원이 1천명을 넘어섰다.",
-      "link": "https://www.yna.co.kr/view/AKR20260921074000051",
-      "publishedAt": "2026-09-25T23:01:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"주식 투자법 알려주겠다\" 신현송 한은 총재 사칭 SNS 주의보",
-      "summary": "(서울=연합뉴스) 박수현 기자 = &quot;경제의 미래를 읽고 중심을 잡고 싶다면 지금 팔로우(친구 추가)하세요!&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260924040800002",
-      "publishedAt": "2026-09-25T23:01:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[팩트체크] '명절테크' 추석 선물 중고로 판매해도 될까?…거래 가능 품목은",
-      "summary": "(서울=연합뉴스) 권혜진 기자 = &quot;홍삼 제품을 너무 많이 받았는데 당근(중고거래 플랫폼)에 판매해도 되나요?&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20260923053100518",
-      "publishedAt": "2026-09-25T23:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'역대급 실적' 증권가, 하반기 채용 활기…대형사도 가세",
-      "summary": "(서울=연합뉴스) 이민영 기자 = 국내 증권업계가 올해 상반기 역대급 실적을 기록하면서 하반기 신입사원 채용도 활기를 띠고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20260923105900008",
-      "publishedAt": "2026-09-25T23:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“78층인데 구조대 오나요?” 55% 빠진 현대차…증권사도 목표가 줄하향",
-      "summary": "피지컬 AI株 프리미엄 약화올해 80만원에 육박하던 현대자동차 주가가 고점 대비 반토막 이하로 밀렸다. 현대자동차를 자동차 회사가 아닌 ‘피지컬 인공지능(AI)’ 기업으로 재평가하..",
-      "link": "https://www.mk.co.kr/news/stock/12161547",
-      "publishedAt": "2026-09-25T22:19:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609256104i",
-      "publishedAt": "2026-09-25T22:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609232798i",
-      "publishedAt": "2026-09-25T22:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'아재들의 섬' 여의도 옛말…이제 '그녀들'이 지갑을 연다 [장서우의 하입:hype]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609233846i",
-      "publishedAt": "2026-09-25T22:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "지난해 음주 진료비 첫 4조원대…흡연은 2024년 이후 지속 상승",
-      "summary": "지난해 음주·흡연으로 인한 진료비가 8조5000억원에 이르는 등 최근 5개년간 37조원 넘게 소요된 것으로 나타났다. 26일 국회 보건복지위원회 소속 더불어민주당 남인순 의원이 국..",
-      "link": "https://www.mk.co.kr/news/economy/12161539",
-      "publishedAt": "2026-09-25T21:38:59.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'차 한 대 값' 컴퓨터 뜯던 소년…30년 넘게 '코딩' 못놓는 이유 [권용훈의 직업불만족(族)]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202607045653i",
-      "publishedAt": "2026-09-25T21:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "10년물 금리 2007년 이후 최고…美증시는 버텼다 [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609266166i",
-      "publishedAt": "2026-09-25T20:38:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "너무 일찍 죽거나, 너무 늦게 죽거나 … 꼭 필요한 안전망",
-      "summary": "⑭사회보험부터 생명·손해보험까지, 위험을 나누는 방법미히르 데사이(Mihir Desai)의 책 ‘금융의 모험(The Wisdom of Finance)’에 따르면 금융은 인간의 두 ..",
-      "link": "https://www.mk.co.kr/news/economy/12160516",
-      "publishedAt": "2026-09-25T20:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "A급 신용도로 8% 수익, 사기 아닙니다 … IMA의 A to Z [IMA 1편]",
-      "summary": "증권사는 왜 이런 상품 내놓을까?코스피가 3달 넘게 하락·보합세를 이어가며 투자자들도 국내 증시를 대신할 투자처를 찾아 나서고 있다. 글로벌 통화정책이 긴축기조로 전환돼 이 같은 ..",
-      "link": "https://www.mk.co.kr/news/stock/12160452",
-      "publishedAt": "2026-09-25T19:30:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "리니지 종주국의 빈곤한 규제 … 온체인 금융을 막는다는 의미",
-      "summary": "게임경제, 블록체인 타고 글로벌 금융시장으로1998년 외환위기의 한복판에서 월 이용료 2만9700원짜리 온라인게임 ‘리니지’가 등장했다. 최저임금이 시간당 1500원 남짓이던 때다..",
-      "link": "https://www.mk.co.kr/news/stock/12159581",
-      "publishedAt": "2026-09-25T19:00:00.000Z"
     }
   ]
 }
