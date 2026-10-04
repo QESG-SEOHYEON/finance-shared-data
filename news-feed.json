@@ -1,8 +1,160 @@
 {
-  "updatedAt": "2026-10-04T09:09:39.267Z",
+  "updatedAt": "2026-10-04T15:02:29.862Z",
   "historyDays": 7,
-  "count": 513,
+  "count": 525,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "부실기업 증시퇴출, 작년보다 두배 급증",
+      "summary": "자본시장 체질개선 본격화에 9월까지 상장폐지 36곳 달해 자본硏 “퇴출영향 점검 필요”금융당국이 자본시장 체질 개선을 위해 부실기업 퇴출을 강화하는 가운데 올해 증시에서 최종 상장..",
+      "link": "https://www.mk.co.kr/news/stock/12168228",
+      "publishedAt": "2026-10-04T14:28:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "시총 기준 상폐요건 강화에 법원 제동…\"비례 원칙에 어긋나\"",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 시가총액 요건 강화를 통한 코스피·코스닥 상장기업 신속퇴출을 추진해 온 금융당국과 한국거래소의 움직임에 법원이...",
+      "link": "https://www.yna.co.kr/view/AKR20261004043100008",
+      "publishedAt": "2026-10-04T13:31:22.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"차명계좌 적발 NH농협·국민·농축협·신한銀 순으로 많아\"(종합)",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 지난해부터 올해 7월까지 국세청에 적발된 사업자 차명계좌는 NH농협은행에 개설된 계좌가 가장 많은 것으로 드러...",
+      "link": "https://www.yna.co.kr/view/AKR20261003049251002",
+      "publishedAt": "2026-10-04T11:19:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
+      "summary": "정부, 기금 지출 30% 한도 국회의결 없이 사용 추진에 재경위 반발…국감 쟁점으로정부가 도입을 추진 중인 162조원 규모 미래대응기금을 놓고 국회 재정경제기획위원회가 국회의 재정..",
+      "link": "https://www.mk.co.kr/news/economy/12168209",
+      "publishedAt": "2026-10-04T11:06:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"혹시 '그 빵' 들어왔어요?\"…3040男 편의점에 몰린 까닭",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100427607",
+      "publishedAt": "2026-10-04T10:41:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“요즘 K 붙으면 영 불안한데”…주가 조정받은 뷰티·푸드 대표주들",
+      "summary": "‘수출효자’ K소비재 옥석 가리기 외국인 소비부진 우려에 주가 뚝 뷰티 급락불구 수출견조해 ‘맑음’ 식품주는 중국소비 회복이 관건외국인 소비 열풍을 타고 ‘수출주’로 각광받던 ..",
+      "link": "https://www.mk.co.kr/news/stock/12168202",
+      "publishedAt": "2026-10-04T10:14:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "쉬는 것도 투자…시장 떠나진 말자 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100427131",
+      "publishedAt": "2026-10-04T09:21:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "법원 \"시총 작다고 상장폐지 안돼\"…코스닥 체질 개선에 '제동'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100427121",
+      "publishedAt": "2026-10-04T09:19:16.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금융권 해킹에 정부 비상대응…기업 2만8천곳 보안점검 권고",
+      "summary": "(서울=연합뉴스) 권하영 기자 = 과학기술정보통신부는 최근 발생한 금융권 해킹 사고와 관련해 한국인터넷진흥원(KISA)과 긴급 대응체계를 가동하...",
+      "link": "https://www.yna.co.kr/view/AKR20261004035700017",
+      "publishedAt": "2026-10-04T09:18:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "5대 은행, 보안에 순익의 1%만 투자",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100427041",
+      "publishedAt": "2026-10-04T09:18:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"세수 들쭉날쭉한데 지출은 안 줄어…200조 미래기금 지속가능성 우려\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426371",
+      "publishedAt": "2026-10-04T09:17:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "연구실 단계부터 투자…美도 '기술 구루' 우대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426711",
+      "publishedAt": "2026-10-04T09:17:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'K기판 르네상스'…역대 최대 수출액 노린다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426341",
+      "publishedAt": "2026-10-04T09:16:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "휘발유·경유 수출 제한속…정유업계 '효자'된 항공유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426331",
+      "publishedAt": "2026-10-04T09:16:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"산업 전환기, M&A가 재계순위 흔들 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426311",
+      "publishedAt": "2026-10-04T09:15:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "국제유가 급등 효과…원유 ETF, 수익률 1위",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426661",
+      "publishedAt": "2026-10-04T09:14:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"엔비디아·테슬라 다 팔았다\"…부자들 새로 베팅한 종목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426701",
+      "publishedAt": "2026-10-04T09:13:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"(종합)",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 국내 펫푸드 시장이 2조5천억원 규모로 성장했지만 정부가 국내 시장에서 수입산 제품이 차지하는 비중조차 파악하...",
+      "link": "https://www.yna.co.kr/view/AKR20261004008451030",
+      "publishedAt": "2026-10-04T09:13:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "자산가들, 삼전닉스 팔고 커버드콜 담았다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100426691",
+      "publishedAt": "2026-10-04T09:01:02.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -4050,62 +4202,6 @@
       "summary": "힘 못쓰는 고령농 은퇴지원 직불금으로 생계 유지도 못해 농지연금은 예산 소진돼 대기 고령농 은퇴 이끌 유인책 부족 청년농 육성 사실상 중단 상태 전문가 “국가농업 존폐의 문제 노후..",
       "link": "https://www.mk.co.kr/news/economy/12162184",
       "publishedAt": "2026-09-27T20:48:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "70대 이상 농가 40% 달하는데…‘고령화 농지’ 매년 0.08%만 세대교체",
-      "summary": "농지이양 은퇴직불제로 1197㏊ 이양 전체 농지 150만㏊와 비교하면 미미 39세 이하 농가인구는 10년 새 반토막 80세 이상 농가인구도 14.3%로 껑충정부가 사상 처음 농지 ..",
-      "link": "https://www.mk.co.kr/news/economy/12162163",
-      "publishedAt": "2026-09-27T13:56:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동포의 창] 인천서 한상 네트워크 구축하는 '동행의 밤' 개최",
-      "summary": "(인천=연합뉴스) 강성철 기자 = 전 세계 한상(韓商)이 국내 중소기업의 수출을 견인하고 한인 경제네트워크를 구축하는 &apos;제24회 세계한상대회&apos;의...",
-      "link": "https://www.yna.co.kr/view/AKR20260927055400371",
-      "publishedAt": "2026-09-27T13:32:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美주식에 몰린 해외자금…1년간 외국인 순매수 '역대 최대'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092778507",
-      "publishedAt": "2026-09-27T12:49:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "이형일, 첫 경제현안간담회…전기차 정책 논의",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609277830i",
-      "publishedAt": "2026-09-27T12:00:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "예탁원, 결제촉진대금에 증권납부 허용…국채 담보인정 최대 98%",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 한국예탁결제원이 이달 말부터 결제촉진대금으로 주식과 채권을 납부할 수 있도록 제도를 개편한다.",
-      "link": "https://www.yna.co.kr/view/AKR20260927051600008",
-      "publishedAt": "2026-09-27T11:28:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "이형일, 첫 경제현안간담회…전기차 정책·퇴직연금 개선 논의",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 이형일 부총리 겸 재정경제부 장관은 27일 취임 후 첫 경제현안간담회를 열었다.",
-      "link": "https://www.yna.co.kr/view/AKR20260927051000002",
-      "publishedAt": "2026-09-27T11:04:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "수출株 날고…내수株 꺾였다 3분기도 'K자형' 실적 양극화",
-      "summary": "올해 3분기 수출 대형주와 내수주 간 실적의 'K자형' 양극화가 한층 뚜렷해질 전망이다. 글로벌 인프라 투자에 따른 수주 훈풍을 탄 중후장대 수출주는 실적 눈높이가 크게 높아진 ..",
-      "link": "https://www.mk.co.kr/news/stock/12162116",
-      "publishedAt": "2026-09-27T10:07:03.000Z"
     }
   ]
 }
