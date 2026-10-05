@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:50:25.959Z",
+  "updatedAt": "2026-10-05T18:58:09.274Z",
   "indices": [
     {
       "symbol": "^KS11",
@@ -104,21 +104,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 27190.86,
-      "previous": 26871.6,
-      "dayChange": 319.26,
-      "dayChangePct": 1.19,
-      "monthChangePct": 2.28,
-      "lastUpdated": "2026-10-02T21:15:59.000Z",
+      "current": 27501.86,
+      "previous": 27190.86,
+      "dayChange": 311,
+      "dayChangePct": 1.14,
+      "monthChangePct": 4.09,
+      "lastUpdated": "2026-10-05T18:58:07.000Z",
       "candles": [
-        {
-          "date": "2026-09-03",
-          "close": 26584.06
-        },
-        {
-          "date": "2026-09-04",
-          "close": 26506.99
-        },
         {
           "date": "2026-09-08",
           "close": 26421.41
@@ -194,6 +186,10 @@
         {
           "date": "2026-10-02",
           "close": 27190.86
+        },
+        {
+          "date": "2026-10-05",
+          "close": 27501.86
         }
       ]
     },
@@ -202,21 +198,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7722.72,
-      "previous": 7666.45,
-      "dayChange": 56.27,
-      "dayChangePct": 0.73,
-      "monthChangePct": -0.32,
-      "lastUpdated": "2026-10-02T20:59:13.000Z",
+      "current": 7783.71,
+      "previous": 7722.72,
+      "dayChange": 60.99,
+      "dayChangePct": 0.79,
+      "monthChangePct": 1.44,
+      "lastUpdated": "2026-10-05T18:58:08.000Z",
       "candles": [
-        {
-          "date": "2026-09-03",
-          "close": 7747.71
-        },
-        {
-          "date": "2026-09-04",
-          "close": 7718.6
-        },
         {
           "date": "2026-09-08",
           "close": 7673.52
@@ -292,6 +280,10 @@
         {
           "date": "2026-10-02",
           "close": 7722.72
+        },
+        {
+          "date": "2026-10-05",
+          "close": 7783.71
         }
       ]
     }

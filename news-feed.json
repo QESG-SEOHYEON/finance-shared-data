@@ -1,8 +1,136 @@
 {
-  "updatedAt": "2026-10-05T09:50:25.570Z",
+  "updatedAt": "2026-10-05T18:58:08.829Z",
   "historyDays": 7,
-  "count": 511,
+  "count": 508,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "트럼프, 휘발윳값에 우크라·야당탓…\"호르무즈 문제 아냐\"",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 5일(현지시간) 휘발윳값 상승이 더는 호르무즈 해협이 아닌 정유시설의 문제라고...",
+      "link": "https://www.yna.co.kr/view/AKR20261006002200071",
+      "publishedAt": "2026-10-05T18:07:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美증시,국채금리 올라도 나스닥 사상최고…엔비디아도 최고치 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610064008i",
+      "publishedAt": "2026-10-05T15:55:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "3Q 어닝 '또 30% 증가 예상'…대단한데, 월가가 걱정하는 것 [김현석의 퀵 브리프]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610064007i",
+      "publishedAt": "2026-10-05T15:38:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "머스크 '테라팹'에 TSMC도 참여?…인텔주가 하락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610053989i",
+      "publishedAt": "2026-10-05T15:27:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 서비스 물가 4년 만에 최고치…고용도 다시 확장세",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610053994i",
+      "publishedAt": "2026-10-05T14:40:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"AI반도체주 아직도 싸다?\"…그래도 불안하면 이 종목[박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610053986i",
+      "publishedAt": "2026-10-05T14:27:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "중동 원유수출 전쟁전수준 회복에도 유가 안떨어지는 이유는?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610053981i",
+      "publishedAt": "2026-10-05T14:09:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "공정거래위원장 “알리·테무 살리려 다이소 압박? 명백한 가짜뉴스”",
+      "summary": "주병기 공정거래위원장은 5일 공정위가 중국계 전자상거래 플랫폼 알리익스프레스와 테무를 살리기 위해 다이소를 압박하고 있다는 주장에 대해 “명백한 가짜뉴스”라고 반박했다. 주 위원장..",
+      "link": "https://www.mk.co.kr/news/economy/12168785",
+      "publishedAt": "2026-10-05T13:56:25.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘한국형 베어허그’ 입법 본격화…11월 정무위 소위 목표, 금융위와 세부기준 조율",
+      "summary": "당정 공감대 속 지난달 법안 발의 ‘중대 인수제안’ 기준 등 세부내용 협의 여당 연내 처리 의지에도 야당 협조 변수 불발 땐 내년 2~3월까지 논의 가능성도‘한국형 베어허그’ 제도..",
+      "link": "https://www.mk.co.kr/news/stock/12168759",
+      "publishedAt": "2026-10-05T13:16:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼닉 레버리지 ‘20좌 미만’ 단주 출구 마련",
+      "summary": "금융위, 매매단위 확대 앞두고 시간외 종가매매 허용 검토 “여러안 고민중...확정된 건 아냐”금융당국이 삼성전자·SK하이닉스를 기초자산으로 하는 단일종목 레버리지 상품의 매매수량 ..",
+      "link": "https://www.mk.co.kr/news/stock/12168758",
+      "publishedAt": "2026-10-05T13:15:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "LG전자 '美 AI센터 냉각설비' 5조 계약 따냈다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100539141",
+      "publishedAt": "2026-10-05T13:13:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“회사 2배 값에 사겠다는데 왜 안 파나”…경영진 침묵 깨뜨리는 법 온다",
+      "summary": "“M&A 놀이터” vs “저평가 해소”…K베어허그법 진통 왜 추진하게 됐나 이사회가 인수가격 의무공개 대주주 ‘주가누르기’ 방지해 소액주주들 권익 강화 목적 기업 흔들기 우려도 중..",
+      "link": "https://www.mk.co.kr/news/stock/12168700",
+      "publishedAt": "2026-10-05T11:30:25.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이형일, 하준경 등과 현안간담회…사회정책·초과세수 활용 논의",
+      "summary": "(세종=연합뉴스) 송정은 기자 = 이형일 부총리 겸 재정경제부 장관은 5일 오후 5시 하준경 청와대 정책실장 등과 경제현안간담회를 개최했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261005057300002",
+      "publishedAt": "2026-10-05T11:14:08.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"기술사용료·용역비 더 내라\"… 美웨스팅하우스, 韓에 요구",
+      "summary": "미국 원전기업 웨스팅하우스가 미국에 구축될 한국형 원전 'APR1400'에 대해 종전 협약보다 더 많은 돈을 내놓으라고 압박하고 나섰다. 미국 진출을 위해 웨스팅하우스에 지급하는 ..",
+      "link": "https://www.mk.co.kr/news/economy/12168680",
+      "publishedAt": "2026-10-05T10:31:30.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"농식품부 고위공직자 모친 소유 농지 3필지 휴경\"(종합)",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 농지 전수조사를 둘러싼 논란이 이어지는 가운데 농림축산식품부 고위 공직자의 가족이 소유한 농지가 미경작 상태로...",
+      "link": "https://www.yna.co.kr/view/AKR20261005050051030",
+      "publishedAt": "2026-10-05T10:27:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "개인정보 유출 공포 전방위로…금융 이어 한전·대학도 비상",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 금융권에 이어 한국전력[015760]과 대학에서도 개인정보 유출 사고가 잇따르면서 사이버 위협에 대한 국민의 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261005052800017",
+      "publishedAt": "2026-10-05T10:23:42.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -10,6 +138,22 @@
       "summary": "6년연속 정보보호 100점의 허상 AI해킹 당한 신한·KB·하나은행 1년간 보안 관련 예산 1239억인공지능(AI) 해커의 무차별 공격에 속수무책으로 당한 국내 주요 은행들이 지난..",
       "link": "https://www.mk.co.kr/news/economy/12168655",
       "publishedAt": "2026-10-05T09:47:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "日 라피더스, 삼성처럼 동맹 구축 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100537721",
+      "publishedAt": "2026-10-05T09:35:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美 기업 질주는 계속…3분기 순익 2.2% 늘 듯",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100537811",
+      "publishedAt": "2026-10-05T09:34:10.000Z"
     },
     {
       "source": "연합뉴스",
@@ -3922,174 +4066,6 @@
       "summary": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 ..",
       "link": "https://www.mk.co.kr/news/economy/12162927",
       "publishedAt": "2026-09-28T20:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "北 김선경 “핵보유국 되돌릴 수없어”...비핵화 협상 일축",
-      "summary": "김선경 외무성 부상 유엔 연설 작년에 이어 핵보유국 강조김선경 북한 외무성 부상이 28일(현지시간) 유엔 연설에서 “북한이 보유한 핵억제력은 외부 침략으로부터 주권과 안전, 평화..",
-      "link": "https://www.mk.co.kr/news/economy/12163252",
-      "publishedAt": "2026-09-28T17:32:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "그래도 高배당 매력…'우선주 ETF' 속속 등장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092804051",
-      "publishedAt": "2026-09-28T15:21:33.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[재산공개] 조상호 세종시장 3억9천만원…배우자, 미국에 연립주택",
-      "summary": "(세종=연합뉴스) 양영석 기자 = 6·3 지방선거에서 당선된 조상호 세종시장은 3억9천342만1천원의 재산을 신고했다",
-      "link": "https://www.yna.co.kr/view/AKR20260928083000063",
-      "publishedAt": "2026-09-28T15:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "유가와 국채수익률 상승에 눌린 美증시…나스닥 1.2%↓",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609280546i",
-      "publishedAt": "2026-09-28T14:55:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "스페이스X 스타십,사상 첫 궤도진입…V3위성 26개 궤도 배치",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609280506i",
-      "publishedAt": "2026-09-28T13:58:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "하이닉스 돌연 5% 급락…주주들 놀란 '204조 상장설' 정체 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092899256",
-      "publishedAt": "2026-09-28T13:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "엔비디아 \"자사주 204조원 추가 매입\"…사상 최대규모",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609280470i",
-      "publishedAt": "2026-09-28T12:29:13.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "대통령 호언장담한 이 무역협정…가입만 하면 8조원 경제효과라는데",
-      "summary": "정부, 경제효과 잠정치 분석 향후 10년 GDP 0.38%P 상승 농림수산업은 年 8천억 타격 12개국 참여…세계 GDP 14% 美교두보 멕시코와 FTA효과 中 먼저 가입땐 조건 ..",
-      "link": "https://www.mk.co.kr/news/economy/12163145",
-      "publishedAt": "2026-09-28T12:15:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "치과의사가 갤럭시를 쓰는 이유…아이폰서 '여권폰' 환승",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092804447",
-      "publishedAt": "2026-09-28T11:57:29.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "中, 민간 AI기업과 반도체 전문가들 해외여행 제한",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609280385i",
-      "publishedAt": "2026-09-28T11:55:46.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "은행장 16명과 머리 맞댄 한은 총재 \"현장 얘기 많이 들어\"",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 신현송 한국은행 총재는 28일 시중 은행장들과 취임 후 첫 간담회를 열고 가계부채 등 현안을 논의했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260928161100002",
-      "publishedAt": "2026-09-28T11:50:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "中,엔비디아 RTX프로5500구매 풀면…삼전·닉스 DDR7 '수혜'주목",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609280407i",
-      "publishedAt": "2026-09-28T11:15:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "이형일, 한은 총재 만나 \"경제위험 선제대응\"",
-      "summary": "이형일 부총리 겸 재정경제부 장관이 취임한 지 6일 만에 신현송 한국은행 총재와 처음 만났다. 두 경제 수장은 금융시장의 변동성과 대외 불확실성이 커지는 상황에서 위험 요인에 선제..",
-      "link": "https://www.mk.co.kr/news/economy/12163078",
-      "publishedAt": "2026-09-28T11:11:55.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "금융위, 고빈도매매 규율방안 검토…레버리지·신용·미수도 조인다",
-      "summary": "고빈도매매 2월 거래대금 3927조원·전체 58% 6~7월 증시 급변동 계기 시장안정 대응체계 재정비 베어허그·코스닥 개편도 지속 추진금융당국이 최근 국내 증시의 급격한 변동을 키..",
-      "link": "https://www.mk.co.kr/news/stock/12163073",
-      "publishedAt": "2026-09-28T11:09:18.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
-      "summary": "(성남=연합뉴스) 이우성 기자 = 경기 성남시가 내년에 분당 노후계획도시 재건축 정비물량 1만호와 함께 2028~2030년 예정물량의 절반 규모...",
-      "link": "https://www.yna.co.kr/view/AKR20260928159900061",
-      "publishedAt": "2026-09-28T10:58:31.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동포의 창] \"동포사회 리더 한자리에\"…세계한인대회 개막",
-      "summary": "(인천=연합뉴스) 강성철 기자 = 동포사회를 이끄는 리더들이 한자리에 모이는 &apos;세계한인대회&apos; 통합 개막식이 인천 송도컨벤시아에서 28일 오후 열...",
-      "link": "https://www.yna.co.kr/view/AKR20260928159100371",
-      "publishedAt": "2026-09-28T10:52:38.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "솔리스·럭스코·셀트릭스, 코스닥 상장예심 통과",
-      "summary": "(서울=연합뉴스) 김유아 기자 = 한국거래소 코스닥시장본부는 28일 코스닥시장 상장위원회 심의를 거쳐 솔리스·럭스코·셀트릭스 3개사의 상장예비심...",
-      "link": "https://www.yna.co.kr/view/AKR20260928156200008",
-      "publishedAt": "2026-09-28T10:24:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“거긴 가면 안 돼”…엔비디아, AI 에이전트 보안 플랫폼 전격 공개",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609280312i",
-      "publishedAt": "2026-09-28T10:17:40.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "은행 점포 30분 늦게 연다…\"디지털 금융 확산 등 반영\"(종합2보)",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 전국금융산업노동조합과 금융산업사용자협의회가 산별 교섭을 전격 타결한 것으로 전해졌다.",
-      "link": "https://www.yna.co.kr/view/AKR20260928149551002",
-      "publishedAt": "2026-09-28T10:14:28.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "은행 영업시간 30분 단축 … 내년 4월부터 9시반 연다",
-      "summary": "내년 4월부터 시중은행 영업점이 오전 9시가 아닌 9시 30분에 문을 열 방침이다. 28일 금융권에 따르면 전국금융산업노동조합과 금융산업사용자협의회는 이날 산별 교섭을 벌인 결과..",
-      "link": "https://www.mk.co.kr/news/economy/12163037",
-      "publishedAt": "2026-09-28T10:13:43.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "K증시에 지친 투자자들…대피처로 꼽히는 이곳은? [주린이 ABC]",
-      "summary": "MMF·고배당·커버드콜로 머니무브미국의 재정적자 확대와 AI(인공지능) 수익성 우려 등으로 최근 글로벌 금리가 5%대까지 올라갔습니다. 금리 불안으로 올 상반기까지 치솟았던 국내외..",
-      "link": "https://www.mk.co.kr/news/stock/12163024",
-      "publishedAt": "2026-09-28T10:05:38.000Z"
     }
   ]
 }
