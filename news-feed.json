@@ -1,8 +1,152 @@
 {
-  "updatedAt": "2026-10-06T09:38:21.465Z",
+  "updatedAt": "2026-10-06T16:24:41.855Z",
   "historyDays": 7,
-  "count": 503,
+  "count": 501,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 안두릴, 잠수함 생산 지원에 신규 조선 건설",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610066728i",
+      "publishedAt": "2026-10-06T15:40:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "유가·美 국채 내리자…S&P500·나스닥 사상 최고치 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610066710i",
+      "publishedAt": "2026-10-06T14:21:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "대형교회 2곳 당했다 …\"개인정보 유출 정황\"",
+      "summary": "금융권에서 인공지능(AI)을 활용한 해킹 파문이 커지고 있는 가운데 국내 대형 교회 2곳이 사이버 공격을 받아 교인들의 개인정보와 헌금 내역 등이 유출된 정황이 파악됐다. 종교단체..",
+      "link": "https://www.mk.co.kr/news/stock/12169859",
+      "publishedAt": "2026-10-06T13:59:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "최병오 섬산련 회장 \"韓-대만, 새로운 협력관계 기대\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610066692i",
+      "publishedAt": "2026-10-06T13:52:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "국민성장펀드 2차 판매 3162억원…목표액 절반 넘겨",
+      "summary": "1차 펀드 수익률 1.40%2차 국민참여형 국민성장펀드가 판매를 시작한 지 나흘 만에 목표액의 절반 이상을 채웠다. 6일 연합뉴스에 따르면 금융위원회는 2차 국민참여형 국민성장펀드..",
+      "link": "https://www.mk.co.kr/news/economy/12169854",
+      "publishedAt": "2026-10-06T13:48:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 8월 무역적자 142조원…트럼프 관세 폭탄 이후 최대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610066688i",
+      "publishedAt": "2026-10-06T13:37:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국민참여성장펀드 나흘간 3천억원 남짓 팔려…목표액의 52.7%",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 6일까지 나흘간 2차 국민참여형 국민성장펀드의 누적 판매액이 3천162억원으로, 목표액(6천억원)...",
+      "link": "https://www.yna.co.kr/view/AKR20261006195600002",
+      "publishedAt": "2026-10-06T13:06:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"무조건 오른다\" 개미들 쓸어 담았는데…3개월 만에 '환호' [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100659626",
+      "publishedAt": "2026-10-06T13:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "메타 '스마트 안경' 규제 확산…\"사생활 침해우려\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610066641i",
+      "publishedAt": "2026-10-06T12:59:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“화이트칼라 초과근무 없인 나라 미래 없어”…전 한은총재의 경고",
+      "summary": "서울대 인구클러스터 포럼서 쓴소리 ‘재량근로제’는 법률 리스크 못 덜어줘 한은 ‘화이트칼라 이그젬션’ 도입 제안이창용 전 한국은행 총재(서울대 특임교수)가 “화이트칼라(사무·전문직..",
+      "link": "https://www.mk.co.kr/news/economy/12169834",
+      "publishedAt": "2026-10-06T12:53:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'부어라 마셔라' 대신 \"한 잔을 제대로\"…2030 몰린 '맥줏집' 정체 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610029621g",
+      "publishedAt": "2026-10-06T12:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "금리 올렸는데도 집값 올랐다…참여정부 7차례 인상기에 깨진 상식 그 이유는 [부동산 손자병법]",
+      "summary": "부동산-금리의 상관관계부동산 시장을 분석할 때 빠지지 않고 등장하는 요인이 하나 있다. 바로 금리다. 금리는 이자율이라고도 부르며, 빌린 원금에 대한 기간(대개 1년)당 이자의 비..",
+      "link": "https://www.mk.co.kr/news/economy/12169729",
+      "publishedAt": "2026-10-06T11:17:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "120시간 내 방 드나들듯 했는데…닷새 지나서야 “누가 들어와 해킹했네?”",
+      "summary": "웰컴저축은행 119시간 넘게 공격에 노출 개인정보 포함 데이터 2299건 유출 추정 현대캐피탈도 해킹 공격 닷새 뒤에나 인지웰컴저축은행이 약 120시간에 걸쳐 해킹 공격을 받았지만..",
+      "link": "https://www.mk.co.kr/news/economy/12169715",
+      "publishedAt": "2026-10-06T11:02:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"은퇴했는데 뭐 먹고 사나\"…퇴직금 쥔 60대 몰리더니 '깜짝'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100663241",
+      "publishedAt": "2026-10-06T11:00:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "李대통령, CPTPP 가입 두고 \"원점서 대화를\"",
+      "summary": "이재명 대통령이 6일 정부가 추진하는 포괄적·점진적 환태평양경제동반자협정(CPTPP)과 관련해 \"국제 통상 질서의 격변기에 CPTPP의 전략적 가치가 중요하다는 의견과 농수산업계의..",
+      "link": "https://www.mk.co.kr/news/economy/12169707",
+      "publishedAt": "2026-10-06T10:33:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "웰컴저축은행 해킹 120분 가까이 지속…사고 닷새 후 인지",
+      "summary": "(서울=연합뉴스) 한지훈 김지연 기자 = 웰컴저축은행이 120분 가까이 해킹 공격을 받았지만, 사고 발생 닷새가 지나서야 금융당국 지적으로 뒤늦...",
+      "link": "https://www.yna.co.kr/view/AKR20261006184400002",
+      "publishedAt": "2026-10-06T10:03:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "버거킹, 유해진 광고 단기 종료…SNS 게시물·매장 광고물 정리(종합2보)",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 영화 &apos;암살자(들)&apos;을 둘러싼 역사 왜곡 논란이 출연 배우가 광고한 제품에 대한 불매 움직임으로 번진 가운데 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261006147452030",
+      "publishedAt": "2026-10-06T10:02:45.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "정부, 농지 특조법 특례 2∼3년 설정·직권 지목 변경 추진(종합)",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 정부가 투기나 중대한 불법 전용이 아닌 농지법 위반 사항에 대해 특별조치법(특조법)으로 처분 제외·유예하는 특...",
+      "link": "https://www.yna.co.kr/view/AKR20261006073951030",
+      "publishedAt": "2026-10-06T10:00:54.000Z"
+    },
     {
       "source": "매일경제",
       "category": "증권",
@@ -3866,166 +4010,6 @@
       "summary": "상속세 팩트체크 (1)필자는 상속이 일어난 상속세 상담은 부조 및 공익의 목적으로 무료 봉사하고 있다. 이렇게 몇 년 정도 하다 보니 수백 명의 상속이 일어난 상속인들을 만나게 되..",
       "link": "https://www.mk.co.kr/news/economy/12163856",
       "publishedAt": "2026-09-29T19:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 30년물국채 수익률 5.609%…2002년 이후 최고치",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609303116i",
-      "publishedAt": "2026-09-29T16:05:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "마이크론 순익 940% 폭증 예상…메모리 '정점론'잠재울까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609293017i",
-      "publishedAt": "2026-09-29T15:41:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "8개월 만에 3300억어치 긁었다…2030 중국인들 몰려간 곳",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092926881",
-      "publishedAt": "2026-09-29T15:09:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "AI '안전'과 '확장' 사이…앤트로픽과 메타의 다른 승부수 [박신영의 개장전 요것만]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609293089i",
-      "publishedAt": "2026-09-29T14:50:51.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 8월 구인공고 710만건…예상치 밑돌아",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609293097i",
-      "publishedAt": "2026-09-29T14:34:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609293066i",
-      "publishedAt": "2026-09-29T13:47:19.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
-      "summary": "(서울=연합뉴스) 윤민혁 기자 = 서울 서초구 아파트 건설 현장에서 작업자가 무너진 천장 파편에 맞고 숨져 당국이 조사에 나섰다.",
-      "link": "https://www.yna.co.kr/view/AKR20260929185700004",
-      "publishedAt": "2026-09-29T13:08:19.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"90% 더 오른다\" 월가 파격 전망에…삼전닉스 개미들 '두근' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092921426",
-      "publishedAt": "2026-09-29T13:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"떡볶이 하나로 매출 2700억\"…루저 김대리의 '인생 역전' [씬메이커]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609292186g",
-      "publishedAt": "2026-09-29T13:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"HBM 판매가 내년 121% 오른다\"…삼전·닉스 메모리 호황 2027년에도",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609293035i",
-      "publishedAt": "2026-09-29T12:51:21.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "젠슨황 밴플리트상 받을때 통역은?...K동시통역 스콘챗 활약",
-      "summary": "코리아소사이어티 연례만찬 밴플리트상 시상식 스콘에이아이·인터컴 K 동시통역 선보여 글로벌MICE 인터컴과 글로벌 진출 가속28일(현지시간) 뉴욕 맨해튼 치프리아니에서 열린 코리아소..",
-      "link": "https://www.mk.co.kr/news/economy/12164184",
-      "publishedAt": "2026-09-29T11:59:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“증권사 8.6조 쓸어담을 때 투자자는 손실”…금감원장, CEO들 불렀다",
-      "summary": "금감원장-증권사 CEO 간담회 “사회공헌 500억, 은행은 2.2조 커진 규모만큼 사회 기여를” 지적 신용융자·유동성 관리도 주문이찬진 금융감독원장이 증권사 최고경영자(CEO)들을..",
-      "link": "https://www.mk.co.kr/news/stock/12164181",
-      "publishedAt": "2026-09-29T11:57:16.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"하이닉스 목표가 왜 낮췄지?\" 겁먹었는데…'반전' [종목+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092923636",
-      "publishedAt": "2026-09-29T11:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동정] 이억원, 美나스닥·DTCC·홍콩거래소 고위급 면담",
-      "summary": "▲ 이억원 금융위원장은 29일 오후 더그랜드롯데 서울에서 밥 맥쿠이 미국 나스닥 부회장, 티모시 커디히 미국 증권예탁결제원(DTCC) 최고위험관...",
-      "link": "https://www.yna.co.kr/view/AKR20260929180200002",
-      "publishedAt": "2026-09-29T10:49:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 외교부와 주리비아한국대사관은 리비아 외교국제협력부와 공동으로 지난 27∼28일 리비아 트리폴리에서 &apos;2026 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260929177100504",
-      "publishedAt": "2026-09-29T10:30:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "7월 국내증시 급락 후폭풍 … 국민연금, 182조원 줄었다",
-      "summary": "코스피가 22%나 폭락했던 지난 7월 국민연금의 국내주식 투자액이 한 달 전보다 124조원 감소한 것으로 집계됐다. 국내주식 외에도 전 자산군이 약세를 보여 기금 전체 규모는 한 ..",
-      "link": "https://www.mk.co.kr/news/stock/12164137",
-      "publishedAt": "2026-09-29T10:22:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "앤스로픽, 매출 6조인데 손실은 10조…적자에도 몸값 '폭등'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609292955i",
-      "publishedAt": "2026-09-29T10:22:33.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“반도체 고마워유” 충북 고속성장…“워메 어짜쓰까” 호남은 뒷걸음",
-      "summary": "2분기 지역내총생산 전국 3.7%…충북 11.9%로 1위 전남 -2.8%로 6분기째 역성장반도체가 올해 2분기 지역내총생산(GRDP) 성장률을 가른 것으로 나타났다. 삼성전자·SK..",
-      "link": "https://www.mk.co.kr/news/economy/12164131",
-      "publishedAt": "2026-09-29T10:18:52.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“미국이 예전 같지 않다”…美 국채금리 5% 돌파가 보내는 섬뜩한 신호 [BOK WATCHER]",
-      "summary": "미국 고금리 시대 개막의 의미미국 국채금리가 잇달아 연 5%를 넘고 있다. 미국채 30년물은 지난 7월 5%를 넘어 현재 5.5%까지 올랐다. 장기 기준금리 역할을 하는 10년물 ..",
-      "link": "https://www.mk.co.kr/news/economy/12164121",
-      "publishedAt": "2026-09-29T10:08:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“요즘 주식창 보면 흐뭇합니다”…횡보장에 나홀로 웃는 상품 있다는데",
-      "summary": "커버드콜 ETF 순자산 30조 육박 높은 분배율만 보고 투자는 금물증시 변동성이 이어지면서 옵션 프리미엄을 활용해 분배금을 지급하는 커버드콜 상장지수펀드(ETF)에 자금이 몰리고 ..",
-      "link": "https://www.mk.co.kr/news/stock/12164096",
-      "publishedAt": "2026-09-29T09:54:50.000Z"
     }
   ]
 }
