@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-10-06T01:36:35.136Z",
+  "updatedAt": "2026-10-06T09:38:21.465Z",
   "historyDays": 7,
-  "count": 508,
+  "count": 503,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[인기검색TOP5] HLB, 알멕, 삼천당제약, 안랩, LG전자",
+      "summary": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 HLB +17.92%, 알멕 +16.25%, 삼천당제약 ..",
+      "link": "https://www.mk.co.kr/news/stock/12169649",
+      "publishedAt": "2026-10-06T09:35:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "케이뱅크, 소상공인 우수제품 구매 기부",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100664271",
+      "publishedAt": "2026-10-06T09:23:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "금투협, 국제자산운용협회 이사국 참가",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100665026",
+      "publishedAt": "2026-10-06T09:23:14.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“한국 증시만 이런 거예요?”…고금리 뚫고 신고가 찍은 美나스닥",
+      "summary": "10년물 금리 24년來 최고 불구 AI발 기업 이익 급상승 전망에 투자 규모 전년대비 60% 늘어미국 장기 국채 금리가 24년 만의 최고 수준으로 치솟았지만 뉴욕 증시에서는 기술주..",
+      "link": "https://www.mk.co.kr/news/world/12169636",
+      "publishedAt": "2026-10-06T09:22:52.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "현대차, 서울서 美 체험형 과학 전시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100664291",
+      "publishedAt": "2026-10-06T09:22:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "韓총리, 공공지원 민간임대주택 찾아 \"집 선택권 보장해야\"",
+      "summary": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 6일 경기도 남양주시 별내동의 공공지원 민간임대주택인 &apos;위스테이 별내&apos;를 방문해 주택공급 정...",
+      "link": "https://www.yna.co.kr/view/AKR20261006177400001",
+      "publishedAt": "2026-10-06T09:18:36.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "여야, 재경부 국감서 대미투자·부동산 시장엔 한목소리 지적(종합)",
+      "summary": "(서울=연합뉴스) 박재하 기자 = 여야는 6일 재정경제부에 대한 국회 재정경제기획위 국정감사에서 대미투자 내용과 부동산 정책을 두고 한목소리로 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261006088751001",
+      "publishedAt": "2026-10-06T09:17:32.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증권맨도 '집 사자'…사내대출 증가액, 작년분 44% 넘었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610066467i",
+      "publishedAt": "2026-10-06T09:06:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "한미반도체, 삼성전기서 244억 장비 수주",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100663021",
+      "publishedAt": "2026-10-06T09:03:54.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "빨라진 인사 시계…\"내년 사업계획 서두르자\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100664321",
+      "publishedAt": "2026-10-06T09:03:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "5차 발사 앞둔 누리호…LG, 부품 5종 탑재",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100664341",
+      "publishedAt": "2026-10-06T09:02:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "포스코퓨처엠, 삼성SDI에 양극재 6조 공급",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100664351",
+      "publishedAt": "2026-10-06T09:02:15.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "summary": "■ 2년 연속 &apos;조희대 공방&apos;으로 문 연 국감…상임위 곳곳 날선 대립",
+      "link": "https://www.yna.co.kr/view/AKR20261006168000011",
+      "publishedAt": "2026-10-06T09:00:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "리튬포어스, 13억원 규모 유상증자 실시",
+      "summary": "코스닥 상장사 리튬포어스가 13억 2052만 4016원 규모의 제3자배정증자를 실시한다고 2026년 10월 6일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 48만 1..",
+      "link": "https://www.mk.co.kr/news/stock/12169623",
+      "publishedAt": "2026-10-06T08:59:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하워드 막스가 보내온 투자 메모 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100663621",
+      "publishedAt": "2026-10-06T08:56:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "내 은퇴자금 한눈에…한투證 연금 MTS 개편",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100663401",
+      "publishedAt": "2026-10-06T08:54:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "배당 우수기업 분산투자…'대신 주주환원펀드' 출시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100663371",
+      "publishedAt": "2026-10-06T08:53:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "코스닥, 석달 만에 900 뚫었다…소부장·바이오·배터리주 강세",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100663381",
+      "publishedAt": "2026-10-06T08:52:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "알테오젠, 알테오젠바이오로직스 합병 결정",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 알테오젠[196170]은 6일 이사회에서 자회사 알테오젠바이오로직스를 소규모합병 방식으로 흡수합병하기로 결정했...",
+      "link": "https://www.yna.co.kr/view/AKR20261006176900017",
+      "publishedAt": "2026-10-06T08:51:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "日 부실채권 줄었는데 … 韓 3년간 70% '폭증'",
+      "summary": "한국 은행권의 부실채권이 3년 새 70% 넘게 불어난 것으로 나타났다. 같은 기간 일본과 싱가포르 등 아시아 주요국에서 부실채권이 오히려 감소한 것과 대조된다. 경기 부진이 장기화..",
+      "link": "https://www.mk.co.kr/news/economy/12169611",
+      "publishedAt": "2026-10-06T08:50:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "고금리 덮치자 … 국민연금, 보험株 사고 증권株 팔아",
+      "summary": "고금리 파고가 주식시장을 덮쳐오면서 '큰손' 국민연금공단이 이에 대한 대응에 나섰다. 지난 3분기 국내 증시에서 고금리 수혜가 예상되는 보험주는 담고 반대로 고금리 상황에 취약한 ..",
+      "link": "https://www.mk.co.kr/news/stock/12169606",
+      "publishedAt": "2026-10-06T08:50:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "대미투자금 나가자 …외환보유액 넉달만에 '뚝'",
+      "summary": "한미 관세 합의에 따른 대미투자 자금 송금이 시작되면서 석 달 연속 늘던 외환보유액이 지난달 감소세로 전환했다. 한국은행이 6일 발표한 '2026년 9월 말 외환보유액'에 따르면 ..",
+      "link": "https://www.mk.co.kr/news/economy/12169600",
+      "publishedAt": "2026-10-06T08:49:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"웨스팅하우스 상장때 신주인수권\"… 韓, 대미원전투자 지분율 지킨다",
+      "summary": "한국전력 등 한국 기업 컨소시엄이 미국 원전 업체 웨스팅하우스가 기업공개(IPO)에 성공할 경우 웨스팅하우스 신주를 인수할 권리를 확보한 것으로 확인됐다. 6일 관계 부처에 따르면..",
+      "link": "https://www.mk.co.kr/news/economy/12169601",
+      "publishedAt": "2026-10-06T08:49:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "\"美텍사스발전소 상업성 충족\"…\"알래스카LNG 투자 확정 아냐\"",
+      "summary": "정기국회 국정감사 첫날인 6일 경제 관련 부처 소관 국회 상임위원회에선 대미투자가 '뜨거운 감자'로 다뤄졌다. 도널드 트럼프 미국 대통령이 일방적으로 우리 정부의 대미투자 확대 등..",
+      "link": "https://www.mk.co.kr/news/economy/12169599",
+      "publishedAt": "2026-10-06T08:49:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "韓 GDP 대비 국가채무비율 50%… 국민 1인당 나랏빚 4천만원 육박",
+      "summary": "스페인·프랑스 등 유럽 재정 불안감이 커지는 가운데 한국 국가채무 상황도 안심할 수준이 아니라는 평가가 나온다. 국내총생산(GDP) 대비 국가 국가채무(D1) 비율은 2020년 4..",
+      "link": "https://www.mk.co.kr/news/economy/12169591",
+      "publishedAt": "2026-10-06T08:48:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[표] 외국환율고시표",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/economy/12169567",
+      "publishedAt": "2026-10-06T08:45:13.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "토뱅 이어 카뱅·케뱅에도 서버 접근…시중은행 해킹 IP와 동일(종합)",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 최근 발생한 주요 금융사 해킹 사고에서 활용된 공격자의 인터넷주소(IP)가 카카오뱅크[323410]와 케이뱅크...",
+      "link": "https://www.yna.co.kr/view/AKR20261006087751002",
+      "publishedAt": "2026-10-06T08:43:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "아이티센, 금 기반 토큰 리플 생태계와 연결한다",
+      "summary": "지난해 XRPL 연계 구상 이어 올해 실사용 사례 패널 참여…금 거래·담보·결제로 확장 기대아이티센의 웹3 자회사인 크레더에서 금 기반 토큰 ‘케이골드(KGLD)’를 리플 생태계와..",
+      "link": "https://www.mk.co.kr/news/stock/12169555",
+      "publishedAt": "2026-10-06T08:42:37.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이형일, 레버리지ETF \"송구\"…아파트값 상승엔 \"무겁게 느낀다\"",
+      "summary": "(세종=연합뉴스) 안채원 송정은 기자 = 이형일 부총리 겸 재정경제부 장관은 6일 단일종목 레버리지 상장지수펀드(ETF) 도입과 관련해 &quot;결과적...",
+      "link": "https://www.yna.co.kr/view/AKR20261006169400002",
+      "publishedAt": "2026-10-06T08:42:32.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "이제야 CIO 공백 메꿨다 … 연기금 PE 출자 재개",
+      "summary": "수년째 사모펀드(PEF) 출자를 멈췄던 대형 연기금들이 최고투자책임자(CIO) 인선을 잇따라 마무리하면서 출자 시장 복귀 기대가 커지고 있다. 운용 사령탑 공백이 신규 약정을 막아..",
+      "link": "https://www.mk.co.kr/news/stock/12169521",
+      "publishedAt": "2026-10-06T08:38:38.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3786,286 +4026,6 @@
       "summary": "커버드콜 ETF 순자산 30조 육박 높은 분배율만 보고 투자는 금물증시 변동성이 이어지면서 옵션 프리미엄을 활용해 분배금을 지급하는 커버드콜 상장지수펀드(ETF)에 자금이 몰리고 ..",
       "link": "https://www.mk.co.kr/news/stock/12164096",
       "publishedAt": "2026-09-29T09:54:50.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "미국 의약품 관세 발효…한국산 ADC·유전자치료제는 0%",
-      "summary": "(서울=연합뉴스) 박상현 기자 = 미국 정부가 29일(현지시간)부터 무역확장법 232조에 근거해 의약품·원료에 본격적으로 관세를 부과하는 가운데...",
-      "link": "https://www.yna.co.kr/view/AKR20260929168800017",
-      "publishedAt": "2026-09-29T09:24:23.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "쟁글, 아부다비 법인 '오리엔트' 설립…내년 서비스 출시 목표",
-      "summary": "(서울=연합뉴스) 박수현 기자 = 가상자산 데이터 인프라 기업 쟁글이 아랍에미리트(UAE) 아부다비에 신규 법인 &apos;오리엔트&apos;(orynt)를 설립...",
-      "link": "https://www.yna.co.kr/view/AKR20260929171700002",
-      "publishedAt": "2026-09-29T09:18:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "농산물 수급조절위, 법정 심의 기구로 격상",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농산물 수급 정책을 자문해온 농산물 수급조절위원회가 법정 심의 기구로 격상됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260929166700030",
-      "publishedAt": "2026-09-29T09:12:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "단일종목 레버리지 민원·분쟁 82건…7~8월에 55건 집중",
-      "summary": "출시 넉달새 민원 82건 접수 AUM 6.2조로 급증…변동성 지표도 확대 당국 거래단위·괴리율 강화 이어 신규상장 중단 박성훈 의원실 “위험성 검토 충분했는지 전 과정 따질것”지난..",
-      "link": "https://www.mk.co.kr/news/stock/12164088",
-      "publishedAt": "2026-09-29T09:11:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "공매도 적발 늘었는데 조사 못 따라가…올해 통보 37건 중 36건 ‘미착수’",
-      "summary": "박민규 의원실, 금감원·거래소 자료 NSDS 가동 이후 위반 혐의 95건 통보 전체 74.7% 조사 착수 못해 금감원 “조사인력한계·우선처리원칙이 원인”불법 공매도를 상시 적발하..",
-      "link": "https://www.mk.co.kr/news/stock/12164087",
-      "publishedAt": "2026-09-29T09:11:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[인기검색TOP5] HLB제약, 테라뷰, 뷰노, MDS테크, 한미반도체",
-      "summary": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 HLB제약 +29.94%, 테라뷰 +21.34%, 뷰노 ..",
-      "link": "https://www.mk.co.kr/news/stock/12164083",
-      "publishedAt": "2026-09-29T09:09:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "[속보] 국민연금 국내주식 수익률…7월 폭락장에 47%P 반납했다",
-      "summary": "6월 107%서 7월 60%로 줄어 기금 전체 수익률은 14.8%코스피가 22% 추락했던 지난 7월 국민연금의 국내주식 투자액이 한 달 새 182조원 감소한 것으로 드러났다. 기금..",
-      "link": "https://www.mk.co.kr/news/stock/12164080",
-      "publishedAt": "2026-09-29T09:08:48.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동포의 창] 전 세계 10개 권역별로 세계한상대회 열린다",
-      "summary": "(인천=연합뉴스) 강성철 기자 = &apos;세계한상대회총회(의장 겸 대회장 하경서)&apos;에 참가한 한상들은 전 세계 10개 권역별로 세계한상대회 개최를 추...",
-      "link": "https://www.yna.co.kr/view/AKR20260929163500371",
-      "publishedAt": "2026-09-29T09:04:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "전남광주 옛 전방·일신방직 개발사, 공공기여금 154억 첫 납부",
-      "summary": "(전남광주=연합뉴스) 장덕종 기자 = 전남광주통합특별시는 29일 옛 전방·일신방직 부지 개발사업자인 챔피언스시티복합개발PFV가 공공기여금 3천억...",
-      "link": "https://www.yna.co.kr/view/AKR20260929165900054",
-      "publishedAt": "2026-09-29T09:03:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "summary": "■ [아시안게임] 발끝마다 새 역사 안세영, 금빛 대관식…대회 사상 첫 2연패(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260929159100011",
-      "publishedAt": "2026-09-29T09:00:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] 불뿜는 K방산…전국 20곳 증설",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092928111",
-      "publishedAt": "2026-09-29T08:53:33.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] \"이자 또 오르나요\"…260조 만기 폭탄에 영끌족 '비상'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092928161",
-      "publishedAt": "2026-09-29T08:51:34.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "SK에코, AI로 '사업재편' … 말레이 폐기물업체 판다",
-      "summary": "SK에코플랜트가 말레이시아 국부펀드 카자나와 공동 보유하고 있는 현지 폐기물 처리업체 센바이로(Cenviro)를 프랑스 글로벌 환경기업 베올리아에 매각한다. 이번 지분 매각을 통해..",
-      "link": "https://www.mk.co.kr/news/stock/12164062",
-      "publishedAt": "2026-09-29T08:48:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "첫 민간주도 한상대회…\"700만명의 비즈니스 플랫폼\"",
-      "summary": "2002년부터 정부 주도로 운영됐던 국내 최대 글로벌 한상 교류 행사인 세계한상대회가 24년 만에 처음 민간 중심의 비즈니스 대회로 탈바꿈했다. 행사 자체보다 기업 전시나 투자·수..",
-      "link": "https://www.mk.co.kr/news/columnists/12164061",
-      "publishedAt": "2026-09-29T08:48:26.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "수도권·충청, 반도체 덕에 5% 성장 … 호남권은 석유화학 부진에 뒷걸음",
-      "summary": "반도체가 올해 2분기 지역내총생산(GRDP) 성장률을 가른 것으로 나타났다. 삼성전자·SK하이닉스 공장이 있는 수도권과 충청권은 올해 2분기 나란히 5%대 경제성장률을 기록한 데 ..",
-      "link": "https://www.mk.co.kr/news/economy/12164043",
-      "publishedAt": "2026-09-29T08:47:39.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "미래기금에 지자체 반발…\"지방교부세 줄어\"",
-      "summary": "정부가 추진하는 200조원대 미래대응기금 신설을 놓고 더불어민주당 소속 지방자치단체장들이 지방재정 악화를 우려하고 나섰다. 규모가 큰 기금이 신설되면 내국세에 연동되는 지방교부세가..",
-      "link": "https://www.mk.co.kr/news/economy/12164042",
-      "publishedAt": "2026-09-29T08:47:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "전력망 '알박기' 차단 나섰다 … 선착순 대신 접속권 경쟁입찰",
-      "summary": "정부가 그동안 선착순으로 주던 전력망 접속권을 경쟁입찰을 통해 부여한다. 망을 선점해놓고 실제 발전은 하지 않는 전력망 '알박기'를 원천 차단하기 위한 조치다. 29일 김성환 기후..",
-      "link": "https://www.mk.co.kr/news/economy/12164041",
-      "publishedAt": "2026-09-29T08:47:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "[단독] 금융채 90조 만기…이자폭탄 뇌관 되나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092928071",
-      "publishedAt": "2026-09-29T08:47:36.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"앱토스, 실물경제로 활용처 확대\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092928286",
-      "publishedAt": "2026-09-29T08:47:33.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "자사주 거의 다 샀고 … 삼전닉스 주가는요?",
-      "summary": "그간 '삼전닉스 산소호흡기' 역할을 해온 자사주 매입이 다음달 초 마무리된다. 증시 수급 가뭄 속에 삼성전자와 SK하이닉스 주가 하방을 지탱하던 매수 주체가 소멸됨에 따라 향후 주..",
-      "link": "https://www.mk.co.kr/news/stock/12164037",
-      "publishedAt": "2026-09-29T08:47:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "퇴직자 리스타트 조건…\"임원 물 빼는게 급선무\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092927201",
-      "publishedAt": "2026-09-29T08:47:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "비용 낮추고 노하우 빌리는…'임원 구독 서비스' 뜬다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092927191",
-      "publishedAt": "2026-09-29T08:46:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "서학개미 1조 산 '美메모리 ETF' 한국판 출격",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092927881",
-      "publishedAt": "2026-09-29T08:45:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "대기업 채용문 넓어진다…51% \"대졸 뽑을 것\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092927491",
-      "publishedAt": "2026-09-29T08:44:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'범LG家' 구미현 인수 효과…씨싸이트, 한주새 150% 급등",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026092927901",
-      "publishedAt": "2026-09-29T08:43:45.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "\"베트남 값싼 공장시대 끝…현지인재 키워야 \"",
-      "summary": "강신우 동국성신그룹 대표이사는 중국, 멕시코, 베트남, 폴란드에서 잇달아 전자 부품 공장을 세우며 글로벌 생산 전문가로 이름을 알린 대표 한상이다. 제24차 세계한상대회 현장에서 ..",
-      "link": "https://www.mk.co.kr/news/economy/12164016",
-      "publishedAt": "2026-09-29T08:41:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "LG엔솔·LS전선·가온전선… AI 인프라 뛰어드는 K기업",
-      "summary": "국내 배터리 기업과 전력 기반 설비 기업들이 미국 인공지능(AI) 데이터센터 생태계에 속속 뛰어들며 시장 선점 경쟁에 나섰다. 에너지 공급 부문부터 전력 인프라스트럭처 구축까지 전..",
-      "link": "https://www.mk.co.kr/news/economy/12164012",
-      "publishedAt": "2026-09-29T08:40:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "5년간 1.5조 지원 무색…한계기업 10곳 중 9곳은 '경영난 여전'",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 한계기업에 연구개발(R&amp;amp;D) 지원을 늘리고 있지만 정작 경영 정상화 성과는 갈수록 줄어든 것으로...",
-      "link": "https://www.yna.co.kr/view/AKR20260929161000003",
-      "publishedAt": "2026-09-29T08:38:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "리튬포어스, 11억원 제3자배정 유상증자",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 리튬포어스[073570]는 운영자금 등 약 11억원을 조달하고자 제3자배정 유상증자를 결정했다고 29일 공시했다...",
-      "link": "https://www.yna.co.kr/view/AKR20260929162800008",
-      "publishedAt": "2026-09-29T08:34:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"외인 대신 주도주 결정할 것\"…증시 주인공으로 급부상",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609292536i",
-      "publishedAt": "2026-09-29T07:55:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"은행보다 사회공헌 지출 부족\"…증권사 질타한 이찬진 금감원장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609292438i",
-      "publishedAt": "2026-09-29T07:31:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'범LG가 인수' 소식에 …'이 기업' 일주일 새 150% 껑충",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609292285i",
-      "publishedAt": "2026-09-29T07:26:41.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'CPU·GPU보다 더 귀해'…금리 리스크 뚫고 상승한 삼성전기",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609291470i",
-      "publishedAt": "2026-09-29T07:20:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"지배주주만 먼저 팔면 안돼\"…운용사 18곳, 의무공개매수제도에 반기",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609292291i",
-      "publishedAt": "2026-09-29T07:19:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "유조선 빌려주고 3년간 1481억…실적 기대감에 '함박웃음'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609291917i",
-      "publishedAt": "2026-09-29T07:00:02.000Z"
     }
   ]
 }
