@@ -1,8 +1,176 @@
 {
-  "updatedAt": "2026-10-07T09:34:39.194Z",
+  "updatedAt": "2026-10-07T17:06:58.780Z",
   "historyDays": 7,
-  "count": 499,
+  "count": 500,
   "items": [
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"폭락 예측말고 대비하라\"…'블랙스완'탈레브 美증시 경고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610089559i",
+      "publishedAt": "2026-10-07T15:45:34.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "월가분석가 \"마이크론 PER19배 간다\"…4배인 삼전·SK하이닉스는?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610079546i",
+      "publishedAt": "2026-10-07T14:46:16.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "고금리 누가 이길까…메타 '골든크로스'에 마이크론 목표가 3000달러 [박신영의 개장전 요것만]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610079548i",
+      "publishedAt": "2026-10-07T14:36:37.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 7일(현지시간) 미국 국채 시장에서 매도세가 다시 고개를 들며 주요 국채 금리가 장중 약 24년 만에 최고치...",
+      "link": "https://www.yna.co.kr/view/AKR20261007207300072",
+      "publishedAt": "2026-10-07T14:05:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 10년물 국채 5.35%로 또 24년 만에 최고…인플레·재정우려에 국채 투매",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610079499i",
+      "publishedAt": "2026-10-07T13:11:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"최태원 회장님 믿습니다\"…SK하닉 '400만원 간다'는 이유 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100790326",
+      "publishedAt": "2026-10-07T13:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "인도중앙은행, 3년8개월만 첫 기준금리 인상…\"인플레 대응\"",
+      "summary": "(하노이=연합뉴스) 박진형 특파원 = 인도에서 물가 상승과 루피화 약세 속에 경제성장률은 호조를 보이면서 인도중앙은행(RBI)이 3년 8개월 만...",
+      "link": "https://www.yna.co.kr/view/AKR20261007203000084",
+      "publishedAt": "2026-10-07T12:51:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "NH농협생명, 올해 신계약 CSM 1조 추진",
+      "summary": "(서울=연합뉴스) 강수련 기자 = NH농협생명은 7일 &apos;신계약 보험계약마진(CSM) 1조원 추진 선포식&apos;을 했다고 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261007198600002",
+      "publishedAt": "2026-10-07T12:47:23.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국민참여성장펀드 닷새간 3천300억원 팔려…목표액 55% 달성",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 7일까지 닷새간 2차 국민참여형 국민성장펀드의 누적 판매액이 3천301억6천만원으로, 총 목표액(...",
+      "link": "https://www.yna.co.kr/view/AKR20261007198200002",
+      "publishedAt": "2026-10-07T12:46:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "생물 '거울형 이성질체' 난제 푼 과학자들에 노벨화학상",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 어떤 분자들은 마치 왼손과 오른손처럼 모양은 같지만 방향이 다른 &apos;거울상 관계&apos;에 있는 두 형태로 존재한다.",
+      "link": "https://www.yna.co.kr/view/AKR20261007201500017",
+      "publishedAt": "2026-10-07T12:27:40.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "KB證 ‘KB M-able(마블)’ 8년 연속 MTS 부문 대상 수상",
+      "summary": "‘2026 소비자의 선택’ MTS 부문 8년 연속 대상KB증권이 ‘2026 소비자의 선택’ 모바일트레이딩시스템(MTS) 부문에서 자사 MTS ‘KB M-able(마블)’이 8년 연..",
+      "link": "https://www.mk.co.kr/news/stock/12170920",
+      "publishedAt": "2026-10-07T12:21:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"공포의 10월 9일 온다\"…서학개미들 떨고 있는 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100790751",
+      "publishedAt": "2026-10-07T12:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“아무리 확신 있어도 몰빵은 금물”…IMF 때도 웃은 최권욱의 투자법 [한국의 위대한 투자자]",
+      "summary": "최권욱 안다자산운용 회장 1편투자자라면 누구나 큰 수익을 꿈꾼다. 주가가 급등할 종목을 남들보다 먼저 찾아내 높은 수익률을 올리는 일은 매력적이다. 하지만 시장을 크게 이기는 수익..",
+      "link": "https://www.mk.co.kr/news/stock/12170911",
+      "publishedAt": "2026-10-07T11:58:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"엔비디아칩 사려고 54조원 빚낸다\"…스페이스X, 400억달러 조달 추진",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610079441i",
+      "publishedAt": "2026-10-07T11:47:20.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "정은경 “내년 노인 하위 45%, 기초연금 물가인상분 소급 지급”",
+      "summary": "내년 4월 기초연금 개편 시행 1~3월 35만원 동결 논란에 “차질없이 반영되도록 최선”정은경 보건복지부 장관이 소득 하위 45% 노인에게 내년 1분기 기초연금 물가연동 인상분을 ..",
+      "link": "https://www.mk.co.kr/news/economy/12170902",
+      "publishedAt": "2026-10-07T11:29:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼전닉스 레버리지 ETF, 개인 확정손실 2.3조원",
+      "summary": "개인 매매손실 10개 증권사 첫 집계 최은석 野의원 “정책 실패, 국감서 밝혀야”삼성전자와 SK하이닉스 주가의 하루 등락률을 2배로 추종하는 ‘단일종목 레버리지’ 상품에 투자했던 ..",
+      "link": "https://www.mk.co.kr/news/stock/12170895",
+      "publishedAt": "2026-10-07T11:20:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "트럼프가 망가뜨리는 AI 관련株, 중간선거 이후엔 회복될까? [미래를 바꾸는 기술]",
+      "summary": "미국 중간선거 이후 향방은지금 세계적으로 두 개의 전쟁이 동시에 벌어지고 있다. 그것도 산유국에서만 일어났다. 트럼프가 추가로 만든 전쟁으로 인해 유가는 폭등했다. 기름값이 오르면..",
+      "link": "https://www.mk.co.kr/news/stock/12170893",
+      "publishedAt": "2026-10-07T11:17:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "올해 수은 해킹 시도 283건, 작년의 8배…지난달 한은 공격도(종합2보)",
+      "summary": "(서울=연합뉴스) 한지훈 강수련 김지연 기자 = 올해 한국수출입은행을 겨냥한 해킹 시도가 지난해 연간 건수의 8배에 육박한 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20261007044852002",
+      "publishedAt": "2026-10-07T11:11:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"삼성전자, 중국산에 추월당할 수도\"…그야말로 '비상'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610077420g",
+      "publishedAt": "2026-10-07T11:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "SK에너지·HD현대오일뱅크 … 공정위 '44조 담합' 심의 시작",
+      "summary": "공정거래위원회가 SK에너지와 HD현대오일뱅크의 석유류 담합 혐의에 제재 의견을 담은 심사보고서를 송부했다고 7일 밝혔다. 약 4년간 휘발유·경유·등유 등 판매가격에 대한 정보를 교..",
+      "link": "https://www.mk.co.kr/news/economy/12170834",
+      "publishedAt": "2026-10-07T10:22:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "밀린 세금 4000억, 결국 낸다…이자 체납왕 ‘선박왕’ 권혁, 일단 1000억부터",
+      "summary": "고액체납 특별대응TF 출범 성과 해외 은닉재산 끈질긴 추적 결과‘선박왕’으로 불리는 개인 고액 체납자 1위 권혁 시도그룹 회장이 4000억원에 달하는 밀린 세금을 낸다. 국세청 역..",
+      "link": "https://www.mk.co.kr/news/economy/12170798",
+      "publishedAt": "2026-10-07T09:36:38.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3834,166 +4002,6 @@
       "summary": "도널드 트럼프 행정부가 한국이 미국의 에너지 인프라에 약 2000억달러(약 271조원)​를 투자한다고 공식 발표했다. 투자 대상은 미국 내 대형 원자력발전소 8기를 비롯해 텍사스 ..",
       "link": "https://www.mk.co.kr/news/economy/12165528",
       "publishedAt": "2026-09-30T21:44:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "트럼프 60개국에 대한 '강제노동' 관세도 법정행",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305998i",
-      "publishedAt": "2026-09-30T15:14:40.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“이란전쟁 소풍 끝나면 유가 정상화”…금리발작 못본체하는 트럼프",
-      "summary": "10년물도 2007년 이후 최고 전쟁 장기화 우려 국채 투매 트럼프 “곧 종전해 유가 급락”국제유가 변동성에 따른 물가 상승 압력에 미국 국채 금리가 연일 급등하고 있다. 연방준..",
-      "link": "https://www.mk.co.kr/news/economy/12165415",
-      "publishedAt": "2026-09-30T14:35:54.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
-      "summary": "(베를린=연합뉴스) 김계연 특파원 = 이달 독일 소비자물가가 작년 9월보다 3.3％, 지난달에 비해 0.6％ 오른 것으로 독일 연방통계청이 30...",
-      "link": "https://www.yna.co.kr/view/AKR20260930196400082",
-      "publishedAt": "2026-09-30T13:43:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305956i",
-      "publishedAt": "2026-09-30T13:37:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"아이폰, 멋대로 꺼지더니 또\"…이번엔 '스피커' 오류 주장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026093059577",
-      "publishedAt": "2026-09-30T13:27:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 2분기 성장률 2.2% 확정…잠정치보다 0.7%P↑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305959i",
-      "publishedAt": "2026-09-30T13:19:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 8월 PCE 물가 3.4% 상승…예상치 밑돌았다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305951i",
-      "publishedAt": "2026-09-30T13:12:30.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"경제사 새로 쓴다\"…삼전닉스 초유의 상황에 개미들 '들썩' [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026093052066",
-      "publishedAt": "2026-09-30T13:00:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "7주만에 최저 금값…\"그럼에도 실물수요 등 보유할 이유 많아\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305927i",
-      "publishedAt": "2026-09-30T12:25:26.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "증선위, 대표 시세조종행위 등 불공정거래 3건 檢 고발·통보",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 금융위원회 산하 증권선물위원회는 제17차 정례회의에서 미공개 중요정보 이용행위, 시세조종행위 금지 위반 등 3...",
-      "link": "https://www.yna.co.kr/view/AKR20260930190900002",
-      "publishedAt": "2026-09-30T12:18:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "예전 같지 않은 미국…예전과 다른 非미국 ETF[이번주 찜할 ETF]",
-      "summary": "국채금리 5% 긴축의 시대 돌파구 ETF미국 10년물 국채금리가 5.24%를 기록하며 19년 만의 최고치를 경신했다. ‘절대 안전 자산’ 미국 국채가 매년 5%씩 이자를 주는데 누..",
-      "link": "https://www.mk.co.kr/news/stock/12165319",
-      "publishedAt": "2026-09-30T11:54:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "韓총리 \"주택공급 예측가능성 높이는 게 중요…신뢰 회복해야\"(종합)",
-      "summary": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 30일 정부가 추진하는 주택공급과 관련해 &quot;사업별로 국민들께서 궁금해하는 내용을 구체적으로 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260930167051001",
-      "publishedAt": "2026-09-30T11:29:47.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "2차 국민참여성장펀드 첫날 2천억원 판매…일부 온라인한도 소진",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 2차 국민참여형 국민성장펀드 출시 첫날 약 2천억원 규모가 판매됐다.",
-      "link": "https://www.yna.co.kr/view/AKR20260930189800002",
-      "publishedAt": "2026-09-30T11:27:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "미 30년물 국채금리 5.6% 돌파…전문가 “6%까지 갈 수도”",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305884i",
-      "publishedAt": "2026-09-30T11:27:39.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "삼립 \"2030년 영업익 1천700억·해외 매출 5천억 달성 목표\"",
-      "summary": "(서울=연합뉴스) 홍국기 기자 = 삼립은 현재 750억원 수준인 해외 매출을 2030년까지 5천억원 규모로 키우겠다고 30일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260930189700030",
-      "publishedAt": "2026-09-30T11:19:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "한화투자증권, 9000억 확충…종투사 진입 시동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026093058441",
-      "publishedAt": "2026-09-30T10:47:27.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "9월 D램·낸드 가격 또 역대 최고…상승폭은 둔화",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 메모리 반도체 공급 제약이 이어지는 가운데 D램과 낸드플래시의 월평균 가격이 9월에도 역대 최고치를 경신했다.",
-      "link": "https://www.yna.co.kr/view/AKR20260930184700003",
-      "publishedAt": "2026-09-30T10:37:07.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "세무자문 성장…빅4 회계법인 총매출 3조 첫 돌파",
-      "summary": "회계감사 매출 역성장했지만 글로벌 최저한세 규제 신설에 기업 세무자문 수요 늘고 사업재편 위한 경영자문 선전국내 4대 회계법인의 지난 회계연도 연간 총 매출이 처음으로 3조원을 넘..",
-      "link": "https://www.mk.co.kr/news/stock/12165278",
-      "publishedAt": "2026-09-30T10:32:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한화證, 9000억원 자본확충 …\"종투사로 도약\"",
-      "summary": "한화투자증권이 5000억원 규모의 유상증자와 신종자본증권 발행을 통해 종합금융투자사업자(종투사) 진입에 나선다. 한화생명이 애큐온캐피탈 인수 계약을 체결해 저축은행 분야에 진출하는..",
-      "link": "https://www.mk.co.kr/news/stock/12165275",
-      "publishedAt": "2026-09-30T10:30:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "與, 디스커버리 제도 연내 입법 추진…회사에 증거 요구 가능해진다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202609305771i",
-      "publishedAt": "2026-09-30T09:36:26.000Z"
     }
   ]
 }
