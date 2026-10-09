@@ -1,8 +1,88 @@
 {
-  "updatedAt": "2026-10-09T09:50:16.315Z",
+  "updatedAt": "2026-10-09T16:43:37.115Z",
   "historyDays": 7,
-  "count": 490,
+  "count": 481,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“내 번호 누가 훔쳐 썼다”던 금융권 해킹용의자…계정 추적했더니 ‘반전’",
+      "summary": "국내 금융권을 겨냥한 해킹 공격의 배후로 지목된 인물이 중국계 디도스(DDoS·분산서비스거부) 대행 조직에서 활동한 정황이 포착됐다. 다만 해당 인물이 실제 공격을 주도했는지는 추..",
+      "link": "https://www.mk.co.kr/news/economy/12172550",
+      "publishedAt": "2026-10-09T13:34:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100807756",
+      "publishedAt": "2026-10-09T13:11:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "스페이스X 목표가 254달러…월가 AI·우주 주목 [월가 업&다운]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610093086i",
+      "publishedAt": "2026-10-09T13:02:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "블룸버그 \"오픈AI, 올 연말엔 연 환산 매출 700억달러 달성\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610093047i",
+      "publishedAt": "2026-10-09T11:38:44.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"한국 여행 필수코스\" 외국인 몰리더니…'매출 폭등' 대반전 [현장+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610081720g",
+      "publishedAt": "2026-10-09T11:30:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "비상장주식의 상속, 온전한 기업승계를 위하여 [세종의 가사분쟁 솔루션]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610081327i",
+      "publishedAt": "2026-10-09T11:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"우리만 팝니다\"…면세점 '독점' 경쟁, 이유 있었네",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610080071g",
+      "publishedAt": "2026-10-09T10:26:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "30년역사 호텔이 주차장·창고와 동급?…수백억 상속세 내라는 개편안",
+      "summary": "가업 상속공제 개편 후폭풍 60년 업력도 가업 인정못받아 2년치 매출 상속세로 낼 판 지역 관광 ‘인프라 승계’ 위기 불가피한 매각땐 고용감소가업상속공제 대상 업종에서 관광호텔·병..",
+      "link": "https://www.mk.co.kr/news/economy/12172495",
+      "publishedAt": "2026-10-09T10:15:18.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "떡볶이부터 붕어빵까지…노재헌의 'K푸드 외교' [차이나 워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610092990i",
+      "publishedAt": "2026-10-09T10:03:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "계속되는 'AI 거품론'…TSMC가 답을 할까 [다음주 주요변수 미리보기]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610092829i",
+      "publishedAt": "2026-10-09T09:30:59.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -21,11 +101,27 @@
     },
     {
       "source": "한국경제",
+      "category": "증권",
+      "title": "AI·여행·금융…쏟아진 월가 매수콜 [한경 프리미엄9 TODAY]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100928921",
+      "publishedAt": "2026-10-09T09:09:44.000Z"
+    },
+    {
+      "source": "한국경제",
       "category": "경제",
       "title": "'현백코어'를 아십니까…라이프스타일 띄우는 백화점",
       "summary": "",
       "link": "https://www.hankyung.com/article/2026100928931",
       "publishedAt": "2026-10-09T09:08:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "가수 1억 vs 모델 1100만원…연예계도 소득 양극화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100928941",
+      "publishedAt": "2026-10-09T09:07:33.000Z"
     },
     {
       "source": "한국경제",
@@ -3754,174 +3850,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026100209761",
       "publishedAt": "2026-10-02T21:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "산업부 \"트럼프 언급 84억불 석유프로젝트, 배경 확인 중\"",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 도널드 트럼프 미국 대통령이 석유 관련 프로젝트에 한국이 84억 달러를 투자할 것이라고 2일(현지시간) 밝힌 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261002185600003",
-      "publishedAt": "2026-10-02T14:38:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "시총 미달 기업 퇴출…법원 '거래소 규정' 제동",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100213241",
-      "publishedAt": "2026-10-02T14:21:54.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "美 9월 '비농업 고용 쇼크'…추가 금리인상 제동 걸리나",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100213271",
-      "publishedAt": "2026-10-02T14:20:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "10대 1 뚫은 '경복궁 결혼식'…첫 주인공은 유튜버 마이",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100213297",
-      "publishedAt": "2026-10-02T13:58:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "예가람저축은행 고객 개인정보 유출…2금융권서 해킹",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610021315i",
-      "publishedAt": "2026-10-02T13:53:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "日 좋아하던 중국인들 변했다…中 여행객 몰린 '이 나라'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100212907",
-      "publishedAt": "2026-10-02T13:17:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"올겨울 깍두기 담그기 겁나네\"…시장 갔다가 놀란 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100212837",
-      "publishedAt": "2026-10-02T12:49:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국민참여성장펀드 판매 3일차 목표액 절반 남아…온라인 비중↑",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 2차 국민참여형 국민성장펀드(국민참여성장펀드)가 판매 사흘간 목표액의 절반 가량 판매된 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002178500002",
-      "publishedAt": "2026-10-02T12:38:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 ‘기계의 화폐’로 주목받는 이유[엠블록레터]",
-      "summary": "안녕하세요 엠블록레터의 AI 인턴입니다. 세계 최대 자산운용사 블랙록이 AI 에이전트의 확산을 가상자산과 블록체인 인프라의 새로운 구조적 수요 촉발 요인으로 지목했어요. 블랙록은 ..",
-      "link": "https://www.mk.co.kr/news/stock/12167560",
-      "publishedAt": "2026-10-02T12:35:32.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "메가특구 사회적 대화 2차 실무협의…정부, 노사에 특별법 설명",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 가칭 메가특구 특별법 내 노동 특례 논의를 위한 노사정 사회적 대화의 2차 실무협의체 회의가 2일 열렸다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002179600530",
-      "publishedAt": "2026-10-02T12:25:58.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은 경고 [플러스 관심종목]",
-      "summary": "역대급 마이크론 실적과 삼전닉스 향방마이크론의 사상 최대 분기 실적에 10월 1일 한국 주식시장(코스피)은 ‘전약후강’을 기록했다. 이전까지 전강후약(오전에 주가 강세가 됐다가 갈..",
-      "link": "https://www.mk.co.kr/news/stock/12167540",
-      "publishedAt": "2026-10-02T12:03:50.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "CJ제일제당, 美 ADM과 사료용 아미노산 합작사 설립한다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100212407",
-      "publishedAt": "2026-10-02T11:40:17.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“하마터면 5대 은행 다 뚫릴 뻔”…AI 해킹에 3곳 고객정보 유출",
-      "summary": "5대 은행 일제히 AI 해킹 공격 받아 신한·국민·하나 고객정보 실제 유출 금융당국 긴급회의…전산망 전수점검신한은행에 이어 KB국민은행과 하나은행에서도 해킹으로 고객 정보가 유..",
-      "link": "https://www.mk.co.kr/news/economy/12167528",
-      "publishedAt": "2026-10-02T11:28:49.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"은행 믿고 정보 맡겼는데\"…잇단 사고에 금융소비자들 '불안'",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 주요 시중은행에서 연달아 고객정보 유출 사고가 터지며 금융소비자들의 불안이 커지고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002176800002",
-      "publishedAt": "2026-10-02T11:20:24.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"일본은 되고 한국은 안 되고?\"…외국인 77조 쓸어담았다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100210391",
-      "publishedAt": "2026-10-02T11:00:06.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "5대은행 다 공격당했다 … AI 해킹에 떠는 금융사",
-      "summary": "지난 1일 신한은행의 고객 정보 유출 사실이 알려진 지 하루 만인 2일 KB국민·하나·부산은행에서도 외부 침입에 따른 개인정보 유출 사고가 확인되면서 금융권의 보안 불안이 커지고 ..",
-      "link": "https://www.mk.co.kr/news/economy/12167516",
-      "publishedAt": "2026-10-02T10:51:04.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "대출·송금 돕던 AI가 '해커'로 … \"내 통장 털릴라\" 소비자 불안",
-      "summary": "지난 1일 신한은행에 이어 하루 만인 2일 KB국민·하나·부산은행에서도 고객 정보 유출 사고가 확인되면서 금융권에 인공지능(AI) 해킹에 대한 공포가 확산되고 있다. 금융권과 정..",
-      "link": "https://www.mk.co.kr/news/economy/12167515",
-      "publishedAt": "2026-10-02T10:48:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "[단독] 성과급 3461만→1억1130만원…공공기관서 보너스 3배 뛴 사연은",
-      "summary": "수익률 개선에 평균 성과급 1.1억 지급 대상자도 411명으로 늘어최근 국민연금 기금 수익률이 개선되면서 기금운용본부의 운용역들이 1인당 평균 1억원 넘는 성과급을 받은 것으로 파..",
-      "link": "https://www.mk.co.kr/news/economy/12167511",
-      "publishedAt": "2026-10-02T10:42:54.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "한앤코, SK해운 IPO카드 만지작…대형 증권사 제안받아",
-      "summary": "몸값·상장 방안 사전 점검 지난해 매각 시도했으나 불발[본 기사는 10월 02일(18:42) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 사모펀드(PEF..",
-      "link": "https://www.mk.co.kr/news/stock/12167510",
-      "publishedAt": "2026-10-02T10:42:43.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "금융위 \"국민 불안하지 않게 신속 파악\"…은행·카드에 점검지시(종합)",
-      "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 신한은행과 KB국민은행에서 해킹사고가 잇따르자 금융당국이 은행·카드업권에 자체 보안 점검을 지시했다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002154551002",
-      "publishedAt": "2026-10-02T10:37:27.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "신한은행에 '중국어 AI 침투' 흔적…해킹 공포 금융권 확산(종합2보)",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 신한은행 개인정보 유출 사고에 인공지능(AI) 에이전트가 해킹 과정을 자동으로 수행하는 도구가 동원됐을 가능성...",
-      "link": "https://www.yna.co.kr/view/AKR20261002042352017",
-      "publishedAt": "2026-10-02T10:27:41.000Z"
     }
   ]
 }
