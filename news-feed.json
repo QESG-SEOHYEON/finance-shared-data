@@ -1,8 +1,168 @@
 {
-  "updatedAt": "2026-10-09T16:43:37.115Z",
+  "updatedAt": "2026-10-10T00:23:31.738Z",
   "historyDays": 7,
-  "count": 481,
+  "count": 479,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
+      "summary": "정방향 레버리지 ETF 62종 분석 개미들 레버리지 투자 중심 이동 삼전·하이닉스 비중 8.9%로 ‘뚝’ 시장지수형은 28.0% → 69.8% 방산·반도체 등도 3.8% → 20...",
+      "link": "https://www.mk.co.kr/news/stock/12172657",
+      "publishedAt": "2026-10-10T00:05:32.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+      "summary": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(12∼16일)에는 취업자 숫자와 가계대출 동향 등 민생과 밀접한 경제 지표가 공개...",
+      "link": "https://www.yna.co.kr/view/AKR20261010018000002",
+      "publishedAt": "2026-10-10T00:03:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202609144116i",
+      "publishedAt": "2026-10-10T00:00:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[IPO챗] 이번주 수요예측 10곳…진코스텍 등 2개사 상장",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 한글날 연휴가 끝난 다음 주(12∼16일) 기업공개(IPO) 시장에서는 10개 기업이 기관투자자 대상 수요예측...",
+      "link": "https://www.yna.co.kr/view/AKR20261008073000008",
+      "publishedAt": "2026-10-10T00:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
+      "summary": "(서울=연합뉴스) 이미령 이승연 기자 = &quot;기업에는 수사가 길어지는 것 자체가 처벌입니다. 수사와 기소 기관이 나뉘더라도 사건을 해결하는 과정까...",
+      "link": "https://www.yna.co.kr/view/AKR20261008175900004",
+      "publishedAt": "2026-10-10T00:00:05.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"국내은행, 외형 성장 한계…'위험 대비 수익성'으로 전환해야\"",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 국내은행이 자산 규모를 키우는 양적 성장 전략에서 벗어나 위험관리와 수익성을 중심으로 경영체계를 전환해야 한다...",
+      "link": "https://www.yna.co.kr/view/AKR20261009050300002",
+      "publishedAt": "2026-10-10T00:00:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"김장을 왜 해요?\"…1kg '3만원' 김치 불티나는 이유 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610078534i",
+      "publishedAt": "2026-10-10T00:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"뭐가 진짜 불닭면이지?\"…짝퉁 한 방에 가르는 기막힌 기술",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101032617",
+      "publishedAt": "2026-10-09T23:32:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610103221i",
+      "publishedAt": "2026-10-09T23:06:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼성이 연 '분기 이익 100조 시대'…소부장주 투자법은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610081365i",
+      "publishedAt": "2026-10-09T23:00:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
+      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 세계무역기구(WTO) 사무총장 응고지 오콘조이웨알라(72)의 이름 앞에는 &apos;최초의 여성&apos;이자 &apos;최초의 아프...",
+      "link": "https://www.yna.co.kr/view/AKR20260921172200079",
+      "publishedAt": "2026-10-09T23:00:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“신호 위반했으니 8500만원 내라”…작심한 건보공단 청구에 법원은? [어쩌다 세상이]",
+      "summary": "70세 운전자, 신호 위반하다 택시와 충돌 건보공단 “12대 중과실”…치료비 환수 통보 법원 “신호 위반만으로 중대 과실 단정 못해”교통사고로 다쳐 건강보험으로 치료를 받으면 병원..",
+      "link": "https://www.mk.co.kr/news/economy/12172643",
+      "publishedAt": "2026-10-09T22:41:33.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "ETF·주식 직접 고르다 지친 개미…랩에 1억 맡겼더니 '반전'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100929331",
+      "publishedAt": "2026-10-09T22:37:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"BTS 6700억 벌었다는데 왜\"…주가 반토막에 개미들 '비명'[종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100814886",
+      "publishedAt": "2026-10-09T22:02:35.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "정부 '원양어선 안전펀드' 지원받은 11척 중 2척 중국서 건조",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 정부의 노후 원양어선 교체 지원사업인 &apos;원양어선 안전 펀드&apos;의 지원 대상 선박 가운데 일부가 중국 조선소에서 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261008084400051",
+      "publishedAt": "2026-10-09T22:01:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 10일)",
+      "summary": "1. 최태원 SK그룹 회장이 9일 곽노정 SK하이닉스 사장 등 경영진과 함께 호남권 반도체 클러스터가 들어설 전남광주통합특별시 군공항 부지를 찾았습니다. 이 자리에서 최 회장은 광..",
+      "link": "https://www.mk.co.kr/news/economy/12172424",
+      "publishedAt": "2026-10-09T22:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"저 친구 퇴사할거 같은데요\"…AI가 먼저 알려준다 [임다연의 요즘 CEO 경영법]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610081389i",
+      "publishedAt": "2026-10-09T21:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "‘고금리’를 극복하는 이익의 힘 … 현재가 90년대 버블과 다른 이유",
+      "summary": "미국 국채금리 5% ... 고금리 시대의 투자법최근 미국 시장을 보면서 투자자들의 주된 반응은 “금리가 이렇게 높은데 주식이 더 올라간다고?”라는 말씀입니다. 그도 그럴 것이 단순..",
+      "link": "https://www.mk.co.kr/news/stock/12172344",
+      "publishedAt": "2026-10-09T20:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "투자 지식의 복리효과 … 매경플러스 200% 활용법",
+      "summary": "매경플러스 내비게이션“처음엔 뭐부터 눌러야 할지 몰라 메인 화면만 훑고 나갔습니다. 그런데 순서를 정해놓고 읽으니 같은 시간을 써도 남는 것이 완전히 달라지더군요.” 매경플러스 연..",
+      "link": "https://www.mk.co.kr/news/economy/12172392",
+      "publishedAt": "2026-10-09T20:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "오픈AI發 버블 논쟁…다가오는 실적 시즌[월가 백브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610103126i",
+      "publishedAt": "2026-10-09T17:17:12.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3674,182 +3834,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202610031573i",
       "publishedAt": "2026-10-03T00:31:58.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "전남광주, 투자·펀드 기능 한데 묶는다…투자 기관 설립 추진",
-      "summary": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 반도체·인공지능(AI)·에너지 등 전략산업에 직접 투자하고 민간·정책금융을 끌어들여 투...",
-      "link": "https://www.yna.co.kr/view/AKR20261002064300054",
-      "publishedAt": "2026-10-03T00:00:07.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“보험금 다툼 끊이질 않네”…민원·분쟁신청 꾸준한데 5세대 실손 앞날은",
-      "summary": "올해 국감서도 5세대 실손보험 안건 실손 비롯해 보장성 보험 민원 꾸준 약관해석과 보험금 지급 사유 때문다음 주부터 국정감사가 시작되는 가운데, 올해 보험 부문은 5세대 실손보험 ..",
-      "link": "https://www.mk.co.kr/news/economy/12167710",
-      "publishedAt": "2026-10-02T23:58:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100315297",
-      "publishedAt": "2026-10-02T23:34:42.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"'부캉이' 뜨자 8억원 몰렸다\"…화제만 되면 코인부터 만들어",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100315197",
-      "publishedAt": "2026-10-02T23:17:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "부진한 9월 고용에도 금리 상승 반전…그런데 5.5%가 한계? [김현석의 월스트리트나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610031476i",
-      "publishedAt": "2026-10-02T23:00:22.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "“다시 대세 상승기?” 꿈틀대는 비트코인의 현 시점 투자전략",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610020535i",
-      "publishedAt": "2026-10-02T23:00:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 최근 미국 등 주요국 국채금리 급등세가 이어지면서 금리나 채권 수익률을 따르는 금융상품이 인기를 끌고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002136000008",
-      "publishedAt": "2026-10-02T23:00:06.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "현대차 주가 70만→30만 '뚝'…한달만에 30% 뛴 협력사 있다는데 [대기업 협력사 전수분석]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610020826i",
-      "publishedAt": "2026-10-02T23:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100314707",
-      "publishedAt": "2026-10-02T22:33:20.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美 고용 급속 냉각에 월가 환호…빅테크 '껑충' [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100314597",
-      "publishedAt": "2026-10-02T22:18:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100314527",
-      "publishedAt": "2026-10-02T22:10:37.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002168300003",
-      "publishedAt": "2026-10-02T22:01:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"나흘간 2900명\"…뉴욕 뒤흔든 'K뷰티 자판기' 정체 [장서우의 하입:hype]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610021316i",
-      "publishedAt": "2026-10-02T22:00:07.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[금주핫템] 에뛰드 '님프 듀이 젤리 프렙'·네파 '에어써밋 시리즈'",
-      "summary": "▲ 에뛰드는 스킨케어와 자외선 차단, 메이크업 프렙 기능을 하나로 담은 신제품 &apos;님프 듀이 젤리 프렙&apos;을 출시했다고 3일 밝혔다. 이 제품은 호...",
-      "link": "https://www.yna.co.kr/view/AKR20261002073900030",
-      "publishedAt": "2026-10-02T22:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "19년간 못판 상업용지…LH 미매각 토지 규모 21.9조원 기록",
-      "summary": "(서울=연합뉴스) 박재하 기자 = 한국토지주택공사(LH)가 가진 사업용 토지 가운데 민간에 팔지 못한 미매각 토지의 규모가 4년 만에 약 2.5...",
-      "link": "https://www.yna.co.kr/view/AKR20261002152800001",
-      "publishedAt": "2026-10-02T22:00:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "돈 빌려주고 월급에서 까달라던 직원…퇴직 날 '뒤통수' [사장님 고충백서]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610021347i",
-      "publishedAt": "2026-10-02T22:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[신상잇슈] 농심 '너구링'·롯데칠성 '칠성사이다 리치'",
-      "summary": "▲ 농심[004370]은 라면 &apos;너구리&apos;와 스낵 &apos;양파링&apos;을 결합한 스낵 신제품 &apos;너구링&apos;을 출시했다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002075900030",
-      "publishedAt": "2026-10-02T22:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
-      "summary": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 ..",
-      "link": "https://www.mk.co.kr/news/economy/12167675",
-      "publishedAt": "2026-10-02T21:30:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“손절 엄두 안 나서 가지고 있었는데”…코스닥, 반도체 소부장 타고 랠리",
-      "summary": "AI 반도체·HBM 비싼 몸값에 표본 대신 전수검사 수요 늘어 후공정 기업 주가 한달새 두배삼성전자와 SK하이닉스 등 반도체 대장주가 숨 고르기에 들어간 사이 반도체 소재·부품·장..",
-      "link": "https://www.mk.co.kr/news/stock/12167670",
-      "publishedAt": "2026-10-02T21:15:27.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "270조 투자 호재에도 원전주는 시큰둥…먼저 돈 되는 곳 따로 있다고?",
-      "summary": "대미투자 수혜株 분석 큰 폭으로 뛰었던 원전·건설 주가 선반영 발표 후엔 주춤 수주 규모·세부조건 불확실 美 AI인프라 재건 수요 탄탄 민간 부문의 수주도 잡아야한미 양국 정부가..",
-      "link": "https://www.mk.co.kr/news/stock/12167669",
-      "publishedAt": "2026-10-02T21:03:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "日총리도 감탄…명동 빌딩 팔고 한옥 지은 60대의 15년 '땀방울' [권용훈의 직업불만족(族)]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610029307i",
-      "publishedAt": "2026-10-02T21:00:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"고양이 이빨 3개 뽑았는데\"…카드 결제내역 보고 '깜짝'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100209761",
-      "publishedAt": "2026-10-02T21:00:01.000Z"
     }
   ]
 }
