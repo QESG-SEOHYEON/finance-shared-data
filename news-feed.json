@@ -1,8 +1,168 @@
 {
-  "updatedAt": "2026-10-10T15:38:31.252Z",
+  "updatedAt": "2026-10-11T00:00:44.459Z",
   "historyDays": 7,
-  "count": 474,
+  "count": 480,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
+      "summary": "3분기 中 -12%·日 -5%인데 韓 -18% 美 S&P500·나스닥100은 오히려 상승올해 3분기 세계 주요 증시 가운데 한국 증시의 부진이 두드러졌다. 인공지능(AI) 반도체 ..",
+      "link": "https://www.mk.co.kr/news/stock/12172844",
+      "publishedAt": "2026-10-10T23:59:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "양도세 12억 비과세 받으려면…조정지역 2년 내 처분",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610080320i",
+      "publishedAt": "2026-10-10T23:43:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "인천시, 개항장 일대 체류형 관광 인프라 확충",
+      "summary": "(인천=연합뉴스) 신민재 기자 = 인천시는 제물포구 개항장 문화지구 일대에 체류형 관광 인프라를 확충할 계획이라고 11일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261011009800065",
+      "publishedAt": "2026-10-10T23:31:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"신선식품 구매액 과일·채소 최상위…편의점 구매액 20% 증가\"",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 최근 1년간 소비자들이 구매한 신선식품 가운데 과일류와 채소류의 구매액이 가장 많았던 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20261009013200030",
+      "publishedAt": "2026-10-10T23:30:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "북극항로 시범운항 선박, 50일 항해 마치고 부산 도착",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 한국 컨테이너선으로는 최초로 북극항로 시범 운항에 나선 팬스타 아크로호가 항해를 무사히 마치고 11일 부산으로...",
+      "link": "https://www.yna.co.kr/view/AKR20261010045400051",
+      "publishedAt": "2026-10-10T23:18:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "장기채로 큰돈 버는 시대는 끝…상위 1% 부자들 향한 곳",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610078550i",
+      "publishedAt": "2026-10-10T23:00:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "뚝 떨어진 원달러 환율…수혜 업종과 현 시점 투자전략은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610081591i",
+      "publishedAt": "2026-10-10T23:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "빵지순례 다음은 떡지순례…\"하루 백명씩 대기표 뽑는다\" [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610103322i",
+      "publishedAt": "2026-10-10T23:00:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
+      "summary": "(서울=연합뉴스) 권혜진 기자 = 중국에서 잡은 생선을 제주에서 건조·가공했다면 이 생선의 원산지는 어디일까.",
+      "link": "https://www.yna.co.kr/view/AKR20261007089900518",
+      "publishedAt": "2026-10-10T23:00:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美 실적 시즌 돌입…\"외국인 돌아온다\" 칠천피 안착 청신호 [주간전망]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026100815406",
+      "publishedAt": "2026-10-10T22:56:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
+      "summary": "수출 호조세에 달러 공급 이어져 시장선 원화값 추가 상승 가능성한때 1550원대까지 하락했던 달러당 원화값이 1300원대 중반에서 안정적으로 머물고 있다. 반도체 수출 호황에 달러..",
+      "link": "https://www.mk.co.kr/news/economy/12172825",
+      "publishedAt": "2026-10-10T22:33:46.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "울산 5개 구·군 재정자립도, 4년 전보다 모두 하락",
+      "summary": "(울산=연합뉴스) 장지현 기자 = 울산 5개 구·군의 재정자립도가 모두 4년 전보다 하락한 것으로 나타났다.",
+      "link": "https://www.yna.co.kr/view/AKR20261008148400057",
+      "publishedAt": "2026-10-10T22:33:00.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "스타벅스는 안 간다더니…5개월 만에 1위 자리 되찾았다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101137887",
+      "publishedAt": "2026-10-10T22:30:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[현장In] 부산불꽃축제 숙박 요금 폭등…'바가지' 논란 언제까지",
+      "summary": "(부산=연합뉴스) 손형주 기자 = 해마다 부산 불꽃축제가 다가오면 부산 광안리와 해운대의 호텔 가격이 치솟아 바가지요금 논란이 되풀이되고 있다.",
+      "link": "https://www.yna.co.kr/view/AKR20261008148500051",
+      "publishedAt": "2026-10-10T22:10:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "지배권 프리미엄 배분 문제 해결을 위한 법적 과제 [디엘지 기업법무 핵심노트]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610065081i",
+      "publishedAt": "2026-10-10T22:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "대만증시 14% 일본 7% 뛰는데 코스피 0.48%…AI랠리 소외 이유가",
+      "summary": "① 메모리 의존도 높은 한국 직격탄 ② 원화 강세에 수출주 눈높이 하향 ③ 외국인 한달간 28조원 폭풍매도글로벌 증시가 인공지능(AI) 랠리를 재개하며 신고가 행진을 이어가는 가..",
+      "link": "https://www.mk.co.kr/news/stock/12172810",
+      "publishedAt": "2026-10-10T21:01:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"마시면 다음날 삭제\"…1000만병 팔린 전설의 술 돌아온다 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610082021i",
+      "publishedAt": "2026-10-10T21:00:05.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"세종 못가! 한국은행 준비반 갈래\"…SKY 경제학도의 변심 [김익환의 부처 핸즈업]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610081647i",
+      "publishedAt": "2026-10-10T21:00:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "총 1억 3500만 원 납입한 일반 계좌 vs. IRP 계좌 … 15년 후 자산 차이는?",
+      "summary": "단순 연말정산용 절세 상품에 그치지 않는 IRP의 효과찬바람이 불기 시작하면 연말 정산에 대한 관심도 함께 높아집니다. 이때 빠지지 않고 등장하는 금융상품이 개인형 퇴직연금(IRP..",
+      "link": "https://www.mk.co.kr/news/economy/12172448",
+      "publishedAt": "2026-10-10T20:30:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "록히드마틴도 AI 하청으로 … ‘속도조절론’ 중심에 선 AI 방산 미래는[맥킨지·매경 산업분석]",
+      "summary": "AI 격변기 중심 美 국방산업의 현주소와 미래 1편인공지능(AI) 업계에서 촉발된 ‘속도조절론’ 논란이 한창이다. AI가 인간 통제를 심각하게 벗어난 사례들이 발견되자 업계에서 A..",
+      "link": "https://www.mk.co.kr/news/business/12172374",
+      "publishedAt": "2026-10-10T20:20:00.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3682,118 +3842,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202610017848i",
       "publishedAt": "2026-10-04T04:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "5년간 국내 어선 사고 사망·실종자 478명…지난해만 110명",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 지난 5년간 국내 어선 사고에 따른 사망자와 실종자가 478명에 달하는 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002068500051",
-      "publishedAt": "2026-10-03T23:01:01.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"화장품 90% 싸게 팝니다\"…올리브영 위협하는 '이곳' [장서우의 하입:hype]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610031362i",
-      "publishedAt": "2026-10-03T23:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "지루한 박스권 장세…삼성전자 3분기 실적에 쏠리는 눈 [주간전망]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100206306",
-      "publishedAt": "2026-10-03T23:00:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "애증의 알테오젠…주가 50만원 돌파의 관건은?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610020638i",
-      "publishedAt": "2026-10-03T23:00:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"남들따라 샀다가 은퇴자산 날린다\"…연금투자 세가지 원칙",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610029701i",
-      "publishedAt": "2026-10-03T23:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 국토교통부의 내년도 싱크홀 예방 지반탐사 지원사업이 전국 수요의 절반도 충족하지 못하는 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002157900003",
-      "publishedAt": "2026-10-03T22:11:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "가공식품 26개 중 24개 1년 새 가격 상승…국·탕·컵밥 올라",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 가공식품 가격이 전반적으로 오름세를 보이면서 소비자들의 장바구니 부담이 커지고 있다.",
-      "link": "https://www.yna.co.kr/view/AKR20261002175300030",
-      "publishedAt": "2026-10-03T22:10:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "민간아파트 부정청약 적발 5년간 1천699건…83%가 위장전입",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 최근 5년간 전국 민간아파트 분양 현장에서 1천700건 가까운 부정청약이 적발된 것으로 나타났다. 부양가족을 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261004004000003",
-      "publishedAt": "2026-10-03T22:03:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "'세계경주포럼' 8∼9일 개최…경주를 '문화의 다보스'로 키운다",
-      "summary": "(안동=연합뉴스) 이승형 기자 = 지난해 경주 아시아태평양경제협력체(APEC) 정상회의에서 논의된 문화창조산업과 국제협력의 성과를 이어갈 &apos;세계...",
-      "link": "https://www.yna.co.kr/view/AKR20261001144900053",
-      "publishedAt": "2026-10-03T22:02:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "GV80 하이브리드, 7천만원대 중후반에 나온다…흥행에 방점",
-      "summary": "(서울=연합뉴스) 장하나 기자 = 제네시스의 첫 하이브리드 모델인 GV80 하이브리드의 최저 판매가격(엔트리 가격)이 7천만원대 중후반으로 결정...",
-      "link": "https://www.yna.co.kr/view/AKR20261002150200003",
-      "publishedAt": "2026-10-03T22:01:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“사라 해서 샀는데, 내 주식 왜 이래?”…증권사 ‘매수’ 리포트만 내놓는 이유",
-      "summary": "100% 매수 리포트만 낸 증권사도 4곳 DS, 미래에셋, 키움만 매도 의견 내증권사에서는 분명 ‘매수’하라고 했는데 막상 사니 떨어지는 주가에 한숨짓는 투자자들이 많다. 그런데 ..",
-      "link": "https://www.mk.co.kr/news/stock/12167872",
-      "publishedAt": "2026-10-03T21:09:18.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'사과빵'으로 대박 나더니…3040에 인기 폭발한 빵집 [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610020192i",
-      "publishedAt": "2026-10-03T21:00:12.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "주요 IB, 엔비디아 HPE 등 'AI 인프라' 다시 주목 [월가 업&다운]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610042009i",
-      "publishedAt": "2026-10-03T21:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"한국인 없는데 한글 간판?\"…中 젊은 층 몰려드는 동네 [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610031968i",
-      "publishedAt": "2026-10-03T20:57:01.000Z"
     }
   ]
 }
