@@ -1,8 +1,216 @@
 {
-  "updatedAt": "2026-10-13T17:15:48.662Z",
+  "updatedAt": "2026-10-14T00:02:14.896Z",
   "historyDays": 7,
-  "count": 464,
+  "count": 467,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "롯데손보 인수 신한금융…증권가 “최선인지 의문” [오늘 나온 보고서]",
+      "summary": "NH證·iM證 보고서 주주환원 악영향 제한적이나 보험사 빠른 회수 가능성 낮아 추가 증자 가능성도 부담으로증권가가 신한금융지주의 롯데손해보험 인수를 두고 기대와 우려 섞인 시선을..",
+      "link": "https://www.mk.co.kr/news/stock/12175145",
+      "publishedAt": "2026-10-13T23:56:31.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+      "summary": "메모리 두 종목에 시총 절반 집중 중국 추격 우려에 외국인 매도 겹쳐 자사주 매입 종료로 매수 여력도 약화글로벌 반도체주가 함께 흔들리고 있지만 한국 증시의 충격은 유독 크다. 반..",
+      "link": "https://www.mk.co.kr/news/stock/12175144",
+      "publishedAt": "2026-10-13T23:54:09.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "농진청, 5년간 기술이전 6천여건…제품화 성공률은 40%대 불과",
+      "summary": "(전주=연합뉴스) 김동철 기자 = 농촌진흥청이 최근 5년간 2천건이 넘는 특허를 내고 6천건이 넘는 기술이전 계약을 체결했지만, 실제 제품·서비...",
+      "link": "https://www.yna.co.kr/view/AKR20261014030900055",
+      "publishedAt": "2026-10-13T23:48:21.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "대웅제약, 마이크로니들 무균 제조소 구축한다",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 대웅제약[069620]은 경기 화성시 향남 대웅바이오 3공장에 마이크로니들(Microneedle) 제조 인프라...",
+      "link": "https://www.yna.co.kr/view/AKR20261014031000017",
+      "publishedAt": "2026-10-13T23:47:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "호르무즈 2주간 선박 24척 피격…유조선 운임 사상 최고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140321i",
+      "publishedAt": "2026-10-13T23:41:47.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "이형일 \"반도체 다음은 서비스산업…입법 협조 요청드린다\"",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 이형일 부총리 겸 재정경제부 장관은 반도체에 이어 한국 경제를 견인하도록 서비스산업을 집중적으로 육성하겠다고 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261014029000002",
+      "publishedAt": "2026-10-13T23:38:42.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "유진투자증권, 현대오토에버 목표가↓…\"피지컬 AI 매출 지연\"",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 유진투자증권[001200]은 현대오토에버[307950]에 대해 피지컬 인공지능(AI) 관련 매출이 본격화되는 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261014028200008",
+      "publishedAt": "2026-10-13T23:38:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "강남·홍대에 '저승사자' 떴다…'소주 가마' 끄는 행렬의 정체",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140298i",
+      "publishedAt": "2026-10-13T23:36:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"수량 알아서 척척\"…국밥집 사장 살린 AI 자동 발주",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140251g",
+      "publishedAt": "2026-10-13T23:36:00.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "금감원 \"韓, 바젤위원회 LEV 규제 평가서 최고등급 획득\"",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 금융감독원은 한국이 바젤은행감독위원회(BCBS)의 단순기본자본비율(LEV) 규제이행평가(RCAP)에서 최고 등...",
+      "link": "https://www.yna.co.kr/view/AKR20261014028100002",
+      "publishedAt": "2026-10-13T23:34:40.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "하나증권 \"신한 '롯데손보 인수' 이익불확실…보수적 접근해야\"",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 하나증권은 신한지주[055550]가 롯데손해보험[000400]을 인수하기로 한 결정에 대해 향후 자본 추가 투...",
+      "link": "https://www.yna.co.kr/view/AKR20261014024600008",
+      "publishedAt": "2026-10-13T23:33:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "美 개미, 하루 7000억달러 옵션거래…2021년 '밈 주식 광풍' 재현",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140247i",
+      "publishedAt": "2026-10-13T23:33:11.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“코스피 급락했는데 괜찮나요?”…국민참여성장펀드, 손실 방어 어디까지",
+      "summary": "2차 국민참여성장펀드가 오는 15일 판매를 마감하는 가운데 최근 코스피 하락세가 두드러지면서 손실을 우려해 가입을 망설인다는 목소리가 일부에서 나온다. 국민참여성장펀드는 지수를 그..",
+      "link": "https://www.mk.co.kr/news/economy/12175134",
+      "publishedAt": "2026-10-13T23:32:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "아시아 기업부채 21.4%가 좀비기업에…IMF 금융위험 경고",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140260i",
+      "publishedAt": "2026-10-13T23:31:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“현대백화점, 백화점 이익 증가폭 둔화 부담”...목표가↓",
+      "summary": "IBK투자증권은 현대백화점에 대해 백화점 사업부문의 이익 증가폭이 둔화될 가능성이 높다며 목표주가를 기존 16만8000원에서 15만원으로 하향 조정한다고 14일 밝혔다. 밸류에이션..",
+      "link": "https://www.mk.co.kr/news/stock/12175131",
+      "publishedAt": "2026-10-13T23:30:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"파스타에 치즈 대신 된장?\"…풀무원의 건강한 '가을 실험'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140254i",
+      "publishedAt": "2026-10-13T23:26:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
+      "summary": "불앤베어 플러스얼마 전 오픈AI의 연환산 매출 추정액을 둘러싼 논란이 있었습니다. 그로 인해 반도체 주가가 한차례 출렁거렸는데요. 이번에는 앤트로픽 연환산 매출이 조만간 공개될 예..",
+      "link": "https://www.mk.co.kr/news/business/12175126",
+      "publishedAt": "2026-10-13T23:13:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“OCI홀딩스, 3분기 실적 기대 밑돌 듯”…DB증권, 목표가 30만원으로 하향",
+      "summary": "DB증권은 14일 OCI홀딩스의 올해 3분기 영업이익이 시장 기대치를 밑돌 것으로 전망하며 목표주가를 30만원으로 하향 조정했다. 투자의견은 ‘매수’를 유지했다. DB증권은 올해 ..",
+      "link": "https://www.mk.co.kr/news/stock/12175125",
+      "publishedAt": "2026-10-13T23:08:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "삼전닉스 폭락에도 \"지금이 저점\"…'W자 반등' 전망한 이유 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101400976",
+      "publishedAt": "2026-10-13T22:48:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"OCI홀딩스, 美 수입규제 시행 따른 수요 관망 악영향…목표가↓\"-DB",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101401116",
+      "publishedAt": "2026-10-13T22:46:55.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"한미약품, 3분기 영업익 기대치 64% 밑돌 전망…목표가↓\"-키움",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101400966",
+      "publishedAt": "2026-10-13T22:39:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"은행 예금보다 낫네\"…배당 쏠쏠한 13조 수주 건설사",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610139178i",
+      "publishedAt": "2026-10-13T22:30:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "中 반도체 추격·은행 실적 실망에 3대 지수 일제 하락 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101400786",
+      "publishedAt": "2026-10-13T22:16:26.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"고배당만 철썩 믿다간 낭패\"…전문가들 꼽은 알짜주",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610138999i",
+      "publishedAt": "2026-10-13T22:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“지갑사정 나만 힘든가요?”…IMF, 한국 경제성장률 3.3%로 확 올렸다",
+      "summary": "7월 2.6%서 0.7%P 높여 반도체 수출 호조로 성장세 “중동전쟁發 리스크도 상쇄” 美성장률 4년만에 넘어설듯 고물가 대응책 마련은 숙제국제통화기금(IMF)이 올해 우리나라 성..",
+      "link": "https://www.mk.co.kr/news/economy/12175070",
+      "publishedAt": "2026-10-13T20:43:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "공동명의가 불리할 수도 있다? … 세금폭탄 피하는 1주택자 ‘꿀팁’",
+      "summary": "잘못 알려진 부동산 세금상식 Q&A부동산 세금에서 경계해야 할 것은 복잡한 규정만이 아닙니다. 일부 요건을 생략한 채 널리 알려진 설명도 잘못된 의사결정의 원인이 될 수 있습니다...",
+      "link": "https://www.mk.co.kr/news/economy/12174610",
+      "publishedAt": "2026-10-13T19:30:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3530,190 +3738,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/202610077222i",
       "publishedAt": "2026-10-07T00:03:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "대포차 29대 러시아 밀수출하고 해외 도피한 50대 징역 10개월",
-      "summary": "(부산=연합뉴스) 차근호 기자 = 이른바 &apos;대포차&apos; 29대를 정상 수출품 사이에 숨겨 러시아로 밀수출한 뒤 해외로 도피했던 50대 남성이 10년...",
-      "link": "https://www.yna.co.kr/view/AKR20261006122000051",
-      "publishedAt": "2026-10-07T00:00:04.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "안산 산단 인력업체 10곳, 근로자 136명 불법 파견…노동부 수사",
-      "summary": "(서울=연합뉴스) 옥성구 기자 = 경기 안산시 산업단지 인근 인력공급업체 10곳이 8개 제조업체에 근로자 총 136명을 불법 파견한 사실이 노동...",
-      "link": "https://www.yna.co.kr/view/AKR20261006153200530",
-      "publishedAt": "2026-10-07T00:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "국경 간 가상자산 이전 모니터링 강화…해외지급결제업 개편도",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 정부가 국경 간 가상자산 이전 관련 모니터링을 강화하고 핀테크 기반 외국환업무를 개선한다.",
-      "link": "https://www.yna.co.kr/view/AKR20261007027600002",
-      "publishedAt": "2026-10-07T00:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] 키움증권, 연말까지 '중개형 ISA 혜자 이벤트 시즌3' 진행",
-      "summary": "▲ 키움증권[039490]은 연말을 맞아 &apos;중개형 ISA(개인종합자산관리계좌) 혜자 이벤트 시즌3&apos;을 진행한다고 7일 밝혔다. 이번 이벤트는 중...",
-      "link": "https://www.yna.co.kr/view/AKR20261007034200008",
-      "publishedAt": "2026-10-06T23:59:32.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'국민 초콜릿' 가나가 통째로…겨울 당 충전 끝판왕 떴다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610077174g",
-      "publishedAt": "2026-10-06T23:58:14.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "금융권 ‘무더기 해킹’ 피해자 집단소송 움직임…보상액 얼마나 될까",
-      "summary": "7일 로펌서 손해배상 원고 모집 나서 1인당 청구액 10만∼30만원선 예상 네이버에 피해자 모임 카페도 개설돼최근 은행권에서 동시다발적으로 발생한 개인정보 유출 사고와 관련해 피해..",
-      "link": "https://www.mk.co.kr/news/economy/12169992",
-      "publishedAt": "2026-10-06T23:56:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "하나증권, 코스맥스 목표가 38만원으로…“비수기에도 매출 증가 예상” [오늘 나온 보고서]",
-      "summary": "NH, 현대차증권 등도 목표가 상향 미국 법인매출 70% 증가 예상하나증권이 코스맥스 목표주가를 38만원으로 높여잡았다. 전날 종가(29만8000원) 대비 약 27% 상승여력이 있..",
-      "link": "https://www.mk.co.kr/news/stock/12169986",
-      "publishedAt": "2026-10-06T23:53:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "에이피알, 멕시코 명품 백화점 뚫었다…\"K뷰티 브랜드 최초\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610077123g",
-      "publishedAt": "2026-10-06T23:52:45.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "현대차, 2027 쏘나타 디 엣지 출시…편의사양·색상 선택 확대",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610077145g",
-      "publishedAt": "2026-10-06T23:52:17.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "카카오뱅크 목표가 내린 KB증권 “잔금대출·스테이블코인 성장 기회”",
-      "summary": "KB증권은 6일 카카오뱅크의 3분기 실적이 시장 기대치를 밑돌 것이라며 목표주가를 기존 3만1000원에서 2만9000원으로 6.5% 낮췄다. 다만 잔금대출과 개인사업자 대출 확대에..",
-      "link": "https://www.mk.co.kr/news/stock/12169959",
-      "publishedAt": "2026-10-06T23:48:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“HD현대일렉트릭, 영업익 시장추정치 밑돌 것”...목표가↓",
-      "summary": "대신증권은 7일 HD현대일렉트릭에 대해 3분기 실적이 원/달러 환율 효과로 시장 추정치를 밑돌 것으로 전망했다. 투자의견은 ‘매수’를 유지하나 목표주가는 115만원에서 102만원으..",
-      "link": "https://www.mk.co.kr/news/stock/12169957",
-      "publishedAt": "2026-10-06T23:48:46.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "5억개 넘게 팔린 '이 도시락'…역대 최다 반찬 담았다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610077149g",
-      "publishedAt": "2026-10-06T23:48:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "“SVB 사태 재현?”…금리 오르자 美 은행 주가 9% 급락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610077058i",
-      "publishedAt": "2026-10-06T23:39:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스닥 석 달 만에 900선 회복…\"반도체 소부장 중심 대응해야\" [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100768556",
-      "publishedAt": "2026-10-06T23:13:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“추가 금리인상 필요없을 수도” 연준위원 첫 발언, 파장은",
-      "summary": "불앤베어 플러스메리 데일리 미국 샌프란시스코 연은 총재가 추가 금리인상이 필요하지 않을 수도 있다는 취지의 발언을 내놔 파장이 일고 있습니다. 장기금리가 전일 대비 소폭 하락한 가..",
-      "link": "https://www.mk.co.kr/news/stock/12169906",
-      "publishedAt": "2026-10-06T23:04:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성전기, AI 수요에 MLCC·기판 호조…목표가↑\"-DS",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100769706",
-      "publishedAt": "2026-10-06T23:01:15.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "북미 ESS 기대에 2차전지주 급등...“셀 업체로 선별 접근해야”",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610066128i",
-      "publishedAt": "2026-10-06T23:00:13.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "올해 200조 순매도한 외국인…이 와중에 꾸준히 사모은 '톱10'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610066044i",
-      "publishedAt": "2026-10-06T23:00:08.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“코스맥스, K뷰티 수출 훈풍 제대로 탔다”…하나증권, 목표가↑",
-      "summary": "하나증권은 7일 코스맥스에 대해 올 3분기 시장기대치를 넘어서는 호실적을 달성할 것으로 기대된다며 목표주가를 기존 30만5000원에서 38만원으로 상향 조정했다. 하나증권은 3분기..",
-      "link": "https://www.mk.co.kr/news/stock/12169903",
-      "publishedAt": "2026-10-06T22:55:03.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "뉴욕증시 최고치…하이닉스ADR은 급락 [오늘 아침, 당신이 알아야 할 7가지]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610076917i",
-      "publishedAt": "2026-10-06T22:53:09.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"삼성전자 HBM 가격 2배 뛴다…D램 3사 중 가장 높은 가격 전망\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100769256",
-      "publishedAt": "2026-10-06T22:49:57.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“HD현대일렉트릭, 환율 부담에 3분기 컨센서스 하회”…하나증권, 목표가↓",
-      "summary": "하나증권은 7일 HD현대일렉트릭의 3분기 실적에 대해 환율 하락 영향으로 시장 기대치를 밑돌 것으로 전망했다. 이에 따라 목표주가를 144만원에서 115만원으로 하향 조정했다. 다..",
-      "link": "https://www.mk.co.kr/news/stock/12169899",
-      "publishedAt": "2026-10-06T22:46:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "새출발하라고 빚까지 줄여줬는데…연체 늪서 허우적대는 2만4000명",
-      "summary": "새출발기금 채무조정받아도 2.4만명은 다시 연체 악순환 자영업자 등 상환약속 못지켜새출발기금 채무조정 약정을 체결한 채무자 가운데 2만4000여 명이 상환 약속을 지키지 못해 약..",
-      "link": "https://www.mk.co.kr/news/economy/12169875",
-      "publishedAt": "2026-10-06T20:58:27.000Z"
     }
   ]
 }
