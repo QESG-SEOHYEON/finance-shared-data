@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-10-14T00:02:14.896Z",
+  "updatedAt": "2026-10-14T08:14:34.713Z",
   "historyDays": 7,
-  "count": 467,
+  "count": 494,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "‘팀 코리아’ 웨스팅하우스에 4조 베팅 … SK 앵커로 삼성·현대·두산 뭉쳤다",
+      "summary": "웨스팅하우스 지분 5~10% 인수 최태원 회장 주도로 SK 적극 참여 AI 전력수요 급증에 원전시장 확대 트럼프, 2050년 원전용량 4배 목표SK·삼성·현대·두산 등으로 구성된 ..",
+      "link": "https://www.mk.co.kr/news/economy/12175822",
+      "publishedAt": "2026-10-14T08:10:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코인 대신 ‘코인을 모으는 회사’에 투자하면 뭐가 다를까?[엠블록레터]",
+      "summary": "리플(XRP)를 대규모로 보유한 회사 에버노스(Evernorth)가 나스닥에 등장했습니다. 에버노스는 지난 10월 9일 기업인수목적회사와의 합병을 마쳤고, 10월 12일부터 ‘XR..",
+      "link": "https://www.mk.co.kr/news/stock/12175838",
+      "publishedAt": "2026-10-14T08:07:41.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "SK가스 \"2027∼2030년 연평균 세전이익 4천500억원 목표\"",
+      "summary": "(서울=연합뉴스) 박초롱 기자 = SK가스가 내년부터 2030년까지 4년간 연평균 세전 이익 4천500억원을 달성하겠다는 목표를 제시했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261014159400003",
+      "publishedAt": "2026-10-14T08:06:46.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "김창국 aT 사장대행 \"브라질산 계란 수입, 수입선 다변화 측면\"(종합)",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 김창국 한국농수산식품유통공사(aT) 사장 직무대행은 14일 브라질산 신선란 수입과 관련해 &quot;수입선 다변화 측면...",
+      "link": "https://www.yna.co.kr/view/AKR20261014091051030",
+      "publishedAt": "2026-10-14T08:02:56.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "'제2도약' 현대차 푸네에 신공장…인도서 연간 100만대 생산체제",
+      "summary": "(푸네[인도]=연합뉴스) 장하나 기자 = 현대차가 인도 진출 30주년을 맞아 미래 성장을 위한 교두보로 새로운 현지 생산 거점을 확보하고 &apos;제2...",
+      "link": "https://www.yna.co.kr/view/AKR20261014005700003",
+      "publishedAt": "2026-10-14T08:00:03.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "인도서 21조 투자하는 현대차그룹…국내 부품사 기회도 커질 듯",
+      "summary": "(푸네[인도]=연합뉴스) 장하나 기자 = 현대차그룹이 세계 3위 자동차 시장인 인도에 새로운 생산 거점을 확보한 데 이어 오는 2032년까지 2...",
+      "link": "https://www.yna.co.kr/view/AKR20261014134900003",
+      "publishedAt": "2026-10-14T08:00:02.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국고채 금리, 사흘만에 상승…美 물가 발표 앞두고 숨고르기(종합)",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 14일 국고채 금리는 지난 이틀간의 하락분을 일부 되돌리며 사흘 만에 상승했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261014154951008",
+      "publishedAt": "2026-10-14T07:52:14.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "전남광주시, 광양서 통합 채용박람회 개최",
+      "summary": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 14일 광양공설운동장 실내체육관에서 2026 전남광주 통합 채용박람회를 열었다.",
+      "link": "https://www.yna.co.kr/view/AKR20261014156800054",
+      "publishedAt": "2026-10-14T07:51:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "대한항공, 美 마젤란 어워즈서 8개 상 수상…글로벌 경쟁력 입증",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141949g",
+      "publishedAt": "2026-10-14T07:47:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "1인가구도 부담 없는 집김장… 빨라진 절임배추 예약 전쟁",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140406g",
+      "publishedAt": "2026-10-14T07:36:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "끝없는 코스피 탈출 행렬…200조원 팔아치운 외국인 어디로",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141350i",
+      "publishedAt": "2026-10-14T07:36:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'승자의 저주' 걱정에…롯데손보 삼킨 신한지주 급락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141870i",
+      "publishedAt": "2026-10-14T07:29:45.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "적자라더니 롯데그룹 시총 1위로…석달새 70% 뛴 이유",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610126881i",
+      "publishedAt": "2026-10-14T07:29:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"잃은 돈 꼭 되찾아야지\"…은퇴자가 빠지기 쉬운 투자 함정",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101405461",
+      "publishedAt": "2026-10-14T07:18:40.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "전세금 못 받았다면 이사보다 '등기'가 먼저…자칫 보증금 날릴 수도",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101405501",
+      "publishedAt": "2026-10-14T07:16:57.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"반려견도 바른 먹거리\"…소노인터, 풀무원아미오와 펫 캠페인",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141857g",
+      "publishedAt": "2026-10-14T07:16:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "반도체 소부장·전력 인프라·로봇株…'천스닥' 기대 이어간다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101405581",
+      "publishedAt": "2026-10-14T07:15:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "거장 조향사와 지드래곤 만남…관능적 머스크향 온다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141848g",
+      "publishedAt": "2026-10-14T07:08:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“지수·수급·이슈 한눈에”…토스증권, AI 투자정보 서비스 강화",
+      "summary": "토스증권이 인공지능(AI)을 활용해 국내·외 증시 흐름과 주요 투자 이슈 등을 설명하는 투자 정보 서비스 강화에 나섰다. 새롭게 선보인 ‘시장’ 탭과 기존 ‘실시간 이슈’ 서비스의..",
+      "link": "https://www.mk.co.kr/news/stock/12175720",
+      "publishedAt": "2026-10-14T07:04:17.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“브라질 계란 수입, 긴급상황 대비한 것”…국감 ‘비용 적정성’ 지적에 aT 답변",
+      "summary": "개당 1464원에 수입 143원으로 유통 aT 측 “수입선 다변화 위한 시범사업”브라질산 계란을 개당 1464원에 수입해 국내에 143원으로 유통한 것을 두고 국정감사에서 비용의 ..",
+      "link": "https://www.mk.co.kr/news/economy/12175701",
+      "publishedAt": "2026-10-14T07:00:23.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "한국행정학회 창립 70주년 기념 학술대회 개최",
+      "summary": "한국행정학회가 창립 70주년을 맞아 15일부터 서울 한국프레스센터 20층 국제회의장에서 학술대회와 기념식을 개최한다고 14일 밝혔다. 1956년 창립된 한국행정학회는 지난 70년 ..",
+      "link": "https://www.mk.co.kr/news/economy/12175694",
+      "publishedAt": "2026-10-14T06:54:47.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "고려아연 지분 얼마에 넘기나…'영풍·MBK 계약서'에 쏠린 눈",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141578g",
+      "publishedAt": "2026-10-14T06:46:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "달라진 상속제도, 절대 놓치면 안 되는 데드라인",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140382i",
+      "publishedAt": "2026-10-14T06:30:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "토스뱅크, 디지털 취약계층에 노트북 기부",
+      "summary": "토스뱅크가 고령층 문해학습자와 장애인 등 디지털 교육이 필요한 학습자를 지원하기 위해 업무용으로 사용하던 노트북 46대를 기부한다고 14일 밝혔다. 기부될 노트북 46대는 지난 8..",
+      "link": "https://www.mk.co.kr/news/economy/12175659",
+      "publishedAt": "2026-10-14T06:27:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "CXMT 쇼크 하루만에 태세 전환… 삼전닉스 다시 담고 소부장 던졌다 [주식 초고수는 지금]",
+      "summary": "[주식 초고수 10월 14일 오후 순매수 동향] 삼성전자·SK하이닉스 나란히 순매수 1·2위 팔아치운 종목 상위권은 소부장이 일제히 올라중국 창신메모리(CXMT)발 충격으로 국내 ..",
+      "link": "https://www.mk.co.kr/news/stock/12175646",
+      "publishedAt": "2026-10-14T06:17:29.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[속보] 당국 “금융사 침해사고 발생 총 16곳…약 10만건 유출”",
+      "summary": "최근 인공지능(AI) 해킹 침해가 확인된 금융회사가 전체 업권을 통틀어 현재까지 총 16곳으로 파악됐다. 14일 금융당국에 따르면 금융위원회·금융감독원은 이날 오후 정부서울청사에서..",
+      "link": "https://www.mk.co.kr/news/economy/12175640",
+      "publishedAt": "2026-10-14T06:13:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] “40억 정도 아들에 넘겼습니다”…‘가업승계’로 넘긴 주식 1조 넘어",
+      "summary": "중소·중견 기업인 자녀에지분 증여시 10~20% 낮은 세율 적용 특례제도 100억 넘는 ‘대형 승계’가 44% 차지중소기업을 운영하는 기업인 부모가 가업승계 증여세 과세특례를 이용..",
+      "link": "https://www.mk.co.kr/news/economy/12175605",
+      "publishedAt": "2026-10-14T05:55:10.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "연말 출시 ‘모두의 AI’...“카톡 익숙함 활용할 것”",
+      "summary": "“‘모두의 AI’를 처음 접하거나 다시 찾아올 때, 매일 사용하는 카카오톡의 익숙함을 최대한 활용하려고 합니다.” 14일 유용하 카카오 성과리더는 카카오의 연례 개발자 행사 ‘이프..",
+      "link": "https://www.mk.co.kr/news/stock/12175568",
+      "publishedAt": "2026-10-14T05:31:19.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "금융자산 1천억 넘는 패밀리오피스…삼성증권에만 200가문 모였다",
+      "summary": "금융자산 1000억원 이상 초고액 자산가 자산관리 서비스 고객 200가문·자산 55조원 달성금융자산 1000억원 이상 초고액자산가를 대상으로 하는 삼성증권 패밀리오피스가 고객 20..",
+      "link": "https://www.mk.co.kr/news/stock/12175564",
+      "publishedAt": "2026-10-14T05:28:09.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "같은 MTS 거래인데 수수료 13배 차…금감원, 영업점 개설 계좌 관행 손본다",
+      "summary": "증권사 37곳 중 10곳서 높은 수수료 관리계좌 자동 지정 개선·선택권 보장증권사 영업점에서 계좌를 개설했다는 이유로 모바일트레이딩시스템(MTS)에서 똑같이 주식을 거래해도 온라인..",
+      "link": "https://www.mk.co.kr/news/stock/12175533",
+      "publishedAt": "2026-10-14T05:10:32.000Z"
+    },
     {
       "source": "매일경제",
       "category": "경제",
@@ -3714,30 +3954,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026100790941",
       "publishedAt": "2026-10-07T08:30:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "2026-2027 한국바둑리그, 하나은행과 타이틀 스폰서 계약",
-      "summary": "(서울=연합뉴스) 천병혁 기자 = 국내 최대 바둑 리그 기전인 한국바둑리그가 하나은행과 손잡고 새 출발 한다.",
-      "link": "https://www.yna.co.kr/view/AKR20261007037700007",
-      "publishedAt": "2026-10-07T00:08:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "현대차, '2027 쏘나타 디 엣지' 출시…블랙 N 라인 트림 신설",
-      "summary": "(서울=연합뉴스) 장하나 기자 = 현대차는 브랜드 대표 중형 세단 쏘나타의 연식 변경 모델 &apos;2027 쏘나타 디 엣지&apos;를 출시했다고 7일 밝혔다...",
-      "link": "https://www.yna.co.kr/view/AKR20261007037100003",
-      "publishedAt": "2026-10-07T00:04:38.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"VIP는 14.5% 깎아드립니다\"…베이징 금 매장에 무슨 일이 [차이나 워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610077222i",
-      "publishedAt": "2026-10-07T00:03:28.000Z"
     }
   ]
 }
