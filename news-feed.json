@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-10-14T23:33:37.650Z",
+  "updatedAt": "2026-10-15T07:51:52.259Z",
   "historyDays": 7,
-  "count": 492,
+  "count": 503,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "부산 이전 공공기관 예치금 7조원…지방은행 맡긴 건 10%대 불과",
+      "summary": "박성훈 의원 “지역 자금 역외 유출 부추겨” 주금공 예치금, 부산은행 14.6% 예탁결제원·주택도시보증공사, 공개 안해부산으로 이전한 공공기관의 예치금이 7조원이 넘는데 지방은행에..",
+      "link": "https://www.mk.co.kr/news/economy/12176898",
+      "publishedAt": "2026-10-15T07:51:19.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"지역 농축협 연체액 21조원 육박…외국인 연체금도 11배 급증\"(종합)",
+      "summary": "(서울=연합뉴스) 한주홍 김세린 기자 = 지역 농축협의 대출 연체액이 21조원에 육박하고 적자를 기록한 조합도 5곳 중 1곳에 달하는 것으로 나...",
+      "link": "https://www.yna.co.kr/view/AKR20261015061251030",
+      "publishedAt": "2026-10-15T07:40:50.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "국고채 금리 일제히 하락…3년물 연 3.867%",
+      "summary": "(서울=연합뉴스) 15일 국고채 금리가 일제히 하락했다.",
+      "link": "https://www.yna.co.kr/view/AKR20261015150300008",
+      "publishedAt": "2026-10-15T07:40:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합)",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 15일 급락하면서 코스피·코스닥 시장의 몸집이 전날보다 무려 400조원 넘게 쪼그라들었다.",
+      "link": "https://www.yna.co.kr/view/AKR20261015073251008",
+      "publishedAt": "2026-10-15T07:40:32.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "동해시장, 해수부에 동해신항 4∼7선석 국가재정 전환 건의",
+      "summary": "(동해=연합뉴스) 유형재 기자 = 이정학 강원 동해시장은 15일 해양수산부를 방문해 동해신항 4∼7번 선석의 국가재정사업 전환과 제5차 항만배후...",
+      "link": "https://www.yna.co.kr/view/AKR20261015149200062",
+      "publishedAt": "2026-10-15T07:38:34.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "창원시·창원상의, '1직원 1사 전담제' 운영 활성화 협약",
+      "summary": "(창원=연합뉴스) 김선경 기자 = 경남 창원시와 창원상공회의소는 15일 시청 제3회의실에서 &apos;1직원 1사 전담제&apos; 운영 활성화를 위한 업무협약을...",
+      "link": "https://www.yna.co.kr/view/AKR20261015148500052",
+      "publishedAt": "2026-10-15T07:33:28.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스피 급락에 '변동성지수' 57선 넘어…나흘새 50% 급등(종합)",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 코스피가 외국인의 대규모 매도세에 급락한 15일 &apos;한국형 공포지수&apos;로 불리는 코스피200 변동성지수(VKOSP...",
+      "link": "https://www.yna.co.kr/view/AKR20261015073451008",
+      "publishedAt": "2026-10-15T07:32:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "한솔제지, 122억원 규모 'AI 공장' 구축…에너지 절감·고장 예측",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154483i",
+      "publishedAt": "2026-10-15T07:15:45.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "SK하이닉스 줍줍…삼성전자는 던졌다 [주식 초고수는 지금]",
+      "summary": "[10월 15일 오후 주식 초고수 순매수 동향] 하이닉스·삼성전자우 순매수 1·2위 삼성전자 보통주는 순매도 1위미래에셋증권 고수익 투자자들이 15일 오후 2시30분까지 가장 많이..",
+      "link": "https://www.mk.co.kr/news/stock/12176835",
+      "publishedAt": "2026-10-15T07:12:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "다시 고개 드는 변동성…VKOSPI 55선 마감, 나흘 새 50%↑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154452i",
+      "publishedAt": "2026-10-15T07:08:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "신한카드 올해 두 번째 희망퇴직…인력 구조조정 속도 낸다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154439i",
+      "publishedAt": "2026-10-15T07:05:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피·코스닥 7%대 급락 마감, 양 시장 서킷 발동",
+      "summary": "코스피와 코스닥이 나란히 7%대 급락했다. 15일 코스피는 전 거래일보다 454.59포인트(7.57%) 하락한 5554.22에 거래를 마쳤다. 코스닥도 63.06포인트(7.65%)..",
+      "link": "https://www.mk.co.kr/news/stock/12176820",
+      "publishedAt": "2026-10-15T07:03:55.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "캠코 선박금융 90% 수도권에 집중…“해양수도 육성과 엇박자”",
+      "summary": "올해 선박금융 총 2조8000억원 달해 부울경 지원 규모는 2854억원 그쳐한국자산관리공사(캠코)가 시행하는 선박금융 지원이 수도권 소재 해운사에 90% 편중돼 개선해야 한다는 지..",
+      "link": "https://www.mk.co.kr/news/politics/12176819",
+      "publishedAt": "2026-10-15T07:03:52.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "코스피 급락에…이억원 “투자자 보호에 적극 대응하라” 주문",
+      "summary": "7%대 ‘뚝’…5500선 마감하며 하락세 금융당국, 대내외 경제 여건 영향 분석 투자자에 “기업 본질적 가치 판단 필요”코스피가 15일 급락하며 하루에만 7%대 빠지며 5500선에..",
+      "link": "https://www.mk.co.kr/news/economy/12176796",
+      "publishedAt": "2026-10-15T07:00:11.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 채무조정 신청자 15만명 눈앞…22년 만에 최대치",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154123i",
+      "publishedAt": "2026-10-15T07:00:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "증시 ‘검은 목요일’에 금융위 긴급회의…이억원 “무분별한 신용공여 자제”",
+      "summary": "15일 코스피·코스닥 7%대 급락 마감 양 시장 서킷 발동…비상대응계획도 준비코스피와 코스닥이 나란히 7%대 급락한 15일 금융당국이 긴급 시장점검회의를 열고 대응 방안을 논의했다..",
+      "link": "https://www.mk.co.kr/news/stock/12176795",
+      "publishedAt": "2026-10-15T06:59:39.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "증시 또 '검은 목요일'…코스피·코스닥 7% 넘게 폭락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101543276",
+      "publishedAt": "2026-10-15T06:49:44.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 펄펄 끓는 바다, 양식장 1747만마리 폐사…‘고수온경보’ 역대최다",
+      "summary": "정부 양식장 이전지원 해상 1곳 그쳐 피해 반복에 육상양식 대안 부상올 여름 고수온 경보가 내려진 해역이 역대 최다인 27곳으로 늘면서 양식어류 1747만마리가 폐사한 것으로 나타..",
+      "link": "https://www.mk.co.kr/news/economy/12176779",
+      "publishedAt": "2026-10-15T06:39:49.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“주식은 빠지는데 주담대 이자는”…코픽스, 3년 10개월만에 최대폭 상승",
+      "summary": "8월 신규취급액 코픽스 연 3.45% 지난달 숨고르기 후 0.25%P 급등 5대銀 변동형 금리 상단은 6.46%은행권 주택담보대출 변동금리의 기준이 되는 코픽스(COFIX·자금조달..",
+      "link": "https://www.mk.co.kr/news/economy/12176776",
+      "publishedAt": "2026-10-15T06:39:07.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[속보] 공포의 ‘검은 목요일’…코스피·코스닥 7%대 급락 마감",
+      "summary": "인공지능(AI) 투자 수익성 논란에 역풍을 맞은 코스피가 15일 7% 넘게 급락한 채 마감했다. 이날 코스피는 전일 대비 454.59포인트(7.57%) 내린 5554.22에 거래를..",
+      "link": "https://www.mk.co.kr/news/stock/12176772",
+      "publishedAt": "2026-10-15T06:37:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "최형욱 행복청 차장 “사람 옮기는 건 기관, 눌러앉게 하는 건 정주환경”",
+      "summary": "행복도시 현장 누빈 첫 내부 승진 차장 첫마을 입주 때 상수관·이삿짐까지 챙겨 44개 기관 이전 앞두고 “청사만으론 부족” 병원·대학 갖추고 국가 장기계획 세워야최근 행정중심복합도..",
+      "link": "https://www.mk.co.kr/news/economy/12176769",
+      "publishedAt": "2026-10-15T06:36:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[속보] 공포의 '검은 목요일'…코스피·코스닥 7%대 급락 마감",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101543357",
+      "publishedAt": "2026-10-15T06:35:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "급락장에 휩쓸린 새내기주…멜콘·진코스텍 상장 첫날 '롤러코스터'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154326i",
+      "publishedAt": "2026-10-15T06:34:36.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "日 JCR, 한국투자증권 신용등급 ‘A’로 상향",
+      "summary": "수익성·포트폴리오·유동성 긍정적 평가 한투證 “해외 사업 경쟁력 더욱 강화할 것”한국투자증권은 일본 신용평가사 JCR(Japan Credit Rating Agency)이 한국투자증..",
+      "link": "https://www.mk.co.kr/news/stock/12176768",
+      "publishedAt": "2026-10-15T06:34:23.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[속보] 코스피, 7.57% 급락한 5554 마감…코스닥도 7%대 폭락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101542786",
+      "publishedAt": "2026-10-15T06:31:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 서민 주택대출 연체, 4년간 네 배 넘게 뛰었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154045i",
+      "publishedAt": "2026-10-15T06:30:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "하루 10만달러 '잭팟'…벌크선사 꼬리표 떼는 팬오션",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610152826i",
+      "publishedAt": "2026-10-15T06:28:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“내가 손절만 하면 다시 오르네”…하루 만에 반등한 금값 이유는?",
+      "summary": "4084달러까지 하락한 국제금값, 15일 4158달러 美 CPI 3.7% ↑…고금리 장기화 우려에 금값 출렁 국내 금 투자 수익률도 국제 금값·원달러 환율 영향미국의 물가 상승률..",
+      "link": "https://www.mk.co.kr/news/economy/12176754",
+      "publishedAt": "2026-10-15T06:15:42.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"AI 뒤떨어져\" 혹평받던 애플의 반전…사상 두 번째 시총 '5조달러' 달성",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610154124i",
+      "publishedAt": "2026-10-15T06:11:14.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610141985i",
+      "publishedAt": "2026-10-15T06:00:12.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3786,158 +4026,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026100817971",
       "publishedAt": "2026-10-08T08:32:25.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] 빗썸, 한글날 100주년 기념 글꼴 '빗썸고딕' 배포",
-      "summary": "▲ 가상자산 거래소 빗썸이 한글날 100주년을 기념해 전용 글꼴 &apos;빗썸고딕&apos;을 배포한다고 8일 밝혔다. 이용자는 빗썸 홈페이지를 통해 빗썸고딕 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261008046500002",
-      "publishedAt": "2026-10-08T00:31:24.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[특징주] 삼성전자, 실적호조에도 장초반 약세…하닉은 0.7%↑",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]가 국내 기업 사상 최초로 분기 영업익 100조원 선을 넘어서고도 8일 장 초반 약세를 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261008048600008",
-      "publishedAt": "2026-10-08T00:31:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "車보험 경상환자 보상처리 피해 신고센터…'8주룰' 안착 지원",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 손해보험협회가 8주룰 제도 안착을 위해 오는 12일부터 &apos;자동차보험 경상환자 보상처리 피해 신고센터&apos;를 운영한...",
-      "link": "https://www.yna.co.kr/view/AKR20261008043400002",
-      "publishedAt": "2026-10-08T00:30:59.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "생명보험재단, 매헌시민의숲에 'SOS마음의전화 2호' 개통",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 생명보험사회공헌재단은 지난 1일 서울 양재동 매헌시민의숲에 도심형 상담전화 &apos;SOS마음의전화 2호&apos;를 개통했다...",
-      "link": "https://www.yna.co.kr/view/AKR20261008046100002",
-      "publishedAt": "2026-10-08T00:29:17.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[게시판] 현대엔지니어링, 재생에너지 연계 수전해 플랜트 기술 개발 참여",
-      "summary": "▲ 현대엔지니어링은 기후에너지환경부 산하 한국에너지기술평가원이 추진하는 &apos;재생에너지-그리드 변동 대응 수전해 시스템 기술 개발 사업&apos; 국책과제에...",
-      "link": "https://www.yna.co.kr/view/AKR20261008045400003",
-      "publishedAt": "2026-10-08T00:24:20.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "피자헛, '피자설기' 출시…SNS 타고 뜬 이색 떡 디저트 재해석",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 한국피자헛은 최근 사회관계망서비스(SNS)를 중심으로 인기를 끌고 있는 &apos;피자설기&apos;를 재해석한 &apos;피자헛 피자설...",
-      "link": "https://www.yna.co.kr/view/AKR20261008046800030",
-      "publishedAt": "2026-10-08T00:23:59.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“투자자만 울컥하겠네”…역대 최다 기록한 ETF 괴리율, 무슨 일",
-      "summary": "ETF 괴리율 관리 ‘빨간불’ 올해 219건 괴리율 초과일 개인 거래대금 24조7000억 미래에셋 TIGER 반도체레버리지 21차례상장지수펀드(ETF)의 시장가격과 실제 자산가치 ..",
-      "link": "https://www.mk.co.kr/news/economy/12171138",
-      "publishedAt": "2026-10-08T00:19:57.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "펩트론, 릴리와 공동연구·기술평가 종료 소식에 '급락'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100801556",
-      "publishedAt": "2026-10-08T00:17:25.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "코스피, 美 국채금리 부담에 장 초반 약세…외국인·기관 '팔자'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100801166",
-      "publishedAt": "2026-10-08T00:11:34.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "재료 소진?…삼성전자 '107조 신기록'에도 주가는 보합권",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100800876",
-      "publishedAt": "2026-10-08T00:11:10.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "메쎄뮌헨 \"상업용 부동산·투자 박람회 '엑스포리얼 2026' 개최\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100800606",
-      "publishedAt": "2026-10-07T23:57:29.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "효성중공업, 국내 최초 2GW급 HVDC 성능 검증 설비 구축",
-      "summary": "효성중공업이 국내 최초로 독자기술 기반의 2기가와트(GW)급 초고압직류송전(HVDC) 성능검증 설비를 구축하며 대용량 전력망 기술 국산화에 박차를 가한다. 효성중공업은 경기도 과천..",
-      "link": "https://www.mk.co.kr/news/stock/12171111",
-      "publishedAt": "2026-10-07T23:56:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "LG전자 주가 급락에 하나증권 “단기 실적보다 AI 냉각사업 주목”",
-      "summary": "하나증권은 8일 LG전자에 대해 단기 실적 부진보다 인공지능(AI) 데이터센터 냉각사업의 성장 가능성에 주목해야 한다며 목표주가 26만원과 투자의견 ‘매수’를 유지했다. 김민경 하..",
-      "link": "https://www.mk.co.kr/news/stock/12171108",
-      "publishedAt": "2026-10-07T23:52:04.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"사장 바꾸니 주가 3배 뛰었다\"...日기업들 체질 개선 경쟁",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610080002i",
-      "publishedAt": "2026-10-07T23:49:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "조선미녀·티르티르 키운 구다이글로벌, 지드래곤과 뷰티 브랜드 만든다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610089921g",
-      "publishedAt": "2026-10-07T23:48:16.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "영업익 25% 모자라도 목표가 올렸다…LG전자에 생긴 반전 [오늘 나온 보고서]",
-      "summary": "삼성증권 목표가 21만→25만원 다올투자증권 24만→27만원 AI 데이터센터 냉각·로봇이 새 동력LG전자가 3분기 시장 기대에 못 미치는 영업이익을 냈지만 증권가는 목표주가를 잇달..",
-      "link": "https://www.mk.co.kr/news/stock/12171101",
-      "publishedAt": "2026-10-07T23:46:21.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "리사수 AMD CEO, 전영현 부회장과 만찬…\"여러 분야에서 삼성과 협력할 것\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610089898i",
-      "publishedAt": "2026-10-07T23:40:40.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "日증시 대수술…주가관리 안하는 상장사 40% 퇴출 [도쿄나우]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610089907i",
-      "publishedAt": "2026-10-07T23:40:28.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "도미노피자, 5년 만에 가격 인상…L사이즈 1500원 뛴다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610089959g",
-      "publishedAt": "2026-10-07T23:38:14.000Z"
     }
   ]
 }
