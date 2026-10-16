@@ -1,8 +1,248 @@
 {
-  "updatedAt": "2026-10-15T23:27:45.975Z",
+  "updatedAt": "2026-10-16T07:43:26.328Z",
   "historyDays": 7,
-  "count": 489,
+  "count": 503,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "외국인 '사자'에 반등 성공했지만…추세 상승엔 신중론 우세",
+      "summary": "(서울=연합뉴스) 곽윤아 기자 = 16일 코스피가 8거래일만에 하락세를 끊고 반등했지만 이날 상승이 &apos;진짜 반등&apos;의 시작인지에 대한 경계감은 여...",
+      "link": "https://www.yna.co.kr/view/AKR20261016135400008",
+      "publishedAt": "2026-10-16T07:35:25.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "엘리스그룹 코스닥 신규 상장…20일 거래 개시",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 한국거래소는 엘리스그룹의 코스닥 시장 신규상장을 승인했다고 16일 밝혔다.",
+      "link": "https://www.yna.co.kr/view/AKR20261016137900008",
+      "publishedAt": "2026-10-16T07:33:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "AI로부터 자유로운 성장주…삼양식품에 눈 돌리는 투자자들",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166826i",
+      "publishedAt": "2026-10-16T07:30:34.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "코스피 7% 급락한 '검은 목요일'에 800억원대 또 강제청산",
+      "summary": "(서울=연합뉴스) 고은지 기자 = 코스피가 7% 넘게 급락했던 지난 15일 반대매매 금액이 전날에 이어 또다시 800억원대에 달한 것으로 나타났...",
+      "link": "https://www.yna.co.kr/view/AKR20261016128500008",
+      "publishedAt": "2026-10-16T07:28:30.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "한미 재무·통화당국 첫 2+2 면담…“금융충격 시 긴밀한 공조”",
+      "summary": "한미 재무부·중앙은행 수장 첫 4자 회동 “재정·통화정책 간 정책조합 강화”이형일 부총리 겸 재정경제부 장관이 16일(현지시간) 태국에서 미국 재무부와 연방준비제도(Fed·연준) ..",
+      "link": "https://www.mk.co.kr/news/economy/12177926",
+      "publishedAt": "2026-10-16T07:28:26.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "반도체 소부장·금융채 투자 등 ETF 7종 20일 신규 상장",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 한국거래소는 KB·삼성·DB·한국·미래에셋·하나 자산운용의 상장지수펀드(ETF) 7종목을 오는 20일 유가증권...",
+      "link": "https://www.yna.co.kr/view/AKR20261016134900008",
+      "publishedAt": "2026-10-16T07:27:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "환율 하락 역풍에 업황 우려도…방산·증권·엔터, 눈높이 줄하향",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166630i",
+      "publishedAt": "2026-10-16T07:19:49.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[인사] 금융위원회",
+      "summary": "◇ 부이사관 승진",
+      "link": "https://www.yna.co.kr/view/AKR20261016133900002",
+      "publishedAt": "2026-10-16T07:17:01.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 증권금융, 하늘꿈중고등학교에 '스마트 도서관' 지원",
+      "summary": "▲ 한국증권금융 꿈나눔재단은 김정각 이사장이 16일 경기 성남시에 위치한 하늘꿈중고등학교에서 개최된 &apos;희망 Dream(드림) 스마트 도서관&apos; 완...",
+      "link": "https://www.yna.co.kr/view/AKR20261016130100008",
+      "publishedAt": "2026-10-16T07:16:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "외국인 8거래일 만에 '사자'…코스피, 2% 상승해 5600선 마감",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101668146",
+      "publishedAt": "2026-10-16T07:14:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "실적 부진 전망에도 생명보험주 강세…장기금리 상승에 건전성 개선 기대",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166590i",
+      "publishedAt": "2026-10-16T07:05:59.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "40년 묵은 압구정 랜드마크의 변신…매장 두 배 커진다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166679g",
+      "publishedAt": "2026-10-16T07:05:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "강호동 농협중앙회장 “외부 감사기구 신설...독립성 훼손 우려”",
+      "summary": "농협중앙회·한국마사회 등 국감 ‘농협법 개정안’ 두고 여야 간 충돌 강호동 중앙회장 “직선제 적극 수용”강호동 농협중앙회장이 16일 정부가 농협 외부 감사기구 신설을 추진하는 것에..",
+      "link": "https://www.mk.co.kr/news/economy/12177904",
+      "publishedAt": "2026-10-16T07:03:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "[단독]교공 출자 펀드 중 청산 실적 선두는 헬리오스·IMM·웰투시",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166755i",
+      "publishedAt": "2026-10-16T07:02:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"오락가락 반도체 대신 '여기'\"…거래량 급등에 주가 7% 뛴 종목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166722i",
+      "publishedAt": "2026-10-16T07:01:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"이러다 삼전닉스도 잡겠다\"…세계 3위 오른 中 기업의 정체",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166723i",
+      "publishedAt": "2026-10-16T06:59:35.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'주식 60 채권 40' 공식 깨뜨린 범인…금리가 아니었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166691i",
+      "publishedAt": "2026-10-16T06:59:25.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "우진엔텍, 신한울 1·2호기 노외중성자속감시계통 정비용역 수주",
+      "summary": "원자력 및 화력발전소 계측제어설비 정비 전문기업인 우진엔텍이 신한울 원자력발전소 정비용역을 추가로 따내며 안정적인 성장 기반을 다지고 있다. 우진엔텍은 지난 12일 신한울 원자력발..",
+      "link": "https://www.mk.co.kr/news/stock/12177898",
+      "publishedAt": "2026-10-16T06:54:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[단독] 부실 늪 빠진 상호금융… '자본 부족' 조합만 300여곳",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166734i",
+      "publishedAt": "2026-10-16T06:50:02.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "알아서 척척 주차… HL로보틱스 실외 주차로봇 첫선",
+      "summary": "세계 첫 실외 자율주행 주차 로봇 2024년 佛 스탠리 로보틱스 품어 19일부터 강릉 ITS 세계총회 공개 대규모 공항·야외 주차장 자동화 충돌 막는 통합 관제 대기시간 단축HL그..",
+      "link": "https://www.mk.co.kr/news/economy/12177890",
+      "publishedAt": "2026-10-16T06:49:57.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“지금 팔아? 좀 더 버텨?”…급락 뒤 반등한 코스피, 전문가 의견 보니",
+      "summary": "15일 급락했던 코스피 16일은 반등 증권가, 반등 강도가 약하다고 분석 투자 전문가, 버틸 구간이라는 의견지난 15일 비정상적일 정도로 큰 폭락 장세를 보인 코스피가 16일은 장..",
+      "link": "https://www.mk.co.kr/news/stock/12177886",
+      "publishedAt": "2026-10-16T06:48:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "오전 이어 오후에도 삼전 사고 닉스 팔고 [주식 초고수는 지금]",
+      "summary": "[주식 초고수 10월 16일 오후 순매수 동향] 7거래일 만에 반등 성공한 삼성전자 ‘사자’ 삼성전기·삼성SDI도 매수 2·3위에 자리미래에셋증권에서 수익률 상위 1%에 드는 ‘..",
+      "link": "https://www.mk.co.kr/news/stock/12177876",
+      "publishedAt": "2026-10-16T06:40:19.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "머스크, 석 달간 공화당에 3700억원…美 중간선거 '쩐의 전쟁'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101666977",
+      "publishedAt": "2026-10-16T06:31:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "애플, 중국산 반도체 도입 '만지작'…삼성·SK 영향 주목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166647i",
+      "publishedAt": "2026-10-16T06:30:03.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[단독] KRX “중복상장규제 자금조달과정 적용은 무리”",
+      "summary": "SK, 솔리다임 프리IPO투자안 규제적용 어려워 거래소 “최종 상장 전 의무 이행 충분”판단 주주권 보호 위한 중복상장 규제 허점 지적 박대출 의원 “SK 국내 투자자 보호안 밝..",
+      "link": "https://www.mk.co.kr/news/stock/12177861",
+      "publishedAt": "2026-10-16T06:26:27.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 5대 은행 특판에 VIP 자금 3.6조 몰렸다…반년 만에 작년의 68%",
+      "summary": "가입자는 9%뿐인데 판매액은 27% 1인당 가입금액 일반 고객의 3.6배5대 은행의 특판 예·적금에 고액자산가(VIP)들의 자금이 집중되고 있다. 올해 상반기 VIP 고객의 특판 ..",
+      "link": "https://www.mk.co.kr/news/economy/12177851",
+      "publishedAt": "2026-10-16T06:13:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“코스피 0.66% 빠졌는데 전액손실”…200배 레버리지 등장했다는데",
+      "summary": "해외가상자산거래소 ‘무기한선물’ 출시 기초자산 변동폭 10~200배까지 연동 추가증거금 납부할 겨를 없이 강제청산 국내법에 따른 법적 해결·구제 어려워해외 가상자산거래소에서 최대..",
+      "link": "https://www.mk.co.kr/news/stock/12177832",
+      "publishedAt": "2026-10-16T05:56:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "트루블루·엔베스터, 조선부품사 케이씨 3천억에 인수 추진",
+      "summary": "선박 녹·따개비 방지 장비 만드는 알짜 기업 교육기업 미래엔, 투자사 앞세워 조선업 베팅[본 기사는 10월 16일(14:55) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도..",
+      "link": "https://www.mk.co.kr/news/stock/12177830",
+      "publishedAt": "2026-10-16T05:55:54.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "韓, 싱가포르와 국부펀드 협력 논의…獨과 피지컬AI 공조",
+      "summary": "이형일 부총리, G20·G7 재무장관회의 “공급망 회복력 높이고 AI 투자해야” 싱가포르에 테마섹 운용 경험 공유 제안 독일과 AI·제조업 협력 확대 논의정부가 싱가포르 국부펀드인..",
+      "link": "https://www.mk.co.kr/news/economy/12177768",
+      "publishedAt": "2026-10-16T04:59:50.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“소득 높을수록 타인에 배타적”...학계 연구에 관심 ‘쑥’",
+      "summary": "‘보건사회연구’ 논문 한국사회 ‘능력주의’ 신념 강해 “성공따른 배타적 태도 정당화”소득이 높을수록 외국인과 낯선 사람 등 타인에게 배타적이 된다는 연구 결과가 나와 주목된다. 반..",
+      "link": "https://www.mk.co.kr/news/economy/12177646",
+      "publishedAt": "2026-10-16T02:11:12.000Z"
+    },
     {
       "source": "연합뉴스",
       "category": "경제",
@@ -3786,134 +4026,6 @@
       "summary": "(전남광주=연합뉴스) 장덕종 기자 = 최태원 SK그룹 회장이 9일 호남 반도체 클러스터 예정지인 광주 군공항을 직접 찾아 투자 의지를 강하게 밝...",
       "link": "https://www.yna.co.kr/view/AKR20261009046800054",
       "publishedAt": "2026-10-09T07:52:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "개똥도 약에 쓰려면 없는 정치의 세계…새삼 실감하는 정청래 ‘귀인 효과’ [논설실 Pick]",
-      "summary": "정부 비판 흡수해줄 지형지물 바뀌었다 이런 변화 무색하게 스타일 고수한다면‘대통령 국정 지지율 37%’ 어제(9일) 발표된 한국갤럽 여론조사 결과입니다. 추석 연휴 등을 지나며 3..",
-      "link": "https://www.mk.co.kr/news/economy/12172336",
-      "publishedAt": "2026-10-09T07:22:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "충북도·충주시, 중국 닝보 롱바이와 4천300억원 투자협약",
-      "summary": "(청주=연합뉴스) 전창해 기자 = 충북도와 충주시는 9일 중국 선전에서 이차전지 소재기업인 닝보 롱바이(Ningbo Ronbay New Ener...",
-      "link": "https://www.yna.co.kr/view/AKR20261009045600064",
-      "publishedAt": "2026-10-09T07:18:28.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
-      "summary": "(",
-      "link": "https://www.yna.co.kr/view/AKR20261009043000002",
-      "publishedAt": "2026-10-09T06:33:31.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "'한글' 넘어 '인공지능 직원' 미국에 판다는 한컴…주가 반등 가능할까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610081938i",
-      "publishedAt": "2026-10-09T06:00:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20261009039200011",
-      "publishedAt": "2026-10-09T06:00:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "해외발 금융권 해킹 10건 중 9건 “공격 주체 파악 못해”",
-      "summary": "최근 금융권 해킹 사고가 잇따르는 가운데 2024년 이후 발생한 해외발 해킹 사고 10건 중 9건은 공격 주체조차 파악하지 못한 것으로 나타났다. 9일 국회 정무위원회 소속 송언석..",
-      "link": "https://www.mk.co.kr/news/economy/12172199",
-      "publishedAt": "2026-10-09T00:32:20.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "롯데칠성음료, 美와인 '브레드앤버터' 한글 패키지 한정 판매",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 롯데칠성음료[005300]는 자사가 수입·판매하는 미국산 와인 &apos;브레드앤버터&apos;의 한글 패키지 세트를 연말까지 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261009020500030",
-      "publishedAt": "2026-10-09T00:23:43.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 아웃도어 브랜드 코오롱스포츠는 디자이너 브랜드 &apos;지용킴&apos;과 협업 컬렉션을 출시했다고 9일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261009019900030",
-      "publishedAt": "2026-10-09T00:07:44.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "브라질증시 폭등 예상한 전설의 ‘투자 기계’…함께 매수한 종목은?",
-      "summary": "스턴리 드러켄밀러의 투자비결 “확신이 들면 거금을 투자하라”‘투자 기계’라는 별명을 지닌 월가의 전설적 투자자 스탠리 드러켄밀러의 브라질 증시 상장지수펀드(ETF) 매수 타점이 화..",
-      "link": "https://www.mk.co.kr/news/stock/12172188",
-      "publishedAt": "2026-10-09T00:05:51.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "배민, 전국우수시장박람회서 전통시장 상품·먹거리 소개",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 배달의민족(배민) 운영사 우아한형제들은 9∼11일 충남 공주시 아트센터고마 일원에서 열리는 &apos;2026 전국우수...",
-      "link": "https://www.yna.co.kr/view/AKR20261009019000030",
-      "publishedAt": "2026-10-09T00:01:14.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"지배구조 개편에 주주환원까지\"…현대지에프홀딩스 4.64%↑",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610082049i",
-      "publishedAt": "2026-10-09T00:00:15.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "부산은행, 청년 자산 형성 돕는 '청년 기쁨두배통장' 출시",
-      "summary": "(부산=연합뉴스) 오수희 기자 = BNK부산은행은 부산시와 부산 청년의 안정적인 자산 형성을 돕는 &apos;부산 청년 기쁨두배통장&apos;을 출시했다고 9일 ...",
-      "link": "https://www.yna.co.kr/view/AKR20261008031500051",
-      "publishedAt": "2026-10-09T00:00:06.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[시승기] 강인하지만 부드럽다…현대차 '디 올 뉴 투싼'",
-      "summary": "(고양=연합뉴스) 장하나 기자 = &quot;모든 영역에서 타협 없는 완성도를 추구했습니다.&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20261008179100003",
-      "publishedAt": "2026-10-09T00:00:03.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "LH, 미분양 매입확약 연말까지 접수…분양가 92%까지 적용",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)는 8·13 주택 공급대책에서 발표한 미분양 매입확약을 올해 말까지 접수한다고 9일 밝혔...",
-      "link": "https://www.yna.co.kr/view/AKR20261008180900003",
-      "publishedAt": "2026-10-09T00:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"대기업만 싼 전기 쓰게 할 순 없다\"…정부가 제동 건 이유",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610080012i",
-      "publishedAt": "2026-10-08T23:30:07.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "잘 고른 부품주 열 대장주 안 부럽다…개미들 뭉칫돈",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610082112i",
-      "publishedAt": "2026-10-08T23:30:04.000Z"
     }
   ]
 }
