@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-10-17T22:47:06.406Z",
+  "updatedAt": "2026-10-18T07:35:49.534Z",
   "historyDays": 7,
-  "count": 495,
+  "count": 510,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "원달러환율 2년 1개웖만에 최저",
+      "summary": "18일 서울 중구 명동의 환전소에 외환 시세가 표시돼 있다. 한국은행 경제통계시스템에 따르면, 이달 들어 12거래일간 원·달러 평균 환율은 1,342.6원으로, 2024년 9월 평..",
+      "link": "https://www.mk.co.kr/news/economy/12178910",
+      "publishedAt": "2026-10-18T07:30:15.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼전닉스 월요일에 주가 어떡해요?…‘中딥시크 쇼크’ 또 온다는데",
+      "summary": "딥시크, V4.1플래시 개선판 공식출시 일부 성능 오퍼스5 · GPT-5.6솔 앞서 이용료 최대 42분의1 저렴해 ‘가성비’ 작년 딥시크 쇼크때 엔비디아 17%↓ 코어위브에 흔들린..",
+      "link": "https://www.mk.co.kr/news/business/12178901",
+      "publishedAt": "2026-10-18T07:17:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 수협은행과 수협 상호금융에서 수십억원대 금융 사고가 잇따르고 있으며 규모가 갈수록 대형화하고 있다는 지적이 제...",
+      "link": "https://www.yna.co.kr/view/AKR20261018037800030",
+      "publishedAt": "2026-10-18T07:13:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "[표] 이번주 머니 캘린더",
+      "summary": "",
+      "link": "https://www.mk.co.kr/news/stock/12178878",
+      "publishedAt": "2026-10-18T07:11:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "'돈의 속성' 김승호 투자특강 … 매플 가입하면 볼수 있어요",
+      "summary": "매일경제가 국내 최고 투자 구루의 재테크 특별 세미나 '서울머니쇼 스페셜 에디션: 김승호의 투자전망'을 매경플러스(매플) 구독자에게 19일부터 단독 공개합니다. 이 특별 세미나는 ..",
+      "link": "https://www.mk.co.kr/news/stock/12178877",
+      "publishedAt": "2026-10-18T07:11:46.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "코스피 20% 빠져도 “韓 기초체력 반등” 이유 보니 [매플 위켄드]",
+      "summary": "엇갈리는 경제 신호가 나오는 까닭코스피가 7거래일 동안 20% 넘게 빠지는 사이 은행 주담대 변동금리는 오히려 오르고 있습니다. 같은 시기 IMF는 한국 잠재성장률이 약 40년 만..",
+      "link": "https://www.mk.co.kr/news/economy/12178869",
+      "publishedAt": "2026-10-18T07:06:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "삼립, 파리서 K베이커리 알린다…정인호 대표가 바이어 직접 공략",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610188488i",
+      "publishedAt": "2026-10-18T07:00:04.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "지방세 체납자 136만명 조사했더니…두달간 체납액 414억원 징수",
+      "summary": "정부가 지난 8월부터 전국적으로 운영 중인 ‘지방세입 체납관리단’이 9월 말까지 체납자 136만명을 실태조사하고 체납액 414억원을 징수한 것으로 나타났다. 행정안전부는 9월 말 ..",
+      "link": "https://www.mk.co.kr/news/economy/12178853",
+      "publishedAt": "2026-10-18T06:39:31.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "연금개미, 국내 반도체 ETF 팔고 미국 대표지수 샀다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610167004i",
+      "publishedAt": "2026-10-18T06:35:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "자사주 최대 10% 소각 기대…피에이치에이 '들썩'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610188607i",
+      "publishedAt": "2026-10-18T06:32:07.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "summary": "■ IMF 총재 &quot;미래대응기금 등 韓재정·통화 정책조합 접근법 적절&quot;",
+      "link": "https://www.yna.co.kr/view/AKR20261018030800011",
+      "publishedAt": "2026-10-18T06:00:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "성희롱 녹취록 터진 딸바보 김부장…노동감독관 촉에 ‘충격사실’ 드러났다",
+      "summary": "매년 증가하는 직장내 괴롭힘 신고 행정·사법 조치 건수는 15% 감소 신고자 징계불가 악용한 사례 많아 AI로 음성변조한 후 성희롱 신고도 기업부담 가중에 경사노위 개선논의중견기업..",
+      "link": "https://www.mk.co.kr/news/economy/12178803",
+      "publishedAt": "2026-10-18T05:50:21.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“선진국 중 한국만 재정여력 늘어”…최지영 IMF 이사 “AI 투자 오래갈 것”",
+      "summary": "최지영 국제통화기금(IMF) 이사는 “다른 나라는 재정 여력이 줄어들고 있는데, 한국만 (반도체 호황 덕분에) 재정 여력이 유일하게 늘어났다”고 평가했다. IMF·세계은행(WB) ..",
+      "link": "https://www.mk.co.kr/news/economy/12178790",
+      "publishedAt": "2026-10-18T05:40:37.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "단종레 공방에 韓 '완전 액티브 ETF' 뒷전…日에 뒤지고 中에도 추월당할 판",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610140311i",
+      "publishedAt": "2026-10-18T05:25:53.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] “두고보라는 부장, 내가 선빵쳤다ㅋ”…직내괴 무기삼는 폐급전사들",
+      "summary": "직내괴 신고 1만6373건 ‘역대최대’ 신고 늘었지만 행정·사법처벌 줄어 사내징계 선제조치·보복수단 변질 신고자 해고불가 악용 인사 무력화직장 내 괴롭힘 신고가 지난해 1만6373..",
+      "link": "https://www.mk.co.kr/news/economy/12178772",
+      "publishedAt": "2026-10-18T05:23:29.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "美 장기채·원유 ETF 날았다…코스피 폭락에 레버리지 6000억 뭉칫돈",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610167299i",
+      "publishedAt": "2026-10-18T05:20:48.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "신한은행, 중저신용자 대출금리 0.3%P 인하",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610188571i",
+      "publishedAt": "2026-10-18T05:18:51.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "'부익부 빈익빈' 액티브 ETF… 상위 10개가 시장 절반 쓸어 담았다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610188408i",
+      "publishedAt": "2026-10-18T05:15:51.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "코스피 급락에 미장으로…순매수 1위 반도체 3배 ETF는 40% 급락",
+      "summary": "6~16일 미국 주식 36억달러 순매수 ‘순매수 1위’ SOXL 하락률 43% 달해 서학개미 보유 주식 평가액 되레 줄어이달 들어 국내 증시가 흔들리는 사이 국내 투자자들이 대거 ..",
+      "link": "https://www.mk.co.kr/news/stock/12178768",
+      "publishedAt": "2026-10-18T05:11:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"일주일 새 20% 껑충\"…실적 눈높이 높아진 '이 종목'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610188556i",
+      "publishedAt": "2026-10-18T05:02:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "안랩, 싱가포르서 AI 보안 솔루션 공개",
+      "summary": "안랩은 이달 13일부터 15일까지 싱가포르에서 열린 글로벌 보안 행사 ‘거브웨어 2026’에서 인공지능(AI) 기반 보안 솔루션을 선보였다고 18일 밝혔다. 이번 행사에서 안랩은 ..",
+      "link": "https://www.mk.co.kr/news/stock/12178765",
+      "publishedAt": "2026-10-18T05:01:18.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[동포의 창] \"재외동포 청년, 제주서 배우고 취업까지\"",
+      "summary": "(서울=연합뉴스) 박현수 기자 = 재외동포 청년들이 제주에서 전문 교육을 받고 지역 기업에 취업해 정착할 수 있도록 재외동포청과 제주한라대학교가...",
+      "link": "https://www.yna.co.kr/view/AKR20261018023600371",
+      "publishedAt": "2026-10-18T03:18:57.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "서울투자진흥재단, 프랑스 AI·딥테크 기업 서울 유치 나서",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울투자진흥재단은 지난 16일 서울 코엑스에서 주한프랑스상공회의소 주최 &apos;프랑스-한국 테크 서밋&apos;에 참가해 서...",
+      "link": "https://www.yna.co.kr/view/AKR20261018024400004",
+      "publishedAt": "2026-10-18T03:11:53.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "화재·폭발 산재사망, 작년 2배로↑…노동부, 안전조치 집중점검",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 올해 상반기 화재·폭발 사고로 인한 산업재해 사망자가 작년의 2배 수준으로 급증하며 겨울철 화재·폭발 사고 위...",
+      "link": "https://www.yna.co.kr/view/AKR20261016136900530",
+      "publishedAt": "2026-10-18T03:00:27.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
+      "summary": "(방콕=연합뉴스) 김수현 기자 = 최지영 국제통화기금(IMF) 이사는 &quot;다른 나라는 재정 여력이 줄어들고 있는데, 한국만 (반도체 호황 덕분에)...",
+      "link": "https://www.yna.co.kr/view/AKR20261016170600002",
+      "publishedAt": "2026-10-18T03:00:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'신세계 3세' 애니도 이렇게 쓴다…요즘 뜨는 향수 사용법",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026101884397",
+      "publishedAt": "2026-10-18T02:28:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'509만원 아이폰' 사전예약 열리자마자…'반전' [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610188349i",
+      "publishedAt": "2026-10-18T02:00:06.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"제철 굴 실컷 먹으려 했는데\"…마트 갔다가 '한숨' [박상경의 영수증 리뷰]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166081g",
+      "publishedAt": "2026-10-18T02:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"돈 아껴드리겠습니다\"…슈퍼카 CEO가 날린 '일침' [최수진의 모빌리티톡]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610166362g",
+      "publishedAt": "2026-10-18T01:30:02.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -3850,118 +4082,6 @@
       "summary": "주주환원 강화 추세에 발맞춰 올해 코스피 상장사의 자사주 매입 결정액이 늘었다. 하지만 삼성전자와 SK하이닉스를 제외하면 오히려 지난해보다 줄어든 것으로 나타났다. 특히 자사주 취..",
       "link": "https://www.mk.co.kr/news/stock/12173038",
       "publishedAt": "2026-10-11T07:52:22.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부고] 이정음(여신금융협회 금융부장)씨 부친상",
-      "summary": "▲ 이영항씨 별세, 최숙희씨 남편상, 이정헌(삼성전자 DS부문 L-T/F)·이주헌(이엠코 전무이사)·이정음(여신금융협회 금융부장)씨 부친상, 최...",
-      "link": "https://www.yna.co.kr/view/AKR20261011036200002",
-      "publishedAt": "2026-10-11T07:25:08.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "구자근 \"해외 리콜제품 수천개 국내 유통…30％는 차단도 안돼\"",
-      "summary": "(서울=연합뉴스) 조다운 기자 = 해외에서 안전 문제 등을 이유로 리콜된 제품 수천개가 국내 온라인 플랫폼에서 유통되고 있다는 지적이 11일 나...",
-      "link": "https://www.yna.co.kr/view/AKR20261011033300001",
-      "publishedAt": "2026-10-11T07:15:19.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "코트라 지원에 50여개사 미국 관세환급 신청…5천200만불 수령",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 대한무역투자진흥공사(코트라)가 미국 정부의 관세 환급을 희망하는 기업들을 위해 컨설팅을 진행해 온 가운데 코트...",
-      "link": "https://www.yna.co.kr/view/AKR20261011035400003",
-      "publishedAt": "2026-10-11T07:12:17.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "summary": "■ 행안장관 &quot;임은정 광주중수청장 감찰 지시…중수청 정치기관 착각&quot;",
-      "link": "https://www.yna.co.kr/view/AKR20261011028900011",
-      "publishedAt": "2026-10-11T06:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
-      "summary": "3분기 中 -12%·日 -5%인데 韓 -18% 美 S&P500·나스닥100은 오히려 상승올해 3분기 세계 주요 증시 가운데 한국 증시의 부진이 두드러졌다. 인공지능(AI) 반도체 ..",
-      "link": "https://www.mk.co.kr/news/stock/12172844",
-      "publishedAt": "2026-10-10T23:59:48.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "양도세 12억 비과세 받으려면…조정지역 2년 내 처분",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610080320i",
-      "publishedAt": "2026-10-10T23:43:02.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "인천시, 개항장 일대 체류형 관광 인프라 확충",
-      "summary": "(인천=연합뉴스) 신민재 기자 = 인천시는 제물포구 개항장 문화지구 일대에 체류형 관광 인프라를 확충할 계획이라고 11일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261011009800065",
-      "publishedAt": "2026-10-10T23:31:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "\"신선식품 구매액 과일·채소 최상위…편의점 구매액 20% 증가\"",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 최근 1년간 소비자들이 구매한 신선식품 가운데 과일류와 채소류의 구매액이 가장 많았던 것으로 나타났다.",
-      "link": "https://www.yna.co.kr/view/AKR20261009013200030",
-      "publishedAt": "2026-10-10T23:30:00.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "북극항로 시범운항 선박, 50일 항해 마치고 부산 도착",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 한국 컨테이너선으로는 최초로 북극항로 시범 운항에 나선 팬스타 아크로호가 항해를 무사히 마치고 11일 부산으로...",
-      "link": "https://www.yna.co.kr/view/AKR20261010045400051",
-      "publishedAt": "2026-10-10T23:18:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "장기채로 큰돈 버는 시대는 끝…상위 1% 부자들 향한 곳",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610078550i",
-      "publishedAt": "2026-10-10T23:00:11.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "뚝 떨어진 원달러 환율…수혜 업종과 현 시점 투자전략은?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610081591i",
-      "publishedAt": "2026-10-10T23:00:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "빵지순례 다음은 떡지순례…\"하루 백명씩 대기표 뽑는다\" [권용훈의 트렌드워치]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610103322i",
-      "publishedAt": "2026-10-10T23:00:01.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
-      "summary": "(서울=연합뉴스) 권혜진 기자 = 중국에서 잡은 생선을 제주에서 건조·가공했다면 이 생선의 원산지는 어디일까.",
-      "link": "https://www.yna.co.kr/view/AKR20261007089900518",
-      "publishedAt": "2026-10-10T23:00:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "美 실적 시즌 돌입…\"외국인 돌아온다\" 칠천피 안착 청신호 [주간전망]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026100815406",
-      "publishedAt": "2026-10-10T22:56:51.000Z"
     }
   ]
 }
