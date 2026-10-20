@@ -1,8 +1,240 @@
 {
-  "updatedAt": "2026-10-20T14:34:56.429Z",
+  "updatedAt": "2026-10-20T23:32:31.712Z",
   "historyDays": 7,
-  "count": 535,
+  "count": 548,
   "items": [
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "한화증권 \"코어위브 사태, 'AI 산업 위기' 해석은 과도\"",
+      "summary": "(서울=연합뉴스) 곽윤아 기자 = 한화투자증권[003530]은 미국 네오클라우드 업체 코어위브의 신용위험 우려를 인공지능(AI) 산업 전반의 구...",
+      "link": "https://www.yna.co.kr/view/AKR20261021024500008",
+      "publishedAt": "2026-10-20T23:27:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "서울 아파트 재산세 첫 3조…집주인이라면 내는 금액이",
+      "summary": "올해 서울 아파트에 부과된 재산세가 처음으로 3조원을 넘어섰다. 납세자 1인당 평균 부과액은 약 165만원으로, 지난해보다 20만원가량 늘었다. 21일 최은석 국민의힘 의원이 서울..",
+      "link": "https://www.mk.co.kr/news/economy/12181341",
+      "publishedAt": "2026-10-20T23:26:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "IBK증권 \"LS에코에너지 3분기 호실적…4분기도 성장지속 전망\"",
+      "summary": "(서울=연합뉴스) 황철환 기자 = IBK투자증권은 LS에코에너지[229640]가 올해 3분기 큰 폭의 실적 성장을 기록한 데 이어 4분기에도 성...",
+      "link": "https://www.yna.co.kr/view/AKR20261021024000008",
+      "publishedAt": "2026-10-20T23:25:04.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "iM증권, 한화생명 목표가↓…\"금리·환율 영향 투자 손실 악화\"",
+      "summary": "(서울=연합뉴스) 김유아 기자 = iM증권은 21일 한화생명[088350]에 대해 금리 상승과 환율 하락 등에 따른 투자손실 악화와 신계약 축소...",
+      "link": "https://www.yna.co.kr/view/AKR20261021023200008",
+      "publishedAt": "2026-10-20T23:20:24.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "삼성바이오에피스 \"1호 신약후보 미국 FDA 패스트트랙 지정\"",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 삼성바이오에피스는 항암제 신약 후보물질 &apos;SBE303&apos;로 미국 식품의약국(FDA)에서 패스트 트랙 지정을 받았...",
+      "link": "https://www.yna.co.kr/view/AKR20261021022700017",
+      "publishedAt": "2026-10-20T23:16:08.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "용산구, QR 활용 주택임대차 '바로 신고' 서비스…\"전국 최초\"",
+      "summary": "(서울=연합뉴스) 정준영 기자 = 서울 용산구(구청장 김경대)는 전국 최초로 건물번호판 QR코드를 활용한 주택임대차 신고 서비스를 선보인다고 2...",
+      "link": "https://www.yna.co.kr/view/AKR20261021023000004",
+      "publishedAt": "2026-10-20T23:14:53.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "AI 부채 불안에 부도보험 거래 급증…빅테크 신용위험 확산",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610214759i",
+      "publishedAt": "2026-10-20T23:13:47.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“휴젤, 미국 직판 전환에 매출 줄고 비용 늘고”…목표가↓",
+      "summary": "키움증권은 21일 휴젤에 대해 미국 직접판매 전환 과정에서 매출이 일시적으로 줄고 마케팅 비용 부담도 커질 것으로 예상된다며 목표주가를 기존 30만원에서 25만원으로 하향 조정했다..",
+      "link": "https://www.mk.co.kr/news/stock/12181337",
+      "publishedAt": "2026-10-20T23:11:06.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[마켓뷰] 메타 실적발표 앞두고 뉴욕증시 혼조 마감…코스피 향방은",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 21일 국내 주식시장은 단기간 급락에 따른 반발매수세와 미국 빅테크 메타의 실적발표를 앞둔 관망심리 속에 방향...",
+      "link": "https://www.yna.co.kr/view/AKR20261021019400008",
+      "publishedAt": "2026-10-20T23:08:15.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "Fed 추가 금리 인상 우려에 금값 하락…4000달러 지지선 주목",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610214657i",
+      "publishedAt": "2026-10-20T23:02:25.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"美 텍사스서 줄 서서 먹는다\"…미국인 입맛 홀린 백종원 식당",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610214684g",
+      "publishedAt": "2026-10-20T22:51:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "반도체 주식 내던진 외인... 재매수 시점은 언제일까",
+      "summary": "불앤베어 플러스외국인들이 한국 반도체 주식 비중을 급격히 줄이고 있습니다. 최근 코스피 급락 사태와 무관치 않습니다. 떠나갔던 외인들은 언제 돌아올까요. 반도체 업황 사이클과 함께..",
+      "link": "https://www.mk.co.kr/news/business/12181294",
+      "publishedAt": "2026-10-20T22:36:49.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"HD현대중공업, 환율·파업에 3분기 실적 '주춤'…목표가↓\"-KB",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102146566",
+      "publishedAt": "2026-10-20T22:34:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "K방산주, 하루만에 10% 급락…\"3개월만에 '최대 낙폭' 왜\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610203925i",
+      "publishedAt": "2026-10-20T22:30:02.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "유가 하락·호실적에 다우·S&P500 반등했지만…나스닥 부진 [뉴욕증시 브리핑]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102146396",
+      "publishedAt": "2026-10-20T22:16:13.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "약밥을 부리또로 말았더니 '반전'…유럽인 홀린 뜻밖의 K간식 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610204301i",
+      "publishedAt": "2026-10-20T22:00:12.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "기술직 늘었지만 신입 채용은 급감…'유명 AI 개발사'에서 벌어진 일 [테크로그]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202862g",
+      "publishedAt": "2026-10-20T22:00:05.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“주식으로 돈 불리자”…자산 1억~10억 ‘대중부유층’의 선택",
+      "summary": "20대 예금 34%↓·주식 자산 139%↑ 10억 이상 자산 증가율, 1억 미만의 6배 현금성 자금·적립식 저축도 병행금융자산 1억원 이상 10억원 미만을 보유한 이른바 ‘대중부유..",
+      "link": "https://www.mk.co.kr/news/economy/12181285",
+      "publishedAt": "2026-10-20T21:56:24.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "일론 머스크 \"스페이스X·테슬라 합병 논의…장점 많아\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610214579i",
+      "publishedAt": "2026-10-20T21:33:36.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"28조 팔아치우고 이것 샀다\"…외인들 조용히 쓸어담은 종목 [분석+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102034566",
+      "publishedAt": "2026-10-20T21:30:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "470만원 황제주가 180만원대로 '와르르'…AI 수혜주의 배신 [종목+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102036456",
+      "publishedAt": "2026-10-20T21:30:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "4년전 급락장선 150조 증발…올 하반기 급락장, 지갑 얼마나 얇아지나",
+      "summary": "2022년엔 증시·집값 동시 하락에 가계 순자산마저 첫 감소 주식투자 뒤늦게 올라선 개인투자자 증시 급락에 자산 손실 불가피과거 국내 증시가 급락할 때마다 가계 금융자산이 크게 줄..",
+      "link": "https://www.mk.co.kr/news/economy/12181262",
+      "publishedAt": "2026-10-20T21:03:22.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "佛 채권금리 年 5% 육박…재정위기 초기 그리스 넘어",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102041591",
+      "publishedAt": "2026-10-20T21:00:12.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“가만히 있는데 장부에 118억 더 찍혔네요”…회계사에 따지면 안됩니다",
+      "summary": "내년부터 국제회계기준 IFRS18 적용 새기준 先도입한 기업들 상당한 변동 에이피알, 상반기 영업익 3.6% 늘어 외환손익도 영업이익에 반영된 영향국내 대표적 뷰티기업인 에이피알의..",
+      "link": "https://www.mk.co.kr/news/stock/12181255",
+      "publishedAt": "2026-10-20T20:59:41.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“조단위씩 버는 은행들, 직원은 안 뽑나요?”…신입 채용 인원 급감 이유는",
+      "summary": "지점 감소·IT 경력직 집중에 올해 채용 1150명 수준 그쳐시중은행권의 하반기 공개채용이 진행 중인 가운데, 신입 행원 채용 인원이 크게 줄어드는 추세인 것으로 나타났다. 3년 ..",
+      "link": "https://www.mk.co.kr/news/economy/12181253",
+      "publishedAt": "2026-10-20T20:58:59.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "갑자기 떠오른 생각에 ‘7만원쯤’ 벌었다…통장에 잠자는 돈, 합하면 14조",
+      "summary": "4년 새 7751만개 늘어 계좌 하나당 잔액 6만원 주식계좌는 그나마 적은 편 내년 금융사 환급실적 공개우대금리를 좇아 새로 만든 통장, 수수료 혜택을 따라 늘린 주식 계좌가 기..",
+      "link": "https://www.mk.co.kr/news/economy/12181252",
+      "publishedAt": "2026-10-20T20:57:58.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "“애가 유튜버 하겠다는데 못말리겠네요”…연수입 10억 207명이라는데",
+      "summary": "고소득 유튜버 전체 수입 76%유튜버 등 1인 미디어 업종에서 고수입 법인으로 수입 쏠림이 심화하고 있다. 연간 수입 10억원 이상인 상위 10% 법인이 전체 수입의 76%를 벌어..",
+      "link": "https://www.mk.co.kr/news/economy/12181251",
+      "publishedAt": "2026-10-20T20:56:06.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "ETF 히트상품 제조기 … “이 돈 없어도 된다 싶으면 레버리지 하세요”",
+      "summary": "김남기 미래에셋자산운용 ETF부문 대표 인터뷰코스피가 고점 대비 40% 넘게 빠지며 투자자들의 속이 타들어 가고 있다. 미국 9월 소비자물가지수(CPI)가 3.7%로 예상치를 웃돌..",
+      "link": "https://www.mk.co.kr/news/stock/12180751",
+      "publishedAt": "2026-10-20T20:00:00.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "바닥은 11월입니다 … 코스피 연말 반등 투자전략은",
+      "summary": "최근 한국 코스피 주식시장은 고점 대비 -37%나 하락(10월 16일 기준) 했다. 특히 10월에만 -19%로 큰 폭의 추가 하락세를 보였다. 반면 미국 S&P 500은 10월 6..",
+      "link": "https://www.mk.co.kr/news/stock/12180834",
+      "publishedAt": "2026-10-20T19:30:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "증권",
@@ -4154,134 +4386,6 @@
       "summary": "2차 국민참여성장펀드가 오는 15일 판매를 마감하는 가운데 최근 코스피 하락세가 두드러지면서 손실을 우려해 가입을 망설인다는 목소리가 일부에서 나온다. 국민참여성장펀드는 지수를 그..",
       "link": "https://www.mk.co.kr/news/economy/12175134",
       "publishedAt": "2026-10-13T23:32:35.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "아시아 기업부채 21.4%가 좀비기업에…IMF 금융위험 경고",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610140260i",
-      "publishedAt": "2026-10-13T23:31:00.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“현대백화점, 백화점 이익 증가폭 둔화 부담”...목표가↓",
-      "summary": "IBK투자증권은 현대백화점에 대해 백화점 사업부문의 이익 증가폭이 둔화될 가능성이 높다며 목표주가를 기존 16만8000원에서 15만원으로 하향 조정한다고 14일 밝혔다. 밸류에이션..",
-      "link": "https://www.mk.co.kr/news/stock/12175131",
-      "publishedAt": "2026-10-13T23:30:23.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"파스타에 치즈 대신 된장?\"…풀무원의 건강한 '가을 실험'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610140254i",
-      "publishedAt": "2026-10-13T23:26:12.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
-      "summary": "불앤베어 플러스얼마 전 오픈AI의 연환산 매출 추정액을 둘러싼 논란이 있었습니다. 그로 인해 반도체 주가가 한차례 출렁거렸는데요. 이번에는 앤트로픽 연환산 매출이 조만간 공개될 예..",
-      "link": "https://www.mk.co.kr/news/business/12175126",
-      "publishedAt": "2026-10-13T23:13:49.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "“OCI홀딩스, 3분기 실적 기대 밑돌 듯”…DB증권, 목표가 30만원으로 하향",
-      "summary": "DB증권은 14일 OCI홀딩스의 올해 3분기 영업이익이 시장 기대치를 밑돌 것으로 전망하며 목표주가를 30만원으로 하향 조정했다. 투자의견은 ‘매수’를 유지했다. DB증권은 올해 ..",
-      "link": "https://www.mk.co.kr/news/stock/12175125",
-      "publishedAt": "2026-10-13T23:08:39.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "삼전닉스 폭락에도 \"지금이 저점\"…'W자 반등' 전망한 이유 [분석+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101400976",
-      "publishedAt": "2026-10-13T22:48:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"OCI홀딩스, 美 수입규제 시행 따른 수요 관망 악영향…목표가↓\"-DB",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101401116",
-      "publishedAt": "2026-10-13T22:46:55.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"한미약품, 3분기 영업익 기대치 64% 밑돌 전망…목표가↓\"-키움",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101400966",
-      "publishedAt": "2026-10-13T22:39:58.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"은행 예금보다 낫네\"…배당 쏠쏠한 13조 수주 건설사",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610139178i",
-      "publishedAt": "2026-10-13T22:30:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "中 반도체 추격·은행 실적 실망에 3대 지수 일제 하락 [뉴욕증시 브리핑]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101400786",
-      "publishedAt": "2026-10-13T22:16:26.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "\"고배당만 철썩 믿다간 낭패\"…전문가들 꼽은 알짜주",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610138999i",
-      "publishedAt": "2026-10-13T22:00:02.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“지갑사정 나만 힘든가요?”…IMF, 한국 경제성장률 3.3%로 확 올렸다",
-      "summary": "7월 2.6%서 0.7%P 높여 반도체 수출 호조로 성장세 “중동전쟁發 리스크도 상쇄” 美성장률 4년만에 넘어설듯 고물가 대응책 마련은 숙제국제통화기금(IMF)이 올해 우리나라 성..",
-      "link": "https://www.mk.co.kr/news/economy/12175070",
-      "publishedAt": "2026-10-13T20:43:17.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "공동명의가 불리할 수도 있다? … 세금폭탄 피하는 1주택자 ‘꿀팁’",
-      "summary": "잘못 알려진 부동산 세금상식 Q&A부동산 세금에서 경계해야 할 것은 복잡한 규정만이 아닙니다. 일부 요건을 생략한 채 널리 알려진 설명도 잘못된 의사결정의 원인이 될 수 있습니다...",
-      "link": "https://www.mk.co.kr/news/economy/12174610",
-      "publishedAt": "2026-10-13T19:30:00.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"끝난줄 알았더니 대반전\"…마이크로소프트,사상최고가 눈앞",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610149923i",
-      "publishedAt": "2026-10-13T15:44:53.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"주식 팔고 국채산다\"…블랙록 6년만의 투자 전망 변경",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610139894i",
-      "publishedAt": "2026-10-13T14:41:11.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "김영훈 \"행정기관 이전 노정교섭…고공농성 한화오션 방문 검토\"(종합2보)",
-      "summary": "(서울=연합뉴스) 한혜원 옥성구 기자 = 김영훈 고용노동부 장관은 13일 노란봉투법(개정 노동조합법) 시행 이후 일각에서 우려했던 &apos;교섭 쓰나미...",
-      "link": "https://www.yna.co.kr/view/AKR20261013100052530",
-      "publishedAt": "2026-10-13T14:40:10.000Z"
     }
   ]
 }
