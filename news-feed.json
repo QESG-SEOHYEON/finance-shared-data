@@ -1,8 +1,208 @@
 {
-  "updatedAt": "2026-10-19T16:42:57.396Z",
+  "updatedAt": "2026-10-20T00:02:40.067Z",
   "historyDays": 7,
-  "count": 521,
+  "count": 546,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+      "summary": "KB증권은 20일 삼성전자가 내년 메모리 생산 예정물량의 약 80%에 대해 장기공급 계약을 체결한 것으로 추정된다며 내년 이익 성장도 확정적이라고 평가했다. 김동원 KB증권 리서치..",
+      "link": "https://www.mk.co.kr/news/stock/12180252",
+      "publishedAt": "2026-10-19T23:59:31.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "두산에너빌, LIG D&A와 유도무기 개발 맞손…\"기술 국산화\"",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 두산에너빌리티는 LIG 디펜스&amp;amp;에어로스페이스(이하 LIG D&amp;amp;A)와 유도무기 엔진 개발을 위한 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261020033700003",
+      "publishedAt": "2026-10-19T23:57:34.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“실적 개선 속도 못 따라가는 주가”…삼성전기 목표가 175만원 유지 [오늘 나온 보고서]",
+      "summary": "IBK證 보고서 3분기 영업이익 6668억원 전년 대비 156% 급증 전망 AI 수요에 MLCC 수익 개선 내년 영업익 전망 4조4천억으로삼성전기가 인공지능(AI) 관련 부품 수요..",
+      "link": "https://www.mk.co.kr/news/stock/12180245",
+      "publishedAt": "2026-10-19T23:52:17.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "[게시판] 민주평통 케냐분회, '평화통일 강연 및 세무 토론회' 개최",
+      "summary": "▲ 민주평화통일자문회의 아프리카협의회 케냐분회(분회장 최정환)는 지난 17일(현지시간) 케냐 나이로비 사파리파크호텔에서 &apos;평화통일 강연 및 토론...",
+      "link": "https://www.yna.co.kr/view/AKR20261020023700371",
+      "publishedAt": "2026-10-19T23:51:39.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "두산에너빌리티, LIG D&A와 유도무기 개발 MOU 체결",
+      "summary": "두산에너빌리티, LIG D&A와 손잡고 유도무기 엔진 국산화 나선다 두산에너빌리티가 LIG 디펜스&에어로스페이스(LIG D&A)와 차세대 유도무기 엔진 개발을 위한 업무협약(MOU..",
+      "link": "https://www.mk.co.kr/news/stock/12180241",
+      "publishedAt": "2026-10-19T23:46:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "다올증권, 에스엠 목표가↑…\"투어 확대·신인 데뷔 기대\"",
+      "summary": "(서울=연합뉴스) 곽윤아 기자 = 다올투자증권[030210]은 20일 에스엠[041510]에 대해 내년도 소속 가수들의 투어 확대, 신인 가수 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261020031400008",
+      "publishedAt": "2026-10-19T23:44:54.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "천안시, 착한가격업소서 '천안사랑카드' 결제 캐시백 5% 추가",
+      "summary": "(천안=연합뉴스) 유의주 기자 = 충남 천안시는 오는 12월 31일까지 착한가격업소에서 천안사랑카드로 결제할 경우 기존 10%에 5%를 더해 최...",
+      "link": "https://www.yna.co.kr/view/AKR20261020030200063",
+      "publishedAt": "2026-10-19T23:43:27.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "키움증권, 녹십자 목표가↓…\"코로나 치료제 매출 전년비 급감\"",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 키움증권은 녹십자[006280]의 올해 3분기 매출이 시장 기대치를 하회할 것이라면서 20일 목표주가를 기존 ...",
+      "link": "https://www.yna.co.kr/view/AKR20261020029100008",
+      "publishedAt": "2026-10-19T23:37:25.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "삼성바이오에피스, 브라질에 희귀질환치료제 10년간 공급",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 삼성바이오에피스가 중남미 최대 의약품 시장인 브라질에 희귀질환 치료제를 10년간 공급한다.",
+      "link": "https://www.yna.co.kr/view/AKR20261020026900017",
+      "publishedAt": "2026-10-19T23:36:44.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "한투증권 “NAVER, 주가 상승분 대부분 반납…낮은 밸류에이션 매력”",
+      "summary": "한국투자증권은 20일 NAVER에 대해 주가 상승분을 대부분 반납했지만 낮은 기업가치 평가(밸류에이션)이 매력으로 부각되는 상황이라며 투자의견 ‘매수’, 목표주가 36만원을 유지했..",
+      "link": "https://www.mk.co.kr/news/stock/12180233",
+      "publishedAt": "2026-10-19T23:32:13.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "투자비에 눌린 CJ대한통운 실적…“내년 택배 단가 인상 기대”",
+      "summary": "하나증권은 20일 CJ대한통운에 대해 단기 실적 전망을 낮춰 목표주가를 기존 12만원에서 10만원으로 내려잡았다. 배송 경쟁력을 바탕으로 한 점유율 확대와 내년 수익성 개선을 예상..",
+      "link": "https://www.mk.co.kr/news/stock/12180227",
+      "publishedAt": "2026-10-19T23:16:28.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"현대로템, 신규 수주 공백에 내년 수익성 둔화 우려…목표가↓\"-키움",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102021496",
+      "publishedAt": "2026-10-19T23:15:46.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "파르나스호텔, 인스케이프 양양 초대 총지배인에 김호경 선임",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202104g",
+      "publishedAt": "2026-10-19T23:12:07.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[밤 사이 해외 뉴스 영상] 상점 3000곳 약탈당했다…프랑스 대규모 폭동에 국채 폭락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202122i",
+      "publishedAt": "2026-10-19T23:11:01.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "목표주가는 내리면서 ‘매수’ 콜 외친 월가... 코어위브 발 AI 투심은 살아날까?",
+      "summary": "불앤베어 플러스골드만삭스가 코어위브 투자 등급을 ‘중립’에서 ‘매수’로 올렸습니다. 그러나 목표주가는 기존 대비 내렸습니다. 이 역설적인 행보에 AI를 바라보는 복잡한 월가의 심정..",
+      "link": "https://www.mk.co.kr/news/stock/12180224",
+      "publishedAt": "2026-10-19T23:07:27.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "[밤 사이 해외뉴스] 사우디 '사막의 다보스' 결국 연기… 후티 공항 습격에 중동 정세 격랑",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202056i",
+      "publishedAt": "2026-10-19T23:03:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"다이소에 옷 사러 간다더니\"…'5000원 니트' 등장에 깜짝 [프라이스&]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202061i",
+      "publishedAt": "2026-10-19T23:00:09.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "TSMC \"3나노 공장 또 짓는다\"…삼성, 'GAA 2나노' 승부수로 맞불",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610191471i",
+      "publishedAt": "2026-10-19T23:00:04.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"계란값 왜이리 비싸나\" 했는데 어느새 '뚝'…10개 2000원 밑으로 [박상경의 영수증 리뷰]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610190612g",
+      "publishedAt": "2026-10-19T23:00:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전자, 내년 영업익 555조원 전망…성장 동력 흔들리지 않아\"-KB",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102020576",
+      "publishedAt": "2026-10-19T22:58:38.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"빅테크 실적→반등 계기\" 단기 기술적 반등이냐, 연말 랠리 시작이냐 [김현석의 월스트리트나우]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202032i",
+      "publishedAt": "2026-10-19T22:56:56.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"삼성전기, AI 부품 공급 빠듯…내년 영업익 4.4조 전망\"-IBK",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102020526",
+      "publishedAt": "2026-10-19T22:55:10.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "\"한국전력, 유가 상승으로 실적 부진 전망…목표가↓\"-대신",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026102020356",
+      "publishedAt": "2026-10-19T22:47:01.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "증권",
+      "title": "필리 지수 9일만에 반등… 일단 잦아드는 AI 신용불안 [오늘 아침, 당신이 알아야 할 7가지]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610202009i",
+      "publishedAt": "2026-10-19T22:37:35.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "경제",
+      "title": "[단독] 노후 임대주택 고칠 돈으로 ‘빚투’...758억원 까먹은 LH",
+      "summary": "임대주택 수선자금 2.5조 위탁운용 금융자산 담보로 1.2조 추가 차입 투자 규모 3.7조로…758억 평가손실 차입 한도·담보 위험 관리기준 부재한국토지주택공사(LH)가 공공임대주..",
+      "link": "https://www.mk.co.kr/news/economy/12179552",
+      "publishedAt": "2026-10-19T22:00:00.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
