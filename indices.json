@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21T14:46:12.113Z",
+  "updatedAt": "2026-10-21T23:49:35.857Z",
   "indices": [
     {
       "symbol": "^KS11",
       "name": "코스피",
       "short": "KOSPI",
       "currency": "KRW",
-      "current": 5735.66,
-      "previous": 5552.74,
-      "dayChange": 182.92,
-      "dayChangePct": 3.29,
-      "monthChangePct": -18.15,
+      "current": 5552.74,
+      "previous": 5768.01,
+      "dayChange": -215.27,
+      "dayChangePct": -3.73,
+      "monthChangePct": -20.76,
       "lastUpdated": "2026-10-21T11:05:40.000Z",
       "candles": [
         {
@@ -84,10 +84,6 @@
         {
           "date": "2026-10-20",
           "close": 5552.74
-        },
-        {
-          "date": "2026-10-21",
-          "close": 5735.66
         }
       ]
     },
@@ -96,17 +92,13 @@
       "name": "나스닥",
       "short": "NASDAQ",
       "currency": "USD",
-      "current": 26582.86,
+      "current": 26702.86,
       "previous": 26424.82,
-      "dayChange": 158.04,
-      "dayChangePct": 0.6,
+      "dayChange": 278.04,
+      "dayChangePct": 1.05,
       "monthChangePct": -1.99,
-      "lastUpdated": "2026-10-21T14:46:07.000Z",
+      "lastUpdated": "2026-10-21T21:15:59.000Z",
       "candles": [
-        {
-          "date": "2026-09-21",
-          "close": 27122.09
-        },
         {
           "date": "2026-09-22",
           "close": 27244.28
@@ -193,7 +185,7 @@
         },
         {
           "date": "2026-10-21",
-          "close": 26582.86
+          "close": 26702.86
         }
       ]
     },
@@ -202,17 +194,13 @@
       "name": "S&P 500",
       "short": "S&P500",
       "currency": "USD",
-      "current": 7728.67,
+      "current": 7757.17,
       "previous": 7712.57,
-      "dayChange": 16.1,
-      "dayChangePct": 0.21,
-      "monthChangePct": -0.46,
-      "lastUpdated": "2026-10-21T14:46:10.000Z",
+      "dayChange": 44.6,
+      "dayChangePct": 0.58,
+      "monthChangePct": -0.1,
+      "lastUpdated": "2026-10-21T20:31:21.000Z",
       "candles": [
-        {
-          "date": "2026-09-21",
-          "close": 7764.7
-        },
         {
           "date": "2026-09-22",
           "close": 7764.64
@@ -299,7 +287,7 @@
         },
         {
           "date": "2026-10-21",
-          "close": 7728.67
+          "close": 7757.17
         }
       ]
     }
