@@ -1,8 +1,72 @@
 {
-  "updatedAt": "2026-10-24T07:46:17.241Z",
+  "updatedAt": "2026-10-24T13:44:52.445Z",
   "historyDays": 7,
-  "count": 546,
+  "count": 543,
   "items": [
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회",
+      "summary": "SK하이닉스 솔리다임 IPO 철회 주주 우려·당국 지적 잇따르자 발표 79일 만에 검토중단 발표 ‘주주가치 훼손’ 우려 줄어들어“오늘부터 상승인거야.” SK하이닉스 손자회사인 솔리..",
+      "link": "https://www.mk.co.kr/news/stock/12184884",
+      "publishedAt": "2026-10-24T12:40:50.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610242653i",
+      "publishedAt": "2026-10-24T11:24:58.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"이건 꼭 봐야 해\" 엄마 아빠도 줄 섰다…핫플 된 의외의 동네 [류은혁의 유통기한]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610231399i",
+      "publishedAt": "2026-10-24T11:00:08.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "\"일본도 중국도 건너뛰었다\"…한국인 입맛 잡으러 온 외식 공룡 [권용훈의 트렌드워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610204406i",
+      "publishedAt": "2026-10-24T11:00:03.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'쫄깃·탱탱' 회가 뭐길래 '불티'…25년 횟집 사장님도 놀랐다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610229019g",
+      "publishedAt": "2026-10-24T10:34:20.000Z"
+    },
+    {
+      "source": "연합뉴스",
+      "category": "경제",
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 삼성물산 건설부문(이하 삼성물산)이 서울 서초구 반포푸르지오 아파트 리모델링 사업 시공사로 선정됐다.",
+      "link": "https://www.yna.co.kr/view/AKR20261024031251003",
+      "publishedAt": "2026-10-24T08:20:43.000Z"
+    },
+    {
+      "source": "매일경제",
+      "category": "증권",
+      "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
+      "summary": "KB증권 “상승 여력에 집중할 시점” 역사적 저점 도달한 만큼 반등 기대 11월 미국 중간선거로 불확실성 완화코스피가 지난 6월 9100선을 찍은 뒤 4개월간 급락하며 5500선까..",
+      "link": "https://www.mk.co.kr/news/stock/12184843",
+      "publishedAt": "2026-10-24T08:06:17.000Z"
+    },
+    {
+      "source": "한국경제",
+      "category": "경제",
+      "title": "'사망설' 김정은, 전격 방중…APEC 앞두고 북·중 밀착 과시 [차이나 워치]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202610242504i",
+      "publishedAt": "2026-10-24T07:22:58.000Z"
+    },
     {
       "source": "한국경제",
       "category": "경제",
@@ -4282,94 +4346,6 @@
       "summary": "",
       "link": "https://www.hankyung.com/article/2026101780247",
       "publishedAt": "2026-10-17T14:03:05.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "\"빈 방을 여행자와 삶 나누는 공간으로\"…두 '해녀'의 도전",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610166604g",
-      "publishedAt": "2026-10-17T12:00:01.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
-      "summary": "AI 답변, 실제 시장 비중과 차이도 자체 콘텐츠와 상품 설명 영향 有생성형 인공지능(AI)에게 금융상품을 물으면 어떤 금융사가 가장 많이 거론될까. AI 브랜드 분석 전문기업 에..",
-      "link": "https://www.mk.co.kr/news/economy/12178581",
-      "publishedAt": "2026-10-17T11:51:08.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "'한국에 쇼핑하러 오길 잘했네'…외국인 관광객들 '감탄' [류은혁의 유통기한]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610167273i",
-      "publishedAt": "2026-10-17T11:00:02.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "증권",
-      "title": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202610126778i",
-      "publishedAt": "2026-10-17T10:44:16.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "한은 총재 \"화폐의 단일성 중요…한은금융망 국제화 추진\"",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 신현송 한국은행 총재가 국경 간 지급결제 시스템을 개선하기 위한 한은금융망의 국제화 구상을 소개하며 화폐의 단...",
-      "link": "https://www.yna.co.kr/view/AKR20261017043100002",
-      "publishedAt": "2026-10-17T10:32:30.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“실손보험료 낮춰 볼까”…할인형 특약과 세대 전환 다음 달 도입 앞둬",
-      "summary": "실손 1~2세대 가입자 보험료 부담 비급여 보장 제외해 보험료 낮출수도 5세대로 전환하면 일정 기간 할인다음 달에 1~2세대 초기 실손보험 가입자의 보험료 부담을 줄일 선택형 할인..",
-      "link": "https://www.mk.co.kr/news/economy/12178564",
-      "publishedAt": "2026-10-17T10:24:14.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[부고] 양재진(IBK투자증권 강남센터 부장)씨 빙모상",
-      "summary": "▲ 김춘옥씨 별세, 이주만씨 배우자상, 이성열·이대열·이진아씨 모친상, 양재진(IBK투자증권 강남센터 부장)씨 빙모상 = 16일, 양양장례문화원...",
-      "link": "https://www.yna.co.kr/view/AKR20261017044000008",
-      "publishedAt": "2026-10-17T09:40:51.000Z"
-    },
-    {
-      "source": "연합뉴스",
-      "category": "경제",
-      "title": "[동포의 창] 美 유타서 한인상의 공동 주최 비즈니스 엑스포 성황",
-      "summary": "(서울=연합뉴스) 박현수 기자 = 미국 유타주에서 한인 기업과 현지 주류사회 경제인들이 한자리에 모여 사업 기회를 모색하고 협력 네트워크를 확대...",
-      "link": "https://www.yna.co.kr/view/AKR20261017042600371",
-      "publishedAt": "2026-10-17T09:40:09.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "증권",
-      "title": "트럼프에 뺨 맞은 하버드…‘여기’ 투자 성공해 자산 90조원 돌파",
-      "summary": "최근 1년간 수익률 27.1% 기록 꾸준한 VC·헤지펀드 높은 수익 덕분 스페이스X 주식만 22억달러 보유 연구자금 삭감·세금 인상은 ‘난관’미국 하버드대학교 기금이 사상 최고 수..",
-      "link": "https://www.mk.co.kr/news/stock/12178557",
-      "publishedAt": "2026-10-17T09:25:43.000Z"
-    },
-    {
-      "source": "한국경제",
-      "category": "경제",
-      "title": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026101779027",
-      "publishedAt": "2026-10-17T09:06:38.000Z"
-    },
-    {
-      "source": "매일경제",
-      "category": "경제",
-      "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-      "summary": "전날 낙폭 일부 만회에도 직전 7거래일간 20.7% 급락 국민·우리·농협 변동형 주담대 금리 최대 0.25%P↑ 4억원 대출, 잔액 일정하면 연 이자 100만원 증가코스피가 지난 ..",
-      "link": "https://www.mk.co.kr/news/economy/12178547",
-      "publishedAt": "2026-10-17T08:19:28.000Z"
     }
   ]
 }
